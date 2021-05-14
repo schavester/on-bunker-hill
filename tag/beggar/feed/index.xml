@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>beggar &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/beggar/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 21:47:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>beggar &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Brother Can You Spare&#8230;?</title>
+		<link>https://www.onbunkerhill.org/brothercanyouspare/</link>
+					<comments>https://www.onbunkerhill.org/brothercanyouspare/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Sat, 24 May 2008 16:00:13 +0000</pubDate>
+				<category><![CDATA[300 Block Olive Street]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[300 Block]]></category>
+		<category><![CDATA[beggar]]></category>
+		<category><![CDATA[knife]]></category>
+		<category><![CDATA[skid row]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 330 South Flower Street Date: September 21, 1937 Arrested on charges of stabbing J.T. Murray, 27-year-old laborer, as he stepped from a cafe at 234 East Fifth Street, was Charles Parsons, 19, of this address, captured with Victor Burk, 20, at Fifth and Spring Streets. Earlier, Murray had argued with two beggars who dunned &#8230; <a href="https://www.onbunkerhill.org/brothercanyouspare/" class="more-link">Continue reading<span class="screen-reader-text"> "Brother Can You Spare&#8230;?"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Location: 330 South Flower Street<br />
+Date: September 21, 1937</p>
+<p>Arrested on charges of stabbing J.T. Murray, 27-year-old laborer, as he stepped from a cafe at 234 East Fifth Street, was Charles Parsons, 19, of this address, captured with Victor Burk, 20, at Fifth and Spring Streets. Earlier, Murray had argued with two beggars who dunned him for a nickel, and a fistfight broke out. One of the beggars pulled a knife and stabbed Murray, who was taken to General Hospital with a belly wound that was expected to prove fatal. When frisked, Parsons&#8217; pockets revealed a bloody knife.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/brothercanyouspare/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

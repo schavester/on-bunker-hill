@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>misadventure &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/misadventure/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 21:48:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>misadventure &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Driving Angels Flight</title>
+		<link>https://www.onbunkerhill.org/drivingangelsflight/</link>
+					<comments>https://www.onbunkerhill.org/drivingangelsflight/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2008 18:15:43 +0000</pubDate>
+				<category><![CDATA[300 Block Hill Street]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[300 Block]]></category>
+		<category><![CDATA[alcohol]]></category>
+		<category><![CDATA[automobile]]></category>
+		<category><![CDATA[misadventure]]></category>
+		<category><![CDATA[theft]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 300 Block Hill Street Date: September 1, 1934 We cannot know how many times mechanic Herbert Stockwell gazed from his window at 316 Clay Street over the steps adjoining the Angels Flight Railway and dreamed, but this was the night he partook of some liquid courage and attempted to drive down the steps. He &#8230; <a href="https://www.onbunkerhill.org/drivingangelsflight/" class="more-link">Continue reading<span class="screen-reader-text"> "Driving Angels Flight"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Location: 300 Block Hill Street <br />
+Date: September 1, 1934</p>
+<p>We cannot know how many times mechanic Herbert Stockwell gazed from his window at 316 Clay Street over the steps adjoining the Angels Flight Railway and dreamed, but this was the night he partook of some liquid courage and attempted to drive down the steps. He crashed about 50 feet shy of Hill Street, knocking his teeth out and bloodying his nose, and was discovered wandering confusedly by Officer Hull. Hull took him to Georgia Street police station, where Stockwell was charged with grand theft auto and drunk driving. The wrecked car belonged to Doris George, wife of a physician in the Black Building at Fourth and Hill.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/drivingangelsflight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

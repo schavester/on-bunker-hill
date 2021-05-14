@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fake &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/fake/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 21:48:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>fake &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>All That Glitters</title>
+		<link>https://www.onbunkerhill.org/allthatglitters/</link>
+					<comments>https://www.onbunkerhill.org/allthatglitters/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2008 16:30:07 +0000</pubDate>
+				<category><![CDATA[Hope Street]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[300 Block]]></category>
+		<category><![CDATA[fake]]></category>
+		<category><![CDATA[ring]]></category>
+		<category><![CDATA[theft]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 360 South Hill Street Date: June 29, 1931 Mrs. W.H. Gadd of this address (presumably a relation of manager S.J.) was driving near 12th Street and Burlington Avenue when a couple of boyish creeps hopped onto her running board, shoved guns in the window and demanded the two fabulous rings on her left hand. &#8230; <a href="https://www.onbunkerhill.org/allthatglitters/" class="more-link">Continue reading<span class="screen-reader-text"> "All That Glitters"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Location: 360 South Hill Street <br />
+Date: June 29, 1931</p>
+<p>Mrs. W.H. Gadd of this address (presumably a relation of manager S.J.) was driving near 12th Street and Burlington Avenue when a couple of boyish creeps hopped onto her running board, shoved guns in the window and demanded the two fabulous rings on her left hand. She obliged, and later told police the crooks had stolen paste, and gosh, isn&#8217;t it amazing how good a $2 ring looks these days?</p>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/allthatglitters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>car &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/car/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 21:44:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>car &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Carelessness, deadly and not</title>
+		<link>https://www.onbunkerhill.org/carelessness/</link>
+					<comments>https://www.onbunkerhill.org/carelessness/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2008 16:57:15 +0000</pubDate>
+				<category><![CDATA[100 Block Flower]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[100 Block]]></category>
+		<category><![CDATA[accident]]></category>
+		<category><![CDATA[car]]></category>
+		<category><![CDATA[construction]]></category>
+		<category><![CDATA[explosion]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 121 North Flower Street On December 10, 1925, road crew worker W.A. Conway of this address demonstrated exactly how tough were the inhabitants of Bunker Hill. He began the day getting blasted in the head by a misplaced explosive charge on the Edward Lynch property on North Louise Street in Glendale, resuming work after &#8230; <a href="https://www.onbunkerhill.org/carelessness/" class="more-link">Continue reading<span class="screen-reader-text"> "Carelessness, deadly and not"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Location: 121 North Flower Street</p>
+<p>On December 10, 1925, road crew worker W.A. Conway of this address demonstrated exactly how tough were the inhabitants of Bunker Hill. He began the day getting blasted in the head by a misplaced explosive charge on the Edward Lynch property on North Louise Street in Glendale, resuming work after receiving six stitches. Not long after his return, steam shovel engineer Tom Adams told powder man L.J. Starkey to set off a charge of black powder in the hole. The explosion destroyed the steam shovel, sent rocks and debris raining down, and was dropped souffles all over Glendale. Conway was unhurt by this second blast, but we hope he took the hint and found a more careful crew to work with.<br />
+Â <br />
+On January 3, 1935, A.E. Kelly of this address had the dubious distinction of being the agent of death for Harold Wilburn, aged 60, who stepped in front of Kelly&#8217;s automobile at Fifth and Wall Streets.Â  The accident was explained as caused by the victim being &quot;confused by traffic,&quot; but the location of the incident (the corner anchored by the notorious Hard Rock Cafe) suggests Mr. Wilburn may have been lit up like a Christmas tree before stepping out into oblivion.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/carelessness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

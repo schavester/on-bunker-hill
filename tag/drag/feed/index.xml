@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>drag &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/drag/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 21:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>drag &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Reading between the lines</title>
+		<link>https://www.onbunkerhill.org/readingbetweenthelines/</link>
+					<comments>https://www.onbunkerhill.org/readingbetweenthelines/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Thu, 08 May 2008 09:21:46 +0000</pubDate>
+				<category><![CDATA[300 Block Clay Street]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[300 Block]]></category>
+		<category><![CDATA[chloroform]]></category>
+		<category><![CDATA[drag]]></category>
+		<category><![CDATA[robbery]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 350 Clay Street Date: November 25, 1919 John Roebling tells police that as far as his confused memory can be relied on, a man and a young woman clad in boy&#8217;s clothing chloroformed him in his room and relieved him of $20 before fleeing in a car. We cannot but suspect the full story &#8230; <a href="https://www.onbunkerhill.org/readingbetweenthelines/" class="more-link">Continue reading<span class="screen-reader-text"> "Reading between the lines"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Location: 350 Clay Street<br />
+Date: November 25, 1919</p>
+<p>John Roebling tells police that as far as his confused memory can be relied on, a man and a young woman clad in boy&#8217;s clothing chloroformed him in his room and relieved him of $20 before fleeing in a car. We cannot but suspect the full story is more interesting, and regret Mr. Roebling&#8217;s discretion.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/readingbetweenthelines/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

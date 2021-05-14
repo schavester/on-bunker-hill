@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>persistance &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/persistance/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 21:44:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>persistance &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Door Busters of Olive Street</title>
+		<link>https://www.onbunkerhill.org/doorbusters/</link>
+					<comments>https://www.onbunkerhill.org/doorbusters/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2008 09:16:50 +0000</pubDate>
+				<category><![CDATA[200 Block Olive Street]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[200 Block]]></category>
+		<category><![CDATA[persistance]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 230 South Olive Street Bounced from Della Davis&#8217; rooming house for excessive drinking, William Thomas Brown (plasterer, 36) vowed to &#34;get&#34; her. On January 16, 1917 around noon, he broke down her apartment door. Inside, Della waited with her trusty revolver, and as William entered, she shot him three times. When Motorcycle Officer Luth &#8230; <a href="https://www.onbunkerhill.org/doorbusters/" class="more-link">Continue reading<span class="screen-reader-text"> "The Door Busters of Olive Street"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Location: 230 South Olive Street</p>
+<p>Bounced from Della Davis&#8217; rooming house for excessive drinking, William Thomas Brown (plasterer, 36) vowed to &quot;get&quot; her. On January 16, 1917 around noon, he broke down her apartment door. Inside, Della waited with her trusty revolver, and as William entered, she shot him three times. When Motorcycle Officer Luth came to enquire, he found Della reloading. William, meanwhile, had run down Olive Street in search of a doctor. Taken to the receiving hospital, non-fatal bullets were removed from his right breast and shoulder, and a grazed chin was cleaned. They brought Della down to the operating room, and William promptly identified his assailant. She didn&#8217;t deny it, stating &quot;I have no regrets for shooting him. I feared him and when he broke into my room I felt I had a perfect right to defend myself. I hope he does not die, but I can&#8217;t see that I did anything wrong.&quot; She was released on her own recognizance after a stop at the Central Police Station, and we hear no more of the matter</p>
+<p>Something about this address bred door busters. Late on November 11, 1919, resident Frank Murch was popped trying to force entry into his lady friend Ida E. Wilson&#8217;s flat at Fifth and Flower. After a day&#8217;s society, she&#8217;d simply had enough of his company. Frank was loud, obnoxious, and less skilled at the craft than William, so instead of a bouquet of bulletsâ€”though Ida did take one crack through the door with her little .22&#8211;he merely received a disturbing the peace arrest.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/doorbusters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

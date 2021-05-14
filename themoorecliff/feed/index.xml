@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Major Undertaking at the Moore Cliff	</title>
+	<atom:link href="https://www.onbunkerhill.org/themoorecliff/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/themoorecliff/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 20:05:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: nathan		</title>
+		<link>https://www.onbunkerhill.org/themoorecliff/#comment-25</link>
+
+		<dc:creator><![CDATA[nathan]]></dc:creator>
+		<pubDate>Sun, 24 Aug 2008 15:42:44 +0000</pubDate>
+		<guid isPermaLink="false">#comment-25</guid>
+
+					<description><![CDATA[&lt;p&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3157/2794003030_182fb852b4_o.gif&quot; alt=&quot;fromtheair&quot; height=&quot;400&quot; width=&quot;496&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+(This one was hidden away at the LAPL because it was listed as the Moorcliff on So. Hill. As such a little trickier than usual to unearth.) 
+&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>
+<img src="http://farm4.static.flickr.com/3157/2794003030_182fb852b4_o.gif" alt="fromtheair" height="400" width="496" />
+</p>
+<p>
+(This one was hidden away at the LAPL because it was listed as the Moorcliff on So. Hill. As such a little trickier than usual to unearth.)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

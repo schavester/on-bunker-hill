@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>canada &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/canada/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 21:47:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>canada &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Tough Kid</title>
+		<link>https://www.onbunkerhill.org/atoughkid/</link>
+					<comments>https://www.onbunkerhill.org/atoughkid/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Sat, 24 May 2008 16:04:13 +0000</pubDate>
+				<category><![CDATA[Hope Street]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[300 Block]]></category>
+		<category><![CDATA[canada]]></category>
+		<category><![CDATA[delinquency]]></category>
+		<category><![CDATA[teen runaways]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 336 South Flower Street Date: January 28, 1932 Raymond Seccord, a 15-year-old Vancouver runaway, flipped out in City Hall&#8217;s juvenile court today after being busted in front of the above address. Refusing to answer any questions, he upended tables, lobbed an inkwell out the window and bit and scratched four detectives as they tried &#8230; <a href="https://www.onbunkerhill.org/atoughkid/" class="more-link">Continue reading<span class="screen-reader-text"> "A Tough Kid"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Location: 336 South Flower Street<br />
+Date: January 28, 1932</p>
+<p>Raymond Seccord, a 15-year-old Vancouver runaway, flipped out in City Hall&#8217;s juvenile court today after being busted in front of the above address. Refusing to answer any questions, he upended tables, lobbed an inkwell out the window and bit and scratched four detectives as they tried to tackle him. Seccord sneered &quot;I&#8217;m plenty tough. I&#8217;ll probably hang for killing a copper.&quot; Suitably impressed, Judge Blake sent him to County Jail instead of Juvenile Hall, and we will hear no more of this plucky fellow.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/atoughkid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

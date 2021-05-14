@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>traffic &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/traffic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Sun, 13 Mar 2016 18:42:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>traffic &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kiddie Cop on the Beat</title>
+		<link>https://www.onbunkerhill.org/kiddie-cop-on-the-beat/</link>
+					<comments>https://www.onbunkerhill.org/kiddie-cop-on-the-beat/#respond</comments>
+		
+		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
+		<pubDate>Sun, 06 Apr 2008 21:02:17 +0000</pubDate>
+				<category><![CDATA[200 Block Figueroa]]></category>
+		<category><![CDATA[Mary McCoy]]></category>
+		<category><![CDATA[200 Block]]></category>
+		<category><![CDATA[plucky youth]]></category>
+		<category><![CDATA[police]]></category>
+		<category><![CDATA[traffic]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[More than anything, 5-year-old Ronnie Bell wanted to be a police officer when he grew up. Six weeks ago, he and his mother moved to 111 S. Figueroa, right next door to the local traffic division, and Ronnie was overjoyed. He started hanging around the station, and got to know the officers, who adopted him &#8230; <a href="https://www.onbunkerhill.org/kiddie-cop-on-the-beat/" class="more-link">Continue reading<span class="screen-reader-text"> "Kiddie Cop on the Beat"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm3.static.flickr.com/2153/2394270537_4d3f81f85c.jpg" alt="kiddie cop" align="left" height="433" width="213" />More than anything, 5-year-old Ronnie Bell wanted to be a police officer when he grew up.</p>
+<p>Six weeks ago, he and his mother moved to 111 S. Figueroa, right next door to the local traffic division, and Ronnie was overjoyed.  He started hanging around the station, and got to know the officers, who adopted him as a mascot of sorts.  He also followed them out on the streets, mimicking their lingo and actions.  Rather than being annoyed, the officers were so impressed with little Ronnie that they gave him a hat and a whistle, and put him to work.  Today, Ronnie directed traffic at 2nd and Figueroa, and Sgt. C.W. Nanney declared that his performance would be a credit to any veteran traffic cop.</p>
+<p>However, Ronnie proved surprisingly easy to lure from his post.  When his mother appeared at the corner with an ice cream bar for her son, the hard-working lad went AWOL.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/kiddie-cop-on-the-beat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Going With The Flow</title>
+		<link>https://www.onbunkerhill.org/goingwiththeflow/</link>
+					<comments>https://www.onbunkerhill.org/goingwiththeflow/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2008 10:48:42 +0000</pubDate>
+				<category><![CDATA[200 Block South Bunker Hill Ave]]></category>
+		<category><![CDATA[Alta Vista]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[200 Block]]></category>
+		<category><![CDATA[automobile]]></category>
+		<category><![CDATA[traffic]]></category>
+		<category><![CDATA[trolley]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: August 24, 1937 Traffic expert Edmund C. Easton of this address spoke today before the Police Commission. Based on his fifteen years of study of automotive congestion in Los Angeles and other large cities, Easton advised the following measures for easing gridlock: street clearance through adequate design, regulation &#8230; <a href="https://www.onbunkerhill.org/goingwiththeflow/" class="more-link">Continue reading<span class="screen-reader-text"> "Going With The Flow"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Location: 255 South Bunker Hill Avenue<br />
+Date: August 24, 1937</p>
+<p>Traffic expert Edmund C. Easton of this address spoke today before the Police Commission. Based on his fifteen years of study of automotive congestion in Los Angeles and other large cities, Easton advised the following measures for easing gridlock: street clearance through adequate design, regulation and police enforcement, trolleys given right-of-way, one-way streets, and controlling both jaywalking and automobiles &quot;shooting&quot; into cross-sections. The Chief is considering his suggestions, and we are certain that by 1940, traffic jams will be but a distant memory to our burg.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/goingwiththeflow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

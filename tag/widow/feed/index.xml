@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>widow &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/widow/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 21:48:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>widow &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gas Widow</title>
+		<link>https://www.onbunkerhill.org/gaswidow/</link>
+					<comments>https://www.onbunkerhill.org/gaswidow/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2008 16:10:41 +0000</pubDate>
+				<category><![CDATA[300 Block Hill Street]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[300 Block]]></category>
+		<category><![CDATA[gas]]></category>
+		<category><![CDATA[suicide]]></category>
+		<category><![CDATA[widow]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 360 South Hill Street Date: July 25, 1932 Mrs. Blanche Hill, a recent widow who had suffered two paralytic strokes, killed herself with gas in her apartment. The smell alerted manager S.J. Gadd, who shimmied over the transom, but was too late to save the lady.]]></description>
+										<content:encoded><![CDATA[<p>Location: 360 South Hill Street <br />
+Date: July 25, 1932</p>
+<p>Mrs. Blanche Hill, a recent widow who had suffered two paralytic strokes, killed herself with gas in her apartment. The smell alerted manager S.J. Gadd, who shimmied over the transom, but was too late to save the lady.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/gaswidow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

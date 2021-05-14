@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>memory &#8211; On Bunker Hill</title>
+	<atom:link href="https://www.onbunkerhill.org/tag/memory/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.onbunkerhill.org/</link>
+	<description>A Lost Neighborhood Found</description>
+	<lastBuildDate>Wed, 24 Feb 2016 21:43:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<title>memory &#8211; On Bunker Hill</title>
+	<link>https://www.onbunkerhill.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Girl Who Knew the Numbers</title>
+		<link>https://www.onbunkerhill.org/shirleywinters/</link>
+					<comments>https://www.onbunkerhill.org/shirleywinters/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2008 20:51:31 +0000</pubDate>
+				<category><![CDATA[200 Block Grand Ave]]></category>
+		<category><![CDATA[Kim]]></category>
+		<category><![CDATA[200 Block]]></category>
+		<category><![CDATA[alcohol]]></category>
+		<category><![CDATA[conspiracy]]></category>
+		<category><![CDATA[memory]]></category>
+		<category><![CDATA[prohibition]]></category>
+		<category><![CDATA[vice]]></category>
+		<category><![CDATA[volstead act]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Location: 220 South Grand Avenue Date: June 18, 1929 It is a thirsty Bunker Hill that laments the arrest of the bright and brainy Shirley Winters, 23-year-old resident of 220 South Grand, on suspicion of conspiracy to violate the Volstead Act. Shirley was popped in a South Hill Street hotel room after Georgia Street vice &#8230; <a href="https://www.onbunkerhill.org/shirleywinters/" class="more-link">Continue reading<span class="screen-reader-text"> "The Girl Who Knew the Numbers"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Location: 220 South Grand Avenue<br />
+Date: June 18, 1929</p>
+<p>It is a thirsty Bunker Hill that laments the arrest of the bright and brainy Shirley Winters, 23-year-old resident of 220 South Grand, on suspicion of conspiracy to violate the Volstead Act. </p>
+<p>Shirley was popped in a South Hill Street hotel room after Georgia Street vice squad Detective Lieutenants Shoemaker and Kearner overheard her take two telephone orders, one for two and another for three quarts of hooch. (In case you&#8217;re wondering, it&#8217;s $3.50 each for two quarts, and just $3 more for lucky number three.) </p>
+<p>Shirley was paid $50 a week, and not just for her lilting telephone voiceâ€”her specialty was keeping the day&#8217;s orders (including delivery addresses!) in her head until she could convey them to the bottling plant on West Seventh Street. She would have gotten away with it, too, but her boss got popped and spilled everything, and the cops have been picking off the little fish for weeks. Today they caught a live one, the gal with the million dollar hippocampus. She pled not guilty, and in November was sentenced along with other small fry in the gang toÂ  eleven months (suspended).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.onbunkerhill.org/shirleywinters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
