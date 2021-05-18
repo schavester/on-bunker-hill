@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -42,7 +42,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[In January 1924, inventor Raymond Ragsdell of 202 South Grand wrote a letter to the Los Angeles Traffic Commission about his idea for a collapsible car that would fold down to the size of a go-cart. &#34;With an automobile of this type it will be possible to park millions of cars where we are now &#8230; <a href="https://www.onbunkerhill.org/solved/" class="more-link">Continue reading<span class="screen-reader-text"> "Bunker Hill Tackles L.A.&#8217;s Traffic Problem"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3203/2799453236_6a9fd0ef5e_o.jpg" alt="auto" align="left" height="325" width="452" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3203/2799453236_6a9fd0ef5e_o.jpg" alt="auto" align="left" height="325" width="452" /></p>
 <p>In January 1924, inventor Raymond Ragsdell of 202 South Grand wrote a letter to the Los Angeles Traffic Commission about his idea for a collapsible car that would fold down to the size of a go-cart.  &quot;With an automobile of this type it will be possible to park millions of cars where we are now able to park but a few hundred.&quot;</p>
 <p>At around the same time, Eugene Egbert Dobbs of 303 South Hope Street wrote a letter of his own, proposing that all automobiles and street cars be barred from the downtown area (he laid out Sunset, Pico, Los Angeles, and Figueroa as the perimeter).  In the letter he stated, &quot;The only objection to this plan would come from those who are too lazy to walk.  Now, our modern race is unhealthy due to lack of exercise. This barring of all transportation in the downtown district would force Los Angeles people to exercise, whether they wanted to or not, and thus, increase the length of life of the average citizen.&quot;</p>
 <p>Sure, Bunker Hill residents may have had a vested interest in the issue, but in fact, the Traffic Commission received hundreds of ideas for congestion relief that month from people all over the city.  Were they an invested citizenry?  Untapped urban planners?  The ancestors of the City Council that would ban fast food franchises in South Los Angeles over 80 years later?</p>

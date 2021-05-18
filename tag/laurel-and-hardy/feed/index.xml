@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -44,7 +44,7 @@
 										<content:encoded><![CDATA[<p>Today On Bunker Hill is proud to present a little something special from the archives of George Mann, an artifact that predates his astonishing <a href="/georgemannshop" target="_blank">color photographs</a> of Bunker Hill by about twenty years.</p>
 <p>George Mann&#8217;s son Brad Smith writes: &#8220;Long tucked away in closets, attics, garages and basements as Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve moved from the west coast to the east coast and 30 years ago back again to live in Berkeley, California are three storage containers with about 50 reels of film, each about 400â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> long. They were taken by my biological father, <a href="/georgemann" target="_blank">George Mann</a>, a vaudeville headliner and half of the somewhat risquÃ© comedic dance team of Barto and Mann. Many of the shots were of his fellow vaudevillians, most long forgotten, but some names are still known today.</p>
 <p>One such act was The Three Stooges. The following never-before-seen, two-minute clip of The Three Stooges, taken in 1938 when they were on the same bill at the Steel Pier in Atlantic City, includes George and my mother. Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s quite a smile for me to master the steps involved to digitize, edit and post this clip. I hope watching it makes you smile too.</p>
-<p><iframe loading="lazy" src="http://www.youtube.com/embed/YbN9nwrAbFs" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/YbN9nwrAbFs" width="640" height="480" frameborder="0"></iframe></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.onbunkerhill.org/laurelandhardyandsally/feed/</wfw:commentRss>

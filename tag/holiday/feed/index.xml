@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -42,7 +42,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" border="0" align="middle" width="381" src="http://farm4.static.flickr.com/3267/3134222934_2c86f210e0.jpg" alt="cactus christmas" height="500" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" border="0" align="middle" width="381" src="https://farm4.static.flickr.com/3267/3134222934_2c86f210e0.jpg" alt="cactus christmas" height="500" /></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.onbunkerhill.org/cactusholiday/feed/</wfw:commentRss>

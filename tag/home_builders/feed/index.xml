@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -49,7 +49,7 @@
 					<description><![CDATA[Location: 310 Clay Street Date: May 3, 1914]]></description>
 										<content:encoded><![CDATA[<p>Location: 310 Clay Street<br />
 Date: May 3, 1914</p>
-<p><a href="http://www.flickr.com/photos/richardschave/2405111659/" title="Shenanigans in Hotel Lorraine Death Room by richardschave, on Flickr"><img loading="lazy" src="http://farm4.static.flickr.com/3001/2405111659_52e16480eb_o.png" alt="Shenanigans in Hotel Lorraine Death Room" height="597" width="635" /></a></p>
+<p><a href="https://www.flickr.com/photos/richardschave/2405111659/" title="Shenanigans in Hotel Lorraine Death Room by richardschave, on Flickr"><img loading="lazy" src="https://farm4.static.flickr.com/3001/2405111659_52e16480eb_o.png" alt="Shenanigans in Hotel Lorraine Death Room" height="597" width="635" /></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.onbunkerhill.org/inthedeathroom/feed/</wfw:commentRss>

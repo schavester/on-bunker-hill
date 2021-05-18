@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -43,22 +43,22 @@
 
 					<description><![CDATA[The 300 block of South Bunker Hill Avenue was supposedly one of the most picturesque in the neighborhood, if not the city. We have already taken a look at the mansions located at 315, 325, 333, and 339 South Bunker Hill Avenue. Now we are going to find out a little about the house with &#8230; <a href="https://www.onbunkerhill.org/lady_mcdonald_residence/" class="more-link">Continue reading<span class="screen-reader-text"> "Lady McDonald Residence &#8211; 321 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3240/3001261713_b4f9f43195.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3240/3001261713_b4f9f43195.jpg?v=0" width="400" />
 </div>
 <p>The 300 block of South Bunker Hill Avenue was supposedly one of the most picturesque in the neighborhood, if not the city. We have already taken a look at the mansions located at <a href="/foss_heindel" title="Foss/Heindel Residence">315</a>, <a href="/castle" title="The Castle">325</a>, <a href="/333_BunkerHill" title="333 South Bunker Hill Avenue">333</a>, and <a href="/salt_box" title="The Salt Box">339</a> South Bunker Hill Avenue. Now we are going to find out a little about the house with the address 321, also known as the Lady McDonald residence.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3188/3001261787_bc0d920945.jpg?v=0" height="400" />
+<img src="https://farm4.static.flickr.com/3188/3001261787_bc0d920945.jpg?v=0" height="400" />
 </div>
 <p>
 Numerous structures on the 300 block of South Bunker Hill Avenue were constructed in 1888, which may or may not be when the McDonald residence was erected. The Sanborn Fire Insurance map from 1888 (shown below) does not identify the home as â€œbeing constructed,â€ yet it is a mere shadow of the elaborate structure pictured on the 1894 Sanborn map (also pictured below). Please note the existence of a luxurious outhouse on the property in 1888, which by 1894 has been replaced or converted (yuck) into a guest house.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3200/3002098738_125543a3ac.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3200/3002098738_125543a3ac.jpg?v=0" width="400" />
 </div>
 <div style="text-align: center">
 <i>1888 Sanborn Fire Insurance Map</i> 
 </div>
 <div style="text-align: center">
-<img src="http://farm3.static.flickr.com/2227/3002098988_7dd5e98fda.jpg?v=0" width="400" />
+<img src="https://farm3.static.flickr.com/2227/3002098988_7dd5e98fda.jpg?v=0" width="400" />
 </div>
 <div style="text-align: center">
 <i>1894 Sanborn Fire Insurance Map <br />
@@ -67,15 +67,15 @@ Numerous structures on the 300 block of South Bunker Hill Avenue were constructe
 <p>
 Even though neighborhood locals referred to the house for decade as the â€œLady McDonald Residence,â€ the earliest known owner of the property was a fellow named George Ordway, whose wife served on the board of the local Y.W.C.A., and frequently entertained guests at the house. In 1892, Ordway sold the house for $10,000 to the woman who would become the mansion&#8217;s namesake.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3289/3002098360_1071df74a1.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3289/3002098360_1071df74a1.jpg?v=0" width="400" />
 </div>
-<p>Lady McDonald was born in Canada in 1816, and in those days was known as Frances Mitchell, daughter of a London District Court judge, and niece of noted Canadian, <a href="http://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5817&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Egerton Ryerson</a>. In 1838, she married the unfortunately named <a href="http://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5140&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Donald McDonald</a>, who was actively involved in Canadian politics and served many years as a senator. McDonald was also a shrewd investor who amassed a fortune, mainly in real estate, and he, Frances, and their fourteen children lived at the center of Toronto society in a twenty-six room mansion. Mr. McDonald died in 1879, and Frances decided to relocate with a couple of children to Los Angeles. It is unclear if being the wife of a deceased Canadian senator whose assets include a Kansas cattle ranch is qualification for a title of nobility, but when the widow McDonald rolled into town, residents always referred to her as â€œLadyâ€ with a capital L.</p>
+<p>Lady McDonald was born in Canada in 1816, and in those days was known as Frances Mitchell, daughter of a London District Court judge, and niece of noted Canadian, <a href="https://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5817&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Egerton Ryerson</a>. In 1838, she married the unfortunately named <a href="https://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5140&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Donald McDonald</a>, who was actively involved in Canadian politics and served many years as a senator. McDonald was also a shrewd investor who amassed a fortune, mainly in real estate, and he, Frances, and their fourteen children lived at the center of Toronto society in a twenty-six room mansion. Mr. McDonald died in 1879, and Frances decided to relocate with a couple of children to Los Angeles. It is unclear if being the wife of a deceased Canadian senator whose assets include a Kansas cattle ranch is qualification for a title of nobility, but when the widow McDonald rolled into town, residents always referred to her as â€œLadyâ€ with a capital L.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3072/3002098250_710e1e742f.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3072/3002098250_710e1e742f.jpg?v=0" width="400" />
 </div>
-<p>Lady McDonald resided at the mansion with various children, grandchildren, and servants for around twenty years and lived to be nearly 100. Following the departure of the McDonalds, the inevitable happened to house at 321, and it was divided up to accommodate multiple residents. Many tenants would come and go for the next five decades, including<a href="http://www.richmondartmuseum.org/permanent_collection/girardin_wild_violets.html"> Frank J. Giradin</a>, a landscape impressionist who not only lived in the mansion, but used it as his art studio and held a showing of his work at 321 South Bunker Hill in 1924.</p>
+<p>Lady McDonald resided at the mansion with various children, grandchildren, and servants for around twenty years and lived to be nearly 100. Following the departure of the McDonalds, the inevitable happened to house at 321, and it was divided up to accommodate multiple residents. Many tenants would come and go for the next five decades, including<a href="https://www.richmondartmuseum.org/permanent_collection/girardin_wild_violets.html"> Frank J. Giradin</a>, a landscape impressionist who not only lived in the mansion, but used it as his art studio and held a showing of his work at 321 South Bunker Hill in 1924.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3222/3001261751_6c6695b14a.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3222/3001261751_6c6695b14a.jpg?v=0" width="400" />
 </div>
 <p>
 Unlike many structures on Bunker Hill, which fell into stark disrepair as the years went by, this residence seems to have been well taken care of and was noted as being in â€œgoodâ€ condition when a WPA census was taken in 1939. By the 1960s, the condition of the property was of little consequence because the neighborhood&#8217;s days were numbered. Before the decade was over, the residences of Bunker Hill were no more, including the former home of Lady Frances McDonald. </p>
@@ -104,36 +104,36 @@ Unlike many structures on Bunker Hill, which fell into stark disrepair as the ye
 
 					<description><![CDATA[Of all the dearly departed Bunker Hill mansions, the Castle and Salt Box are probably the best known. The two houses which resided at 325 &#38; 339 South Bunker Hill Avenue were spared the wrecking ball, declared Historic Cultural Monuments, and posed for numerous photos before being moved to Heritage Square (and were subsequently burned &#8230; <a href="https://www.onbunkerhill.org/333_bunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Residence &#8211; 333 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3066/2959918891_1d316db4a8.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3066/2959918891_1d316db4a8.jpg?v=0" width="400" />
 </div>
 <p>Of all the dearly departed Bunker Hill mansions, the <a href="/castle">Castle</a> and <a href="/salt_box">Salt Box</a> are probably the best known. The two houses which resided at 325 &amp; 339 South Bunker Hill Avenue were spared the wrecking ball, declared Historic Cultural Monuments, and posed for numerous photos before being moved to Heritage Square (and were subsequently burned to the ground by vandals). Rarely mentioned is the house that stood between its two more famous neighbors at 333 South Bunker Hill Avenue.</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3169/2960761280_db4ee4fd8d.jpg?v=0" height="500" width="390" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3169/2960761280_db4ee4fd8d.jpg?v=0" height="500" width="390" />
 </div>
 <p>
 As <a href="/salt_box">discussed previously,</a> the Castle, Salt Box, and 333 S. Bunker Hill were possibly all built in 1888 by Rueben M. Baker who lived in the Castle and either sold or leased the other two structures. The mansion had various occupants until it was purchased by Spencer Roan Thorpe in 1901.Â  </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3034/2960761770_39f96fa023.jpg?v=0" height="500" width="223" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3034/2960761770_39f96fa023.jpg?v=0" height="500" width="223" />
 </div>
 <p>
 Thorpe was a Kentucky native and descendent of Patrick Henry which gained him easy admission into the Sons of the Revolution and Colonial Wars. He served as a Confederate captain during the Civil War and was wounded three times before being captured by the Yanks and imprisoned on Johnson&#8217;s Island. Thorpe survived the War and made his fortune as a lawyer in Louisiana before making his way to Los Angeles in 1883. He purchased plots of land throughout the city, as well as a 150 acre walnut orchard in Ventura County. Thorpe also reportedly started the first settlement in what became the city of Gardena. He also served two terms on the Board of Police Commissioners of Los Angeles. When he moved into 333 South Bunker Hill Avenue, Thorpe was accompanied by his wife, Helena, and their five children. </p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3253/2960761018_5955947af8.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3253/2960761018_5955947af8.jpg?v=0" width="400" />
 </div>
 <p>
 Helena Thorpe hosted many social events at the Bunker Hill home, including a wedding breakfast for her daughter following early morning nuptials at St. Vibiana&#8217;s Cathedral in May 1905. Close friends and family would be reunited a mere four months later for Spencer Thorpe&#8217;s funeral.</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3135/2960762126_a87722ce9e.jpg?v=0" height="292" width="348" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3135/2960762126_a87722ce9e.jpg?v=0" height="292" width="348" />
 </div>
 <p>
 On the morning of September 2, 1905, Thorpe left one of his ranch homes to travel out to Simi Valley and Moorpark. When his horse and carriage returned home alone, search parties were sent out and Thorpe&#8217;s body was found on the side of a road. There were no signs of foul play and it was presumed that he died of heart failure. His body was brought back to the Bunker Hill family residence and a small service was held at St. Vibiana&#8217;s. The surviving members of the Thorpe family lived in the Bunker Hill house for another year before selling it to an H.N. Green for $20,000 (a little under half a million in today&#8217;s dollars).</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3061/2960762494_d7c49f3586.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3061/2960762494_d7c49f3586.jpg?v=0" width="400" />
 </div>
 <p>
 Like many of the homes on the Hill, the house was soon divided, and accommodated three households. By 1920, the mansion had been further divided into twelve residences, most of which were occupied by single boarders in single rooms. 333 South Bunker Hill Avenue saw some action in 1917 when Olive H. Faulk fell out of her second story window. Moments before her plunge, she had been cutting ham when her abusive husband, Irvin, pushed her into a corner and ordered her to pack her trunk and move. Apparently, he did not mean it, for when Olive tried to walk out the door, he locked and blocked it. Olive opted for the window, survived the fall, and filed for divorce. The L.A. Times astutely observed that the incident â€œended their conjugal relations.â€ </p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3139/2959918959_288be4895c.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3139/2959918959_288be4895c.jpg?v=0" width="400" />
 </div>
 <div align="center">
 <i>Stuck in the middle&#8230;333 with the Salt Box to the left and the Castle to the right</i>
@@ -164,7 +164,7 @@ Like many of the homes on the Hill, the house was soon divided, and accommodated
 
 					<description><![CDATA[When the Castle and Salt Box were physically moved from Bunker Hill to Heritage Square in Highland Park, it was probably a sight most residents had never seen. However, this was not the first time a home on the Hill was relocated. Almira Hershey outdid them all in the early 1900s by not only moving &#8230; <a href="https://www.onbunkerhill.org/hershey_castletowers/" class="more-link">Continue reading<span class="screen-reader-text"> "Hershey Residence/Castle Towers &#8211; 350 South Grand/750 West Fourth"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="http://farm3.static.flickr.com/2256/2921092332_d6c26d4936.jpg?v=0" width="500" />
+<img src="https://farm3.static.flickr.com/2256/2921092332_d6c26d4936.jpg?v=0" width="500" />
 </div>
 <p>When <a href="/castle">the Castle</a> and <a href="/salt_box">Salt Box</a> were physically moved from Bunker Hill to Heritage Square in Highland Park, it was probably a sight most residents had never seen. However, this was not the first time a home on the Hill was relocated. Almira Hershey outdid them all in the early 1900s by not only moving her Bunker Hill home, but by also splitting it in half and transforming it into a massive and majestic apartment building.<br />
 <!--break--><br />
@@ -172,21 +172,21 @@ Like many of the homes on the Hill, the house was soon divided, and accommodated
 Almira Hershey, better known as Mira, is a name that was once prominent in Los Angeles, but is now pretty much (and unfortunately) forgotten. She was a relative of Milton S. Hershey, founder of the Pennsylvania chocolate empire, and the daughter of Benjamin Hershey who amassed a fortune in the lumber and banking industries. Mira inherited a substantial sum when her father died and she relocated from Muscatine, Iowa to Los Angeles in the 1890s.</p>
 <p>Hershey purchased real estate on Bunker Hill and commenced construction on a number of residences, including her own home at the NE corner of Fourth and Grand Avenue in 1896. The elegant structure sat across the street from the Rose Residence, and cost $5,000 to build (around $123,000 in today&#8217;s dollars).</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3163/2920248831_8eba013f1e.jpg?v=0" height="102" width="317" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3163/2920248831_8eba013f1e.jpg?v=0" height="102" width="317" />
 </div>
 <p>After living at 350 South Grand for ten years, Hershey decided she needed a change. Instead of merely redecorating, she physically had the house moved to 750 W. Fourth Street and commissioned architectsÂ  C.F. Skilling and Otto H. Neher to split the residence in half and turn it into an apartment building. The renovations on the new building were completed in December of 1907 and the finished product included one and three bedroom suites complete with patented wall beds, artistic wall decorations, and interior wood finishings. Because of the structure&#8217;s resemblance to a European castle, Hershey&#8217;s new apartment building was christened the Castle Towers.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3285/2921093320_713617551b.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3285/2921093320_713617551b.jpg?v=0" width="400" />
 </div>
 <p>
 As for the prime lot on the corner of Fourth and Grand, Hershey had plans to build a hotel on the location of her former residence, and again hired Skilling &amp; Neher. The concrete foundation had been laid by March of 1908, but plans were halted a couple of weeks later when the architects filed a lawsuit against Hershey for nonpayment of fees. The hotel was never completed, and the concrete foundation was turned into a parking lot that would remain until the neighborhood was completely redeveloped in the 1960s.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3224/2920248505_b7486a1650.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3224/2920248505_b7486a1650.jpg?v=0" width="400" />
 </div>
 <p>
 Mira Hershey did go on build her hotel called the Hershey Arms on Wilshire Boulevard. She also fell in love with the famed (and former) Hollywood Hotel, which she purchased and lived in until her death in 1930. She was so enamored with the building at the corner of Hollywood and Highland that she commissioned a replica, the Naples Hotel, be constructed in a Long Beach neighborhood.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3138/2920249567_fa4c2bd636.jpg?v=0" width="400" />Â 
+<img src="https://farm4.static.flickr.com/3138/2920249567_fa4c2bd636.jpg?v=0" width="400" />Â 
 </div>
 <div align="center">
 <i>The Hershey Residence at the corner of Fourth &amp; Grand</i> <i>(1906 Sanborn Map)</i>
@@ -194,7 +194,7 @@ Mira Hershey did go on build her hotel called the Hershey Arms on Wilshire Boule
 <p>
 Mira Hershey was always quick to share her wealth, but kept her philanthropic activities private after the Los Angeles Times attacked her for donating money for a hospital to be built in her hometown of Muscatine, Iowa instead of her current home city. One of Hershey&#8217;s most significant donations came after she died and her will revealed that she left $300,000 to UCLA for the construction of the school&#8217;s first on-campus dormitory. Countless students would call Hershey Hall home for decades.</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3284/2920246755_91fde9e475.jpg?v=0" height="443" width="192" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3284/2920246755_91fde9e475.jpg?v=0" height="443" width="192" />
 </div>
 <div align="center">
 <i>The Castle Towers on West Fourth Street</i> <i>(1950 Sanborn Map)</i>
@@ -226,43 +226,43 @@ As for the former residence-turned-apartment building, the Castle Towers and its
 
 					<description><![CDATA[Bunker Hill Avenue was probably the most picturesque street in the neighborhood of the same name. The avenue was much more narrow than the other streets and was lined with some of the most impressive mansions on the Hill. Compared to most of its neighbors, the house that stood at 339 South Bunker Hill was &#8230; <a href="https://www.onbunkerhill.org/salt_box/" class="more-link">Continue reading<span class="screen-reader-text"> "The Salt Box &#8211; 339 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3242/2877300631_2c4e6ea062.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3242/2877300631_2c4e6ea062.jpg?v=0" width="400" />
 </div>
 <p>Bunker Hill Avenue was probably the most picturesque street in the neighborhood of the same name. The avenue was much more narrow than the other streets and was lined with some of the most impressive mansions on the Hill. Compared to most of its neighbors, the house that stood at 339 South Bunker Hill was farily modest and came to be affectionately known as the Salt Box. Despite being considerably less grand than the other Victorian beauties on the street, the Salt Box was saved from the wrecking ball and moved to a new location to stand as a tangible monument of the rapidly vanishing community. Unfortunately, the charming structure that stood for eighty years on its original location, only lasted a few months at its new home.</p>
 <p><!--break--></p>
-<p><img src="http://farm4.static.flickr.com/3055/2877299907_c9f4e11f69.jpg?v=0" width="300" /> <img src="http://farm4.static.flickr.com/3079/2877300419_0fb84966f8.jpg?v=0" width="300" /></p>
+<p><img src="https://farm4.static.flickr.com/3055/2877299907_c9f4e11f69.jpg?v=0" width="300" /> <img src="https://farm4.static.flickr.com/3079/2877300419_0fb84966f8.jpg?v=0" width="300" /></p>
 <div align="center">
 <i>1888 &amp; 1906 Sanborn Maps showing construction of homes, and finished products</i>
 </div>
 <p>
 The Salt Box was built on Lot 14, Block L of the Mott Tract, which was two doors down from a grand mansion that came to be known as the <a href="/castle">Castle.</a> The 1888 Sanborn Fire Insurance Maps shows the two buildings as being constructed, as well as the residence between them. Since Rueben M. Baker owned the lots, he was probably responsible for the construction of all three houses. Baker resided at the <a href="/castle">Castle</a> until 1894 and possibly rented out the Salt Box until selling it to Ada Frances Weyse and her husband Rudolph in 1892.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3080/2877300571_60072dff4c.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3080/2877300571_60072dff4c.jpg?v=0" width="400" />
 </div>
 <p>
 The Weyses also rented out the Salt Box, which appeared to have been converted into a muti-resident boarding house as early as 1891,with rooms constantly being advertised in the classifieds. Joseph L. Murphey and his wife, Augusta, purchased the home in 1902, but it is unclear if they lived in the house or merely took over landlord duties. </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3254/2878134596_c284865eff.jpg?v=0" height="400" width="327" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3254/2878134596_c284865eff.jpg?v=0" height="400" width="327" />
 </div>
 <p>
 In 1900, the house at 330 S Bunker Hill was home to two households. By 1910, the Salt Box had been divided up into seven separate units which housed families as well as single tenants. In 1920 there were ten units and by 1939 the house had been further divided into thirteen separate residences. Those who called the Salt Box their home came from all walks of life and included painters, nurses, waiters, and of course pensioners who could afford rents that were as little as $9.75 per month.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3105/2878134678_e3b7c6c2ce.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3105/2878134678_e3b7c6c2ce.jpg?v=0" width="400" />
 </div>
 <p>
 Compared to the shenanigans taking place at other boarding houses on Bunker Hill, the Salt Box had a rather serene existence. With the exception of resident Annie Prendergast, who was hit by a car at the corner of 4th and Grand and killed, the residents of the Salt Box lived quiet lives, until the Community Redevelopment Agency (CRA) came knocking.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3196/2877300597_672589f4b3.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3196/2877300597_672589f4b3.jpg?v=0" width="400" />
 </div>
 <p>
 By 1968, all of the once proud Victorians of Bunker Hill Avenue had been demolished, except for the <a href="/castle">Castle</a> and the Salt Box. The two structures that had been constructed at the same time had been spared.Â  Once the CRA began pushing forward with their grand redevelopment plan in the mid-1950s, the writing was on the wall for the mansions in the neighborhood, and in an attempt to save a couple of the structures, the Salt Box was declared Historic Cultural Monument #5 in October in August 1962. Designation was soon bestowed upon the <a href="/castle">Castle</a> which became HCM #27 in May 1964. The rest of the decade was spent trying to figure out a way to spare the two structures from the wrecking ball.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3078/2877300499_a2eb9d8649.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3078/2877300499_a2eb9d8649.jpg?v=0" width="400" />
 </div>
 <p>
 At the end of 1968, the decision was finally reached to move the <a href="/castle">Castle</a> and Salt Box to Highland Park in an area called Heritage Square. The pair of structures were relocated to their new home in March of 1969 and awaited restoration. These grand plans for the faded beauties were never realized because in October of 1969, vandals torched both houses and eighty years of history were wiped out in a matter of minutes.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3091/2880772719_a3ac505c6d.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3091/2880772719_a3ac505c6d.jpg?v=0" width="400" />
 </div>
 <p>
 <i>Photos courtesy of the Los Angeles Public Library Photo Collection.</i></p>
@@ -290,31 +290,31 @@ At the end of 1968, the decision was finally reached to move the <a href="/castl
 
 					<description><![CDATA[By the spring of 1968 only three of the great mansions on Bunker Hill were still standing. The Castle (325 South Bunker Hill Ave) and Salt Box (339 South Bunker Hill Ave) were soon to be moved to their new home, Heritage Square in Highland Park (and subsequently burned down by vandals).Â  The days were &#8230; <a href="https://www.onbunkerhill.org/cra_relocation_offices/" class="more-link">Continue reading<span class="screen-reader-text"> "CRA Relocation Offices &#8211; 232 South Grand Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3062/2842275404_c00e07ef9f.jpg?v=0" height="387" width="500" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3062/2842275404_c00e07ef9f.jpg?v=0" height="387" width="500" />
 </div>
 <p>By the spring of 1968 only three of the great mansions on Bunker Hill were still standing. <a href="/castle">The Castle</a> (325 South Bunker Hill Ave) and Salt Box (339 South Bunker Hill Ave) were soon to be moved to their new home, Heritage Square in Highland Park (and subsequently burned down by vandals).Â  The days were definitely numbered for the Victorian beauty at 232 South Grand Avenue and smaller house behind it whose address was 232 Â½.Â  The only reason the residences on Grand Avenue stood as long as they did is because the Community Redevelopment Agency (CRA) made the front house the location of their Bunker Hill Relocation Project Office. Once the residents had been removed from the neighborhood and the CRA no longer had a use for the mansion, it too was removed.</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3164/2841440063_6534231c13.jpg?v=0" height="400" width="492" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3164/2841440063_6534231c13.jpg?v=0" height="400" width="492" />
 </div>
 <p>
 The mansion at 232 South Grand Avenue and its backyard neighbor at 232 Â½ were built in 1894 by Bernard Sens, a German immigrant who came to Los Angeles and set up shop as a tailor on Broadway. He had initially been residing a couple of doors down at 224 S. Grand, but apparently needed a more suitable dwelling for his wife, four sons, and six daughters. He held onto his former residence and began renting out its rooms, and presumably did the same thing with the house at 232 Â½. Â </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3014/2841440455_cea31b65e4.jpg?v=0" height="378" width="409" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3014/2841440455_cea31b65e4.jpg?v=0" height="378" width="409" />
 </div>
 <p>
 Sens was a well respected tailor about town and had provided the city&#8217;s police force with their uniforms. The business was a family one, with the Sens sons contributing at one point or another. Matriarch Kate and her daughters received mention in the society pages and the Sens were a typical Bunker Hill family of the Victorian era. Bernard passes away in 1903 and his widow and their daughter Emma resided in the mansion until Kate&#8217;s death around 1923.</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3258/2841440133_3c247ffe8b.jpg?v=0" height="400" width="276" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3258/2841440133_3c247ffe8b.jpg?v=0" height="400" width="276" />
 </div>
 <p>
 Like most of the other neighborhood mansions, in the mid-1920s, 232 S. Grand Ave became a boarding house. Unlike many of the Victorians that were divided into numerous single room residences, the division of the former Sens home provided lodging for only four separate households. Around 1928, Dr. James Green, his wife Elizabeth, their three daughters, and two grandchildren moved in and had enough room for the doctor to also set up his practice. </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3187/2842275958_cbfcd553a0.jpg?v=0" height="109" width="500" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3187/2842275958_cbfcd553a0.jpg?v=0" height="109" width="500" />
 </div>
 <p>
 Dr. Green, who had been born in England and spent time in Colorado before moving west, would serve Bunker Hill residents as their physician for nearly thirty years. Dr. Green seemed to have done a fine job taking care of his patients, with the exception of sixty-five year old Theresa Dawson who, while under the doctor&#8217;s care, strangled herself with her own bandages at her home down the street. By 1939, the mansion had once again become a single family home with the Greens as its sole tenants. The doctor was paying a whopping $100 a month (around $1,200 in today&#8217;s dollars) to live in and run his business out of the ten room mansion. Dr. Green lived and worked on Bunker Hill until his death in 1956. His wife, Elizabeth, continued living on Grand until her death a few years later. </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3265/2841440111_055e8419ca.jpg?v=0" height="398" width="500" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3265/2841440111_055e8419ca.jpg?v=0" height="398" width="500" />
 </div>
 <p>
 Since the house was not inhabited by numerous boarders, it proved to be an ideal place for the CRA to set up its relocation headquarters in 1963. It was here that Bunker Hill residents, some of who had lived in the neighborhood for decades, received their walking papers. When the dirty work was completed in 1968, the houses at 232 and 232 Â½ South Grand Avenue went the way of the rest of the grand mansions of Bunker Hill.</p>
@@ -344,34 +344,34 @@ Since the house was not inhabited by numerous boarders, it proved to be an ideal
 					<description><![CDATA[&#160; The house that stood at 221 South Olive may not have been as ornate as some of its Bunker Hill neighbors, but unlike the homes of Margaret Crocker and L.J. Rose, the residence on Olive survived from the earliest days of the neighborhood until the bitter end. Set back from the street, up two &#8230; <a href="https://www.onbunkerhill.org/221_olive/" class="more-link">Continue reading<span class="screen-reader-text"> "Residence &#8211; 221 South Olive Street"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3026/2819581177_2b762baa0b.jpg?v=0" width="500" height="394" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3026/2819581177_2b762baa0b.jpg?v=0" width="500" height="394" />
 </div>
 <p></p>
 <p>The house that stood at 221 South Olive may not have been as ornate as some of its Bunker Hill neighbors, but unlike the homes of <a href="/crocker_mansion">Margaret Crocker</a> and <a href="/rose_mansion">L.J. Rose</a>, the residence on Olive survived from the earliest days of the neighborhood until the bitter end. Set back from the street, up two small sets of stairs, and surrounded by foliage, the fading Victorian beauty was a popular subject of the photographers who documented the Hill in its waning years.</p>
 <div style="text-align: center">
-<img src="http://helios.library.ca.gov/soca/hylen/2001-0750.jpg" width="400" />
+<img src="https://helios.library.ca.gov/soca/hylen/2001-0750.jpg" width="400" />
 </div>
 <p>The mansion was built in 1887 by Herman F. Baer, a real estate developer who was responsible for a number of residences in the area. The original address of the Baer home was 117 South Olive, but soon became 221 South Olive due to further development of the area and an 1889 ordinance renumbering street addresses. When the property was surveyed prior to its demolition, the American Institute of Architects noted that the house bore a striking resemblance to the design style of local architects Samuel and Joseph C. Newson.</p>
 <div style="text-align: center">
-<img src="http://helios.library.ca.gov/soca/hylen/2001-0753.jpg" width="400" />
+<img src="https://helios.library.ca.gov/soca/hylen/2001-0753.jpg" width="400" />
 </div>
 <p>By 1891, Baer was out and the Doran family was in. John J. Doran operated a stationary shop on Main Street which also provided the city with school supplies, fine pictures, candles, vegetable &amp; olive oil, magazines and a well assorted stock of Catholic books. Doran passed away in 1892, but his widow Mary, their son, and three daughters continued to live on Olive and threw parties worthy of the society pages. The Dorans left Olive Street around 1905, selling the property to R.A. Fowler who unloaded it a couple of years later for $26,500 (over half a million in today&#8217;s dollars). By this time, the residence had been converted into a boarding house.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3225/2819581379_1e515f9ab4.jpg?v=0" width="500" height="44" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3225/2819581379_1e515f9ab4.jpg?v=0" width="500" height="44" />
 </div>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3118/2819581637_1e470c69b1.jpg?v=0" width="500" height="29" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3118/2819581637_1e470c69b1.jpg?v=0" width="500" height="29" />
 </div>
 <p>Compare to many boarding houses in the neighborhood, the Baer/Doran house witnessed very little excitement. In 1926, resident Albert V. Herndon bought a train ticket to Kansas to visit his ailing father and was never heard from again. On a less morbid note, boarder Thorsten Anderson left his Olive Street room in 1930 on Labor Day to go to the Plaza for a pro-Communist demonstration. He and seventeen other participants spent the night in the slammer when they were arrested for disturbing the peace. In keeping with the public disturbance theme, resident James C McLean was hauled out ofÂ  his room and arrested in December 1934. At that time, the City was in the midst of a transportation strike and McLean was accused of setting a streetcar at Third and Bixel on fire. Though he denied being responsible for the incident, the burns on his hands made the police think otherwise. </p>
 <div style="text-align: center">
-<img src="http://helios.library.ca.gov/soca/hylen/2001-0751.jpg" width="400" />
+<img src="https://helios.library.ca.gov/soca/hylen/2001-0751.jpg" width="400" />
 </div>
 <p>
 While the neighborhood continued its downward decline, the house on Olive street maintained its peaceful existence. By 1939, the house had been divided up into fourteen different residences. According to the WPA household census, boarders paid from six to twenty dollars a month in rent and had lived in the house for a month up to sixteen years. Unlike many of the Victorian mansions getting on in their years, the Olive house was in decent condition, only requiring minor repairs.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://memory.loc.gov/pnp/habshaer/ca/ca0200/ca0266/photos/012016pr.jpg" width="400" />
+<img src="https://memory.loc.gov/pnp/habshaer/ca/ca0200/ca0266/photos/012016pr.jpg" width="400" />
 </div>
 <p>
 The picturesque mansion house survived without incident into the mid-1960s. In 1964, the Community Redevelopment Agency purchased the property from owner Louis Swiatel in order to demolish it. After fifty seven years, the house at 221 South Olive Street was no more. </p>
@@ -402,22 +402,22 @@ The picturesque mansion house survived without incident into the mid-1960s. In 1
 					<description><![CDATA[&#160; When we last discussed the Fremont Hotel, we took a look at the antics of some of the hotel&#8217;s residents over it&#8217;s five decade existence. This time around, the Fremont employees get to bask in the OnBunkerHill spotlight. First up is Harry Stewart, the Fremont bellboy who was arrested on grand larceny charges in &#8230; <a href="https://www.onbunkerhill.org/fremont-2/" class="more-link">Continue reading<span class="screen-reader-text"> "Fremont Hotel (Part 2) &#8211; 401 South Olive Street"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3200/2794874911_851d83597e.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3200/2794874911_851d83597e.jpg?v=0" width="400" />
 </div>
 <p>When we last discussed the Fremont Hotel, we took a look at the antics of some of the hotel&#8217;s residents over it&#8217;s five decade existence. This time around, the Fremont employees get to bask in the OnBunkerHill spotlight.<br id="f:cy" /></p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3081/2794874275_6a26bac0f1.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3081/2794874275_6a26bac0f1.jpg?v=0" width="400" />
 </div>
 <p><br id="f:cy0" /><br />
 First up is Harry Stewart, the Fremont bellboy who was arrested on grand larceny charges in 1903. Apparently Mr. Stewart supplemented his income by stealing valuables from the rooms of hotel guests. The jig was up when a valuable diamond pin was removed from the room of Owl Drug president D.W. Kirkland (<a href="/node/183">who would live out his days at the hotel</a>). While the jewel was not recovered from the bellboy&#8217;s living quarters, some other items were discovered, including a sock. For some reason, Stewart had also lifted the sock from Kirkland&#8217;s room and left behind its mate. The footwear was enough to implicate him in the crime and he served the next six months in jail. Upon release, the former Fremont bellboy just couldn&#8217;t give up his wicked, wicked ways and was immediately arrested again for stealing five bucks out of a purse.<br id="f:cy2" /></p>
 <p>Next is S.J. Messing, a clerk at the Fremont Hotel who was arrested in 1910 for embezzlement. It seems that Messing had had a business partnership in San Francisco the previous year and his partner, Frank Smith, felt he had been embezzled out of a whole $25. Mr. Smith felt so wronged by his former partner that he repeatedly had Messing arrested, hoping the charge would stick. The first arrest came when Messing was recovering from malaria in a Napa hospital and the second arrest occurred while he was enjoying a show at the Orpheum. The final time came when Messing was in his bed at the Fremont. He was taken out of the hotel all the while proclaiming his innocence and swore he would go back up to San Francisco to clear his good name. No word if they ever came to a settlement over the $25. <br id="lq3o" /></p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3243/2795721132_69b689114d.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3243/2795721132_69b689114d.jpg?v=0" width="400" />
 </div>
 <p><br id="lq3o0" /><br />
 In their defense, it&#8217;s probably hard for bellboys and clerks to behave when the management did not always set a good example. In 1913, proprietor Richard A. Von Falkenberg was accused of drastically raising the rent on a female tenant when she refused his unwelcome advances. Von Falkenberg proclaimed his innocence. Three months later, when the hotel was in, as the Los Angeles Times stated, &quot;a precarious financial position,&quot; Von Falkenberg and his wife mysteriously dissappeared. Turns out, he was just suffering from ill nerves and decided to rest up in Ventura without notifying anyone.  </p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3038/2794874873_7e3f6d50a9.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3038/2794874873_7e3f6d50a9.jpg?v=0" width="400" />
 </div>
 <p><br id="dxj10" /></p>
 <p>It is worth noting that just because someone was the owner of the Fremont, does not mean they were immune from the shadier goings on. In February of 1913, Fremont owner Mary Jauch (<a href="/node/98">former resident of the Rose Mansion</a>) reported $8,300 in jewels stolen from her room. The burgler had also entered the room of E.H. McElroy who caught the bandit red handed and the two scuffled until the theif got away. <br id="n0rf" /><br />
@@ -452,22 +452,22 @@ The antics of the Fremont Hotel abruptly came to an end in the mid-1950s as the 
 					<description><![CDATA[&#160; The Fremont Hotel that stood on the corner of 4th Street and Olive for five decades had 100 rooms. As previous posts on this site have shown us, no place on Bunker Hill with a lot of rooms and a long lifespan existed without a good amount mayhem. The Fremont is no exception. The &#8230; <a href="https://www.onbunkerhill.org/fremont/" class="more-link">Continue reading<span class="screen-reader-text"> "The Fremont Hotel (Part 1) &#8211; 401 South Olive Street"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3200/2794874911_851d83597e.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3200/2794874911_851d83597e.jpg?v=0" width="400" />
 </div>
 <p>The Fremont Hotel that stood on the corner of 4th Street and Olive for five decades had 100 rooms. As previous posts on this site have shown us, no place on Bunker Hill with a lot of rooms and a long lifespan existed without a good amount mayhem. The Fremont is no exception.<br />
 <!--break--><br />
 The Fremont Hotel went up in 1902 and was designed by John C. Austin, who would later make a permanent mark on Los Angeles by co-creating City Hall, the Shrine Auditorium, and the Griffith Observatory. Plans for the ritzy new hotel were announced in November of 1901, and other than a brief skirmish with the neighboring Olive Street School over the erection of a retaining wall, construction went smoothly. The Mission style building opened its  doors to the public in September 1902.</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3054/2776624503_71d479f29f.jpg?v=0" height="120" width="340" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3054/2776624503_71d479f29f.jpg?v=0" height="120" width="340" />
 </div>
 <p>With so many residents floating in and out of the Fremont, it should come as no surprise that a few guests checked in and never checked out. Many residents who called the Fremont their final home were quite prominent. For example, Dr. Edwin West was a retired New York physician who settled in California when he found true love at age 79 and married his thirty-something paramour. It was the new Mrs. West who cared for the doc until he succumbed to illness in his room at the Fremont, and probably inherited his fortune. Then there was Harry Gillig, member of  pioneering California family who was stricken down by a heart attack in 1909. Gillig was a onetime bridegroom of Amy Crocker, <a href="/node/86">who we have heard about before</a>. Finally, D.W. Kirkland, founded of the Owl Drug Company, lost a battle with pneumonia at the Fremont in 1915.<br id="xm2v3" /></p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3093/2777482334_db56f7b3ba.jpg?v=0" height="147" width="297" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3093/2777482334_db56f7b3ba.jpg?v=0" height="147" width="297" />
 </div>
 <p>Final exits at the Fremont were not always so peaceful.  The note in N.H. Cummings&#8217; pocket indicated he was suffering from ill health, which is why the Fremont resident jumped from a rowboat into MacArthur Park lake and drowned. Financial troubles caused oilman William W. Stabler to put a bullet through his heart. His wife discovered him in the office he kept at the hotel. In 1952 when John Swiston&#8217;s horse betting system failed him, he went to Lincoln Park and slit his wrists. He survived, and was able to returned to his room at the Fremont Hotel, and probably the horse track. </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3264/2782691347_57c3228031.jpg?v=0" height="121" width="403" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3264/2782691347_57c3228031.jpg?v=0" height="121" width="403" />
 </div>
 <p>It wasn&#8217;t all about death at the Fremont Hotel. There was also robbery, domestic disputes, arson, and much, much, more. After J.W. Aaron was arrested for public drunkenness in 1903, the police soon discovered that he was also the burglar who broke into Marie Kinney&#8217;s room at the Fremont and stole her opera glasses. The judge did not buy Aaron&#8217;s story that the glasses<br />
 were lent to him, and Aaron was held on $1,500 bail.</p>
@@ -500,24 +500,24 @@ were lent to him, and Aaron was held on $1,500 bail.</p>
 					<description><![CDATA[&#160; The house that stood at 315 South Bunker Hill for 80 or so years came to be known as the Foss/Heindel Residence. The Foss family possibly constructed the home, and they did operate it as a boarding house for decades, so it&#8217;s fitting that the structure bears this name in the unofficial annals of &#8230; <a href="https://www.onbunkerhill.org/foss_heindel/" class="more-link">Continue reading<span class="screen-reader-text"> "Foss/Heindel Residence &#8211; 315 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://helios.library.ca.gov/soca/reagh/1990-0884.jpg" width="500" />
+<img src="https://helios.library.ca.gov/soca/reagh/1990-0884.jpg" width="500" />
 </div>
 <p>The house that stood at 315 South Bunker Hill for 80 or so years came to be known as the Foss/Heindel Residence. The Foss family possibly constructed the home, and they did operate it as a boarding house for decades, so it&#8217;s fitting that the structure bears this name in the unofficial annals of Bunker Hill history. Max Heindel, on the other hand, lived at 315 South Bunker Hill for a relatively short period of time, but his legacy as an occultist/mystic/astrologer proves that one did not have to reside on Bunker Hill for long in order to make a lasting mark on the neighborhood.<!--break--></p>
 <p>In 1939 when the WPA conducted a census of the neighborhood, the owner of the house at 315 S. Bunker Hill Avenue was recorded as having lived there for 54 years. If the census is accurate, then the Foss family were the ones who added the unique structure to the emerging area. William and Anna Foss were German immigrants who had relocated to California from Ohio in the 1880s so an ailing William could take advantage of the State&#8217;s medicinal weather. Their home, constructed around 1885 was modest in comparison to a lot of the other mansions that were going up on the Hill during the boom period.   </p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3199/2757137426_da338ed278.jpg?v=0" width="408" height="500" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3199/2757137426_da338ed278.jpg?v=0" width="408" height="500" />
 </div>
 <p>
 It does not appear that the Foss family enjoyed financial stability. In 1892 Mr. &amp; Mrs. Joseph Rubo utilized the residence for their school of voice and culture, and starting in 1894, two years before William Foss&#8217; death, the family home officially became a boarding house.  It would serve in this capacity for the next 70 years. In 1910, Anna Foss was 83 years old, still renting out rooms in her home, and her daughters Augusta and Anna, both in their 40s, were still living with her. However, Augusta&#8217;s days on Bunker Hill were numbered because she was about to be swept off her feet by one of their tenants who called himself Max Heindel.</p>
 <div style="text-align: center">
-<img src="http://upload.wikimedia.org/wikipedia/en/0/0a/Max_Heindel.jpg" />
+<img src="https://upload.wikimedia.org/wikipedia/en/0/0a/Max_Heindel.jpg" />
 </div>
 <p>
 â€œMax Heindelâ€ was actually the pen name of Carl Louis Von Grasshoff, a native of  Denmark, born in 1865, with  royal German blood running through his veins. Von Grasshoff was a child when his father died, and he was raised in genteel poverty, meaning the family was broke but kept up appearances as Danish nobility. Von Grasshoff rejected the â€œnoble lifeâ€ when he was 16 and trained to become a steam ship engineer, eventually becoming a Chief Engineer for the famed Cunard line. By 1905, ill health and personal sorrows, including a difficult marriage, had cause Von Grasshoff, now going by the name Max Heindel, to go on a spiritual journey. He became interested in metaphysics, joined the Theosophical Society, shared his insights as a lecturer, and made his way to Los Angeles. </p>
-<p>It is unclear exactly when Max Heindel first met Augusta Foss, but in 1910 he was a lodger at the Bunker Hill residence, which was the same year he married Augusta. She shared a lot of Heindel&#8217;s interests and turned him on to astrology. Another dominating passion in Heindel&#8217;s life was ignited during a visit to Germany where he studied under the Brothers of the Ancient Order of the Rosicrucians. Max and Augusta left Bunker Hill and relocated to Oceanside to start their <a href="http://www.rosicrucian.com/" target="_blank">Rosicrucian Fellowship</a> which promoted Christian mysticism. The couple built a temple on Mount Ecclesia, which is now listed on the National Register of Historic places, and Heidel wrote numerous books about Rosicrucian beliefs. Max lived until 1919 and Augusta carried on his work until her own death 30 years later. </p>
+<p>It is unclear exactly when Max Heindel first met Augusta Foss, but in 1910 he was a lodger at the Bunker Hill residence, which was the same year he married Augusta. She shared a lot of Heindel&#8217;s interests and turned him on to astrology. Another dominating passion in Heindel&#8217;s life was ignited during a visit to Germany where he studied under the Brothers of the Ancient Order of the Rosicrucians. Max and Augusta left Bunker Hill and relocated to Oceanside to start their <a href="https://www.rosicrucian.com/" target="_blank">Rosicrucian Fellowship</a> which promoted Christian mysticism. The couple built a temple on Mount Ecclesia, which is now listed on the National Register of Historic places, and Heidel wrote numerous books about Rosicrucian beliefs. Max lived until 1919 and Augusta carried on his work until her own death 30 years later. </p>
 <div style="text-align: center">
-<img src="http://helios.library.ca.gov/soca/hylen/2001-0764.jpg" width="500" />
+<img src="https://helios.library.ca.gov/soca/hylen/2001-0764.jpg" width="500" />
 </div>
 <p>
 Back on Bunker Hill, Augusta&#8217;s sister, Anna, took over as owner of the family boarding house when the elder Anna Foss passed on. She played landlady to the seven unit building at least through the 1940s, and the house at 315 South Bunker Hill continued to house tenants until the 1960s. It was one of the homes that was captured through the camera lens of Arnold Hylen and the paint brush of Leo Politi among others who paid artistic homage to Bunker Hill in its final years. The Foss/Heindel house was demolished by 1967, along with most of the neighborhood.</p>
@@ -546,19 +546,19 @@ Back on Bunker Hill, Augusta&#8217;s sister, Anna, took over as owner of the fam
 					<description><![CDATA[&#160; As Bunker Hill developed from a fashionable Victorian neighborhood to an area of somewhat slummy dwellings, the grand mansions of the earlier era adapted with the times. In most cases, the large homes were converted into multi resident housing, sometimes a mere decade or two after construction. However, there are rare cases of Bunker &#8230; <a href="https://www.onbunkerhill.org/larronde/" class="more-link">Continue reading<span class="screen-reader-text"> "The Larronde Residence &#8211; 237 N. Hope Street"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://helios.library.ca.gov/soca/hylen/2001-0613.jpg" width="400" />
+<img src="https://helios.library.ca.gov/soca/hylen/2001-0613.jpg" width="400" />
 </div>
 <p>As Bunker Hill developed from a fashionable Victorian neighborhood to an area of somewhat slummy dwellings, the grand mansions of the earlier era adapted with the times. In most cases, the large homes were converted into multi resident housing, sometimes a mere decade or two after construction. However, there are rare cases of Bunker Hill homes being inhabited by one family from the beginning to the bitter end, as was the case with the Larronde home at 237 North Hope Street. <br />
 <!--break--><br />
 At one time, the name Larronde was a fairly well known one in the City of Angels. Pierre Larronde was a native Frenchman who landed in San Francisco in 1847 and made a killing in the gold mines. When he relocated to Los Angeles in 1851, he amassed a further fortune by successfully raising sheep on one of the Ranchos. Always the astute businessman, Larronde cashed out his sheep empire in the late 1880s and focused his energies on real estate. His holdings included prime land at the corner of First and Spring, and a parcel on North Hope Street near Temple where he built the family home.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3270/2734672226_3ee8f6f17d.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3270/2734672226_3ee8f6f17d.jpg?v=0" width="400" />
 </div>
 <p>Pierre Larronde had a great deal in common with a fellow Los Angeles pioneer named Jean Etchemendy. Both men hailed from a south western region in France called the Basses-Pyrenees, both briefly lived in South America before cashing in early on the Gold Rush, and both successfully settled in Los Angles as sheep ranchers. Last but not least, both men married a gal named Juana Egurrola. Juana was born in Marquina, Spain but moved to California with her family at a very young age. She married Etchemendy in 1865 and gave birth to daughters Mariana, Madeleine and Carolina. Jean Etchemendy died in 1872 and Juana mourned for a couple of years before hooking up with the other French sheep-man in town. Juanaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1874 union with Pierre Larronde produced three children, Pedro Domingo, John and Antoinette.</p>
 <p>&nbsp;</p>
 <div align="center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3130/2733841077_d0f12ec6bb.jpg?v=0" height="500" width="201" />          <img src="http://farm4.static.flickr.com/3203/2733841105_ab08dbe32b.jpg?v=0" width="180" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3130/2733841077_d0f12ec6bb.jpg?v=0" height="500" width="201" />          <img src="https://farm4.static.flickr.com/3203/2733841105_ab08dbe32b.jpg?v=0" width="180" />
 </div>
 <div align="center">
 Larronde House on 1888 &amp; 1950 Sanborn Map
@@ -567,7 +567,7 @@ Larronde House on 1888 &amp; 1950 Sanborn Map
 The Sanborn Fire Insurance maps show the house on Hope Street as being under construction in 1888. The Larronde Bunch moved in shortly thereafter and held gatherings on a regular basis that made the society pages. Unlike many residences of Bunker Hill, the Larronde home suffered no scandals or controversies. Pierre the pioneer died in 1896, around the age of 70, and Juana resided on Hope Street until her death in 1920 at the ripe old age of 84.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3145/2733840571_f346cc3507.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3145/2733840571_f346cc3507.jpg?v=0" width="400" />
 </div>
 <p>Of the six Larronde/Etchemendy children, only two ventured off of Hope Street. Pedro Domingo would become a principal in the Franco American Baking Company and Antoinette married James J. Watson and had three children. John served as the head of the Fire Commission for a number of years and lived at 237 N. Hope Street until his death in 1954. The three Etchemendy girls also lived in the mansion for decades. Madeleine died shortly after her stepbrother in 1954, and Caroline and Mariana would live on for another decade. </p>
 <p>For nearly eighty years, one family resided in the house at 237 North Hope Street. By the <br />

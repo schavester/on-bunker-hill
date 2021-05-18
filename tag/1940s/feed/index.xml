@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -50,7 +50,7 @@
 					<description><![CDATA[An amazing discovery from the good folks at the Internet Archive. Visit the Off Bunker Hill list, where LA historians and former Bunker Hill residents have been identifying structures and dating vehicles. One person even thinks they&#8217;ve spotted their father leaning on a lampost!]]></description>
 										<content:encoded><![CDATA[<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/A-I2kLNwBak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <p><!--break--><br />
-An amazing discovery from the good folks at the Internet Archive. Visit the Off Bunker Hill list, where LA historians and former Bunker Hill residents <a href="http://groups.google.com/group/offbunkerhill/t/e160c521492bf8af">have been</a> identifying structures and dating vehicles. One person even thinks they&#8217;ve <a href="http://groups.google.com/group/offbunkerhill/t/2a43bf11084fbde1">spotted</a> their father leaning on a lampost!</p>
+An amazing discovery from the good folks at the Internet Archive. Visit the Off Bunker Hill list, where LA historians and former Bunker Hill residents <a href="https://groups.google.com/group/offbunkerhill/t/e160c521492bf8af">have been</a> identifying structures and dating vehicles. One person even thinks they&#8217;ve <a href="https://groups.google.com/group/offbunkerhill/t/2a43bf11084fbde1">spotted</a> their father leaning on a lampost!</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.onbunkerhill.org/adrivethroughbunkerhill/feed/</wfw:commentRss>

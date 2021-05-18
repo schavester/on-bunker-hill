@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -43,7 +43,7 @@
 
 					<description><![CDATA[Â  Bunker Hill Avenue and Fourth Street February 26, 1889Â  &#160; When thirteen year old Lizzie Fryer failed to return to her home on Bunker Hill Avenue for supper, her parents began to fret. As the evening wore on, they became so concerned that they decided to search for her.Â  &#160; At first they thought &#8230; <a href="https://www.onbunkerhill.org/scandalonbunkerhillave/" class="more-link">Continue reading<span class="screen-reader-text"> "Scandal on Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<st1:street w:st="on"><st1:address w:st="on">Â <img loading="lazy" border="0" width="265" src="http://farm3.static.flickr.com/2283/2431643728_0880b7c1ae_o.jpg" alt="scandal headline" height="184" /></st1:address></st1:street>
+<st1:street w:st="on"><st1:address w:st="on">Â <img loading="lazy" border="0" width="265" src="https://farm3.static.flickr.com/2283/2431643728_0880b7c1ae_o.jpg" alt="scandal headline" height="184" /></st1:address></st1:street>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <st1:street w:st="on"><st1:address w:st="on">Bunker Hill Avenue</st1:address></st1:street> and <st1:street w:st="on"><st1:address w:st="on">Fourth Street</st1:address></st1:street>
