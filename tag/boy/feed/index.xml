@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/boy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:47:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>A Wayward Lad</title>
 		<link>/awaywardlad/</link>
-					<comments>/awaywardlad/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 17 Apr 2008 21:39:24 +0000</pubDate>
@@ -50,8 +49,6 @@ Date: April 6, 1898</p>
 <p>When the first reports came in about the 14-year-old boy lying drunk and insensible on the streets of Bunker Hill, he was over on Clay Street. But by the time Officer Broadhead went out to have a look, some boys had dragged him to a vacant lot near 4th and Olive, and it was from here that he was taken to receiving hospital. Once conscious, he proved stubbornly unwilling or unable to identify himself, answering &quot;I don&#8217;t know&quot; to all questions. He did, however, admit to attending the Olive Street School, and it is hoped someone will come forward soon to take this lost lad home.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/awaywardlad/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

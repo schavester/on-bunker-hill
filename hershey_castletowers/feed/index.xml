@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -14,7 +14,7 @@
 	<atom:link href="/hershey_castletowers/feed/" rel="self" type="application/rss+xml" />
 	<link>/hershey_castletowers/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:46:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -32,12 +32,12 @@
 					<description><![CDATA[In reply to &lt;a href=&quot;/hershey_castletowers/#comment-33&quot;&gt;Decoy&lt;/a&gt;.
 
 the unfortunate truth of the mater is, a short while after they were moved a transiant started a fire in the fire place of one of the homes burning both to the ground. 
-&lt;a href=&quot;http://www.flickr.com/photos/31599573@N03/2958273313/&quot; title=&quot;00059373 by karwelis, on Flickr&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3291/2958273313_c6a6a26ed2_o.jpg&quot; alt=&quot;00059373&quot; height=&quot;574&quot; width=&quot;720&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.flickr.com/photos/31599573@N03/2958273313/&quot; title=&quot;00059373 by karwelis, on Flickr&quot;&gt;&lt;img src=&quot;https://farm4.static.flickr.com/3291/2958273313_c6a6a26ed2_o.jpg&quot; alt=&quot;00059373&quot; height=&quot;574&quot; width=&quot;720&quot; /&gt;&lt;/a&gt;
 bunker hill is worth the effort
 ]]></description>
 			<content:encoded><![CDATA[<p>In reply to <a href="/hershey_castletowers/#comment-33">Decoy</a>.</p>
 <p>the unfortunate truth of the mater is, a short while after they were moved a transiant started a fire in the fire place of one of the homes burning both to the ground.<br />
-<a href="http://www.flickr.com/photos/31599573@N03/2958273313/" title="00059373 by karwelis, on Flickr"><img src="http://farm4.static.flickr.com/3291/2958273313_c6a6a26ed2_o.jpg" alt="00059373" height="574" width="720" /></a><br />
+<a href="https://www.flickr.com/photos/31599573@N03/2958273313/" title="00059373 by karwelis, on Flickr"><img src="https://farm4.static.flickr.com/3291/2958273313_c6a6a26ed2_o.jpg" alt="00059373" height="574" width="720" /></a><br />
 bunker hill is worth the effort</p>
 ]]></content:encoded>
 		
@@ -53,9 +53,9 @@ bunker hill is worth the effort</p>
 
 					<description><![CDATA[While at UCLA I stayed at Mira Hershey Hall for a year.  I didn&#039;t realize who Mira Hershey was until now.  Thanks..
 
-http://inlaonla.blogspot.com]]>/</description>
+https://inlaonla.blogspot.com]]>/</description>
 			<content:encoded><![CDATA[<p>While at UCLA I stayed at Mira Hershey Hall for a year.  I didn&#8217;t realize who Mira Hershey was until now.  Thanks..</p>
-<p><a href="http://inlaonla.blogspot.com/" rel="nofollow ugc">http://inlaonla.blogspot.com/</a></p>
+<p><a href="https://inlaonla.blogspot.com/" rel="nofollow ugc">https://inlaonla.blogspot.com/</a></p>
 ]]></content:encoded>
 		
 			</item>

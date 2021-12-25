@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/laurel-and-hardy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:40:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:31:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -43,11 +43,11 @@
 		<category><![CDATA[laurel and hardy]]></category>
 		<guid isPermaLink="false">/?p=1375</guid>
 
-					<description><![CDATA[Today On Bunker Hill is proud to present a little something special from the archives of George Mann, an artifact that predates his astonishing color photographs of Bunker Hill by about twenty years. George Mann&#8217;s son Brad Smith writes: &#8220;Long tucked away in closets, attics, garages and basements as I”™ve moved from the west coast &#8230; <a href="/laurelandhardyandsally/" class="more-link">Continue reading<span class="screen-reader-text"> "From the George Mann Archives: Laurel &#038; Hardy on location, and kinky fun with a pre-fan Sally Rand"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Today On Bunker Hill is proud to present a little something special from the archives of George Mann, an artifact that predates his astonishing <a href="/georgemannshop" target="_blank">color photographs</a> of Bunker Hill by about twenty years.</p>
-<p>George Mann&#8217;s son Brad Smith writes: &#8220;Long tucked away in closets, attics, garages and basements as I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve moved from the west coast to the east coast and 30 years ago back again to live in Berkeley, California are three storage containers with about 50 reels of film, each about 400”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> long. They were taken by my biological father, <a href="/georgemann" target="_blank">George Mann</a>, a vaudeville headliner and half of the somewhat risquÃ© comedic dance team of Barto and Mann. Many of the shots were of his fellow vaudevillians, most long forgotten, but some names are still known today.</p>
+					<description><![CDATA[Today On Bunker Hill is proud to present a little something special from the archives of George Mann, an artifact that predates his astonishing color photographs of Bunker Hill by about twenty years. George Mann&#8217;s son Brad Smith writes: &#8220;Long tucked away in closets, attics, garages and basements as I”&#x2122;ve moved from the west coast &#8230; <a href="/laurelandhardyandsally/" class="more-link">Continue reading<span class="screen-reader-text"> "From the George Mann Archives: Laurel &#038; Hardy on location, and kinky fun with a pre-fan Sally Rand"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Today On Bunker Hill is proud to present a little something special from the archives of George Mann, an artifact that predates his astonishing <a href="/georgemannshop" target="_blank" rel="noopener">color photographs</a> of Bunker Hill by about twenty years.</p>
+<p>George Mann&#8217;s son Brad Smith writes: &#8220;Long tucked away in closets, attics, garages and basements as I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve moved from the west coast to the east coast and 30 years ago back again to live in Berkeley, California are three storage containers with about 50 reels of film, each about 400”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> long. They were taken by my biological father, <a href="/georgemann" target="_blank" rel="noopener">George Mann</a>, a vaudeville headliner and half of the somewhat risquÃ© comedic dance team of Barto and Mann. Many of the shots were of his fellow vaudevillians, most long forgotten, but some names are still known today.</p>
 <p>One such act was The Three Stooges. The following never-before-seen, two-minute clip of The Three Stooges, taken in 1938 when they were on the same bill at the Steel Pier in Atlantic City, includes George and my mother. It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s quite a smile for me to master the steps involved to digitize, edit and post this clip. I hope watching it makes you smile too.</p>
-<p><iframe loading="lazy" src="http://www.youtube.com/embed/YbN9nwrAbFs" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/YbN9nwrAbFs" width="640" height="480" frameborder="0"></iframe></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/laurelandhardyandsally/feed/</wfw:commentRss>

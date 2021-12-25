@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -14,7 +14,7 @@
 	<atom:link href="/thezelda/feed/" rel="self" type="application/rss+xml" />
 	<link>/thezelda/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Fri, 12 Jun 2020 16:46:03 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:33:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -61,14 +61,14 @@ Gordon Pattison, aka Castle Dweller]]></description>
 		<guid isPermaLink="false">#comment-60</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;http://farm4.static.flickr.com/3093/3135450939_aa255c5c63_o.gif&quot; alt=&quot;zelda1912&quot; height=&quot;527&quot; width=&quot;500&quot; /&gt;
+&lt;img src=&quot;https://farm4.static.flickr.com/3093/3135450939_aa255c5c63_o.gif&quot; alt=&quot;zelda1912&quot; height=&quot;527&quot; width=&quot;500&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;i&gt;From the USC Digital Archives &lt;/i&gt;
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="http://farm4.static.flickr.com/3093/3135450939_aa255c5c63_o.gif" alt="zelda1912" height="527" width="500" />
+<img src="https://farm4.static.flickr.com/3093/3135450939_aa255c5c63_o.gif" alt="zelda1912" height="527" width="500" />
 </p>
 <p>
 <i>From the USC Digital Archives </i></p>
@@ -88,7 +88,7 @@ Gordon Pattison, aka Castle Dweller]]></description>
 See the Mission-style white building, upper left?  That&#039;s the Granada.  Zelda was her neighbor.  Behind that date palm there.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm4.static.flickr.com/3020/2793077403_17e445d71c_o.gif&quot; alt=&quot;4thcut&quot; height=&quot;400&quot; width=&quot;527&quot; /&gt; 
+&lt;img src=&quot;https://farm4.static.flickr.com/3020/2793077403_17e445d71c_o.gif&quot; alt=&quot;4thcut&quot; height=&quot;400&quot; width=&quot;527&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 Notice the lonely steps at the bottom of this image.  Those of course led one once through the doors of the &lt;a href=&quot;/node/183&quot; title=&quot;FremontPost&quot; target=&quot;_blank&quot;&gt;Fremont&lt;/a&gt;. 
@@ -98,7 +98,7 @@ Notice the lonely steps at the bottom of this image.  Those of course led one on
 See the Mission-style white building, upper left?  That&#8217;s the Granada.  Zelda was her neighbor.  Behind that date palm there.
 </p>
 <p>
-<img src="http://farm4.static.flickr.com/3020/2793077403_17e445d71c_o.gif" alt="4thcut" height="400" width="527" />
+<img src="https://farm4.static.flickr.com/3020/2793077403_17e445d71c_o.gif" alt="4thcut" height="400" width="527" />
 </p>
 <p>
 Notice the lonely steps at the bottom of this image.  Those of course led one once through the doors of the <a href="/node/183" title="FremontPost" target="_blank">Fremont</a>.</p>

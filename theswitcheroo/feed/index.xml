@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -14,7 +14,7 @@
 	<atom:link href="/theswitcheroo/feed/" rel="self" type="application/rss+xml" />
 	<link>/theswitcheroo/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 19:57:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -36,19 +36,19 @@ You may remember this image from our post on the &lt;a href=&quot;/TheMarcella&q
 There&#039;s an aerial of the Stanley, too, in the comments section.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm4.static.flickr.com/3362/3258676976_34319ce71f_o.gif&quot; alt=&quot;stanleystands&quot; height=&quot;470&quot; width=&quot;538&quot; /&gt;
+&lt;img src=&quot;https://farm4.static.flickr.com/3362/3258676976_34319ce71f_o.gif&quot; alt=&quot;stanleystands&quot; height=&quot;470&quot; width=&quot;538&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Of course, this view...
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm4.static.flickr.com/3464/3257864051_bbb2dc83b2_o.gif&quot; alt=&quot;Flower65&quot; height=&quot;453&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;https://farm4.static.flickr.com/3464/3257864051_bbb2dc83b2_o.gif&quot; alt=&quot;Flower65&quot; height=&quot;453&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 ...looks, today, like this.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm4.static.flickr.com/3533/3257863929_74ed9c3918_o.gif&quot; alt=&quot;ReaghFlowerNow&quot; height=&quot;449&quot; width=&quot;575&quot; /&gt; 
+&lt;img src=&quot;https://farm4.static.flickr.com/3533/3257863929_74ed9c3918_o.gif&quot; alt=&quot;ReaghFlowerNow&quot; height=&quot;449&quot; width=&quot;575&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 &lt;i&gt;William Reagh Collection, California History Section, California State Library&lt;/i&gt; 
@@ -61,19 +61,19 @@ You may remember this image from our post on the <a href="/TheMarcella" title="M
 There&#8217;s an aerial of the Stanley, too, in the comments section.
 </p>
 <p>
-<img src="http://farm4.static.flickr.com/3362/3258676976_34319ce71f_o.gif" alt="stanleystands" height="470" width="538" />
+<img src="https://farm4.static.flickr.com/3362/3258676976_34319ce71f_o.gif" alt="stanleystands" height="470" width="538" />
 </p>
 <p>
 Of course, this view&#8230;
 </p>
 <p>
-<img src="http://farm4.static.flickr.com/3464/3257864051_bbb2dc83b2_o.gif" alt="Flower65" height="453" width="575" />
+<img src="https://farm4.static.flickr.com/3464/3257864051_bbb2dc83b2_o.gif" alt="Flower65" height="453" width="575" />
 </p>
 <p>
 &#8230;looks, today, like this.
 </p>
 <p>
-<img src="http://farm4.static.flickr.com/3533/3257863929_74ed9c3918_o.gif" alt="ReaghFlowerNow" height="449" width="575" />
+<img src="https://farm4.static.flickr.com/3533/3257863929_74ed9c3918_o.gif" alt="ReaghFlowerNow" height="449" width="575" />
 </p>
 <p>
 <i>William Reagh Collection, California History Section, California State Library</i></p>

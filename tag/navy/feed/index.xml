@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/navy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:20:36 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:36:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Sailing, Sailing &#8212; Off to City Jail!</title>
 		<link>/sailingsailing/</link>
-					<comments>/sailingsailing/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 20 Aug 2008 20:39:26 +0000</pubDate>
@@ -45,14 +44,14 @@
 		<category><![CDATA[sailors]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[October 30, 1920 “A sailor&#8217;s life, it is a merry life”¦” ”“ Fairport Convention K.W. Cross (19), C.J. Terry (20), and R.P. Cullison (18), had been sailors for only two months when they came to the conclusion that a sailor”™s life wasn”™t so damned merry after all. In fact, each of the swabbies was positively &#8230; <a href="/sailingsailing/" class="more-link">Continue reading<span class="screen-reader-text"> "Sailing, Sailing &#8212; Off to City Jail!"</span></a>]]></description>
+					<description><![CDATA[October 30, 1920 “A sailor&#8217;s life, it is a merry life”¦” ”“ Fairport Convention K.W. Cross (19), C.J. Terry (20), and R.P. Cullison (18), had been sailors for only two months when they came to the conclusion that a sailor”&#x2122;s life wasn”&#x2122;t so damned merry after all. In fact, each of the swabbies was positively &#8230; <a href="/sailingsailing/" class="more-link">Continue reading<span class="screen-reader-text"> "Sailing, Sailing &#8212; Off to City Jail!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<span style="font-size: 10pt; color: black; font-family: Arial"><img loading="lazy" border="0" width="247" src="http://farm4.static.flickr.com/3156/2783330686_a751368a9f_o.jpg" alt="sailor headline" height="97" /></span>
+<span style="font-size: 10pt; color: black; font-family: Arial"><img loading="lazy" border="0" width="247" src="https://farm4.static.flickr.com/3156/2783330686_a751368a9f_o.jpg" alt="sailor headline" height="97" /></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 10pt; color: black; font-family: Arial">October 30, 1920</span>
 </p>
-<p><span style="font-size: 10pt; color: black; font-family: Arial"><o:p><img loading="lazy" border="0" width="456" src="http://farm4.static.flickr.com/3149/2782477667_0dfabefba8.jpg" alt="clara bow sailors" height="344" /></o:p></span> <span style="font-size: 10pt; color: black; font-family: Arial"><o:p></o:p></span></p>
+<p><span style="font-size: 10pt; color: black; font-family: Arial"><o:p><img loading="lazy" border="0" width="456" src="https://farm4.static.flickr.com/3149/2782477667_0dfabefba8.jpg" alt="clara bow sailors" height="344" /></o:p></span> <span style="font-size: 10pt; color: black; font-family: Arial"><o:p></o:p></span></p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 10pt; color: black; font-family: Arial"></span>
 </p>
@@ -66,15 +65,12 @@
 <span style="color: black">”“ </span><b>Samuel Johnson</b><o:p></o:p></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sailingsailing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Last Shore Leave</title>
 		<link>/lastshoreleave/</link>
-					<comments>/lastshoreleave/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 08 May 2008 09:50:40 +0000</pubDate>
@@ -95,11 +91,9 @@ Date: June 3, 1946</p>
 <p>Kelly&#8217;s first night as a civilian was a notable one: he and his pals drew the attention of Traffic Officer F.J. Rees, investigating reports of a holdup in an alley between Main and Spring, and when Kelly made a funny move when ordered to put &#8217;em up, Rees shot half his face off.</p>
 <p>Kelly survived long enough to be booked on robbery charges in the prison ward of General Hospital, while his pals cooled their heels in County Jail. But the lack of any follow up to this story makes one wonder if Rees had an itchy finger, and the arrests were meant to cover up an accidental shooting of an innocent man. </p>
 <p>The previous November 10, hapless Dwight C. Lester, then residing at 300 S. Olive Street, somehow lost his footing, fell under the up-bound Angels Flight car and was dragged about 60 feet before engineer Elmer Miller heard him hollering and braked. He escaped with friction burns and lacerations. Below, a photograph of his rescue.<br />
-<img src="http://farm4.static.flickr.com/3080/2476490680_f931b62532_o.png" /></p>
+<img src="https://farm4.static.flickr.com/3080/2476490680_f931b62532_o.png" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lastshoreleave/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

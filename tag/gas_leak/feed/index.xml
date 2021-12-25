@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/gas_leak/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:20:35 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Kaboom!</title>
 		<link>/kaboomgasexplosion/</link>
-					<comments>/kaboomgasexplosion/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Thu, 25 Sep 2008 08:48:38 +0000</pubDate>
@@ -44,9 +43,9 @@
 		<category><![CDATA[gas leak]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[November 15, 1904 Harry L. Redd was crawling around beneath the city streets attempting to repair a telephone wire, but it was so dark he couldn”™t see a thing. He”™d been catching a whiff of gas fumes for the past few days in the same location, yet without thinking he fumbled around in his pockets &#8230; <a href="/kaboomgasexplosion/" class="more-link">Continue reading<span class="screen-reader-text"> "Kaboom!"</span></a>]]></description>
+					<description><![CDATA[November 15, 1904 Harry L. Redd was crawling around beneath the city streets attempting to repair a telephone wire, but it was so dark he couldn”&#x2122;t see a thing. He”&#x2122;d been catching a whiff of gas fumes for the past few days in the same location, yet without thinking he fumbled around in his pockets &#8230; <a href="/kaboomgasexplosion/" class="more-link">Continue reading<span class="screen-reader-text"> "Kaboom!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="middle" width="275" src="http://farm4.static.flickr.com/3172/2887064087_263d8be679_o.jpg" alt="kaboom headline" height="375" />
+<img loading="lazy" border="0" align="middle" width="275" src="https://farm4.static.flickr.com/3172/2887064087_263d8be679_o.jpg" alt="kaboom headline" height="375" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 November 15, 1904
@@ -58,7 +57,7 @@ Harry L. Redd was crawling around beneath the city streets attempting to repair 
 <span></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<span></span><img loading="lazy" border="0" align="left" width="286" src="http://farm4.static.flickr.com/3135/2887899580_a0997c87e9.jpg" alt="explosion" height="500" />Harry”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s world caught fire, leaving him dazed and in excruciating pain. The force of the explosion hurled him back against some pipes. The injured man was snapped back to his senses when a second blast thrust him out of the manhole and into the street. He was so violently tossed around that he rolled for a few feet, and then fell backwards through the manhole. Unbelievably, although badly burned, Harry survived.
+<span></span><img loading="lazy" border="0" align="left" width="286" src="https://farm4.static.flickr.com/3135/2887899580_a0997c87e9.jpg" alt="explosion" height="500" />Harry”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s world caught fire, leaving him dazed and in excruciating pain. The force of the explosion hurled him back against some pipes. The injured man was snapped back to his senses when a second blast thrust him out of the manhole and into the street. He was so violently tossed around that he rolled for a few feet, and then fell backwards through the manhole. Unbelievably, although badly burned, Harry survived.
 </p>
 <p><o:p></o:p></p>
 <p style="margin: 0pt" class="MsoNormal">
@@ -67,8 +66,6 @@ Several bystanders were hurt, including a small boy named Albert Adams who had b
 <p>The eruption was so powerful that a heavy iron manhole cover at Fourth and Hill Streets flew up into the air and flipped over several times before returning to Earth. The only building to suffer damage was at 331 South Hill where the windows were shattered. <o:p> </o:p><o:p></o:p> <o:p></o:p><span style="font-size: 12pt; font-family: 'Times New Roman'">To avoid this kind of accident in the future, maybe we”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d better review a couple of childhood lessons: don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t run with scissors, don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t put anything bigger than your elbow up your nose, and never light a match if you smell gas.</span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/kaboomgasexplosion/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/spiritualists/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:20:36 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:33:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>No Good Deed Goes Unpunished</title>
 		<link>/nogooddeed/</link>
-					<comments>/nogooddeed/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 23 Jul 2008 08:38:02 +0000</pubDate>
@@ -45,9 +44,9 @@
 		<category><![CDATA[spiritualists]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Mrs. Clark, landlady of the rooming house at 421 S. Hill Street, thought she had seen it all. But she hadn”™t ”“ not by a long shot. &#160; It was May 27, 1905, and Mrs. Clark was tidying up around the place. She may have been reflecting on the odd assortment of lodgers currently in &#8230; <a href="/nogooddeed/" class="more-link">Continue reading<span class="screen-reader-text"> "No Good Deed Goes Unpunished"</span></a>]]></description>
+					<description><![CDATA[Mrs. Clark, landlady of the rooming house at 421 S. Hill Street, thought she had seen it all. But she hadn”&#x2122;t ”“ not by a long shot. &#160; It was May 27, 1905, and Mrs. Clark was tidying up around the place. She may have been reflecting on the odd assortment of lodgers currently in &#8230; <a href="/nogooddeed/" class="more-link">Continue reading<span class="screen-reader-text"> "No Good Deed Goes Unpunished"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" width="264" src="http://farm4.static.flickr.com/3062/2696142686_99887e141c_o.jpg" alt="no good deed headline" height="223" />
+<img loading="lazy" border="0" width="264" src="https://farm4.static.flickr.com/3062/2696142686_99887e141c_o.jpg" alt="no good deed headline" height="223" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 Mrs. Clark, landlady of the rooming house at <st1:street w:st="on"><st1:address w:st="on">421 S. Hill Street</st1:address></st1:street>, thought she had seen it all. But she hadn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t ”“ not by a long shot.
@@ -59,7 +58,7 @@ Mrs. Clark, landlady of the rooming house at <st1:street w:st="on"><st1:address 
 It was May 27, 1905, and Mrs. Clark was tidying up around the place. She may have been reflecting on the odd assortment of lodgers currently in residence, particularly Professor J. Maclane. The so-called professor advertised himself as a spiritualist, and Mrs. Clark and her renters were treated to the nightly spectacle of his devotees floating about the premises, seeking to commune with deceased spirits.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="middle" width="255" src="http://farm4.static.flickr.com/3289/2696142670_29b310409f_o.jpg" alt="Prof Maclane" height="97" /> 
+<img loading="lazy" border="0" align="middle" width="255" src="https://farm4.static.flickr.com/3289/2696142670_29b310409f_o.jpg" alt="Prof Maclane" height="97" /> 
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 While she mused about the spiritualist fakir, it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s unlikely that she gave any thought at all to Mr. and Mrs. Harry Holley, a pleasant married couple who had moved into the house a few days earlier.<span>  </span>They had been occupying a room on an upper floor, but when the larger room adjacent to them became available, they”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d jumped at the chance to rent it. 
@@ -110,8 +109,6 @@ We can only presume that the uncomfortable situation resolved itself peaceably, 
 &nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/nogooddeed/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

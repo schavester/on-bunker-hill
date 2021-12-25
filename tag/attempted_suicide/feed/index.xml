@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/attempted_suicide/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:42:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Only Angels Have Wings</title>
 		<link>/angelshavewings/</link>
-					<comments>/angelshavewings/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 09 Sep 2008 09:04:38 +0000</pubDate>
@@ -47,7 +46,7 @@
 
 					<description><![CDATA[It is said that the Lord protects drunks, fools, and children, and it would seem that He had his hands full keeping watch over the residents of 316 Clay Street, known variously as the Patterson Hotel and Luckenbach Estate over the years. In the wee hours of August 31, 1934, one of its residents, a &#8230; <a href="/angelshavewings/" class="more-link">Continue reading<span class="screen-reader-text"> "Only Angels Have Wings"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>It is said that the Lord protects drunks, fools, and children, and it would seem that He had his hands full keeping watch over the residents of 316 Clay Street, known variously as the Patterson Hotel and Luckenbach Estate over the years.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3231/2841546981_6bd9cc4a68.jpg" alt="fivestoryplunge" align="left" width="305" height="500" />In the wee hours of August 31, 1934, one of its residents, a 31-year-old mechanic named Herbert Stockwell, decided to live out the sort of feat that is irresistible in daydreams and drunken hazes.  I&#8217;m speaking, of course, about stealing a car and attempting to drive it down the steps of Angel&#8217;s Flight.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3231/2841546981_6bd9cc4a68.jpg" alt="fivestoryplunge" align="left" width="305" height="500" />In the wee hours of August 31, 1934, one of its residents, a 31-year-old mechanic named Herbert Stockwell, decided to live out the sort of feat that is irresistible in daydreams and drunken hazes.  I&#8217;m speaking, of course, about stealing a car and attempting to drive it down the steps of Angel&#8217;s Flight.</p>
 <p>It was a bold plan, but things soon went very ill for Herbert Stockwell.  Police were summoned to the scene by a loud crash, and discovered the vehicle wrecked on the steps, and Stockwell sprawled on the ground nearby.  His front teeth were knocked out, but he was otherwise unharmed.</p>
 <p>A few years later, another resident at 316 Clay would require divine intervention as she toyed with the boundaries of human frailty.</p>
 <p>Maryan Ellis was a 27-year-old waitress at a S. Hill Street cafe, and a relative newcomer to Los Angeles.  She was homesick, missed her mother, and was despondent that she couldn&#8217;t raise the money for a trip home to San Antonio.</p>
@@ -57,8 +56,6 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/angelshavewings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/etiquette_on_bunker_hill/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:47:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:36:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>More exquisitely apt advice</title>
 		<link>/eddiequette2/</link>
-					<comments>/eddiequette2/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 29 Jun 2008 19:11:25 +0000</pubDate>
@@ -96,15 +95,12 @@ blog</a>, and he will either answer, or, if he deems you beneath his<br />
 station, he will issue a hearty YAWN on your behalf. </i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/eddiequette2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Introducing Eddie Quette, Bunker Hill&#8217;s behavior baron</title>
 		<link>/eddiequette1/</link>
-					<comments>/eddiequette1/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 16 Jun 2008 19:39:00 +0000</pubDate>
@@ -136,8 +132,6 @@ firearm gauche before dusk?  Are they &quot;not done&quot; after Labor Day? Is a
 <p>Well, that&#8217;s all the advice Eddie can dish out this time. Tune in regularly for further installments of his column, and should you find yourself in need of a little guidance as only Mr. Quette can provide, simply <a href="/feedback">email</a> your inquiry, or send it by carrier pigeon to On Bunker Hill, Clay Street, Old Los Angeles.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/eddiequette1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/ca_health_and_safety_code/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:42:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>A Fix By Any Other Name</title>
 		<link>/manicuredtea/</link>
-					<comments>/manicuredtea/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 16 Sep 2008 21:45:23 +0000</pubDate>
@@ -50,12 +49,10 @@
 <p>The story behind the legislation takes us to a Chinatown street in the early 1950s where two undercover police from the narcotics division were attempting to score marijuana, and arranged a &quot;hand-to-hand go&quot; of $300 for 5 pounds of &quot;manicured tea.&quot;  They had their street lingo down, but I&#8217;m sure you can see where this is going.  The dealer took their money, and proceeded to hand over exactly what he&#8217;d promised &#8212; 5 pounds of tea.  At those prices, let&#8217;s hope he at least sprung for Twinings.</p>
 <p>Once the crime lab revealed their folly, the two officers rushed back to Chinatown to arrest the enterprising young dealer until realizing that they didn&#8217;t know what to arrest him for.  Finally, they settled on the somewhat dubious charge of grand theft. </p>
 <p>At first, there was some concern that undercover police officers would have to make their buys using specific, literal language, tipping off any half-wise dealer to their ruse.  An apoplectic police force lobbied the California legislature for provisions that would prevent this kind of misunderstanding in the future, and in 1953, they got their wish.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3173/2864766814_d463f951a4_o.jpg" alt="bellhoptrial" width="250" align="left" height="186" />One of the first  people to stand trial under the new law was a resident of our very own Bunker Hill, Conrado M. Fragoso, a bellhop at 244 South Figueroa.  Fragoso arranged to sell $10 of a substance he referred to only as &quot;junk&quot; or &quot;stuff&quot; to Officer Manuel Gutierrez.  The &quot;junk&quot; in question was nothing but headache powder twisted into small paper bindles.  As the arrest took place on April 1, 1954, Fragoso missed his opportunity to declare the whole thing an April Fool, and was arrested.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3173/2864766814_d463f951a4_o.jpg" alt="bellhoptrial" width="250" align="left" height="186" />One of the first  people to stand trial under the new law was a resident of our very own Bunker Hill, Conrado M. Fragoso, a bellhop at 244 South Figueroa.  Fragoso arranged to sell $10 of a substance he referred to only as &quot;junk&quot; or &quot;stuff&quot; to Officer Manuel Gutierrez.  The &quot;junk&quot; in question was nothing but headache powder twisted into small paper bindles.  As the arrest took place on April 1, 1954, Fragoso missed his opportunity to declare the whole thing an April Fool, and was arrested.</p>
 <p>At his trial, the public defender argued that Fragoso had never claimed to be selling heroin, as he never uttered the word; however, the judge was unmoved.  In 1954, a conviction for selling a substance under the pretense that it was a narcotic substance carried a sentence of up to one year in the County Jail.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/manicuredtea/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

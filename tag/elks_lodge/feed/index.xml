@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/elks_lodge/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:48:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Van Vanishes</title>
 		<link>/vanvanishes/</link>
-					<comments>/vanvanishes/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 06 Apr 2008 18:13:02 +0000</pubDate>
@@ -51,22 +50,20 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: October 31, 1904 It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &#34;I can&#8217;t be good; I want to &#8230; <a href="/vanvanishes/" class="more-link">Continue reading<span class="screen-reader-text"> "Van Vanishes"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2185/2394379840_159bb783a8.jpg" alt="Van Blarcom" height="500" width="250" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2185/2394379840_159bb783a8.jpg" alt="Van Blarcom" height="500" width="250" /></a></p>
 <p>Location: 255 South Bunker Hill Avenue<br />
 Date: October 31, 1904</p>
 <p>It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &quot;I can&#8217;t be good; I want to be bad. I shall be bad. My brothers and sisters have always said that I was the black sheep in the family. Now I will prove to them that I am. Good-bye. Go home and wait for me.&quot; </p>
 <p>She did as she was told and went back to their three-room apartment in the Alta Vista, but there has been no word from Van since and the lady is half mad with worry and regret. When visited by a reporter she was being closely watched by friends who feared she would make good on her threats of suicide. </p>
 <p>Her story: &quot;My life has become a blank. It is as if I had run against a stone wall. I shall commit suicide. If only he would come back–if only he would let me know why he went–if only I could go to him. And yet they say he has done this thing before. I have reported his disappearance to the police and they can get no trace of him. One minute I believe he has committed suicide and the next I believe there is a woman in the case. Yes–there must be a woman in the case. But in any event, there is nothing left for me. I shall take my life. About a week ago I was arranging some of his clothes in a closet, when a bundle of letters fell on the floor. One of them was from a woman in San Francisco, in which she wrote of a violent attachment for my husband, and added: &#8216;I suppose you are having a lovely time with you &#8212;.&#8217; I am the blank! Think of it! We had a little tiff over this letter and in taking it away from me he tore my arm with his nails, see, here is the sore place yet. Then when I agreed to burn it up and he saw me do so he swore with uplifted hand an oath to his dead mother than nothing but death could separate us. That was just a week ago today. Last Monday he was very despondent and did not come home as promised, and I went down to the newspaper office where he was working and tried to cheer him up. Then I went to Secretary Stevens of the Elks lodge and had him telephone my husband and ask him what was the matter. &#8216;Everything is all right now; tell her to come over here at once,&#8217; he answered. I went and that is when he took me to the foot of the Angels&#8217; Flight and told me that he wanted to be bad. Finally he sad that he would come home at 3 o&#8217;clock in the morning, but he never came.&quot;</p>
 <p>The couple married last Christmas in Salt Lake, three months after Van&#8217;s divorce (Emily was four years divorced from a Mr. Miner), and came to Los Angeles via Portland and San Francisco. They choose this town for the climate, which they hoped would aid Van&#8217;s lung ailment (he said he&#8217;d been shot through the chest while representing the Associated Press in Cuba during the war with Spain). He quickly got work on the <i>Herald</i>, but after ten days moved over to the <i>Examiner</i>, and was so employed at the time of his disappearance. Police doubt he&#8217;s killed himself, although friends say he spoke often of doing so, since his last act before vanishing was to pawn Emily&#8217;s $50 gold watch. But as he was an Elk, the brothers have taken up a collection to pay the passage of the destitute bride back to her friends in Utah. Where, by the by, he abandoned his last wife in just the same way he did this one.</p>
-<p>Emily said that Van was related to Lincoln portraitist <a href="http://lincoln.lib.niu.edu/cgi-bin/philologic/getobject.pl?c.3360:11:83.lincoln" target="_blank">A.J. Conant</a> and to the wealthy St. Louis Van Blarcoms–a branch with a <a href="http://www.frederickok.org/History/Name.htm" target="_blank">blackish sheep</a> of its own. </p>
+<p>Emily said that Van was related to Lincoln portraitist <a href="https://lincoln.lib.niu.edu/cgi-bin/philologic/getobject.pl?c.3360:11:83.lincoln" target="_blank" rel="noopener">A.J. Conant</a> and to the wealthy St. Louis Van Blarcoms–a branch with a <a href="https://www.frederickok.org/History/Name.htm" target="_blank" rel="noopener">blackish sheep</a> of its own. </p>
 <p>We hear no more of him until 1936, when an obituary appears for an old newspaperman of the right name, approximate age and career history, passing from arthritis in Bakersfield and leaving an unnamed widow, a son and a daughter. Was the widow Emily, or some later wife who was better able to salt this bounder&#8217;s wings? </p>
 <p>*note: Angels&#8217; Flight has its oft-missing possessive in the 1904 article in the <i>Los Angeles Times</i> from which this entry is adapted.<br />
  </p>
-<p><a href="http://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"></a></p>
+<p><a href="https://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vanvanishes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

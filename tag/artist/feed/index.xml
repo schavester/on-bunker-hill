@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/artist/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:46:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -46,22 +46,22 @@
 
 					<description><![CDATA[The 300 block of South Bunker Hill Avenue was supposedly one of the most picturesque in the neighborhood, if not the city. We have already taken a look at the mansions located at 315, 325, 333, and 339 South Bunker Hill Avenue. Now we are going to find out a little about the house with &#8230; <a href="/lady_mcdonald_residence/" class="more-link">Continue reading<span class="screen-reader-text"> "Lady McDonald Residence &#8211; 321 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3240/3001261713_b4f9f43195.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3240/3001261713_b4f9f43195.jpg?v=0" width="400" />
 </div>
 <p>The 300 block of South Bunker Hill Avenue was supposedly one of the most picturesque in the neighborhood, if not the city. We have already taken a look at the mansions located at <a href="/foss_heindel" title="Foss/Heindel Residence">315</a>, <a href="/castle" title="The Castle">325</a>, <a href="/333_BunkerHill" title="333 South Bunker Hill Avenue">333</a>, and <a href="/salt_box" title="The Salt Box">339</a> South Bunker Hill Avenue. Now we are going to find out a little about the house with the address 321, also known as the Lady McDonald residence.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3188/3001261787_bc0d920945.jpg?v=0" height="400" />
+<img src="https://farm4.static.flickr.com/3188/3001261787_bc0d920945.jpg?v=0" height="400" />
 </div>
 <p>
 Numerous structures on the 300 block of South Bunker Hill Avenue were constructed in 1888, which may or may not be when the McDonald residence was erected. The Sanborn Fire Insurance map from 1888 (shown below) does not identify the home as “being constructed,” yet it is a mere shadow of the elaborate structure pictured on the 1894 Sanborn map (also pictured below). Please note the existence of a luxurious outhouse on the property in 1888, which by 1894 has been replaced or converted (yuck) into a guest house.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3200/3002098738_125543a3ac.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3200/3002098738_125543a3ac.jpg?v=0" width="400" />
 </div>
 <div style="text-align: center">
 <i>1888 Sanborn Fire Insurance Map</i> 
 </div>
 <div style="text-align: center">
-<img src="http://farm3.static.flickr.com/2227/3002098988_7dd5e98fda.jpg?v=0" width="400" />
+<img src="https://farm3.static.flickr.com/2227/3002098988_7dd5e98fda.jpg?v=0" width="400" />
 </div>
 <div style="text-align: center">
 <i>1894 Sanborn Fire Insurance Map <br />
@@ -70,15 +70,15 @@ Numerous structures on the 300 block of South Bunker Hill Avenue were constructe
 <p>
 Even though neighborhood locals referred to the house for decade as the “Lady McDonald Residence,” the earliest known owner of the property was a fellow named George Ordway, whose wife served on the board of the local Y.W.C.A., and frequently entertained guests at the house. In 1892, Ordway sold the house for $10,000 to the woman who would become the mansion&#8217;s namesake.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3289/3002098360_1071df74a1.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3289/3002098360_1071df74a1.jpg?v=0" width="400" />
 </div>
-<p>Lady McDonald was born in Canada in 1816, and in those days was known as Frances Mitchell, daughter of a London District Court judge, and niece of noted Canadian, <a href="http://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5817&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Egerton Ryerson</a>. In 1838, she married the unfortunately named <a href="http://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5140&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Donald McDonald</a>, who was actively involved in Canadian politics and served many years as a senator. McDonald was also a shrewd investor who amassed a fortune, mainly in real estate, and he, Frances, and their fourteen children lived at the center of Toronto society in a twenty-six room mansion. Mr. McDonald died in 1879, and Frances decided to relocate with a couple of children to Los Angeles. It is unclear if being the wife of a deceased Canadian senator whose assets include a Kansas cattle ranch is qualification for a title of nobility, but when the widow McDonald rolled into town, residents always referred to her as “Lady” with a capital L.</p>
+<p>Lady McDonald was born in Canada in 1816, and in those days was known as Frances Mitchell, daughter of a London District Court judge, and niece of noted Canadian, <a href="https://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5817&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Egerton Ryerson</a>. In 1838, she married the unfortunately named <a href="https://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5140&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Donald McDonald</a>, who was actively involved in Canadian politics and served many years as a senator. McDonald was also a shrewd investor who amassed a fortune, mainly in real estate, and he, Frances, and their fourteen children lived at the center of Toronto society in a twenty-six room mansion. Mr. McDonald died in 1879, and Frances decided to relocate with a couple of children to Los Angeles. It is unclear if being the wife of a deceased Canadian senator whose assets include a Kansas cattle ranch is qualification for a title of nobility, but when the widow McDonald rolled into town, residents always referred to her as “Lady” with a capital L.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3072/3002098250_710e1e742f.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3072/3002098250_710e1e742f.jpg?v=0" width="400" />
 </div>
-<p>Lady McDonald resided at the mansion with various children, grandchildren, and servants for around twenty years and lived to be nearly 100. Following the departure of the McDonalds, the inevitable happened to house at 321, and it was divided up to accommodate multiple residents. Many tenants would come and go for the next five decades, including<a href="http://www.richmondartmuseum.org/permanent_collection/girardin_wild_violets.html"> Frank J. Giradin</a>, a landscape impressionist who not only lived in the mansion, but used it as his art studio and held a showing of his work at 321 South Bunker Hill in 1924.</p>
+<p>Lady McDonald resided at the mansion with various children, grandchildren, and servants for around twenty years and lived to be nearly 100. Following the departure of the McDonalds, the inevitable happened to house at 321, and it was divided up to accommodate multiple residents. Many tenants would come and go for the next five decades, including<a href="https://www.richmondartmuseum.org/permanent_collection/girardin_wild_violets.html"> Frank J. Giradin</a>, a landscape impressionist who not only lived in the mansion, but used it as his art studio and held a showing of his work at 321 South Bunker Hill in 1924.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3222/3001261751_6c6695b14a.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3222/3001261751_6c6695b14a.jpg?v=0" width="400" />
 </div>
 <p>
 Unlike many structures on Bunker Hill, which fell into stark disrepair as the years went by, this residence seems to have been well taken care of and was noted as being in “good” condition when a WPA census was taken in 1939. By the 1960s, the condition of the property was of little consequence because the neighborhood&#8217;s days were numbered. Before the decade was over, the residences of Bunker Hill were no more, including the former home of Lady Frances McDonald. </p>

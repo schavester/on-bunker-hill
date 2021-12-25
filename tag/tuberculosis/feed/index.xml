@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/tuberculosis/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 20:12:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:36:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Stotts Landing</title>
 		<link>/stottslanding/</link>
-					<comments>/stottslanding/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 11 May 2008 22:08:45 +0000</pubDate>
@@ -47,24 +46,22 @@
 		<category><![CDATA[Uplifter's Club]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Among rank and file Depression-era Bunker Hill down &#38; outers, Mr. A. E. Stotts was positive royalty among the sorry character contingent. Granted, he had the lovely Mrs. Stotts, and his apartment in the Alto Hotel at 253 South Grand, and his job over at Barraclough”™s Globe Dairy Lunch, but he”™s also tubercular as all &#8230; <a href="/stottslanding/" class="more-link">Continue reading<span class="screen-reader-text"> "Stotts Landing"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3113/2470888051_e5880373fc_o.gif" alt="AE" height="240" width="129" />Among rank and file Depression-era Bunker Hill down &amp; outers, Mr. A. E. Stotts was positive royalty among the sorry character contingent.  Granted, he had the lovely Mrs. Stotts, and his apartment in the Alto Hotel at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=253+S+Grand+Ave,+Los+Angeles,+CA+90012&amp;sll=34.054988,-118.250699&amp;sspn=0.009031,0.014527&amp;ie=UTF8&amp;ll=34.054988,-118.250699&amp;spn=0.009031,0.014527&amp;z=16&amp;iwloc=addr" title="theAltoat253" target="_blank">253 South Grand</a>, and his job over at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=613+S+Hill+St,+Los+Angeles,+CA+90014&amp;sll=34.048357,-118.253295&amp;sspn=0.009032,0.014527&amp;ie=UTF8&amp;ll=34.048357,-118.253295&amp;spn=0.009032,0.014527&amp;z=16&amp;iwloc=addr" title="theDairyLunch" target="_blank">Barraclough”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Globe Dairy Lunch</a>, but he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s also tubercular as all get out.</p>
-<p>Go ahead, tell him how romantic it is to be a consumptive, and he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll tell<img loading="lazy" src="http://farm3.static.flickr.com/2194/2471711872_19e9966b7d_o.gif" alt="themissus" align="right" height="245" width="129" /> you a different story about swollen glands and night sweats and bloody sputum.  Not to mention how the wife keeps sending him out to that sanatorium way the hell and gone in <a href="http://en.wikipedia.org/wiki/Daggett,_California" title="Daggonit" target="_blank">Daggett</a>, you know, for his <i>health</i>, which finally cost him the aforementioned job at the Dairy Lunch, and though his wife has become the breadwinner as a waitress down there at his old place of employ, she sure has been getting chummy with that oft-lunching Herman Siemers fellow.</p>
+					<description><![CDATA[Among rank and file Depression-era Bunker Hill down &#38; outers, Mr. A. E. Stotts was positive royalty among the sorry character contingent. Granted, he had the lovely Mrs. Stotts, and his apartment in the Alto Hotel at 253 South Grand, and his job over at Barraclough”&#x2122;s Globe Dairy Lunch, but he”&#x2122;s also tubercular as all &#8230; <a href="/stottslanding/" class="more-link">Continue reading<span class="screen-reader-text"> "Stotts Landing"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3113/2470888051_e5880373fc_o.gif" alt="AE" height="240" width="129" />Among rank and file Depression-era Bunker Hill down &amp; outers, Mr. A. E. Stotts was positive royalty among the sorry character contingent.  Granted, he had the lovely Mrs. Stotts, and his apartment in the Alto Hotel at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=253+S+Grand+Ave,+Los+Angeles,+CA+90012&amp;sll=34.054988,-118.250699&amp;sspn=0.009031,0.014527&amp;ie=UTF8&amp;ll=34.054988,-118.250699&amp;spn=0.009031,0.014527&amp;z=16&amp;iwloc=addr" title="theAltoat253" target="_blank" rel="noopener">253 South Grand</a>, and his job over at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=613+S+Hill+St,+Los+Angeles,+CA+90014&amp;sll=34.048357,-118.253295&amp;sspn=0.009032,0.014527&amp;ie=UTF8&amp;ll=34.048357,-118.253295&amp;spn=0.009032,0.014527&amp;z=16&amp;iwloc=addr" title="theDairyLunch" target="_blank" rel="noopener">Barraclough”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Globe Dairy Lunch</a>, but he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s also tubercular as all get out.</p>
+<p>Go ahead, tell him how romantic it is to be a consumptive, and he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll tell<img loading="lazy" src="https://farm3.static.flickr.com/2194/2471711872_19e9966b7d_o.gif" alt="themissus" align="right" height="245" width="129" /> you a different story about swollen glands and night sweats and bloody sputum.  Not to mention how the wife keeps sending him out to that sanatorium way the hell and gone in <a href="https://en.wikipedia.org/wiki/Daggett,_California" title="Daggonit" target="_blank" rel="noopener">Daggett</a>, you know, for his <i>health</i>, which finally cost him the aforementioned job at the Dairy Lunch, and though his wife has become the breadwinner as a waitress down there at his old place of employ, she sure has been getting chummy with that oft-lunching Herman Siemers fellow.</p>
 <p>Mr. A E. and wife had met Herman J. Siemers at the restaurant, where Herman had lunched daily, and they&#8217;d befriended him, she more than he apparently.  Not that Herman”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s offer to Mrs. Stotts of a moonlight horseback ride wasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t innocent; unfortunately, it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s about the only thing in the world more romantic than consumption.  This apparently riled A. E.</p>
-<p>It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Friday afternoon of November 11, 1932, and Mrs. Stotts has gussied herself up in full riding gear for a gallop in Rustic Canyon–Herman Siemers was a member of the <a href="http://en.wikipedia.org/wiki/Rustic_Canyon,_Los_Angeles,_California#History" title="theUL" target="_blank">Uplifter”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s</a> <a href="http://www.inthecanyon.com/history/history/pg3.htm" title="yonhistory" target="_blank">Club</a>,<a href="http://query.nytimes.com/gst/fullpage.html?res=9501EFDB1E3DF93BA25752C0A9679C8B63" title="bastard" target="_blank"> hoo ha</a>! Siemers bounded up the stairs of the Stott”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Alto Hotel, with all the good health of a man <i>not</i> wasting away from the inside, knocked on the door, and Mrs. Stotts opened.  The two were not aware of the firearm-equipped white-plague addled Mr. Stotts lurking in the dark shadows.<br />
-<img loading="lazy" src="http://farm4.static.flickr.com/3086/2471711934_033e9cb44e_o.gif" alt="datelinestotts" align="left" height="265" width="267" /><br />
+<p>It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Friday afternoon of November 11, 1932, and Mrs. Stotts has gussied herself up in full riding gear for a gallop in Rustic Canyon–Herman Siemers was a member of the <a href="https://en.wikipedia.org/wiki/Rustic_Canyon,_Los_Angeles,_California#History" title="theUL" target="_blank" rel="noopener">Uplifter”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s</a> <a href="https://www.inthecanyon.com/history/history/pg3.htm" title="yonhistory" target="_blank" rel="noopener">Club</a>,<a href="https://query.nytimes.com/gst/fullpage.html?res=9501EFDB1E3DF93BA25752C0A9679C8B63" title="bastard" target="_blank" rel="noopener"> hoo ha</a>! Siemers bounded up the stairs of the Stott”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Alto Hotel, with all the good health of a man <i>not</i> wasting away from the inside, knocked on the door, and Mrs. Stotts opened.  The two were not aware of the firearm-equipped white-plague addled Mr. Stotts lurking in the dark shadows.<br />
+<img loading="lazy" src="https://farm4.static.flickr.com/3086/2471711934_033e9cb44e_o.gif" alt="datelinestotts" align="left" height="265" width="267" /><br />
 Mr. A. E. lept from the depths and fired one shot into her heart.  He turned on Siemers but elected not to keep to his chest shot MO:  though at very close range, one bullet went through the crown of Siemers”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hat, another grazed his left temple as it tore through the hat brim, another burned a path across his right temple on taking out the hat brim”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s other side.  A fourth bullet struck Siemers in his right leg.</p>
 <p>A. E., having done all he could do and with but one bullet left, dashed to the fire escape, smashed the window pane with his revolver, stepped out on the landing, placed the muzzle to his right temple and fired. </p>
-<p>Siemers ended up in <a href="http://silverlake.tribe.net/photos/c686a18c-c1aa-4d27-b9bb-d18eb879ea50" title="MSH" target="_blank">Monte Sano</a> hospital with a broken leg, a powder burned face, and an irreparably damaged hat; Mr. and Mrs. Stotts in the grave, and the Alto with a newly vacant apartment.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3009/2470888369_fb6711cab5_o.gif" alt="theAlto" height="392" width="550" /><img loading="lazy" src="http://farm3.static.flickr.com/2045/2470888657_ecb451e8e9_o.gif" alt="altonow" height="380" width="550" /></p>
+<p>Siemers ended up in <a href="https://silverlake.tribe.net/photos/c686a18c-c1aa-4d27-b9bb-d18eb879ea50" title="MSH" target="_blank" rel="noopener">Monte Sano</a> hospital with a broken leg, a powder burned face, and an irreparably damaged hat; Mr. and Mrs. Stotts in the grave, and the Alto with a newly vacant apartment.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3009/2470888369_fb6711cab5_o.gif" alt="theAlto" height="392" width="550" /><img loading="lazy" src="https://farm3.static.flickr.com/2045/2470888657_ecb451e8e9_o.gif" alt="altonow" height="380" width="550" /></p>
 <p>(The turreted building on the NE corner of Third and Grand was the New Grand Hotel; the entrance to the Alto is roughly where the Grand Avenue Tower Apartments&#8217; entrance is today.)</p>
 <p><i>Alto Hotel image courtesy Arnold Hylen Collection, California History Section, California State Library</i></p>
 <p><i>Newspaper images from the Los Angeles Times </i></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/stottslanding/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

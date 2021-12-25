@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/crib_district/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Bunker Hill and the Crib Wars</title>
 		<link>/cribwars/</link>
-					<comments>/cribwars/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 30 Sep 2008 22:39:22 +0000</pubDate>
@@ -48,7 +47,7 @@
 					<description><![CDATA[They called it the red light district, the tenderloin, Little Paree, Hell&#8217;s Half Acre, and my favorite, the crib district. From the late 1800s until the turn of the century, prostitution in Los Angeles was more or less legal, and centered in a district that included Alameda, New High, Main, and a few other streets &#8230; <a href="/cribwars/" class="more-link">Continue reading<span class="screen-reader-text"> "Bunker Hill and the Crib Wars"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>They called it the red light district, the tenderloin, Little Paree, Hell&#8217;s Half Acre, and my favorite, the crib district.</p>
 <p>From the late 1800s until the turn of the century, prostitution in Los Angeles was more or less legal, and centered in a district that included Alameda, New High, Main, and a few other streets in the area east of Bunker Hill.  Most of the classier parlor houses that catered to wealthy and well-connected Angelenos were located on New High Street, including the one belonging to Los Angeles&#8217;s first storied madam, Pearl Morton.  The brothels on Main Street were more modest, mostly rooming houses.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3234/2904106382_ffb1efa2fc_o.jpg" alt="cribs" align="left" width="245" height="188" />However, the most notorious eyesores were the single-story, ramshackle cribs on Alameda, long rows of narrow rooms that prostitutes could rent by the night, at exorbitant rates, designated here on the Sanborn maps as &quot;female boarding.&quot;  The Alameda cribs were visible from the nearby Southern Pacific line, and rail passengers on their way to Los Angeles would gawk out the windows at prostitutes soliciting business from the sidewalks.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3234/2904106382_ffb1efa2fc_o.jpg" alt="cribs" align="left" width="245" height="188" />However, the most notorious eyesores were the single-story, ramshackle cribs on Alameda, long rows of narrow rooms that prostitutes could rent by the night, at exorbitant rates, designated here on the Sanborn maps as &quot;female boarding.&quot;  The Alameda cribs were visible from the nearby Southern Pacific line, and rail passengers on their way to Los Angeles would gawk out the windows at prostitutes soliciting business from the sidewalks.</p>
 <p>The prevailing line of thought among civil leaders and Los Angeles&#8217;s many, many police chiefs during this period was that prostitution was a social evil that could not be eradicated, but could be contained and regulated.  Better to have vice located within a few city blocks rather than scattered throughout the city where it would be impossible to police.</p>
 <p>Los Angeles residents, however, felt differently about it.  In a June 1895 article, the <i>Times</i> reported that Police Chief John Glass had received numerous complaints from Bunker Hill residents complaining of the crib district&#8217;s proximity to their tony neighborhood.</p>
 <p>And since the prostitutes were making fairly good money, and since crib living was both expensive and unpleasant, many prostitutes managed to pay the rent on their cribs and also rented lodging in nearby Bunker Hill hotels and rooming houses. </p>
@@ -57,15 +56,13 @@
 <p>That mission accomplished, the social purity crusaders turned their attention to the parlor houses, a tougher nut to crack, partly because they kept a lower profile, and partly because they counted no small number of politicians, attorneys, and other civic leaders among their clientele.</p>
 <p>The crusaders put these houses, including Morton&#8217;s at 327 1/2 New High Street, the Antlers Club, Stella Mitchell&#8217;s, and Viola&#8217;s Place, under surveillance, and pestered the Mayor and Police Commission until finally winning a small victory.  At the end of March 1904, the parlor houses would be shuttered.  Almost all of them went along with the ordinance, and the <i>Times</i> reported that &quot;the keepers of dives did not wait for the police to call, but quietly folded their tents and departed.&quot;</p>
 <p>All but one.  All but one that had been operating right on Bunker Hill, not a block away from the First Congregational Church.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3291/2904106434_ff5433a41c_o.jpg" alt="parlorhouse" align="right" width="320" height="297" />On March 31, 1904, police raided an establishment at 355 South Hill Street, operated by Ethel Wood.  She was arrested along with three women, Mabel Stone, Dolly Long, and Hattie Jones.  The  four appeared in court the next day, all wearing long black veils to frustrate the looky-loos.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3291/2904106434_ff5433a41c_o.jpg" alt="parlorhouse" align="right" width="320" height="297" />On March 31, 1904, police raided an establishment at 355 South Hill Street, operated by Ethel Wood.  She was arrested along with three women, Mabel Stone, Dolly Long, and Hattie Jones.  The  four appeared in court the next day, all wearing long black veils to frustrate the looky-loos.</p>
 <p>Wood was fined $100 for selling beer without a license, and the three women were &quot;vagged,&quot; or charged with vagrancy, the usual charge for prostitutes until the charge of &quot;offering&quot; came into use in the 1920s.</p>
 <p>After the raid, the other parlor houses reopened quietly, and would remain open for another four years.  Pearl Morton, famed for her lavish parlor with two Steinway pianos, as well as her hourglass figure, flamboyant style, and hennaed hair, would be shut down in 1908, and move north to re-establish her operation in San Francisco.</p>
 <p>The last quasi-legal parlor houses would close down in 1909, in tandem with the recall and subsequent resignation of Mayor Arthur Harper, a frequent brothel client.</p>
 <p>And after that, prostitution did exactly what city leaders in favor of a containment strategy had predicted all along.  It scattered throughout the city and into residential neighborhoods, before falling under the jurisdiction of organized crime in the 1920s.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/cribwars/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/rent/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:47:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:36:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Van Fleet Apartments &#8211; 230 South Flower Street</title>
 		<link>/vanfleet/</link>
-					<comments>/vanfleet/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 29 Jun 2008 11:14:55 +0000</pubDate>
@@ -49,14 +48,12 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Here was the Van Fleet, a three-story frame apartment house built in 1911 by Garrett &#38; Bixby for citrus man Nelson Van Fleet. The 29 apartments were split between two- and three-room models, and it was in one of them on March 22, 1912, that Marie Higginson, 40-ish &#34;and quite prepossessing,&#34; having failed to shoot &#8230; <a href="/vanfleet/" class="more-link">Continue reading<span class="screen-reader-text"> "Van Fleet Apartments &#8211; 230 South Flower Street"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Here was the Van Fleet, a three-story frame apartment house built in 1911 by Garrett &amp; Bixby for citrus man Nelson Van Fleet. The 29 apartments were split between two- and three-room models, and it was in one of them on March 22, 1912, that Marie Higginson, 40-ish &quot;and quite prepossessing,&quot; having failed to shoot herself in San Pedro last week, gassed herself in the kitchen. Her groans alerted Mrs. Francis Passmore across the hall. Found unconscious on a blanket on the kitchen floor with the oven door removed,  Marie&#8217;s purse revealed the gun and a copy of Walter Malone&#8217;s poem <a href="http://www.poetry-archive.com/m/opportunity.html" target="_blank">&quot;Opportunity&quot;</a>–a popular verse among self annihilators, for Joseph N. Vincent recently blew his brains out on Silverwood Hill with the last stanzas in his pocket.</p>
+										<content:encoded><![CDATA[<p>Here was the Van Fleet, a three-story frame apartment house built in 1911 by Garrett &amp; Bixby for citrus man Nelson Van Fleet. The 29 apartments were split between two- and three-room models, and it was in one of them on March 22, 1912, that Marie Higginson, 40-ish &quot;and quite prepossessing,&quot; having failed to shoot herself in San Pedro last week, gassed herself in the kitchen. Her groans alerted Mrs. Francis Passmore across the hall. Found unconscious on a blanket on the kitchen floor with the oven door removed,  Marie&#8217;s purse revealed the gun and a copy of Walter Malone&#8217;s poem <a href="https://www.poetry-archive.com/m/opportunity.html" target="_blank" rel="noopener">&quot;Opportunity&quot;</a>–a popular verse among self annihilators, for Joseph N. Vincent recently blew his brains out on Silverwood Hill with the last stanzas in his pocket.</p>
 <p>Marie, though, did not die, and on awakening, confessed that in San Pedro her hand had shaken so that she had missed her mark. &quot;I didn&#8217;t shoot a second time because I feared I might not hit a vital spot and would die a lingering death.&quot; The cause of it all was her unhappiness with the mining man who was her companion, so she was trying to remove herself from the equation while he was away in Maricopa. Her miner returned to news that Marie was going before the lunacy commission, but we do not know how she fared there.</p>
 <p>An L.A. Times article surveying the freakishly high cost of rents (up as much as 400% in four years) and the difficulty in finding a place that would accept children noted that a two-room apartment with a bath and kitchenette at the Van Fleet would set you back $75 a month in October 1920.</p>
 <p>On New Years Eve 1932, 28-year-old entertainer Matthew Tormino left his apartment at the Van Fleet for a booking at the Verdugo Trout Club Lodge in Verdugo Hills. At some point while Tormino, James W. Curtis and Inez Stewart were amusing the guests, a large man became incensed and the talent made a dash for the door. Tormino was the last one out, and took a bullet to the hip. When questioned by police, all anyone could say was that the shooter was &quot;a big guy.&quot; Tormino was expected to recover, but we suggest he work on his act.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vanfleet/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

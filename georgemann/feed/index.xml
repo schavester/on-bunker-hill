@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -14,7 +14,7 @@
 	<atom:link href="/georgemann/feed/" rel="self" type="application/rss+xml" />
 	<link>/georgemann/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Mon, 15 Jul 2019 20:06:49 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:31:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -31,9 +31,9 @@
 
 					<description><![CDATA[In reply to &lt;a href=&quot;/georgemann/#comment-27725&quot;&gt;Owen&lt;/a&gt;.
 
-This blog is one of our older projects and isn&#039;t updated, but you can find new posts on the &lt;a href=&quot;https://esotouric.com/category/the-esotouric-blog/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Esotouric blog&lt;/a&gt; or subscribe to our &lt;a href=&quot;http://eepurl.com/baVxhP&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Esotouric newsletter&lt;/a&gt; for L.A. history and preservation updates.]]></description>
+This blog is one of our older projects and isn&#039;t updated, but you can find new posts on the &lt;a href=&quot;https://esotouric.com/category/the-esotouric-blog/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Esotouric blog&lt;/a&gt; or subscribe to our &lt;a href=&quot;https://eepurl.com/baVxhP&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Esotouric newsletter&lt;/a&gt; for L.A. history and preservation updates.]]></description>
 			<content:encoded><![CDATA[<p>In reply to <a href="/georgemann/#comment-27725">Owen</a>.</p>
-<p>This blog is one of our older projects and isn&#8217;t updated, but you can find new posts on the <a href="https://esotouric.com/category/the-esotouric-blog/" target="_blank" rel="noopener nofollow">Esotouric blog</a> or subscribe to our <a href="http://eepurl.com/baVxhP" target="_blank" rel="noopener nofollow">Esotouric newsletter</a> for L.A. history and preservation updates.</p>
+<p>This blog is one of our older projects and isn&#8217;t updated, but you can find new posts on the <a href="https://esotouric.com/category/the-esotouric-blog/" target="_blank" rel="noopener nofollow">Esotouric blog</a> or subscribe to our <a href="https://eepurl.com/baVxhP" target="_blank" rel="noopener nofollow">Esotouric newsletter</a> for L.A. history and preservation updates.</p>
 ]]></content:encoded>
 		
 			</item>
@@ -80,7 +80,7 @@ Ok, Mr. gsj, since you threw down the gauntlet n&#039;all -- how could I refuse?
 Bunker Hill, famous wonderland of genteel gingerbread and gabled gothic:Â  but among the twisted turrets and distressed trusswork lived the odd massive Mission and beatific Beaux Arts building.Â  Why, here&#039;s a representative sample:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1173/4726594368_518e725aea_b.jpg&quot; alt=&quot;thefuture!&quot; height=&quot;491&quot; width=&quot;548&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1173/4726594368_518e725aea_b.jpg&quot; alt=&quot;thefuture!&quot; height=&quot;491&quot; width=&quot;548&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;
 Wait, &lt;i&gt;what&lt;/i&gt;?&lt;br /&gt;
 &lt;br /&gt;
@@ -90,9 +90,9 @@ Having spent a year searching for crime amongst the spindlework and bougainville
 &lt;br /&gt;
 Moreover Oliver was forward-thinking in his abjuration of the &#039;burbs for moving -- hell, &lt;i&gt;building&lt;/i&gt; -- right downtown.Â  He prefigured the downtown boosters of the &#039;aughts by fifty years.&lt;br /&gt;
 &lt;br /&gt;
-You see, Stuart K. Oliver was an attorney with a practice downtown, and who wants to fight traffic coming into work?Â  (I&#039;m not sold on the attorney angle, which we find in the photo archives; the newspapers describe him as a &#034;businessman&#034; and he was apparently Chairman of the LA Chapter of the &lt;a href=&quot;http://www.asmwest.com/&quot; title=&quot;asm&quot; target=&quot;_blank&quot;&gt;ASM&lt;/a&gt;.)Â  In any event, he and his wife were attracted to living downtown.Â  They chose a spot on Bunker Hill in the early fifties.&lt;br /&gt;
+You see, Stuart K. Oliver was an attorney with a practice downtown, and who wants to fight traffic coming into work?Â  (I&#039;m not sold on the attorney angle, which we find in the photo archives; the newspapers describe him as a &#034;businessman&#034; and he was apparently Chairman of the LA Chapter of the &lt;a href=&quot;https://www.asmwest.com/&quot; title=&quot;asm&quot; target=&quot;_blank&quot;&gt;ASM&lt;/a&gt;.)Â  In any event, he and his wife were attracted to living downtown.Â  They chose a spot on Bunker Hill in the early fifties.&lt;br /&gt;
 &lt;br /&gt;
-But, you ask,Â  wasn&#039;t the CRA newly formed?Â  Weren&#039;t the seeds of destruction being sown by Sesnon?Â  Would that not give him pause and fill him with trrrrrrrepidation? Cetainly, but in the early 50s you could still look over the 136 acres, the 400 some-odd structures, the 9000+ residents and say, &lt;i&gt;really&lt;/i&gt;?Â  They&#039;ll clear this in my lifetime?Â  This isn&#039;t Russia, y&#039;know.Â  (In 1950, Los Angeles, though populous, was one of America&#039;s &lt;a href=&quot;http://www.census.gov/population/www/documentation/twps0027/tab18.txt&quot; title=&quot;ourtinyburg&quot; target=&quot;_blank&quot;&gt;least-dense cities&lt;/a&gt;Â  -- however the City deemed Bunker Hill &lt;i&gt;too dense&lt;/i&gt;, hence its need for demolition.Â  [Of course it was less dense &lt;i&gt;then&lt;/i&gt; than any of LA&#039;s eighty-eight cities are &lt;i&gt;now&lt;/i&gt;, on top of which every city is, ironically, pushing for New Urbanist &#034;density bonuses&#034;...but I digress].)Â  Of course by &#039;59 the Feds had approved all the grants and loans and the City Council jumped on the thing and that was that, but that, for the time being, is the future.Â  Back to ca. 1952:&lt;br /&gt;
+But, you ask,Â  wasn&#039;t the CRA newly formed?Â  Weren&#039;t the seeds of destruction being sown by Sesnon?Â  Would that not give him pause and fill him with trrrrrrrepidation? Cetainly, but in the early 50s you could still look over the 136 acres, the 400 some-odd structures, the 9000+ residents and say, &lt;i&gt;really&lt;/i&gt;?Â  They&#039;ll clear this in my lifetime?Â  This isn&#039;t Russia, y&#039;know.Â  (In 1950, Los Angeles, though populous, was one of America&#039;s &lt;a href=&quot;https://www.census.gov/population/www/documentation/twps0027/tab18.txt&quot; title=&quot;ourtinyburg&quot; target=&quot;_blank&quot;&gt;least-dense cities&lt;/a&gt;Â  -- however the City deemed Bunker Hill &lt;i&gt;too dense&lt;/i&gt;, hence its need for demolition.Â  [Of course it was less dense &lt;i&gt;then&lt;/i&gt; than any of LA&#039;s eighty-eight cities are &lt;i&gt;now&lt;/i&gt;, on top of which every city is, ironically, pushing for New Urbanist &#034;density bonuses&#034;...but I digress].)Â  Of course by &#039;59 the Feds had approved all the grants and loans and the City Council jumped on the thing and that was that, but that, for the time being, is the future.Â  Back to ca. 1952:&lt;br /&gt;
 &lt;br /&gt;
 So if you had to live in the middle of America&#039;s fourth-largest city, would you choose to be crammed down in the flats?Â  If you wanted a view, would you have an airless apartment up some filing cabinet?Â  Or live up the side of some godforsaken hill covered in winding roads and devoid of parking?&lt;br /&gt;
 &lt;br /&gt;
@@ -101,32 +101,32 @@ Oliver was a genius.Â  He picked a perch perfect for light, air, sun, and, it 
 A little bit about the site.Â Â  You have of course read about the &lt;a href=&quot;/hildreth_mansion&quot; title=&quot;Hildy&quot; target=&quot;_blank&quot;&gt;Hildreth Mansion&lt;/a&gt; at Fourth and Hope.Â  You may not realize that one of the reasons it was such a stunning house is that besides its view toward downtown:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1123/4726594104_4b7416f9dc_b.jpg&quot; alt=&quot;hildrethtowardt&quot; height=&quot;376&quot; width=&quot;525&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1123/4726594104_4b7416f9dc_b.jpg&quot; alt=&quot;hildrethtowardt&quot; height=&quot;376&quot; width=&quot;525&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;
 Its backside sat atop a great promontory that presided over Flower, Figueroa and a view toward the Pacific on a clear day.Â  Here&#039;s the Hildreth in 1906 (bottom, at 357):
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1412/4726595990_432af918de_b.jpg&quot; alt=&quot;hildreth1906&quot; height=&quot;494&quot; width=&quot;525&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1412/4726595990_432af918de_b.jpg&quot; alt=&quot;hildreth1906&quot; height=&quot;494&quot; width=&quot;525&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;
 And again in 1951, nothing much has changed in that part of the world:
 &lt;/p&gt;
 &lt;p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1381/4726594524_539df1fb9b_b.jpg&quot; alt=&quot;sanborn51&quot; height=&quot;502&quot; width=&quot;512&quot; /&gt;Now look what&#039;s happened to 353/351 in 1953:
+&lt;img src=&quot;https://farm2.static.flickr.com/1381/4726594524_539df1fb9b_b.jpg&quot; alt=&quot;sanborn51&quot; height=&quot;502&quot; width=&quot;512&quot; /&gt;Now look what&#039;s happened to 353/351 in 1953:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1050/4725946265_62dd2ba2c2_b.jpg&quot; alt=&quot;sanborn1953&quot; height=&quot;488&quot; width=&quot;525&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1050/4725946265_62dd2ba2c2_b.jpg&quot; alt=&quot;sanborn1953&quot; height=&quot;488&quot; width=&quot;525&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;
 Some crazy bastard has built the most modern house in Moderntown!&lt;br /&gt;
 &lt;br /&gt;
 Note the way in which the Oliver house has been worked into the old Hildreth wall to the north--apparently, I read on another site, the site of the Hildreth carriage house:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1191/4725945483_709a7d379f_b.jpg&quot; alt=&quot;hildreth&quot; height=&quot;581&quot; width=&quot;500&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1191/4725945483_709a7d379f_b.jpg&quot; alt=&quot;hildreth&quot; height=&quot;581&quot; width=&quot;500&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1173/4726594368_518e725aea_b.jpg&quot; alt=&quot;oliver wall&quot; height=&quot;491&quot; width=&quot;548&quot; /&gt; 
+&lt;img src=&quot;https://farm2.static.flickr.com/1173/4726594368_518e725aea_b.jpg&quot; alt=&quot;oliver wall&quot; height=&quot;491&quot; width=&quot;548&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 But Oliver&#039;s neighbor the Hildreth was not to stand long.Â  We&#039;ve talked a little bit about the Fourth Street Cut &lt;a href=&quot;/TheZelda&quot; title=&quot;4thAndZelda&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; and it was into that ditch went everything holding up the Hildreth.Â  And the Hildreth.&lt;br /&gt;
@@ -152,7 +152,7 @@ Now let&#039;s look at some photos:
 About the 4th St Cut AKA the Viaduct...now, here&#039;s a pre-1954 image:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1017/4726596062_6fe8e69612_b.jpg&quot; alt=&quot;4th&quot; height=&quot;371&quot; width=&quot;526&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1017/4726596062_6fe8e69612_b.jpg&quot; alt=&quot;4th&quot; height=&quot;371&quot; width=&quot;526&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Flower runs up the middle of this pic; note how 4th, horizontal above the big white building on the left, stops at Flower.Â  It had to.Â  There was a giant f&#039;ing hill there. Â  One had to &lt;i&gt;do&lt;/i&gt; something about it.Â  
@@ -161,7 +161,7 @@ Flower runs up the middle of this pic; note how 4th, horizontal above the big wh
 &#160;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1323/4726595530_9dd941b395_b.jpg&quot; alt=&quot;Dec54&quot; height=&quot;400&quot; width=&quot;510&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1323/4726595530_9dd941b395_b.jpg&quot; alt=&quot;Dec54&quot; height=&quot;400&quot; width=&quot;510&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Above, December 1954, they&#039;re digging out the 4th Street 
@@ -173,35 +173,35 @@ to say &#034;Oh, isn&#039;t that precious?&#034;
 The cut -- the Oliver house is the &#034;C&#034; shape in the upper right:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1021/4725946649_bd13400a07_b.jpg&quot; alt=&quot;cutty&quot; height=&quot;407&quot; width=&quot;525&quot; /&gt; 
+&lt;img src=&quot;https://farm2.static.flickr.com/1021/4725946649_bd13400a07_b.jpg&quot; alt=&quot;cutty&quot; height=&quot;407&quot; width=&quot;525&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1252/4726595434_94c2b51bf2_b.jpg&quot; alt=&quot;cut1&quot; height=&quot;404&quot; width=&quot;539&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1252/4726595434_94c2b51bf2_b.jpg&quot; alt=&quot;cut1&quot; height=&quot;404&quot; width=&quot;539&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1382/4726595860_04bf7e699a_b.jpg&quot; alt=&quot;olly&quot; height=&quot;311&quot; width=&quot;531&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1382/4726595860_04bf7e699a_b.jpg&quot; alt=&quot;olly&quot; height=&quot;311&quot; width=&quot;531&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1022/4726595788_415025b23a_b.jpg&quot; alt=&quot;installation&quot; height=&quot;366&quot; width=&quot;503&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1022/4726595788_415025b23a_b.jpg&quot; alt=&quot;installation&quot; height=&quot;366&quot; width=&quot;503&quot; /&gt;
 &lt;/p&gt;
 Above, after the 1966 installation of the Bunker Hill Central Cooling Plant (Daniel, Mann, Johnson and Mendenhall for Central Plants, Inc). 
 &lt;p&gt;
 Note, below, Oliver&#039;s view is now somewhat obscured by the A. C. Martin Union Bank bldg.Â  Back and to the left, the 238 S. Grand CRA buildings, and just over his shoulder, the Castle and Salt Box.Â  1968. 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1035/4726595128_97ba32887e_b.jpg&quot; alt=&quot;union&quot; height=&quot;495&quot; width=&quot;533&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1035/4726595128_97ba32887e_b.jpg&quot; alt=&quot;union&quot; height=&quot;495&quot; width=&quot;533&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1263/4726595036_fc2409158c_b.jpg&quot; alt=&quot;fromthetimes&quot; height=&quot;616&quot; width=&quot;500&quot; /&gt;See the pit about mid-center left?Â  Below?
+&lt;img src=&quot;https://farm2.static.flickr.com/1263/4726595036_fc2409158c_b.jpg&quot; alt=&quot;fromthetimes&quot; height=&quot;616&quot; width=&quot;500&quot; /&gt;See the pit about mid-center left?Â  Below?
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1245/4726595628_d21c8312e0_b.jpg&quot; alt=&quot;pitty&quot; height=&quot;355&quot; width=&quot;524&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1245/4726595628_d21c8312e0_b.jpg&quot; alt=&quot;pitty&quot; height=&quot;355&quot; width=&quot;524&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 When I said they wanted to go another way, I wasn&#039;t kidding.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1139/4726594678_121398311d_b.jpg&quot; alt=&quot;secPac&quot; height=&quot;615&quot; width=&quot;527&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1139/4726594678_121398311d_b.jpg&quot; alt=&quot;secPac&quot; height=&quot;615&quot; width=&quot;527&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 In short:
@@ -210,10 +210,10 @@ In short:
 Now you see it --
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1438/4726593958_2f5220bae1_b.jpg&quot; alt=&quot;now&quot; height=&quot;543&quot; width=&quot;500&quot; /&gt;and now --
+&lt;img src=&quot;https://farm2.static.flickr.com/1438/4726593958_2f5220bae1_b.jpg&quot; alt=&quot;now&quot; height=&quot;543&quot; width=&quot;500&quot; /&gt;and now --
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1102/4726595280_32db24aeb4_b.jpg&quot; alt=&quot;youdonot&quot; height=&quot;411&quot; width=&quot;544&quot; /&gt; 
+&lt;img src=&quot;https://farm2.static.flickr.com/1102/4726595280_32db24aeb4_b.jpg&quot; alt=&quot;youdonot&quot; height=&quot;411&quot; width=&quot;544&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 &lt;i&gt;
@@ -225,37 +225,37 @@ Ok, Mr. gsj, since you threw down the gauntlet n&#8217;all &#8212; how could I r
 <p>Bunker Hill, famous wonderland of genteel gingerbread and gabled gothic:Â  but among the twisted turrets and distressed trusswork lived the odd massive Mission and beatific Beaux Arts building.Â  Why, here&#8217;s a representative sample:
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1173/4726594368_518e725aea_b.jpg" alt="thefuture!" height="491" width="548" /></p>
+<img src="https://farm2.static.flickr.com/1173/4726594368_518e725aea_b.jpg" alt="thefuture!" height="491" width="548" /></p>
 <p>Wait, <i>what</i>?</p>
 <p>Who would dare build a modern home amongst the homos and hopheads, the junkies and johns, the grifters and grime?Â  Well, let&#8217;s think about this.</p>
 <p>Having spent a year searching for crime amongst the spindlework and bougainvillea, I for one don&#8217;t think BH was as bad as the City made it out to be.Â  There may have been more money thrown at the fire department and health care and five-oh than the City got back in good old-fashioned taxes, but if <i>that</i> became cause for wholesale demolition tomorrow, we&#8217;d lose two-thirds of 2010 Los Angeles with one swipe.Â  </p>
 <p>Moreover Oliver was forward-thinking in his abjuration of the &#8216;burbs for moving &#8212; hell, <i>building</i> &#8212; right downtown.Â  He prefigured the downtown boosters of the &#8216;aughts by fifty years.</p>
-<p>You see, Stuart K. Oliver was an attorney with a practice downtown, and who wants to fight traffic coming into work?Â  (I&#8217;m not sold on the attorney angle, which we find in the photo archives; the newspapers describe him as a &quot;businessman&quot; and he was apparently Chairman of the LA Chapter of the <a href="http://www.asmwest.com/" title="asm" target="_blank">ASM</a>.)Â  In any event, he and his wife were attracted to living downtown.Â  They chose a spot on Bunker Hill in the early fifties.</p>
-<p>But, you ask,Â  wasn&#8217;t the CRA newly formed?Â  Weren&#8217;t the seeds of destruction being sown by Sesnon?Â  Would that not give him pause and fill him with trrrrrrrepidation? Cetainly, but in the early 50s you could still look over the 136 acres, the 400 some-odd structures, the 9000+ residents and say, <i>really</i>?Â  They&#8217;ll clear this in my lifetime?Â  This isn&#8217;t Russia, y&#8217;know.Â  (In 1950, Los Angeles, though populous, was one of America&#8217;s <a href="http://www.census.gov/population/www/documentation/twps0027/tab18.txt" title="ourtinyburg" target="_blank">least-dense cities</a>Â  &#8212; however the City deemed Bunker Hill <i>too dense</i>, hence its need for demolition.Â  [Of course it was less dense <i>then</i> than any of LA&#8217;s eighty-eight cities are <i>now</i>, on top of which every city is, ironically, pushing for New Urbanist &quot;density bonuses&quot;&#8230;but I digress].)Â  Of course by &#8217;59 the Feds had approved all the grants and loans and the City Council jumped on the thing and that was that, but that, for the time being, is the future.Â  Back to ca. 1952:</p>
+<p>You see, Stuart K. Oliver was an attorney with a practice downtown, and who wants to fight traffic coming into work?Â  (I&#8217;m not sold on the attorney angle, which we find in the photo archives; the newspapers describe him as a &quot;businessman&quot; and he was apparently Chairman of the LA Chapter of the <a href="https://www.asmwest.com/" title="asm" target="_blank">ASM</a>.)Â  In any event, he and his wife were attracted to living downtown.Â  They chose a spot on Bunker Hill in the early fifties.</p>
+<p>But, you ask,Â  wasn&#8217;t the CRA newly formed?Â  Weren&#8217;t the seeds of destruction being sown by Sesnon?Â  Would that not give him pause and fill him with trrrrrrrepidation? Cetainly, but in the early 50s you could still look over the 136 acres, the 400 some-odd structures, the 9000+ residents and say, <i>really</i>?Â  They&#8217;ll clear this in my lifetime?Â  This isn&#8217;t Russia, y&#8217;know.Â  (In 1950, Los Angeles, though populous, was one of America&#8217;s <a href="https://www.census.gov/population/www/documentation/twps0027/tab18.txt" title="ourtinyburg" target="_blank">least-dense cities</a>Â  &#8212; however the City deemed Bunker Hill <i>too dense</i>, hence its need for demolition.Â  [Of course it was less dense <i>then</i> than any of LA&#8217;s eighty-eight cities are <i>now</i>, on top of which every city is, ironically, pushing for New Urbanist &quot;density bonuses&quot;&#8230;but I digress].)Â  Of course by &#8217;59 the Feds had approved all the grants and loans and the City Council jumped on the thing and that was that, but that, for the time being, is the future.Â  Back to ca. 1952:</p>
 <p>So if you had to live in the middle of America&#8217;s fourth-largest city, would you choose to be crammed down in the flats?Â  If you wanted a view, would you have an airless apartment up some filing cabinet?Â  Or live up the side of some godforsaken hill covered in winding roads and devoid of parking?</p>
 <p>Oliver was a genius.Â  He picked a perch perfect for light, air, sun, and, it being Bunker Hill, which had next to no auto ownership, plenty of peace on that front.Â  It was the rough equivalent of twenty stories up a skyscraper, with a 200-degree view across greater Los Angeles.Â  </p>
 <p>A little bit about the site.Â Â  You have of course read about the <a href="/hildreth_mansion" title="Hildy" target="_blank">Hildreth Mansion</a> at Fourth and Hope.Â  You may not realize that one of the reasons it was such a stunning house is that besides its view toward downtown:
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1123/4726594104_4b7416f9dc_b.jpg" alt="hildrethtowardt" height="376" width="525" /></p>
+<img src="https://farm2.static.flickr.com/1123/4726594104_4b7416f9dc_b.jpg" alt="hildrethtowardt" height="376" width="525" /></p>
 <p>Its backside sat atop a great promontory that presided over Flower, Figueroa and a view toward the Pacific on a clear day.Â  Here&#8217;s the Hildreth in 1906 (bottom, at 357):
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1412/4726595990_432af918de_b.jpg" alt="hildreth1906" height="494" width="525" /></p>
+<img src="https://farm2.static.flickr.com/1412/4726595990_432af918de_b.jpg" alt="hildreth1906" height="494" width="525" /></p>
 <p>And again in 1951, nothing much has changed in that part of the world:
 </p>
-<p><img src="http://farm2.static.flickr.com/1381/4726594524_539df1fb9b_b.jpg" alt="sanborn51" height="502" width="512" />Now look what&#8217;s happened to 353/351 in 1953:
+<p><img src="https://farm2.static.flickr.com/1381/4726594524_539df1fb9b_b.jpg" alt="sanborn51" height="502" width="512" />Now look what&#8217;s happened to 353/351 in 1953:
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1050/4725946265_62dd2ba2c2_b.jpg" alt="sanborn1953" height="488" width="525" /></p>
+<img src="https://farm2.static.flickr.com/1050/4725946265_62dd2ba2c2_b.jpg" alt="sanborn1953" height="488" width="525" /></p>
 <p>Some crazy bastard has built the most modern house in Moderntown!</p>
 <p>Note the way in which the Oliver house has been worked into the old Hildreth wall to the north&#8211;apparently, I read on another site, the site of the Hildreth carriage house:
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1191/4725945483_709a7d379f_b.jpg" alt="hildreth" height="581" width="500" />
+<img src="https://farm2.static.flickr.com/1191/4725945483_709a7d379f_b.jpg" alt="hildreth" height="581" width="500" />
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1173/4726594368_518e725aea_b.jpg" alt="oliver wall" height="491" width="548" />
+<img src="https://farm2.static.flickr.com/1173/4726594368_518e725aea_b.jpg" alt="oliver wall" height="491" width="548" />
 </p>
 <p>
 But Oliver&#8217;s neighbor the Hildreth was not to stand long.Â  We&#8217;ve talked a little bit about the Fourth Street Cut <a href="/TheZelda" title="4thAndZelda" target="_blank">here</a> and it was into that ditch went everything holding up the Hildreth.Â  And the Hildreth.</p>
@@ -274,7 +274,7 @@ Now let&#8217;s look at some photos:
 About the 4th St Cut AKA the Viaduct&#8230;now, here&#8217;s a pre-1954 image:
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1017/4726596062_6fe8e69612_b.jpg" alt="4th" height="371" width="526" />
+<img src="https://farm2.static.flickr.com/1017/4726596062_6fe8e69612_b.jpg" alt="4th" height="371" width="526" />
 </p>
 <p>
 Flower runs up the middle of this pic; note how 4th, horizontal above the big white building on the left, stops at Flower.Â  It had to.Â  There was a giant f&#8217;ing hill there. Â  One had to <i>do</i> something about it.Â 
@@ -283,7 +283,7 @@ Flower runs up the middle of this pic; note how 4th, horizontal above the big wh
 &nbsp;
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1323/4726595530_9dd941b395_b.jpg" alt="Dec54" height="400" width="510" />
+<img src="https://farm2.static.flickr.com/1323/4726595530_9dd941b395_b.jpg" alt="Dec54" height="400" width="510" />
 </p>
 <p>
 Above, December 1954, they&#8217;re digging out the 4th Street<br />
@@ -295,35 +295,35 @@ to say &quot;Oh, isn&#8217;t that precious?&quot;
 The cut &#8212; the Oliver house is the &quot;C&quot; shape in the upper right:
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1021/4725946649_bd13400a07_b.jpg" alt="cutty" height="407" width="525" />
+<img src="https://farm2.static.flickr.com/1021/4725946649_bd13400a07_b.jpg" alt="cutty" height="407" width="525" />
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1252/4726595434_94c2b51bf2_b.jpg" alt="cut1" height="404" width="539" />
+<img src="https://farm2.static.flickr.com/1252/4726595434_94c2b51bf2_b.jpg" alt="cut1" height="404" width="539" />
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1382/4726595860_04bf7e699a_b.jpg" alt="olly" height="311" width="531" />
+<img src="https://farm2.static.flickr.com/1382/4726595860_04bf7e699a_b.jpg" alt="olly" height="311" width="531" />
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1022/4726595788_415025b23a_b.jpg" alt="installation" height="366" width="503" />
+<img src="https://farm2.static.flickr.com/1022/4726595788_415025b23a_b.jpg" alt="installation" height="366" width="503" />
 </p>
 <p>Above, after the 1966 installation of the Bunker Hill Central Cooling Plant (Daniel, Mann, Johnson and Mendenhall for Central Plants, Inc). </p>
 <p>
 Note, below, Oliver&#8217;s view is now somewhat obscured by the A. C. Martin Union Bank bldg.Â  Back and to the left, the 238 S. Grand CRA buildings, and just over his shoulder, the Castle and Salt Box.Â  1968.
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1035/4726595128_97ba32887e_b.jpg" alt="union" height="495" width="533" />
+<img src="https://farm2.static.flickr.com/1035/4726595128_97ba32887e_b.jpg" alt="union" height="495" width="533" />
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1263/4726595036_fc2409158c_b.jpg" alt="fromthetimes" height="616" width="500" />See the pit about mid-center left?Â  Below?
+<img src="https://farm2.static.flickr.com/1263/4726595036_fc2409158c_b.jpg" alt="fromthetimes" height="616" width="500" />See the pit about mid-center left?Â  Below?
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1245/4726595628_d21c8312e0_b.jpg" alt="pitty" height="355" width="524" />
+<img src="https://farm2.static.flickr.com/1245/4726595628_d21c8312e0_b.jpg" alt="pitty" height="355" width="524" />
 </p>
 <p>
 When I said they wanted to go another way, I wasn&#8217;t kidding.
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1139/4726594678_121398311d_b.jpg" alt="secPac" height="615" width="527" />
+<img src="https://farm2.static.flickr.com/1139/4726594678_121398311d_b.jpg" alt="secPac" height="615" width="527" />
 </p>
 <p>
 In short:
@@ -332,10 +332,10 @@ In short:
 Now you see it &#8212;
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1438/4726593958_2f5220bae1_b.jpg" alt="now" height="543" width="500" />and now &#8212;
+<img src="https://farm2.static.flickr.com/1438/4726593958_2f5220bae1_b.jpg" alt="now" height="543" width="500" />and now &#8212;
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1102/4726595280_32db24aeb4_b.jpg" alt="youdonot" height="411" width="544" />
+<img src="https://farm2.static.flickr.com/1102/4726595280_32db24aeb4_b.jpg" alt="youdonot" height="411" width="544" />
 </p>
 <p>
 <i><br />
@@ -379,7 +379,7 @@ ok Nathan, consider this moment in time as sometime and now&#039;s i&#039;m remi
 So, of the image six photos down, I wrote &lt;i&gt;...On the right of the Richelieu is this weird 30s building that doesn&#039;t get photographed often and more work has to be done on it.&lt;/i&gt; Â  Rick Mechtly, Bunker Historian &lt;span class=&quot;mention-Latn&quot;&gt;extraordinaire, &lt;/span&gt;wrote to tell me that the house there was built in 1898 by J. P. Miller as a home (likely the same JPM of 201 S Bunker Hill fame) and went through a couple of owners before being renamed The Stowell on becoming an apartment house.Â  He and I both conjectured that it had had a major facelift/renovation on its thrust into modernity.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1272/4704438872_58086523f3_o.jpg&quot; alt=&quot;144IsStreamlinyGood&quot; height=&quot;405&quot; width=&quot;335&quot; /&gt;
+&lt;img src=&quot;https://farm2.static.flickr.com/1272/4704438872_58086523f3_o.jpg&quot; alt=&quot;144IsStreamlinyGood&quot; height=&quot;405&quot; width=&quot;335&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 But conjecture is just that.Â  One has to &lt;i&gt;know&lt;/i&gt;, and until all available resources are exhausted...we know you would demand no less.Â  So the City Archives were attacked with righteous fury, and guess what turned up?
@@ -394,13 +394,13 @@ Before each little model building could be built and painted and placed, the who
 Here&#039;s a drawing of the corner (on the drawing it&#039;s noted that a model of the block, and thus this building, was made in November 1939).Â  There&#039;s the Richelieu in the center, and at the corner the 1898 144 S. Grand:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm2.static.flickr.com/1287/4703798089_c32c01540e_o.jpg&quot; alt=&quot;144SG&quot; height=&quot;459&quot; width=&quot;500&quot; /&gt; 
+&lt;img src=&quot;https://farm2.static.flickr.com/1287/4703798089_c32c01540e_o.jpg&quot; alt=&quot;144SG&quot; height=&quot;459&quot; width=&quot;500&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 But aha!Â  Something happened during the sketching process that mucked up their plans.Â  Note the cross-out marks through the house.Â  Here, then, is a piece of addenda tucked within the stacks:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm5.static.flickr.com/4067/4704438796_6084b15c78_b.jpg&quot; alt=&quot;deco-y&quot; height=&quot;672&quot; width=&quot;500&quot; /&gt; 
+&lt;img src=&quot;https://farm5.static.flickr.com/4067/4704438796_6084b15c78_b.jpg&quot; alt=&quot;deco-y&quot; height=&quot;672&quot; width=&quot;500&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 &#034;New Structure&#034; with a totally different footprint. Â  
@@ -412,20 +412,20 @@ This building was modeled March, 1940 and placed on the model May 1.
 Where it sits to this day:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;http://farm5.static.flickr.com/4044/4704655100_2519c0794f_o.jpg&quot; alt=&quot;sittin&quot; height=&quot;426&quot; width=&quot;500&quot; /&gt; 
+&lt;img src=&quot;https://farm5.static.flickr.com/4044/4704655100_2519c0794f_o.jpg&quot; alt=&quot;sittin&quot; height=&quot;426&quot; width=&quot;500&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 Fascinating that a Moderne building would be built, of all places, on Bunker Hill.Â  Of course it only made it to age seventeen.Â Â 
 &lt;/p&gt;
 &lt;p&gt;
-(Speaking of modern structures on the Hill, remind me sometime to tell y&#039;all about &lt;a href=&quot;http://jpg2.lapl.org/pics23/00046384.jpg&quot; title=&quot;SKO&quot; target=&quot;_blank&quot;&gt;353 South Hope&lt;/a&gt;.Â  The Stuart K. Oliver residence was built on the site of the Hildreth mansion&#039;s adjacent carriage house ca. 1952, and Oliver didn&#039;t want to sell or move.Â  Stalled the CRA for &lt;i&gt;years&lt;/i&gt;.Â  The house was demolished around 1969.) 
+(Speaking of modern structures on the Hill, remind me sometime to tell y&#039;all about &lt;a href=&quot;https://jpg2.lapl.org/pics23/00046384.jpg&quot; title=&quot;SKO&quot; target=&quot;_blank&quot;&gt;353 South Hope&lt;/a&gt;.Â  The Stuart K. Oliver residence was built on the site of the Hildreth mansion&#039;s adjacent carriage house ca. 1952, and Oliver didn&#039;t want to sell or move.Â  Stalled the CRA for &lt;i&gt;years&lt;/i&gt;.Â  The house was demolished around 1969.) 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
 So, of the image six photos down, I wrote <i>&#8230;On the right of the Richelieu is this weird 30s building that doesn&#8217;t get photographed often and more work has to be done on it.</i> Â  Rick Mechtly, Bunker Historian <span class="mention-Latn">extraordinaire, </span>wrote to tell me that the house there was built in 1898 by J. P. Miller as a home (likely the same JPM of 201 S Bunker Hill fame) and went through a couple of owners before being renamed The Stowell on becoming an apartment house.Â  He and I both conjectured that it had had a major facelift/renovation on its thrust into modernity.
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1272/4704438872_58086523f3_o.jpg" alt="144IsStreamlinyGood" height="405" width="335" />
+<img src="https://farm2.static.flickr.com/1272/4704438872_58086523f3_o.jpg" alt="144IsStreamlinyGood" height="405" width="335" />
 </p>
 <p>
 But conjecture is just that.Â  One has to <i>know</i>, and until all available resources are exhausted&#8230;we know you would demand no less.Â  So the City Archives were attacked with righteous fury, and guess what turned up?
@@ -440,13 +440,13 @@ Before each little model building could be built and painted and placed, the who
 Here&#8217;s a drawing of the corner (on the drawing it&#8217;s noted that a model of the block, and thus this building, was made in November 1939).Â  There&#8217;s the Richelieu in the center, and at the corner the 1898 144 S. Grand:
 </p>
 <p>
-<img src="http://farm2.static.flickr.com/1287/4703798089_c32c01540e_o.jpg" alt="144SG" height="459" width="500" />
+<img src="https://farm2.static.flickr.com/1287/4703798089_c32c01540e_o.jpg" alt="144SG" height="459" width="500" />
 </p>
 <p>
 But aha!Â  Something happened during the sketching process that mucked up their plans.Â  Note the cross-out marks through the house.Â  Here, then, is a piece of addenda tucked within the stacks:
 </p>
 <p>
-<img src="http://farm5.static.flickr.com/4067/4704438796_6084b15c78_b.jpg" alt="deco-y" height="672" width="500" />
+<img src="https://farm5.static.flickr.com/4067/4704438796_6084b15c78_b.jpg" alt="deco-y" height="672" width="500" />
 </p>
 <p>
 &quot;New Structure&quot; with a totally different footprint. Â 
@@ -458,13 +458,13 @@ This building was modeled March, 1940 and placed on the model May 1.
 Where it sits to this day:
 </p>
 <p>
-<img src="http://farm5.static.flickr.com/4044/4704655100_2519c0794f_o.jpg" alt="sittin" height="426" width="500" />
+<img src="https://farm5.static.flickr.com/4044/4704655100_2519c0794f_o.jpg" alt="sittin" height="426" width="500" />
 </p>
 <p>
 Fascinating that a Moderne building would be built, of all places, on Bunker Hill.Â  Of course it only made it to age seventeen.Â Â 
 </p>
 <p>
-(Speaking of modern structures on the Hill, remind me sometime to tell y&#8217;all about <a href="http://jpg2.lapl.org/pics23/00046384.jpg" title="SKO" target="_blank">353 South Hope</a>.Â  The Stuart K. Oliver residence was built on the site of the Hildreth mansion&#8217;s adjacent carriage house ca. 1952, and Oliver didn&#8217;t want to sell or move.Â  Stalled the CRA for <i>years</i>.Â  The house was demolished around 1969.)</p>
+(Speaking of modern structures on the Hill, remind me sometime to tell y&#8217;all about <a href="https://jpg2.lapl.org/pics23/00046384.jpg" title="SKO" target="_blank">353 South Hope</a>.Â  The Stuart K. Oliver residence was built on the site of the Hildreth mansion&#8217;s adjacent carriage house ca. 1952, and Oliver didn&#8217;t want to sell or move.Â  Stalled the CRA for <i>years</i>.Â  The house was demolished around 1969.)</p>
 ]]></content:encoded>
 		
 			</item>

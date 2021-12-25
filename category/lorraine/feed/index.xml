@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/category/lorraine/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Tue, 04 Aug 2020 23:12:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Suicide Writ Large at Clay Central</title>
 		<link>/claycentral/</link>
-					<comments>/claycentral/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 03 May 2008 10:20:30 +0000</pubDate>
@@ -53,53 +52,50 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Before the Community Redevelopment Association swung its scythe across Bunker Hill, one building tried to do itself in. This structure was by all evidence a living, cursed thing, and like the House of Usher disappearing into the tarn, it acted to remove itself from this world. Shades of the Overlook Hotel–someone or something used the &#8230; <a href="/claycentral/" class="more-link">Continue reading<span class="screen-reader-text"> "Suicide Writ Large at Clay Central"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3093/2460152871_a449276c27_o.gif" alt="blammo" height="175" width="448" /></p>
-<p>Before the Community Redevelopment Association swung its scythe across Bunker Hill, one building tried to do itself in.  This structure was by all evidence a living, cursed thing, and like the <a href="http://www.bartleby.com/195/10.html" title="starringvincentprice" target="_blank">House of Usher</a> disappearing into the tarn, it acted to remove itself from this world.  Shades of the <a href="http://en.wikipedia.org/wiki/Overlook_Hotel" title="timberlineonclay" target="_blank">Overlook Hotel</a>–someone or something used the old exploding boiler trick to force this assembly of apartments from its supramortal coil.</p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3093/2460152871_a449276c27_o.gif" alt="blammo" height="175" width="448" /></p>
+<p>Before the Community Redevelopment Association swung its scythe across Bunker Hill, one building tried to do itself in.  This structure was by all evidence a living, cursed thing, and like the <a href="https://www.bartleby.com/195/10.html" title="starringvincentprice" target="_blank" rel="noopener">House of Usher</a> disappearing into the tarn, it acted to remove itself from this world.  Shades of the <a href="https://en.wikipedia.org/wiki/Overlook_Hotel" title="timberlineonclay" target="_blank" rel="noopener">Overlook Hotel</a>–someone or something used the old exploding boiler trick to force this assembly of apartments from its supramortal coil.</p>
 <p>I speak of the Hotel Central, aka the Clayton Apartments, aka the Lorraine Hotel.  Change the names all you want, there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s something wrong at 310 Clay Street.  Kim”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s numerous posts about the place attest to <i>that</i>.</p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2062/2459037241_09f29cfc22_o.gif" alt="gagschool" align="right" height="152" width="281" /><br />
-The spot was a trouble magnet even before the hotel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s erection.  Back when 310 was a double dwelling, it attracted kerchief-weilding lady-gagging <a href="/anightvisitor" title="nightvis" target="_blank">burglars</a>. </p>
-<p>By 1910 the Hotel Lorraine stands on the site and <a href="/goingtobakersfield" title="foundincatalina" target="_blank">Jerome Hite</a> elects to shoot his wife in the neck. </p>
-<p>Come 1914, proprietor-of-the-place Claude Mathewson–gets, what, tired of watching the walls bleed? listening to the screaming faces jutting from the washbasin mirror?–elects to pop two new holes into his <a href="/nelliebuck" title="mathewson" target="_blank">lovely wife</a> and one into his own head. </p>
-<p>Shortly after, in that room where try as one might the blood just never quite washes out, a real estate titan is <a href="/inthedeathroom" title="deathroom" target="_blank">taken down</a> for sordidness. </p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2268/2460241029_8700ac72d5_o.gif" alt="goodstart" align="left" height="115" width="266" /><br />
-A year later, the establishment, now named the Clayton, has become a <a href="/redlightraid" title="veritabledenItellyou" target="_blank">veritable den of iniquity</a>.  The new proprietor is a Mrs. Florence Cheney.  According to her, the property is owned by Leon Levy, “about whom no one concerned could give any information.”</p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2213/2459037211_e2acd7a6f9_o.gif" alt="goodstart" height="300" width="250" /></p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3220/2459037297_09e6e30028_o.gif" alt="wellpassoverthat" align="right" height="168" width="243" /><br />
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2062/2459037241_09f29cfc22_o.gif" alt="gagschool" align="right" height="152" width="281" /><br />
+The spot was a trouble magnet even before the hotel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s erection.  Back when 310 was a double dwelling, it attracted kerchief-weilding lady-gagging <a href="/anightvisitor" title="nightvis" target="_blank" rel="noopener">burglars</a>. </p>
+<p>By 1910 the Hotel Lorraine stands on the site and <a href="/goingtobakersfield" title="foundincatalina" target="_blank" rel="noopener">Jerome Hite</a> elects to shoot his wife in the neck. </p>
+<p>Come 1914, proprietor-of-the-place Claude Mathewson–gets, what, tired of watching the walls bleed? listening to the screaming faces jutting from the washbasin mirror?–elects to pop two new holes into his <a href="/nelliebuck" title="mathewson" target="_blank" rel="noopener">lovely wife</a> and one into his own head. </p>
+<p>Shortly after, in that room where try as one might the blood just never quite washes out, a real estate titan is <a href="/inthedeathroom" title="deathroom" target="_blank" rel="noopener">taken down</a> for sordidness. </p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2268/2460241029_8700ac72d5_o.gif" alt="goodstart" align="left" height="115" width="266" /><br />
+A year later, the establishment, now named the Clayton, has become a <a href="/redlightraid" title="veritabledenItellyou" target="_blank" rel="noopener">veritable den of iniquity</a>.  The new proprietor is a Mrs. Florence Cheney.  According to her, the property is owned by Leon Levy, “about whom no one concerned could give any information.”</p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2213/2459037211_e2acd7a6f9_o.gif" alt="goodstart" height="300" width="250" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3220/2459037297_09e6e30028_o.gif" alt="wellpassoverthat" align="right" height="168" width="243" /><br />
 Mrs. Cheney shows up again as a witness in the 1916 Percy Tugwell trial; Percy robbed and murdered Senator”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s-daughter Maud Kennedy, and while Mrs. Cheney asserted that Maud may have committed suicide because she was being threatened by boxer Louis “Cyclone Thompson” Astosky, her character and thus credibility were attacked mercilessly.</p>
 <p>Leon Levy decides to get out of the 310 Clay business after changing its name again to the Hotel Central.</p>
 <p>Things stay quiet at 310 Clay for the next couple decades or so&#8230;acts of ill fortune befall its residents elsewhere.  <br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2318/2460094159_73201637f6_o.gif" alt="maceydayparade" height="176" width="248" /><br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2302/2459883374_76a6b7e7b2_o.gif" alt="centrallooms" align="right" height="400" width="251" /><br />
+<img loading="lazy" src="https://farm3.static.flickr.com/2318/2460094159_73201637f6_o.gif" alt="maceydayparade" height="176" width="248" /><br />
+<img loading="lazy" src="https://farm3.static.flickr.com/2302/2459883374_76a6b7e7b2_o.gif" alt="centrallooms" align="right" height="400" width="251" /><br />
 In 1922, for example, Frank Macey, son of a wealthy Phoenix shoe dealer, dropped from sight for a week after staying in the Central.  He ended up as a nameless bloody pulp in County Hospital, hovering in and out of consciousness, until at last identified as the prodigal Frank.  </p>
-<p>In 1923, Sander Serrano, 22 year-old graduate of USC, was playing pool at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=155+E+1st+St,+Los+Angeles,+CA+90012&amp;sll=34.051842,-118.242846&amp;sspn=0.009031,0.014527&amp;layer=c&amp;ie=UTF8&amp;ll=34.053033,-118.242846&amp;spn=0.009031,0.014527&amp;t=h&amp;z=16&amp;iwloc=addr&amp;cbll=34.051814,-118.242843" title="thewatersfine" target="_blank">155 East First</a> when he was accused of jostling another player.  For this he nearly lost his arm to his penknife-wielding opponent, who severed a slew of arteries and stabbed him in the throat.</p>
-<p>A 1936 beer parlor fight at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=121+S+Main+St,+Los+Angeles,+CA+90012&amp;sll=34.051984,-118.243661&amp;sspn=0.009031,0.014527&amp;layer=c&amp;ie=UTF8&amp;ll=34.053175,-118.243661&amp;spn=0.009031,0.014527&amp;z=16&amp;iwloc=addr&amp;cbll=34.051966,-118.243645" title="drinkmaier" target="_blank">121 South Main</a> resulted in the stabbing of Hotel Central resident Walter Paine.</p>
+<p>In 1923, Sander Serrano, 22 year-old graduate of USC, was playing pool at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=155+E+1st+St,+Los+Angeles,+CA+90012&amp;sll=34.051842,-118.242846&amp;sspn=0.009031,0.014527&amp;layer=c&amp;ie=UTF8&amp;ll=34.053033,-118.242846&amp;spn=0.009031,0.014527&amp;t=h&amp;z=16&amp;iwloc=addr&amp;cbll=34.051814,-118.242843" title="thewatersfine" target="_blank" rel="noopener">155 East First</a> when he was accused of jostling another player.  For this he nearly lost his arm to his penknife-wielding opponent, who severed a slew of arteries and stabbed him in the throat.</p>
+<p>A 1936 beer parlor fight at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=121+S+Main+St,+Los+Angeles,+CA+90012&amp;sll=34.051984,-118.243661&amp;sspn=0.009031,0.014527&amp;layer=c&amp;ie=UTF8&amp;ll=34.053175,-118.243661&amp;spn=0.009031,0.014527&amp;z=16&amp;iwloc=addr&amp;cbll=34.051966,-118.243645" title="drinkmaier" target="_blank" rel="noopener">121 South Main</a> resulted in the stabbing of Hotel Central resident Walter Paine.</p>
 <p>And so it goes, until the hotel could take no more, or had claimed enough souls, or something otherwise unknowable to mere man.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3241/2460987830_f60464a514_o.gif" alt="alamogordo" height="528" width="575" /><br />
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3241/2460987830_f60464a514_o.gif" alt="alamogordo" height="528" width="575" /><br />
 Mid-day, November 27, 1953.  O. B. Reeder, a 73 year-old retired printer, was bent over a table preparing Christmas gifts for mailing.  Houses of Hell hating the Christmas season and all, the boiler exploded in rage, sending Reeder”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s door across the room and into his back.  Directly across the hall, from where resident Gus Poulas”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> guardian angel had guided him elsewhere, the room was completely wrecked, all tumbled furniture and great cakes of plaster torn from the walls.  </p>
 <p>The boiler room itself was obliterated into a mass of twisted metal and piles of timber and concrete wall blocks.  Plaster from walls and ceilings was concussed to floors throughout the hotel.   The windows and doors in the first three floors were cracked or blown out by the explosion, which attracted a large lunchtime crowd of spectators to the Hill Street section of the Grand Central Market.  (The back of the hotel towered over a Hill St. parking lot:)<br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2411/2455309324_b16fb0f5ff_o.gif" alt="hillstblues" height="581" width="400" /><br />
+<img loading="lazy" src="https://farm3.static.flickr.com/2411/2455309324_b16fb0f5ff_o.gif" alt="hillstblues" height="581" width="400" /><br />
 Making the incident all the eerier is owner/manager William Ogawa”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s statement that while the boilers were under repair, he was certain that gas to the boiler room had been turned off when the boilers went out of order several days previous.</p>
 <p>In any event, everything was rebuilt, doors rehung, windows reglazed.  Less than a decade later the scythe swung and all that was 310 Clay was at the bottom of a landfill, the CRA accomplishing what the Lorraine/Clayton/Central couldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t do itself.</p>
 <p>But remember what I said about the spot being a trouble magnet even before the hotel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s erection?  Is there some sort of Poltergeist-style burial-ground whatnot at work here?  Flash forward a hundred years from our tale of the simple double residence. </p>
 <p>310 Clay at lucky number 13:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3088/2455308872_32799a8c31_o.gif" alt="13ghosts" height="400" width="383" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3088/2455308872_32799a8c31_o.gif" alt="13ghosts" height="400" width="383" /></p>
 <p>The site of 310 on the Ghost Street that is Clay:<br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2264/2454618353_afa64d9024_o.gif" alt="ghoststreet" height="328" width="575" /></p>
-<p>On that very spot.  February 1, 2001.  What spanner of the underworld was <a href="http://juniperhills.net/elegyfortwoangels.html" title="thereaping" target="_blank">tossed into</a> the heavenly works of a newly-located Angels Flight? </p>
+<img loading="lazy" src="https://farm3.static.flickr.com/2264/2454618353_afa64d9024_o.gif" alt="ghoststreet" height="328" width="575" /></p>
+<p>On that very spot.  February 1, 2001.  What spanner of the underworld was <a href="https://juniperhills.net/elegyfortwoangels.html" title="thereaping" target="_blank" rel="noopener">tossed into</a> the heavenly works of a newly-located Angels Flight? </p>
 <p>This is the ground zero of Clay Street.  Clay Street, the street that had to be destroyed.  The street whose very name–<i>clay</i>–symbolizes (via Nebuchadnezzar&#8217;s dream) the division of an empire, and the end of a kingdom.</p>
 <p><i>Hotel Cental photographs courtesy Arnold Hylen Collection, California History Section, California State Library</i></p>
 <p><i>Newpaper images from the Los Angeles Times </i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/claycentral/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>In the Death Room</title>
 		<link>/inthedeathroom/</link>
-					<comments>/inthedeathroom/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 09:44:22 +0000</pubDate>
@@ -118,18 +114,15 @@ Making the incident all the eerier is owner/manager William Ogawa”<img src="ht
 					<description><![CDATA[Location: 310 Clay Street Date: May 3, 1914]]></description>
 										<content:encoded><![CDATA[<p>Location: 310 Clay Street<br />
 Date: May 3, 1914</p>
-<p><a href="http://www.flickr.com/photos/richardschave/2405111659/" title="Shenanigans in Hotel Lorraine Death Room by richardschave, on Flickr"><img loading="lazy" src="http://farm4.static.flickr.com/3001/2405111659_52e16480eb_o.png" alt="Shenanigans in Hotel Lorraine Death Room" height="597" width="635" /></a></p>
+<p><a href="https://www.flickr.com/photos/richardschave/2405111659/" title="Shenanigans in Hotel Lorraine Death Room by richardschave, on Flickr"><img loading="lazy" src="https://farm4.static.flickr.com/3001/2405111659_52e16480eb_o.png" alt="Shenanigans in Hotel Lorraine Death Room" height="597" width="635" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/inthedeathroom/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Most Beautiful Woman on Spring Street</title>
 		<link>/nelliebuck/</link>
-					<comments>/nelliebuck/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 09:42:33 +0000</pubDate>
@@ -144,7 +137,7 @@ Date: May 3, 1914</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 310 Clay Street Date: April 11, 1914 Claude Mathewson lived and died by the philosophy &#34;The better the day, the better the deed.&#34; He&#8217;d often slip this bon mot into conversation in the basement dives of Spring Street, and if his tipsy companions didn&#8217;t know what the hell he meant in life, they got &#8230; <a href="/nelliebuck/" class="more-link">Continue reading<span class="screen-reader-text"> "The Most Beautiful Woman on Spring Street"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2405787180/" title="nellie murdoch and slayer claude mathewson at Hotel Lorraine by richardschave, on Flickr"><img loading="lazy" src="http://farm4.static.flickr.com/3070/2405787180_38e7ec893c.jpg" alt="nellie murdoch and slayer claude mathewson at Hotel Lorraine" height="500" width="287" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2405787180/" title="nellie murdoch and slayer claude mathewson at Hotel Lorraine by richardschave, on Flickr"><img loading="lazy" src="https://farm4.static.flickr.com/3070/2405787180_38e7ec893c.jpg" alt="nellie murdoch and slayer claude mathewson at Hotel Lorraine" height="500" width="287" /></a></p>
 <p>Location: 310 Clay Street<br />
 <br />
 Date: April 11, 1914</p>
@@ -153,20 +146,17 @@ Date: April 11, 1914</p>
 <p>And Claude too was well known along Spring, as former proprietor of the Rathskellar Cafe, one-time ward politician, deputy sheriff and fireman. When Nellie came from the north on a lark and met Claude, he had already divorced once and would soon enough lose track of wife #2. He&#8217;d never taken a woman seriously before, but when he saw Nellie, he was gobsmacked. He contrived to pay for her drink with a $50 bill, and was rewarded when the lady smiled and said to her friend, &quot;He&#8217;s some sport.&quot; Claude&#8217;s captivation became the talk of the town, as his wife filed for divorce, his bank accounts were emptied to buy dresses and wraps, and he even sold his cafe on Nellie&#8217;s whim, because she wanted to run a rooming house. He paid $5000 for the Hotel Lorraine (later to be called the Hotel Clayton) and established her there on Clay Street. But soon the police discovered the type of establishment it was and blocked new tenants from arriving, and Claude found himself short of cash.</p>
 <p>Worse still, Nellie developed an affection of her own, and began traveling to the Vernon Country Club to dally with a cafe singer. Anxious, Claude retired to Murrietta Hot Springs to lick his wounds, and there he brooded. On his return to town, his jaw was set, and his friends could see he had made some big decision. It was hoped he would scare up some cash and redeem his cafe partnership with Walter Lips, former fire chief, but this was not his plan.</p>
 <p>Late Thursday night, he went to the hotel to look for Nellie, and waited until she returned from Vernon. They fought, and she told him she intended to leave him, and had been saving her money to get away the very next day–Good Friday. Is that so, mused Claude. Because he too had been waiting and planning something for the morning, only his plan was to kill Nellie. He had waited fourteen days to perform this grim act on the most auspicious date. Nellie sat shocked, then ran to a friend&#8217;s room to say that Claude was mad. But she must not have taken him seriously, since she returned to her room and continued the discussion, and all night they quarreled.</p>
-<p><a href="http://www.flickr.com/photos/richardschave/2404956123/" title="nellie murdoch slaying headline at Hotel Lorraine by richardschave, on Flickr"><img loading="lazy" src="http://farm4.static.flickr.com/3060/2404956123_3fb3ea6959_o.png" alt="nellie murdoch slaying headline at Hotel Lorraine" height="160" width="331" /></a></p>
+<p><a href="https://www.flickr.com/photos/richardschave/2404956123/" title="nellie murdoch slaying headline at Hotel Lorraine by richardschave, on Flickr"><img loading="lazy" src="https://farm4.static.flickr.com/3060/2404956123_3fb3ea6959_o.png" alt="nellie murdoch slaying headline at Hotel Lorraine" height="160" width="331" /></a></p>
 <p>And when the dawn broke, Claude announced &quot;Good Friday has come, my dear, and it is time for you to die.&quot; She screamed. He took her own gun from her desk and aimed. She hid in the closet, wrapped in silky things he&#8217;d bought for her, which were no defense against two slugs from the little lady&#8217;s .25. And after satisfying himself that she was dead Claude rolled and smoked a last cigarette, then shot himself in the head.</p>
 <p>Nellie was buried at Rosedale, and her lover cremated after services at the Peck &amp; Chase chapel. Mrs. Mathewson, who returned from Seattle to handle the arrangements, is at her sister&#8217;s home on West 41st Street, and will not speak of what has happened, but we think the disposition of her husband&#8217;s body says it all.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/nelliebuck/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>&#8220;I Am Going to Bakersfield!&#8221;</title>
 		<link>/goingtobakersfield/</link>
-					<comments>/goingtobakersfield/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 09:37:25 +0000</pubDate>
@@ -181,7 +171,7 @@ Date: April 11, 1914</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 310 Clay Street Date: June 19, 1910 Jerome Hite, former bookkeeper at the Woolwine Motor Car Company, is a jealous man. He drinks to excess, and likes to chase his wife with a revolver. In an attempt to prove she had been faithless, he pretended to leave on a business trip to Bakersfield, but &#8230; <a href="/goingtobakersfield/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;I Am Going to Bakersfield!&#8221;"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2405883570/" title="jerome hite and wife whom he shot at hotel lorraine by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2044/2405883570_42371d905d.jpg" alt="jerome hite and wife whom he shot at hotel lorraine" height="500" width="158" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2405883570/" title="jerome hite and wife whom he shot at hotel lorraine by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2044/2405883570_42371d905d.jpg" alt="jerome hite and wife whom he shot at hotel lorraine" height="500" width="158" /></a></p>
 <p>Location: 310 Clay Street<br />
 Date: June 19, 1910</p>
 <p>Jerome Hite, former bookkeeper at the Woolwine Motor Car Company, is a jealous man. He drinks to excess, and likes to chase his wife with a revolver. In an attempt to prove she had been faithless, he pretended to leave on a business trip to Bakersfield, but returned to their room at the Hotel Lorraine a few hours later, saying he had forgotten a pair of shoes. But his wife was alone. He took the shoes and again &quot;left for Bakersfield,&quot; but returned later that evening; again, nothing was amiss. Damned stubborn woman!</p>
@@ -190,8 +180,6 @@ Date: June 19, 1910</p>
  </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/goingtobakersfield/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

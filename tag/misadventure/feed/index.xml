@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/misadventure/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:48:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Driving Angels Flight</title>
 		<link>/drivingangelsflight/</link>
-					<comments>/drivingangelsflight/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 28 Mar 2008 18:15:43 +0000</pubDate>
@@ -52,8 +51,6 @@ Date: September 1, 1934</p>
 <p>We cannot know how many times mechanic Herbert Stockwell gazed from his window at 316 Clay Street over the steps adjoining the Angels Flight Railway and dreamed, but this was the night he partook of some liquid courage and attempted to drive down the steps. He crashed about 50 feet shy of Hill Street, knocking his teeth out and bloodying his nose, and was discovered wandering confusedly by Officer Hull. Hull took him to Georgia Street police station, where Stockwell was charged with grand theft auto and drunk driving. The wrecked car belonged to Doris George, wife of a physician in the Black Building at Fourth and Hill.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/drivingangelsflight/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

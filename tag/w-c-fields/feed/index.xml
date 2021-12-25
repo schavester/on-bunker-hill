@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/w-c-fields/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:57:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:31:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>From the George Mann Archives: W.C. Fields in &#8220;The Mormon&#8217;s Prayer&#8221; (1928)</title>
 		<link>/wcfields/</link>
-					<comments>/wcfields/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 24 Jun 2012 15:50:10 +0000</pubDate>
@@ -45,23 +44,20 @@
 		<guid isPermaLink="false">/?p=1393</guid>
 
 					<description><![CDATA[Today On Bunker Hill is proud to present another little something special from the archives of George Mann, an artifact that predates his astonishing color photographs of Bunker Hill by about thirty years. Before he came up to the hill to take pictures, George was half of the comedic vaudeville dance team Barto &#38; Mann. &#8230; <a href="/wcfields/" class="more-link">Continue reading<span class="screen-reader-text"> "From the George Mann Archives: W.C. Fields in &#8220;The Mormon&#8217;s Prayer&#8221; (1928)"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Today On Bunker Hill is proud to present another little something special from the archives of George Mann, an artifact that predates his astonishing <a href="/georgemannshop" target="_blank">color photographs</a> of Bunker Hill by about thirty years.</p>
+										<content:encoded><![CDATA[<p>Today On Bunker Hill is proud to present another little something special from the archives of George Mann, an artifact that predates his astonishing <a href="/georgemannshop" target="_blank" rel="noopener">color photographs</a> of Bunker Hill by about thirty years.</p>
 <p>Before he came up to the hill to take pictures, George was half of the comedic vaudeville dance team Barto &amp; Mann. In 1928, he filmed his friend W.C. Fields in that comic performer&#8217;s headlining role in the Earl Carroll Vanities, at Carroll&#8217;s 7th Avenue Manhattan theater. Barto &amp; Mann were also on the bill.</p>
-<p>&#8220;The Mormon&#8217;s Prayer&#8221; was an opportunity to highlight the famously stunning Carroll showgirls (choreographed by Busby Berkeley) while giving the urban audience a chance to snicker at the erotic excesses of backwoods believers. We&#8217;re truly thrilled to present to you this lost moment of American theater history, as a follow-up to the newly discovered color George Mann footage of the <a href="/threestooges" target="_blank">Three Stooges</a> at Atlantic City.</p>
-<p><iframe loading="lazy" src="http://www.youtube.com/embed/d_3SVBSd9R0" width="640" height="480" frameborder="0"></iframe></p>
-<p>Fields was paid $5200 a week for his several appearances during the show, which culminated in an outrageous routine, &#8220;Episode at the Dentist&#8217;s&#8221; (later expanded and <a href="http://www.youtube.com/watch?v=FmCp-EGBsbY" target="_blank">filmed</a>) in which flying teeth and whirring drills terrorized and delighted the packed house. Among Dr. Pain&#8217;s (Fields) &#8220;victims&#8221; was the gorgeous, half-naked and dumb-as-a-post star of the Vanities, Dorothy Knapp (&#8220;The Most Beautiful Girl in the World&#8221;). We will refrain from any crass remarks about wishing to &#8220;drill&#8221; her.</p>
-<p><a title="Dorothy Knapp, Earl Carroll showgirl by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6993340585/"><img loading="lazy" src="http://farm8.staticflickr.com/7045/6993340585_782ef19887.jpg" alt="Dorothy Knapp, Earl Carroll showgirl" width="345" height="500" /></a></p>
+<p>&#8220;The Mormon&#8217;s Prayer&#8221; was an opportunity to highlight the famously stunning Carroll showgirls (choreographed by Busby Berkeley) while giving the urban audience a chance to snicker at the erotic excesses of backwoods believers. We&#8217;re truly thrilled to present to you this lost moment of American theater history, as a follow-up to the newly discovered color George Mann footage of the <a href="/threestooges" target="_blank" rel="noopener">Three Stooges</a> at Atlantic City.</p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/d_3SVBSd9R0" width="640" height="480" frameborder="0"></iframe></p>
+<p>Fields was paid $5200 a week for his several appearances during the show, which culminated in an outrageous routine, &#8220;Episode at the Dentist&#8217;s&#8221; (later expanded and <a href="https://www.youtube.com/watch?v=FmCp-EGBsbY" target="_blank" rel="noopener">filmed</a>) in which flying teeth and whirring drills terrorized and delighted the packed house. Among Dr. Pain&#8217;s (Fields) &#8220;victims&#8221; was the gorgeous, half-naked and dumb-as-a-post star of the Vanities, Dorothy Knapp (&#8220;The Most Beautiful Girl in the World&#8221;). We will refrain from any crass remarks about wishing to &#8220;drill&#8221; her.</p>
+<p><a title="Dorothy Knapp, Earl Carroll showgirl by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6993340585/"><img loading="lazy" src="https://farm8.staticflickr.com/7045/6993340585_782ef19887.jpg" alt="Dorothy Knapp, Earl Carroll showgirl" width="345" height="500" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/wcfields/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>From the George Mann Archives: W.C. Fields in &#8220;Home Movies&#8221; (1928)</title>
 		<link>/wcfields2/</link>
-					<comments>/wcfields2/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 24 Apr 2012 15:44:39 +0000</pubDate>
@@ -73,15 +69,13 @@
 		<guid isPermaLink="false">/?p=1387</guid>
 
 					<description><![CDATA[Today On Bunker Hill is proud to present another little something special from the archives of George Mann, an artifact that predates his astonishing color photographs of Bunker Hill by about thirty years. If you enjoyed the recent posting of George&#8217;s silent footage of W.C. Fields on stage as a worried Mormon husband about to &#8230; <a href="/wcfields2/" class="more-link">Continue reading<span class="screen-reader-text"> "From the George Mann Archives: W.C. Fields in &#8220;Home Movies&#8221; (1928)"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Today On Bunker Hill is proud to present another little something special from the archives of George Mann, an artifact that predates his astonishing <a href="/georgemannshop" target="_blank">color photographs</a> of Bunker Hill by about thirty years.</p>
-<p>If you enjoyed the <a href="/wcfields" target="_blank">recent posting</a> of George&#8217;s silent footage of W.C. Fields on stage as a worried Mormon husband about to hop into the sack with a bevy of Earl Carroll showgirls, you&#8217;ll thrill to see the lively home movie footage of Fields yucking it up with a tennis racket, filmed when both performers were appearing in the Earl Carroll Vanities.</p>
-<p>You met him here first, but our pal George Mann is becoming quite the internet sensation. Critic Leonard Maltin <a href="http://blogs.indiewire.com/leonardmaltin/real-faux-silent-footage-worth-watching" target="_blank">dedicated</a> much of a recent blog post to Mann&#8217;s rediscovered silent film footage of Fields and the Three Stooges.</p>
+										<content:encoded><![CDATA[<p>Today On Bunker Hill is proud to present another little something special from the archives of George Mann, an artifact that predates his astonishing <a href="/georgemannshop" target="_blank" rel="noopener">color photographs</a> of Bunker Hill by about thirty years.</p>
+<p>If you enjoyed the <a href="/wcfields" target="_blank" rel="noopener">recent posting</a> of George&#8217;s silent footage of W.C. Fields on stage as a worried Mormon husband about to hop into the sack with a bevy of Earl Carroll showgirls, you&#8217;ll thrill to see the lively home movie footage of Fields yucking it up with a tennis racket, filmed when both performers were appearing in the Earl Carroll Vanities.</p>
+<p>You met him here first, but our pal George Mann is becoming quite the internet sensation. Critic Leonard Maltin <a href="https://blogs.indiewire.com/leonardmaltin/real-faux-silent-footage-worth-watching" target="_blank" rel="noopener">dedicated</a> much of a recent blog post to Mann&#8217;s rediscovered silent film footage of Fields and the Three Stooges.</p>
 <p>Keeping watching this space, as there more amazing short films coming from the George Mann Archives, starring some incredible entertainers. And for now&#8230; more Bill Fields!</p>
-<p><iframe loading="lazy" src="http://www.youtube.com/embed/IjX16FwJezM" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/IjX16FwJezM" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/wcfields2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

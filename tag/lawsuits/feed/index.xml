@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/lawsuits/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:42:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>The Argyle:  A Slow, Steady Decline, Part 1</title>
 		<link>/argyle-redux/</link>
-					<comments>/argyle-redux/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 06 Aug 2008 00:13:28 +0000</pubDate>
@@ -46,13 +45,13 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Situated at the corner of Olive and Second, the Argyle House was built in the 1880s by a Scottish gentleman, and quickly became as respectable a salon (and saloon) as could be found on Bunker Hill. Parties, weddings, and cotillions were frequently held here, and as a rooming house, it tended to attract musical types &#8230; <a href="/argyle-redux/" class="more-link">Continue reading<span class="screen-reader-text"> "The Argyle:  A Slow, Steady Decline, Part 1"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3167/2738046718_2a2527f608_o.jpg" alt="argyle1" height="364" width="500" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3167/2738046718_2a2527f608_o.jpg" alt="argyle1" height="364" width="500" /></p>
 <p>Situated at the corner of Olive and Second, the Argyle House was built in the 1880s by a Scottish gentleman, and quickly became as respectable a salon (and saloon) as could be found on Bunker Hill.  Parties, weddings, and cotillions were frequently held here, and as a rooming house, it tended to attract musical types who frequently advertised their services as voice and piano instructors in the pages of the <i>Times</i>.</p>
 <p>In October 1887, the Argyle House opened its doors under new management, advertising for roomers.  Almost immediately after, however, it closed them, citing a need for renovations.  The hotel reopened in June 1888, boasting 61 &quot;large and sunny&quot; rooms, but it was an auspicious beginning for the Argyle, and not the last time it would close abruptly.</p>
 <p>With its adjoining restaurant and parlor, the Argyle was a lively and welcome addition to Bunker Hill.  The <i>Times </i>wrote, &quot;A good many pleasant people stop at this establishment and they go in for a good time socially,&quot; and &quot;The Argyle people are convivial, if anything.&quot;</p>
 <p>But after a few years of good times, the Argyle closed suddenly in 1893, and nobody knew why until news of a lawsuit leaked out.  In November of that year, the owner, W.A. Nimock, sued D.E. Barton, who held the lease on the property.  Nimock sought to recover possession of the Argyle, plus $3000 in damages.</p>
 <p>And then, there were the assault charges.</p>
-<p>It seems that Mr. and Mrs. Nimocks had leased the property to the Abbott family, parents of renowned opera singer <a href="http://en.wikipedia.org/wiki/Emma_Abbott" title="emmaabbott" target="_blank">Emma Abbott</a> (who had died in 1891, shortly after her 40th birthday).  When the Abbotts had to return East suddenly, they transferred their lease to Barton who promptly commandeered the place and began extensive renovations without the Nimocks&#8217; approval.  He shuttered the windows, kicked out the tenants, and ripped out the carpets.</p>
+<p>It seems that Mr. and Mrs. Nimocks had leased the property to the Abbott family, parents of renowned opera singer <a href="https://en.wikipedia.org/wiki/Emma_Abbott" title="emmaabbott" target="_blank" rel="noopener">Emma Abbott</a> (who had died in 1891, shortly after her 40th birthday).  When the Abbotts had to return East suddenly, they transferred their lease to Barton who promptly commandeered the place and began extensive renovations without the Nimocks&#8217; approval.  He shuttered the windows, kicked out the tenants, and ripped out the carpets.</p>
 <p>The Nimocks wanted the Abbotts running the Argyle, but when they returned from the East, Barton refused to leave.  What&#8217;s more, he told Mrs. Nimock (who handled most of the day-to-day on the property) that she could not enter the building, and locked himself in.</p>
 <p>Thus thwarted, Mrs. Nimock did the only reasonable thing, and broke in through a window, tearing off a screen in the process.  Mr. Barton was inside at the time, and proceeded to throw Mrs Nimock out the window through which she&#8217;d entered.</p>
 <p>Hence, the assault charge.</p>
@@ -63,8 +62,6 @@
 <p><i>Photo from the Los Angeles Public Library Photo Collection</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/argyle-redux/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

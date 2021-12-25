@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/second_street/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:46:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:33:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -50,43 +50,43 @@
 		<category><![CDATA[second_street]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Folk will on occasion ask me what, if anything, is left of Bunker Hill. Glad you asked, I”™ll reply, answer being, nothing really, but I am awfully fond of this particular dirt contour. If they don”™t politely turn away, I”™ll commence upon a detailed discourse on said excrement-laden dirt contour in question, and then they”™ll &#8230; <a href="/thedirtpatchofsecondandhill/" class="more-link">Continue reading<span class="screen-reader-text"> "North by Northwest:  The Dirt Patch of Second and Hill"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3216/2751122032_3ecb538af7_o.gif" alt="TheOlympia" height="242" width="575" /></p>
+					<description><![CDATA[Folk will on occasion ask me what, if anything, is left of Bunker Hill. Glad you asked, I”&#x2122;ll reply, answer being, nothing really, but I am awfully fond of this particular dirt contour. If they don”&#x2122;t politely turn away, I”&#x2122;ll commence upon a detailed discourse on said excrement-laden dirt contour in question, and then they”&#x2122;ll &#8230; <a href="/thedirtpatchofsecondandhill/" class="more-link">Continue reading<span class="screen-reader-text"> "North by Northwest:  The Dirt Patch of Second and Hill"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3216/2751122032_3ecb538af7_o.gif" alt="TheOlympia" height="242" width="575" /></p>
 <p>Folk will on occasion ask me what, if anything, is left of Bunker Hill.  Glad you asked, I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll reply, answer being, nothing really, but I am awfully fond of this particular <i>dirt contour</i>.  If they don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t politely turn away, I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll commence upon a detailed discourse on said excrement-laden dirt contour in question, and then they”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll politely turn away.  </p>
-<p>Strange as it sounds, I love this dirt.  I have since I was one day idling in my auto adjacent this, the northwest corner of <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=163+S+Hill+St,+Los+Angeles,+CA+90012&amp;sll=34.061761,-118.246064&amp;sspn=0.008248,0.017381&amp;layer=c&amp;ie=UTF8&amp;ll=34.057335,-118.246086&amp;spn=0.008249,0.017381&amp;z=16&amp;iwloc=addr&amp;cbll=34.062117,-118.245666&amp;panoid=k8H0gkm54sNy42YNk_9ZiQ" title="2ndHill" target="_blank">Second and Hill</a>, when I saw this form and it recalled an image lodged in some dim grotto of my brain:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3188/2748162947_2f4d435d4b_o.gif" alt="TheOdalisque" height="306" width="575" /><br />
+<p>Strange as it sounds, I love this dirt.  I have since I was one day idling in my auto adjacent this, the northwest corner of <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=163+S+Hill+St,+Los+Angeles,+CA+90012&amp;sll=34.061761,-118.246064&amp;sspn=0.008248,0.017381&amp;layer=c&amp;ie=UTF8&amp;ll=34.057335,-118.246086&amp;spn=0.008249,0.017381&amp;z=16&amp;iwloc=addr&amp;cbll=34.062117,-118.245666&amp;panoid=k8H0gkm54sNy42YNk_9ZiQ" title="2ndHill" target="_blank" rel="noopener">Second and Hill</a>, when I saw this form and it recalled an image lodged in some dim grotto of my brain:</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3188/2748162947_2f4d435d4b_o.gif" alt="TheOdalisque" height="306" width="575" /><br />
 And I thought, I know that form.  That contour.  Like a beautiful woman in repose. Debased somehow, but still noble.  Ingres”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Odalisque has become Manet”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Olympia.  </p>
 <p>So here I am in pith helmet and plus-fours, poking around the strangely stained abandoned sweatpants and taking in the stench of urine steaming away on a hot summer”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s day.  My own Persepolis, only with more recent death and egesta.  A remaining honest remnant of Bunker Hill, carved in dirt.  There”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s an old Yiddish proverb–Gold”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s father is dirt, yet it regards itself as noble.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3217/2750287727_340af323c5_o.gif" alt="SculptedbytheMaster" height="431" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3217/2750287727_340af323c5_o.gif" alt="SculptedbytheMaster" height="431" width="575" /></p>
 <p>Let”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s take a detailed look at the block our patch of dirt calls home.</p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2078/2748920876_c55dee3c13_o.gif" alt="2ndHill1888" height="398" width="575" /></p>
-<p>In 1888, on the 30-40&#8242; bluff overlooking Hill  there&#8217;s a large house, center, and another (with a “old shanty”, it is noted) at the corner of Second and Hill.  The round structure above the house on the right reads “arbor lattice.”  Note the porches on the <a href="/node/174" title="Argyle88" target="_blank">Argyle</a>.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3044/2748921226_6a72e8540d_o.gif" alt="2ndHill1894" height="391" width="575" /><br />
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2078/2748920876_c55dee3c13_o.gif" alt="2ndHill1888" height="398" width="575" /></p>
+<p>In 1888, on the 30-40&#8242; bluff overlooking Hill  there&#8217;s a large house, center, and another (with a “old shanty”, it is noted) at the corner of Second and Hill.  The round structure above the house on the right reads “arbor lattice.”  Note the porches on the <a href="/node/174" title="Argyle88" target="_blank" rel="noopener">Argyle</a>.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3044/2748921226_6a72e8540d_o.gif" alt="2ndHill1894" height="391" width="575" /><br />
 1894, and 133 Hill has built terraced steps up to its manse.  Our house in the corner has sadly lost its shanty.  Notice the addition of the Primrose hotel at 421/419 West 2nd.  At the bottom it reads “Vertical bank 30”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> high.”  The house near 1st has been razed but 109 Hill has been added.  104 Olive has shown up, top right.  And yes, that says “Lawn Tennis Courts.”  </p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3009/2748920938_b3282498dc_o.gif" alt="2ndHill1906" height="405" width="575" /><br />
-It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1906, and much has changed:  our little friend in the corner has disappeared.  In its place, just to the north, two lodging houses at 411 and 409.  To the west, Hotel Locke.  (Hotel Locke shows up in the <i>Times</i> in 1897 and disappears in 1912.)  Olive Court has wrapped around and filled in, and the tennis lawn has given way to our old friend the <a href="/TheMooreCliff" title="MCMooreCliff" target="_blank">Moore Cliff</a>.  The former single family dwelling at 109 has been enlarged to become the El Moro Hotel.  Note the Hotel Cecil in the upper right.  Hill now has a 15”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> retaining wall; the houses average 30”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> above grade.</p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2178/2748086463_89f873a00a_o.gif" alt="2ndHill1953" height="429" width="575" /><br />
-But now it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1950 and the drastic has occured.  Where once Second Street was sixty feet across, it is now 100, due to the construction of the Second Street tunnel, which opened in July of 1924.  (As Mary mentioned in her post, the Argyle lost its porches.)  Also lost were the two structures below the Primrose at 411 and 409, not to mention the Hotel Locke.  These were even gone before the great excavation.  The Hotel Cecil has, as you might imagine, been renamed, so as not to be confused with the <a href="http://www.you-are-here.com/downtown/hotel_cecil.html%201924" title="ShouldhavenameditBenny" target="_blank">Hotel Cecil</a>.  We even have a little gas station.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3009/2748920938_b3282498dc_o.gif" alt="2ndHill1906" height="405" width="575" /><br />
+It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1906, and much has changed:  our little friend in the corner has disappeared.  In its place, just to the north, two lodging houses at 411 and 409.  To the west, Hotel Locke.  (Hotel Locke shows up in the <i>Times</i> in 1897 and disappears in 1912.)  Olive Court has wrapped around and filled in, and the tennis lawn has given way to our old friend the <a href="/TheMooreCliff" title="MCMooreCliff" target="_blank" rel="noopener">Moore Cliff</a>.  The former single family dwelling at 109 has been enlarged to become the El Moro Hotel.  Note the Hotel Cecil in the upper right.  Hill now has a 15”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> retaining wall; the houses average 30”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> above grade.</p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2178/2748086463_89f873a00a_o.gif" alt="2ndHill1953" height="429" width="575" /><br />
+But now it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1950 and the drastic has occured.  Where once Second Street was sixty feet across, it is now 100, due to the construction of the Second Street tunnel, which opened in July of 1924.  (As Mary mentioned in her post, the Argyle lost its porches.)  Also lost were the two structures below the Primrose at 411 and 409, not to mention the Hotel Locke.  These were even gone before the great excavation.  The Hotel Cecil has, as you might imagine, been renamed, so as not to be confused with the <a href="https://www.you-are-here.com/downtown/hotel_cecil.html%201924" title="ShouldhavenameditBenny" target="_blank" rel="noopener">Hotel Cecil</a>.  We even have a little gas station.</p>
 <p>In a nutshell, ca. 1952:  the Moore Cliff front and center, the bipartite El Moro, and the Hotel Gladden up the block in the corner.  And there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Texaco station that popped up.  (Faithful Bunker Hillers will recognize the looming backside of the Melrose Annex and the Dome up top.)</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3256/2748370835_81dda78163_o.gif" alt="MC52" height="351" width="575" /> </p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3256/2748370835_81dda78163_o.gif" alt="MC52" height="351" width="575" /> </p>
 <p>But back to the “great excavation.”  Remember, once Hill had, well, a great hill looming o”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />er.  It was true here, at our corner in question:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3081/2748086099_5e90dd32db_o.gif" alt="2ndHIll1932" height="316" width="575" /></p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2078/2748920808_31f90220af_o.gif" alt="2ndHilltoday" height="316" width="575" /> </p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3081/2748086099_5e90dd32db_o.gif" alt="2ndHIll1932" height="316" width="575" /></p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2078/2748920808_31f90220af_o.gif" alt="2ndHilltoday" height="316" width="575" /> </p>
 <p>What happened to the giant pile of dirt (upon which 411 and 409, and the Hotel Locke once<br />
 sat) as seen in the 1932 photograph? </p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3270/2748997486_fbf001bd54_o.gif" alt="excavation" height="111" width="516" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3270/2748997486_fbf001bd54_o.gif" alt="excavation" height="111" width="516" /></p>
 <p>As can be barely viewed just below the Moore Cliff in the ”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />32 shot, a lot fronting Hill has already been excavated for auto parking, and in May of 1935 the two adjacent lots at the corner were leveled by Los Angeles Rock and Gravel, removing 40,000 cubic yards of earth adjoining the tunnel ramp, measuring some 45hx82wx157d&#8217;. One lot owner, C. J. Heyler, rented the space to P. F. Drino for automobile parking; Heyler stated that construction on the lot was planned. That, of course, never happened. </p>
 <p>This, then, is how we ended up with Hill carvings that have remained unchanged for seventy-three years.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3217/2750287727_340af323c5_o.gif" alt="2ndHill" height="431" width="575" /> </p>
-<p>And still fulfilling the same purpose.<img loading="lazy" src="http://farm4.static.flickr.com/3110/2748154243_c473fa11af_o.gif" alt="looknorth2H" height="547" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3217/2750287727_340af323c5_o.gif" alt="2ndHill" height="431" width="575" /> </p>
+<p>And still fulfilling the same purpose.<img loading="lazy" src="https://farm4.static.flickr.com/3110/2748154243_c473fa11af_o.gif" alt="looknorth2H" height="547" width="575" /></p>
 <p>Looking southeast at our dirt, 1967, before her Hill Steet side had her top shaved off:</p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2315/2748339801_0082586a01_o.gif" alt="atthedirt67" height="313" width="529" /> </p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3118/2748085557_a39f5aa2bb_o.gif" alt="HStunnel" height="336" width="575" /></p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3180/2748920270_6bb4bf7d42_o.gif" alt="HS08" height="295" width="575" /> </p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2315/2748339801_0082586a01_o.gif" alt="atthedirt67" height="313" width="529" /> </p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3118/2748085557_a39f5aa2bb_o.gif" alt="HStunnel" height="336" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3180/2748920270_6bb4bf7d42_o.gif" alt="HS08" height="295" width="575" /> </p>
 <p>A quick word about the Second Street tunnel–with the millions the CRA is again pouring into Bunker Hill, do you think we could throw a few bucks toward a new railing?  To refashion the original concrete couldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t run that much, and if not an aesthetic improvement, would be arguably safer than chain link.  Right? </p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3136/2748920438_7ab83e29b5_o.gif" alt="TunRail1950" height="368" width="490" /></p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3192/2748920526_4bef9e598d_o.gif" alt="rail08" height="367" width="490" /></p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3225/2751510488_51f50d5380_o.gif" alt="CRABunker" align="left" height="350" width="267" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3136/2748920438_7ab83e29b5_o.gif" alt="TunRail1950" height="368" width="490" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3192/2748920526_4bef9e598d_o.gif" alt="rail08" height="367" width="490" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3225/2751510488_51f50d5380_o.gif" alt="CRABunker" align="left" height="350" width="267" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -98,8 +98,8 @@ sat) as seen in the 1932 photograph? </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>In any event, such is the tale of some simple dirt on a single block.  Tune in next week for tales of terror as they relate to this part of the world.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3009/2751541264_595bd3d28a_o.gif" alt="dirtfromheaven" height="416" width="575" /></p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3018/2793152783_d9c276e302_o.gif" alt="patchfromzep" height="400" width="505" /><img loading="lazy" src="http://farm4.static.flickr.com/3063/2748989296_c64952c887_o.gif" alt="archaeologizing" height="431" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3009/2751541264_595bd3d28a_o.gif" alt="dirtfromheaven" height="416" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3018/2793152783_d9c276e302_o.gif" alt="patchfromzep" height="400" width="505" /><img loading="lazy" src="https://farm4.static.flickr.com/3063/2748989296_c64952c887_o.gif" alt="archaeologizing" height="431" width="575" /></p>
 <p>And now, you can launch into your own spiel about the dirt contours of Hill Street.  I suggest a visit and have a whiff for yourself of what once was Bunker Hill.  Serves to add that dose of realism guaranteeing the polite turning-away of cocktail party folk.</p>
 <p><i>Ima</i><i>ges courtesy Arnold <i>Hylen</i> Collection, California History Section, California State Library and USC Digital Archives; special thanks of course to D. A. Sanborn, his map company, and the anonymous field men who toiled on the fire insurance maps Sanborn Co. produced. </i></p>
 ]]></content:encoded>
@@ -112,7 +112,6 @@ sat) as seen in the 1932 photograph? </p>
 		<item>
 		<title>Second Street Cable Railway</title>
 		<link>/secondcablerailway/</link>
-					<comments>/secondcablerailway/#respond</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 14 Jul 2008 21:15:20 +0000</pubDate>
@@ -124,22 +123,20 @@ sat) as seen in the 1932 photograph? </p>
 
 					<description><![CDATA[&#160; Many an Angeleno has heard of the legendary Pacific Electric Railway, or Red Car system which transported passengers to locations well beyond the city limits. Those who have brushed up on their local history are probably familiar with The Los Angeles Railway (LARy), aka the Yellow Cars, whose routes journeyed within city line. However, &#8230; <a href="/secondcablerailway/" class="more-link">Continue reading<span class="screen-reader-text"> "Second Street Cable Railway"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
-<div style="text-align: center"><img loading="lazy" src="http://farm4.static.flickr.com/3263/2666228307_84588f0273.jpg?v=0" height="384" width="500" /></div>
+<div style="text-align: center"><img loading="lazy" src="https://farm4.static.flickr.com/3263/2666228307_84588f0273.jpg?v=0" height="384" width="500" /></div>
 <p>Many an Angeleno has heard of the legendary Pacific Electric Railway, or Red Car system which transported passengers to locations well beyond the city limits. Those who have brushed up on their local history are probably familiar with The Los Angeles Railway (LARy), aka the Yellow Cars, whose routes journeyed within city line. However, most are probably unaware that the City of Angels briefly sported a couple of good old fashioned cable car lines that ran right through Bunker Hill. The first cable line to maneuver the hills of Downtown ran along Second Street, delighted travelers, and lead to the westward expansion of the city. Despite its fantastic success, the Second Street Cable Railway survived for only a short period of time.<br /><!--break--><br />During the real estate boom of the 1880s, the area just west of Downtown was what the newspapers referred to as a “howling wilderness,” largely because the hilly terrain rendered navigation by horse drawn carriage virtually impossible. This slight obstacle did not discourage local land owners who sought to make the area attractive for development. By this time, the cable cars in San Francisco had been successfully operating for over a decade and some enterprising businessman began to consider this mode of transportation as a solution to Mother Nature&#8217;s challenges.</p>
-<div style="text-align: center"><img loading="lazy" src="http://farm4.static.flickr.com/3096/2666228453_82ef04c7b0.jpg?v=0" height="407" width="500" /></div>
+<div style="text-align: center"><img loading="lazy" src="https://farm4.static.flickr.com/3096/2666228453_82ef04c7b0.jpg?v=0" height="407" width="500" /></div>
 <p>Plans for two separate cable lines sprang up at the same time, but the Second Street Cable Railway Company was always a step ahead of the alternate line which would eventually run up Temple Street. Land owners with holdings west of the city provided much of the capital for the Second Street Line, along with business owners on Spring Street near Second, who hoped convenient  transportation would boost retail in the area. Some of the main backers and promoters of the railway company included Edward A. Hall, Henry Witmer, I.W. Lord and John Hollenbeck. Lord, who would later found the city of Lordsburg (now La Verne) broke ground on the project, and the first tracks for the new cable line were laid at the intersection of Second and Hill on the morning of April 27, 1885. Five days later the first advertisements promoting real estate near the proposed line began appearing in the local newspapers.</p>
-<p align="center"><img loading="lazy" src="http://farm4.static.flickr.com/3277/2667050970_c466f79d61.jpg?v=0" height="400" width="500" /> </p>
+<p align="center"><img loading="lazy" src="https://farm4.static.flickr.com/3277/2667050970_c466f79d61.jpg?v=0" height="400" width="500" /> </p>
 <p>Construction on the line continued at breakneck speed, which was no small task considering pieces of hillside were cut and removed at some parts of the line. The Second Street Cable Railroad was completed in the early fall and made its inaugural trip at 4:05pm on October 14, 1885. The line ran approximately 6,770 feet, or a mile and a quarter, up Second Street and through Bunker Hill from Spring to Belmont. A one way trip took between twelve and fourteen minutes and the line was open from 6am to 11pm. At its steepest, the cable cars ran over the hills of Los Angeles at a twenty seven percent grade between Hope Street and Bunker Hill Avenue. The total cost to construct the line was roughly $100,000.</p>
-<div style="text-align: center"><img loading="lazy" src="http://farm4.static.flickr.com/3026/2667050920_3cb887ca84.jpg?v=0" height="322" width="500" /></div>
+<div style="text-align: center"><img loading="lazy" src="https://farm4.static.flickr.com/3026/2667050920_3cb887ca84.jpg?v=0" height="322" width="500" /></div>
 <p>The Second Street Cable Railway was an immediate success and did indeed spark development on the land west of Bunker Hill. Investors originally expected the line to serve around six hundred people a day, but by the end of 1886, the cable cars were carrying more that three times that number. In January 1887, Edward Hall and Henry Witmer, President and Treasurer of the Second Street Cable Railway Company, decided to get out when the getting was good. They sold their company shares to James M. McLaughlin for $130,000 and he became the primary owner of the Second Street Cable Railway.  </p>
-<div style="text-align: center"><img loading="lazy" src="http://farm4.static.flickr.com/3202/2666228533_f08b46af4c.jpg?v=0" height="337" width="500" /></div>
+<div style="text-align: center"><img loading="lazy" src="https://farm4.static.flickr.com/3202/2666228533_f08b46af4c.jpg?v=0" height="337" width="500" /></div>
 <p>McLaughlin had ambitious plans to connect Downtown with the area that would eventually become Hollywood, by connecting the cable railway with a steam line called the Cahuenga Valley Railroad. The plans turned sour when the Cahuenga Valley Railroad was barred from operating within the city limits because of the noise and air pollution. McLaughlin&#8217;s attempts to get the Second Street Line extended soon failed. Add to this the end of the boom times and McLaughlin soon found himself and his company in the red. By the end of 1889, McLaughlin was virtually bankrupt and the line stopped running while legal matters were straightened out. That winter, torrential rains severely damaged portions of the line and by early 1890 McLaughlin had lost the company, and the first cable line of Los Angeles was permanently abandoned.       </p>
 <p><i>Photos courtesy of the Los Angeles Public Library Photo Collection and the USC Digital Archive</i></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/secondcablerailway/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

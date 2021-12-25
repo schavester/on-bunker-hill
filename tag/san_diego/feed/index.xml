@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/san_diego/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 22:08:49 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>The Musical Cure and the Dead Girl &#8211; 240 South Grand</title>
 		<link>/emmcurative/</link>
-					<comments>/emmcurative/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 31 Oct 2008 09:16:46 +0000</pubDate>
@@ -52,15 +51,13 @@
 					<description><![CDATA[Location: 240 South Grand Avenue Date: September 14, 1904 For about a year, from summer 1902 to spring 1903, Broadway strollers might hear exquisite sounds of healing emerging from the windows at 529 South Broadway, where the &#34;skilled physicians&#34; of The E. M. M. Curative Company practiced their pseudoscientific arts with electrical devices, x-rays, and &#8230; <a href="/emmcurative/" class="more-link">Continue reading<span class="screen-reader-text"> "The Musical Cure and the Dead Girl &#8211; 240 South Grand"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 240 South Grand Avenue<br />
 Date: September 14, 1904</p>
-<p>For about a year, from summer 1902 to spring 1903, Broadway strollers might hear exquisite sounds of healing emerging from the windows at 529 South Broadway, where the &quot;skilled physicians&quot; of The E. M. M. Curative Company practiced their pseudoscientific arts with electrical devices, x-rays, and gizmos that gave off heat, light, musical waves and faradic emanations (gals, you may be familiar with these last if you own a <a href="http://www.amazon.com/exec/obidos/ASIN/B000K8ALI8/ref=nosim/bubblegumbook">portable massage unit</a>). </p>
-<p><img src="http://farm4.static.flickr.com/3137/2988607499_e843db52b5.jpg" /></p>
-<p>Standing for Electro Musical Magneto, and using a unique <a href="http://www.google.com/patents?id=P09hAAAAEBAJ&amp;pg=PA2&amp;lpg=PA2&amp;dq=%22e.+m.+m.+curative%22&amp;source=bl&amp;ots=U7gXmha_LR&amp;sig=lNXQzOsNp1N9wC9TOW1V7Hf0MXU&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result ">patented device</a> created by Henry Fleetwood, this interesting agency regrettably failed to leave any evidence of customers satisfied or otherwise. Incorporated in March 1902 with $200,000 in capital stock, the company was run by Fleetwood, D.W. Stewart, Herbert M. Pomeroy, lon [sic] L. Clark and Walter Rose.</p>
+<p>For about a year, from summer 1902 to spring 1903, Broadway strollers might hear exquisite sounds of healing emerging from the windows at 529 South Broadway, where the &quot;skilled physicians&quot; of The E. M. M. Curative Company practiced their pseudoscientific arts with electrical devices, x-rays, and gizmos that gave off heat, light, musical waves and faradic emanations (gals, you may be familiar with these last if you own a <a href="https://www.amazon.com/exec/obidos/ASIN/B000K8ALI8/ref=nosim/bubblegumbook">portable massage unit</a>). </p>
+<p><img src="https://farm4.static.flickr.com/3137/2988607499_e843db52b5.jpg" /></p>
+<p>Standing for Electro Musical Magneto, and using a unique <a href="https://www.google.com/patents?id=P09hAAAAEBAJ&amp;pg=PA2&amp;lpg=PA2&amp;dq=%22e.+m.+m.+curative%22&amp;source=bl&amp;ots=U7gXmha_LR&amp;sig=lNXQzOsNp1N9wC9TOW1V7Hf0MXU&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result ">patented device</a> created by Henry Fleetwood, this interesting agency regrettably failed to leave any evidence of customers satisfied or otherwise. Incorporated in March 1902 with $200,000 in capital stock, the company was run by Fleetwood, D.W. Stewart, Herbert M. Pomeroy, lon [sic] L. Clark and Walter Rose.</p>
 <p>It was a partnership quickly marred by tragedy, with treasurer and medical director Pomeroy, 38 and a drug addict, committing suicide by morphine in July 1902, out of an overwhelming urge to flee the world of the living and be with his dead mother again. Pomeroy, of 950 West Washington Street, left a note to his partner and personal attorney Rose asking him to cover up the cause of death and to be kind to the wife and babe he left behind. Rose and Pomeroy&#8217;s personal physician O.D. (you can&#8217;t make these names up) Fitzgerald tried to honor Pomeroy&#8217;s wishes, but in stealing the body away to a private mortuary before the authorities were called so incensed Coroner Holland that he had the contents of the suicide note released to the press.</p>
 <p>We next hear of the practitioners of Fleetwood&#8217;s methods on September 14, 1904, when young Frederick B. West, a physician who was formerly a prominent fixture at The E. M. M. Curative Company before relocating to San Diego, was arrested at his sister&#8217;s home 240 South Grand Avenue on a murder charge relating to the death of Isabella Camello, 19. The girl was alleged to have gone to West in San Diego to procure an illegal operation, the incompetent performance of which resulted in her death. West insisted that while he had treated the girl for a stomach ailment, perhaps with a vibrating wand that gave off flashes of light and musical tones, he had not performed an abortion. The case was not reported on further, leaving us just the briefest glimpse of the world of quack medicine in Edwardian L.A.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/emmcurative/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

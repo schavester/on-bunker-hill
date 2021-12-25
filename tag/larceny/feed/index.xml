@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/larceny/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:20:37 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Bad, Bad Edna Brown</title>
 		<link>/badednabrown/</link>
-					<comments>/badednabrown/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 23 Apr 2008 15:05:25 +0000</pubDate>
@@ -46,8 +45,8 @@
 		<category><![CDATA[larceny]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[  124 Bunker Hill Avenue December 6, 1922  &#160; Edna Brown, aka Edna Chaplin, aka Mabel Austin, seemed like such a nice girl. Sure, she”™d been busted by Detective Sergeants Bartley and Allen for stealing $100 ($1,271.00 current USD) from O. Johnson”™s apartment at 124 South Bunker Hill Avenue, but Edna did the right thing and &#8230; <a href="/badednabrown/" class="more-link">Continue reading<span class="screen-reader-text"> "Bad, Bad Edna Brown"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><o:p> </o:p> <img loading="lazy" border="0" width="262" src="http://farm4.static.flickr.com/3240/2431643724_3abe98ec28_o.jpg" alt="edna brown headline" height="212" /></p>
+					<description><![CDATA[  124 Bunker Hill Avenue December 6, 1922  &#160; Edna Brown, aka Edna Chaplin, aka Mabel Austin, seemed like such a nice girl. Sure, she”&#x2122;d been busted by Detective Sergeants Bartley and Allen for stealing $100 ($1,271.00 current USD) from O. Johnson”&#x2122;s apartment at 124 South Bunker Hill Avenue, but Edna did the right thing and &#8230; <a href="/badednabrown/" class="more-link">Continue reading<span class="screen-reader-text"> "Bad, Bad Edna Brown"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><o:p> </o:p> <img loading="lazy" border="0" width="262" src="https://farm4.static.flickr.com/3240/2431643724_3abe98ec28_o.jpg" alt="edna brown headline" height="212" /></p>
 <p style="margin: 0pt" class="MsoNormal">
 <st1:street w:st="on"><st1:address w:st="on">124 Bunker Hill Avenue</st1:address></st1:street>
 </p>
@@ -85,8 +84,6 @@ A few days following Edna”<img src="https://s.w.org/images/core/emoji/13.1.0/7
 Note to Guy Eddy, Esq., Deputy District Attorney Orme, and Judge Hinshaw ”“ no good deed goes unpunished.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/badednabrown/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

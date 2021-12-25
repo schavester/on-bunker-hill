@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/embezzlement/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 20:07:26 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:36:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -46,17 +46,17 @@
 		<category><![CDATA[Olive Street]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[May 23, 1905 Walter Jackson gave A. J. Munn due pause, back in mid-aught four, when he approached Munn seeking a position at Munn”™s hotel. (You can”™t be too careful when hiring for an establishment that bears your own name, e.g., the Hotel Munn.) You see, Munn detected liquor on Jackson”™s breath, but, some highly-placed &#8230; <a href="/wheresthemunny/" class="more-link">Continue reading<span class="screen-reader-text"> "Where&#8217;s the Munny?"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3053/2533418822_7bd73a3ca5_o.gif" alt="behindbars" height="300" width="246" />May 23, 1905</p>
-<p>Walter Jackson gave A. J. Munn due pause, back in mid-aught four, when he approached Munn seeking a position at Munn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hotel.   (You can”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t be too careful when hiring for an establishment that bears your own name, e.g., the <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=430+S+Olive+St,+90013&amp;sll=34.051611,-118.251858&amp;sspn=0.009031,0.014591&amp;ie=UTF8&amp;ll=34.051611,-118.251858&amp;spn=0.009031,0.014591&amp;z=16&amp;iwloc=addr" title="munnH" target="_blank">Hotel Munn</a>.)  You see, Munn detected liquor on Jackson”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s breath, but, some highly-placed hoteliers had recommended Jackson, so Munn engaged him with and on the distinct understanding that Jackson would foreswear liquor and gambling.  Any On Bunker Hill reader knows the story won”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t end there.</p>
+					<description><![CDATA[May 23, 1905 Walter Jackson gave A. J. Munn due pause, back in mid-aught four, when he approached Munn seeking a position at Munn”&#x2122;s hotel. (You can”&#x2122;t be too careful when hiring for an establishment that bears your own name, e.g., the Hotel Munn.) You see, Munn detected liquor on Jackson”&#x2122;s breath, but, some highly-placed &#8230; <a href="/wheresthemunny/" class="more-link">Continue reading<span class="screen-reader-text"> "Where&#8217;s the Munny?"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3053/2533418822_7bd73a3ca5_o.gif" alt="behindbars" height="300" width="246" />May 23, 1905</p>
+<p>Walter Jackson gave A. J. Munn due pause, back in mid-aught four, when he approached Munn seeking a position at Munn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hotel.   (You can”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t be too careful when hiring for an establishment that bears your own name, e.g., the <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=430+S+Olive+St,+90013&amp;sll=34.051611,-118.251858&amp;sspn=0.009031,0.014591&amp;ie=UTF8&amp;ll=34.051611,-118.251858&amp;spn=0.009031,0.014591&amp;z=16&amp;iwloc=addr" title="munnH" target="_blank" rel="noopener">Hotel Munn</a>.)  You see, Munn detected liquor on Jackson”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s breath, but, some highly-placed hoteliers had recommended Jackson, so Munn engaged him with and on the distinct understanding that Jackson would foreswear liquor and gambling.  Any On Bunker Hill reader knows the story won”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t end there.</p>
 <p>Jackson was a gay and debonair fellow, and quickly rose to the rank of manager.  But Mr. Munn began to have his doubts about Jackson as the hotel took in less and less money. Jackson proved to be a skilled tactician (and statistician) and evaded detection; it didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t help Munn that the Jackson-hypnotized hotel residents declared they still owed accounts, when in fact they had paid them and secretly held receipts signed by Jackson.  <br />
-<img loading="lazy" src="http://farm4.static.flickr.com/3281/2532589333_279379af52_o.jpg" alt="hotelmunn" height="246" width="400" /><br />
-Jackson”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s undoing came in the form of an Examiner reporter, resident of the Munn, who went against the touts at the <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=Ascot+Ave,+Los+Angeles,+CA&amp;sll=33.995501,-118.2516&amp;sspn=0.018075,0.029182&amp;ie=UTF8&amp;ll=34.002866,-118.249969&amp;spn=0.036146,0.058365&amp;z=14&amp;iwloc=addr" title="Ascot" target="_blank">Ascot</a>, and skipped town after losing everything.  (The Ascot Park was a one-mile oval track for horse racing built in 1904, and closed in 1910 after betting on horses became illegal in California.)</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3283/2538333439_005cec5c65_o.gif" alt="ascot" height="172" width="400" /></p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2406/2538333573_c814d944f9_o.gif" alt="ascotstands" height="200" width="400" /></p>
+<img loading="lazy" src="https://farm4.static.flickr.com/3281/2532589333_279379af52_o.jpg" alt="hotelmunn" height="246" width="400" /><br />
+Jackson”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s undoing came in the form of an Examiner reporter, resident of the Munn, who went against the touts at the <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=Ascot+Ave,+Los+Angeles,+CA&amp;sll=33.995501,-118.2516&amp;sspn=0.018075,0.029182&amp;ie=UTF8&amp;ll=34.002866,-118.249969&amp;spn=0.036146,0.058365&amp;z=14&amp;iwloc=addr" title="Ascot" target="_blank" rel="noopener">Ascot</a>, and skipped town after losing everything.  (The Ascot Park was a one-mile oval track for horse racing built in 1904, and closed in 1910 after betting on horses became illegal in California.)</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3283/2538333439_005cec5c65_o.gif" alt="ascot" height="172" width="400" /></p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2406/2538333573_c814d944f9_o.gif" alt="ascotstands" height="200" width="400" /></p>
 <p>The Hotel Munn held a claim against the reporter for $48.15 ($1,094 USD2007) and Munn wrote the reporter”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mother in the East.  After a long and patient wait, he wrote again.  <i>Oh no</i>, said the mother, <i>I immediately mailed you $50 to cancel the obligation</i>.</p>
 <p>Thereafter Munn began digging in earnest and found someone to whom Jackson had issued a receipt for the money–uncredited in the books.  With said evidence of cash appropriation, Jackson was summarily fired.  Proprietor Munn was able to come up with shortage of about $100, and Mrs. Jackson, ever faithful, wired her own mother for the money.  Then Munn agreed to take a note from Jackson for $200, due in thirty days and stipulating that no criminal prosecution would result provided the shortage did not exceed the amount of the note.<br />
-<img loading="lazy" src="http://farm4.static.flickr.com/3201/2533418826_3db0a9ea48_o.gif" alt="hotterthanapeppersprout" height="500" width="222" /><br />
+<img loading="lazy" src="https://farm4.static.flickr.com/3201/2533418826_3db0a9ea48_o.gif" alt="hotterthanapeppersprout" height="500" width="222" /><br />
 Alas, as the matter became public around the hotel, a dozen or more guests came forward with receipts for money paid that had not been credited, and the shortage quickly jumped above $600 ($13,680 USD2007).  Jackson is presumably less gay and debonair behind bars in County this morning.</p>
 ]]></content:encoded>
 					

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -14,7 +14,7 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Fri, 12 Feb 2021 02:24:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -143,7 +143,7 @@ Thanks,
 
 Ken Karagozian
 
-http://www.kenkaragozian.com/
+https://www.kenkaragozian.com/
 
 &#160;
 
@@ -153,7 +153,7 @@ http://www.kenkaragozian.com/
 <p>It was from Los Angeles photographer Ray McSavaney who passed away in 2014. I have Ray&#8217;s archives. Currently have a lightbox photo exhibit at Union Station on my Los Angeles underground transportation project.</p>
 <p>Thanks,</p>
 <p>Ken Karagozian</p>
-<p><a href="http://www.kenkaragozian.com/" rel="nofollow ugc">http://www.kenkaragozian.com/</a></p>
+<p><a href="https://www.kenkaragozian.com/" rel="nofollow ugc">https://www.kenkaragozian.com/</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>

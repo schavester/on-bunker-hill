@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/depression/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 19:52:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:31:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>The Many Faces of 123 South Figueroa</title>
 		<link>/123southfig/</link>
-					<comments>/123southfig/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Fri, 06 Mar 2009 22:40:51 +0000</pubDate>
@@ -51,34 +50,32 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[After the DWP and Dorothy Chandler went up, postcard photographers said whoopee! something to shoot besides City Hall and the Chinese. So they cruised up to the bluff on Huntley, trained their lenses across Second and Beaudry toward First and Flower and fired away. The day view is a Plastichrome by Colourpicture, the night view &#8230; <a href="/123southfig/" class="more-link">Continue reading<span class="screen-reader-text"> "The Many Faces of 123 South Figueroa"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>After the DWP and Dorothy Chandler went up, postcard photographers said <i>whoopee! something to shoot besides City Hall and the Chinese</i>.  So they cruised up to the bluff on <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=Huntley+Dr,+Los+Angeles,+Los+Angeles,+California+90026&amp;sll=37.0625,-95.677068&amp;sspn=35.684144,56.601563&amp;ie=UTF8&amp;cd=2&amp;geocode=FQCvBwIdbIrz-A&amp;split=0&amp;ll=34.058686,-118.257115&amp;spn=0.00912,0.013819&amp;t=h&amp;z=16" title="grassytrolls" target="_blank">Huntley</a>, trained their lenses across Second and Beaudry toward First and Flower and fired away.  The day view is a Plastichrome by Colourpicture, the night view by Western Publishing &amp; Novelty, both circa 1965.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3309/3330403982_8f00fef17c_o.gif" alt="2ndBeaudryDay" height="366" width="575" /></p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3301/3329570411_31ab7a226f_o.gif" alt="2ndBeaudryNite" height="362" width="575" /></p>
-<p>Dig the Union station in all its <a href="http://www.youtube.com/watch?v=gsG9Ypr-jM0" title="76day" target="_blank">76</a> ball <a href="http://www.youtube.com/watch?v=RSkUFY-6weM&amp;feature=related" title="76nite" target="_blank">glory</a> (the SoCal station with its backlit chevron seems to be of an earlier vintage; they”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re both gone now).  Printers shops and giant spools line Beaudry.  Were it not for the necessity of capturing Becket and Martin”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s latest accomplishments, would we have any record of these?  Not likely.</p>
+										<content:encoded><![CDATA[<p>After the DWP and Dorothy Chandler went up, postcard photographers said <i>whoopee! something to shoot besides City Hall and the Chinese</i>.  So they cruised up to the bluff on <a href="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=Huntley+Dr,+Los+Angeles,+Los+Angeles,+California+90026&amp;sll=37.0625,-95.677068&amp;sspn=35.684144,56.601563&amp;ie=UTF8&amp;cd=2&amp;geocode=FQCvBwIdbIrz-A&amp;split=0&amp;ll=34.058686,-118.257115&amp;spn=0.00912,0.013819&amp;t=h&amp;z=16" title="grassytrolls" target="_blank" rel="noopener">Huntley</a>, trained their lenses across Second and Beaudry toward First and Flower and fired away.  The day view is a Plastichrome by Colourpicture, the night view by Western Publishing &amp; Novelty, both circa 1965.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3309/3330403982_8f00fef17c_o.gif" alt="2ndBeaudryDay" height="366" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3301/3329570411_31ab7a226f_o.gif" alt="2ndBeaudryNite" height="362" width="575" /></p>
+<p>Dig the Union station in all its <a href="https://www.youtube.com/watch?v=gsG9Ypr-jM0" title="76day" target="_blank" rel="noopener">76</a> ball <a href="https://www.youtube.com/watch?v=RSkUFY-6weM&amp;feature=related" title="76nite" target="_blank" rel="noopener">glory</a> (the SoCal station with its backlit chevron seems to be of an earlier vintage; they”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re both gone now).  Printers shops and giant spools line Beaudry.  Were it not for the necessity of capturing Becket and Martin”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s latest accomplishments, would we have any record of these?  Not likely.</p>
 <p>Across the Pasadena Freeway, on Bunker Hill proper, on the west side of Figueroa between First and Second, that big white structure?  That”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 123 South Figueroa, built in 1925.  Whatever the most photographed buildings on Bunker Hill were–the Castle, the Brousseau, the Dome?–if there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s another image of <i>this</i> structure, I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d love to see it.<br />
-<img loading="lazy" src="http://farm4.static.flickr.com/3643/3332333090_9ae47f3779_o.gif" alt="Sanborn1955" height="376" width="575" /></p>
+<img loading="lazy" src="https://farm4.static.flickr.com/3643/3332333090_9ae47f3779_o.gif" alt="Sanborn1955" height="376" width="575" /></p>
 <p>
-<img loading="lazy" src="http://farm4.static.flickr.com/3605/3334045309_1ef1db532c_o.gif" alt="theycallmethewanderer" align="right" height="185" width="250" /><br />
+<img loading="lazy" src="https://farm4.static.flickr.com/3605/3334045309_1ef1db532c_o.gif" alt="theycallmethewanderer" align="right" height="185" width="250" /><br />
 123 was erected as an office building, but in 1934 is turned into “one of the largest and most modern” government relief centers in the West.  The Federal Transient Service converted the building into its Southern California headquarters, i.e., a shelter for non-resident jobless men, outfitting it with an enormous cafeteria and dormitories that slept 500.  It became a veritable city in itself:  showers, lockers, hospital, educational and recreational facilities were installed, as were a laundry, shoe repair and tailor shop.  It was also a warehouse for materials and supplies used in the camps.  Yes, the camps.  Itinerant men had forty-eight hours to stay at Figueroa, max, before being assigned out of the city to transient work camps in forest and mountain areas.</p>
 <p>Families, bands of “wild boys,” vagabonds on freight cars”¦in 1935 32,000 new transients came to California each month, 12,000 of those to Los Angeles.  July of 1935 alone saw a load of 20,000  paupers arrive in LA seeking State and Federal aid.  (And, one supposes, oranges that grew on palm trees.)  1,200 boys were sent to forestry camps, 4,000 men to the Federal aid camp near San Diego, but many of LA”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s transients–12% of the national and 60% of the State”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s burden–after being processed here at 123 South Fig, ended up in squatter”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s villages and squalid encampments.  Many went to homes and camps, were absorbed to into County Welfare healthily, found employ in the works relief programs or went back from whence they came, but either way, it does show and say something about the class shift of the Hill that such a major locus of poverty and despair should be located within its confines.</p>
 <p>123 is converted to the police department”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s traffic division headquarters building in 1942.  The City Council gave the Police Commission $78,000 for the building and another $47,000 for the alterations.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3406/3334898604_3eea6796e7_o.gif" alt="deadication" height="158" width="400" />At the dedication, during a luncheon given on the third floor, attended by Mayor Bowron, Chief of Police Horral, and numerous high ranking police officers, Deputy Police Chief Caldwell announced that Los Angeles led the nation in the decrease in auto fatalities–which occurred through “strict, scientific enforcement of driving regulations.”  (Reports from 123 show that pedestrian fatalities in the first half of the 40s skyrocketed–dimouts for the war effort, don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t ya know.)</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3360/3334879384_d7d19b0991_o.gif" alt="motorbike50" height="93" width="223" /><br />
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3406/3334898604_3eea6796e7_o.gif" alt="deadication" height="158" width="400" />At the dedication, during a luncheon given on the third floor, attended by Mayor Bowron, Chief of Police Horral, and numerous high ranking police officers, Deputy Police Chief Caldwell announced that Los Angeles led the nation in the decrease in auto fatalities–which occurred through “strict, scientific enforcement of driving regulations.”  (Reports from 123 show that pedestrian fatalities in the first half of the 40s skyrocketed–dimouts for the war effort, don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t ya know.)</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3360/3334879384_d7d19b0991_o.gif" alt="motorbike50" height="93" width="223" /><br />
 The biggest piece of drama attached to the building came when in 1950 Parry Cottam, 27, a maintenance man at the police garage in the building, was moving a police motorcycle and it went out of control.  It plunged him through a large plate-glass window on the building”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s street level, and he was found unconscious on the sidewalk.  </p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3632/3334045373_a4d118e4ba_o.gif" alt="theSale" align="right" height="123" width="242" /><br />
-In March of 1964, the Board of Supervisors authorized sale of the county building to the CRA.  The CRA said they intended to develop the site into a motel.  The garage equipment goes up for auction in April 1971 and the 123 is presumably demolished failry soon thereafterward.  While the CRA didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t build a motel after clearing the site, the <a href="http://www.you-are-here.com/los_angeles/promenade.html" title="PTs" target="_blank">Promenade Towers</a>  have at least been described as a “<a href="http://www.apartmentratings.com/rate/CA-Los-Angeles-Promenade-Towers.html" title="thirtyonepercent" target="_blank">roach motel</a>.”</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3359/3332332962_abe7c085c7_o.gif" alt="garagey" height="295" width="340" /></p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3342/3332333226_ae93b035e3_o.gif" alt="everybodypromenade" height="334" width="456" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3632/3334045373_a4d118e4ba_o.gif" alt="theSale" align="right" height="123" width="242" /><br />
+In March of 1964, the Board of Supervisors authorized sale of the county building to the CRA.  The CRA said they intended to develop the site into a motel.  The garage equipment goes up for auction in April 1971 and the 123 is presumably demolished failry soon thereafterward.  While the CRA didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t build a motel after clearing the site, the <a href="https://www.you-are-here.com/los_angeles/promenade.html" title="PTs" target="_blank" rel="noopener">Promenade Towers</a>  have at least been described as a “<a href="https://www.apartmentratings.com/rate/CA-Los-Angeles-Promenade-Towers.html" title="thirtyonepercent" target="_blank" rel="noopener">roach motel</a>.”</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3359/3332332962_abe7c085c7_o.gif" alt="garagey" height="295" width="340" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3342/3332333226_ae93b035e3_o.gif" alt="everybodypromenade" height="334" width="456" /></p>
 <p>It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a $60million dollar complex, the first mixed-use apartment complex in downtown Los Angeles and the area”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s first privately owned residential rental complex.  It has its formal opening June 16, 1986, the name <i>Promenade</i> intending to connote the era of pedestrian-oriented urbanism this project will usher in.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3540/3334045411_f2a1655c07_o.gif" alt="promPool" height="303" width="200" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3540/3334045411_f2a1655c07_o.gif" alt="promPool" height="303" width="200" /></p>
 <p>The Promenade becomes a favorite of Union Bank; they keep sixteen apartments there for visiting businessmen.  Tommy Lasorda himself keeps a pad in the Prom.  They”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re all drawn by the health club and gymnasium, market, pharmacy, dentist, cafÃ©/restaurant, the 24-hour reception and valet and garage attendants and so forth.  </p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3583/3334045361_c179595ed4_o.gif" alt="promnow" height="276" width="575" /><br />
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3583/3334045361_c179595ed4_o.gif" alt="promnow" height="276" width="575" /><br />
 It remains to be seen whether the 123 regains its Reagan-era splendor, or if its residents, with their dry cleaner and little shop of sundries, doesn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t harken back to its forgotten days as a haven for homeless men and law enforcement.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3378/3331496925_0a76fa4daa_o.gif" alt="todayistheday" height="385" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3378/3331496925_0a76fa4daa_o.gif" alt="todayistheday" height="385" width="575" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/123southfig/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

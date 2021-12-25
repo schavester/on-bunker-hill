@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/religious_sects/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Burning Bush on a Mount of Olives</title>
 		<link>/burningbush/</link>
-					<comments>/burningbush/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 14 Oct 2008 22:04:51 +0000</pubDate>
@@ -46,10 +45,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[When the residents of Bunker Hill discovered that the Alameda Street crib district prostitutes were living in their neighborhood, they drafted polite letters to the City Council and the Police Commission complaining about it. But when they discovered that a rowdy religious sect called the Burning Bush had set up its headquarters on Olive Street, &#8230; <a href="/burningbush/" class="more-link">Continue reading<span class="screen-reader-text"> "Burning Bush on a Mount of Olives"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3152/2942950281_bf70e30fa4_m.jpg" alt="burningbush1" align="left" width="240" height="230" />When the residents of Bunker Hill discovered that the Alameda Street crib district prostitutes were living in their neighborhood, they drafted polite letters to the City Council and the Police Commission complaining about it.</p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3152/2942950281_bf70e30fa4_m.jpg" alt="burningbush1" align="left" width="240" height="230" />When the residents of Bunker Hill discovered that the Alameda Street crib district prostitutes were living in their neighborhood, they drafted polite letters to the City Council and the Police Commission complaining about it.</p>
 <p>But when they discovered that a rowdy religious sect called the Burning Bush had set up its headquarters on Olive Street, they called the police straightaway.  Scarlet women were one thing, but cult leaders quite another.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3277/2942950367_8669c13a46_m.jpg" alt="burningbush2" align="right" width="146" height="240" />Based out of Denver, leaders of the Burning Bush flock came to Los Angeles in the spring of 1904, and wasted no time in luring converts.  In addition to their base of operations near Angel&#8217;s Flight at 315 Olive Street, they also established a revival tent at the corner of Spring and Seventh.  At meetings, their followers would regularly shout, leap up and down, speak in tongues, and fall into semi-catatonic states for hours at a time.  So enthusiastic were their cries that neighbors claimed they drowned out the sound of the streetcar as it rattled up the hill.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3002/2942950493_e9e705a07f.jpg" alt="burningbush3" align="left" width="227" height="500" />Despite the leaping, members of the Burning Bush were not to be confused with the Holy Jumpers, another evangelical sect that had come to Los Angeles around the same time.  Though they operated on a similar set of beliefs, the Burning Bush was generally considered to be less objectionable than the Holy Jumpers because they were not quite so loud.  Additionally, while the Burning Bush had culled its leaders from respectable cities like Denver and Boston, the Holy Jumpers were from Alabama (gasp).</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3277/2942950367_8669c13a46_m.jpg" alt="burningbush2" align="right" width="146" height="240" />Based out of Denver, leaders of the Burning Bush flock came to Los Angeles in the spring of 1904, and wasted no time in luring converts.  In addition to their base of operations near Angel&#8217;s Flight at 315 Olive Street, they also established a revival tent at the corner of Spring and Seventh.  At meetings, their followers would regularly shout, leap up and down, speak in tongues, and fall into semi-catatonic states for hours at a time.  So enthusiastic were their cries that neighbors claimed they drowned out the sound of the streetcar as it rattled up the hill.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3002/2942950493_e9e705a07f.jpg" alt="burningbush3" align="left" width="227" height="500" />Despite the leaping, members of the Burning Bush were not to be confused with the Holy Jumpers, another evangelical sect that had come to Los Angeles around the same time.  Though they operated on a similar set of beliefs, the Burning Bush was generally considered to be less objectionable than the Holy Jumpers because they were not quite so loud.  Additionally, while the Burning Bush had culled its leaders from respectable cities like Denver and Boston, the Holy Jumpers were from Alabama (gasp).</p>
 <p>While the Burning Bush&#8217;s evangelical fervor made them strange in the eyes of their neighbors, it didn&#8217;t make them a cult.  What made them a cult was their practice of quickly separating initiates from all their money, real estate, and worldly possessions.</p>
 <p>In 1906, a deaf man named Lorenzo Dunlap sued Burning Bush leader Charles Bryant to recover approximately $1000 worth of cash and property he&#8217;d signed over the cult with the agreement that they would hold the property in trust and care for him until he died.  He&#8217;d feared that his own family members would try to have him committed to an asylum and swipe the estate for themselves.</p>
 <p>But instead, the Bryants did.  Dunlap claimed that once the money had changed hands, he found the Bryants cold and unwilling to support him.  Additionally, they promptly sold Dunlap&#8217;s property in North Dakota at a tidy profit and used the money to buy themselves a fine Los Angeles area home and a cow.</p>
@@ -60,8 +59,6 @@
 <p>The examining physicians reported that &quot;previous to &#8216;getting religion,&#8217; Mrs. Northcutt was plump and merry.  In two years, she has become a nervous wreck.&quot;  However, they expected she would recover her senses in time.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/burningbush/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

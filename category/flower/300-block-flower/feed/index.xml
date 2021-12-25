@@ -5,32 +5,34 @@
 	xmlns:atom="https://www.w3.org/2005/Atom"
 	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>300 Block Flower Street &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/category/flower/300-block-flower/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/category/flower/300-block-flower/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:42:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>300 Block Flower Street &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Suspects, Briefly</title>
-		<link>https://www.onbunkerhill.org/suspectsbriefly/</link>
-					<comments>https://www.onbunkerhill.org/suspectsbriefly/#respond</comments>
+		<link>/suspectsbriefly/</link>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 24 May 2008 16:01:53 +0000</pubDate>
@@ -39,21 +41,18 @@
 		<category><![CDATA[300 Block]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 330 South Flower Street Date: February 26, 1938 Police investigating the bold slaying of Hollywood nightclub proprietor Harold A. Thompson, shot and robbed of $105 while behind his crowded bar at 1015 Western Avenue two nights ago, scared up some of the usual suspects, including Anthony Smith, 23, and Edward Burns, 36, both of &#8230; <a href="https://www.onbunkerhill.org/suspectsbriefly/" class="more-link">Continue reading<span class="screen-reader-text"> "Suspects, Briefly"</span></a>]]></description>
+					<description><![CDATA[Location: 330 South Flower Street Date: February 26, 1938 Police investigating the bold slaying of Hollywood nightclub proprietor Harold A. Thompson, shot and robbed of $105 while behind his crowded bar at 1015 Western Avenue two nights ago, scared up some of the usual suspects, including Anthony Smith, 23, and Edward Burns, 36, both of &#8230; <a href="/suspectsbriefly/" class="more-link">Continue reading<span class="screen-reader-text"> "Suspects, Briefly"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 330 South Flower Street<br />
 Date: February 26, 1938</p>
 <p>Police investigating the bold slaying of Hollywood nightclub proprietor Harold A. Thompson, shot and robbed of $105 while behind his crowded bar at 1015 Western Avenue two nights ago, scared up some of the usual suspects, including Anthony Smith, 23, and Edward Burns, 36, both of this address. But after thorough questioning the pair was released, and in October ex-cons Joseph Lariscy and Lyle Woollomes would be convicted of the killing.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/suspectsbriefly/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Masher Mashed</title>
-		<link>https://www.onbunkerhill.org/masher/</link>
-					<comments>https://www.onbunkerhill.org/masher/#respond</comments>
+		<link>/masher/</link>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 24 May 2008 15:52:04 +0000</pubDate>
@@ -65,21 +64,18 @@ Date: February 26, 1938</p>
 		<category><![CDATA[self defense]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 330 South Flower Street Date: September 1, 1930 A young woman named Natalie residing at 1212 Wilshire Boulevard was menaced by a masher who followed her for several blocks in the early morning hours before finally succumbing to his urges and making a grab. Natalie defended herself, bashing her assailant over the head with &#8230; <a href="https://www.onbunkerhill.org/masher/" class="more-link">Continue reading<span class="screen-reader-text"> "A Masher Mashed"</span></a>]]></description>
+					<description><![CDATA[Location: 330 South Flower Street Date: September 1, 1930 A young woman named Natalie residing at 1212 Wilshire Boulevard was menaced by a masher who followed her for several blocks in the early morning hours before finally succumbing to his urges and making a grab. Natalie defended herself, bashing her assailant over the head with &#8230; <a href="/masher/" class="more-link">Continue reading<span class="screen-reader-text"> "A Masher Mashed"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 330 South Flower Street<br />
 Date: September 1, 1930</p>
 <p>A young woman named Natalie residing at 1212 Wilshire Boulevard was menaced by a masher who followed her for several blocks in the early morning hours before finally succumbing to his urges and making a grab. Natalie defended herself, bashing her assailant over the head with a sack of grapes and then slashing his face with her keys. Hearing screams (it&#8217;s unclear who was screaming), neighbors called police, and at the above address they found Roy Roberts, 24, a transient, with bloody scratches all over his puss. He was arrested on suspicion, not of mashery, but of robbery. Perhaps he snatched the grapes?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/masher/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mrs. Kent&#8217;s Complaint</title>
-		<link>https://www.onbunkerhill.org/kentcase/</link>
-					<comments>https://www.onbunkerhill.org/kentcase/#respond</comments>
+		<link>/kentcase/</link>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 24 May 2008 15:50:09 +0000</pubDate>
@@ -91,22 +87,19 @@ Date: September 1, 1930</p>
 		<category><![CDATA[union]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 330 South Flower Street Date: January 26, 1907 Baby stealing? That, and spousal cruelty, are the charges leveled against labor organizer Edward W. Kent, arrested while in the act of packing to flee Los Angeles. His wife, residing at this address, says she has been confined to her bed for months, and a week &#8230; <a href="https://www.onbunkerhill.org/kentcase/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Kent&#8217;s Complaint"</span></a>]]></description>
+					<description><![CDATA[Location: 330 South Flower Street Date: January 26, 1907 Baby stealing? That, and spousal cruelty, are the charges leveled against labor organizer Edward W. Kent, arrested while in the act of packing to flee Los Angeles. His wife, residing at this address, says she has been confined to her bed for months, and a week &#8230; <a href="/kentcase/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Kent&#8217;s Complaint"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 330 South Flower Street<br />
 Date: January 26, 1907</p>
 <p><img src="https://farm4.static.flickr.com/3292/2514399159_efd38e744f_o.png" /></p>
 <p>Baby stealing? That, and spousal cruelty, are the charges leveled against labor organizer Edward W. Kent, arrested while in the act of packing to flee Los Angeles. His wife, residing at this address, says she has been confined to her bed for months, and a week ago Kent gave their son to a Mrs. F. Borgel, who came to Mrs. Kent&#8217;s bed and tore the babe from her arms. It was at this point that the mother filed charges. She claims that her husband, a member of the Musicians Union and one-time candidate for San Francisco Supervisor, had become unkind to her around the time she learned that his reputation in their former home, Chicago, was less than pristine. He had hit her, pulled her hair and ears, made fiendish faces and screamed that he hoped she would die until she checked into a sanitarium on Hill Street. It was at which point her son was taken. An investigation is being opened, and when Mrs. Kent is well enough to appear in court, charges may be pursued against her husband at her discretion. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/kentcase/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Annie Larsen Affair Comes to Bunker Hill</title>
-		<link>https://www.onbunkerhill.org/the-annie-larsen-affair-comes-to-bunker-hill/</link>
-					<comments>https://www.onbunkerhill.org/the-annie-larsen-affair-comes-to-bunker-hill/#respond</comments>
+		<link>/the-annie-larsen-affair-comes-to-bunker-hill/</link>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 20 May 2008 21:46:25 +0000</pubDate>
@@ -118,25 +111,22 @@ Date: January 26, 1907</p>
 		<category><![CDATA[World War I]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[July 10, 1917 A resident of Bunker Hill was arrested today as part of a secret indictment issued by the Federal grand jury in San Francisco.Â  Ladel P. Varna, aka L. Percy Ram Chandra of 318 S. Flower Street was charged with violating the President&#8217;s neutrality proclamation.Â  He was suspected of being involved in the &#8230; <a href="https://www.onbunkerhill.org/the-annie-larsen-affair-comes-to-bunker-hill/" class="more-link">Continue reading<span class="screen-reader-text"> "The Annie Larsen Affair Comes to Bunker Hill"</span></a>]]></description>
+					<description><![CDATA[July 10, 1917 A resident of Bunker Hill was arrested today as part of a secret indictment issued by the Federal grand jury in San Francisco.  Ladel P. Varna, aka L. Percy Ram Chandra of 318 S. Flower Street was charged with violating the President&#8217;s neutrality proclamation.  He was suspected of being involved in the &#8230; <a href="/the-annie-larsen-affair-comes-to-bunker-hill/" class="more-link">Continue reading<span class="screen-reader-text"> "The Annie Larsen Affair Comes to Bunker Hill"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>July 10, 1917</p>
-<p>A resident of Bunker Hill was arrested today as part of a secret indictment issued by the Federal grand jury in San Francisco.Â  Ladel P. Varna, aka L. Percy Ram Chandra of 318 S. Flower Street was charged with violating the President&#8217;s neutrality proclamation.Â  He was suspected of being involved in the recent <i>Annie Larsen</i> affair, part of a &quot;wholesale plot to assist the Hindus in an effort to throw off the British yoke.&quot;</p>
-<p>The affair, and the trial that followed is too hopelessly confusing to relate here in any detail, but involved &quot;German spies,&quot; the Irish Republican Brotherhood, and India&#8217;s Ghadar Party.Â  The <i>Annie Larsen</i>, a barely seaworthy vessel, was loaded up with approximately 4 million round of ammunition, 3758 cases of small arms ammunition, 10,000 Springfield rifles, 10,000 bayonets, and 10,000 cartridge belts, and sent out to rendezvous with the <i>Maverick</i>, and transfer the cargo to the larger ship, which would then head for Southeast Asia. </p>
+<p>A resident of Bunker Hill was arrested today as part of a secret indictment issued by the Federal grand jury in San Francisco.  Ladel P. Varna, aka L. Percy Ram Chandra of 318 S. Flower Street was charged with violating the President&#8217;s neutrality proclamation.  He was suspected of being involved in the recent <i>Annie Larsen</i> affair, part of a &quot;wholesale plot to assist the Hindus in an effort to throw off the British yoke.&quot;</p>
+<p>The affair, and the trial that followed is too hopelessly confusing to relate here in any detail, but involved &quot;German spies,&quot; the Irish Republican Brotherhood, and India&#8217;s Ghadar Party.  The <i>Annie Larsen</i>, a barely seaworthy vessel, was loaded up with approximately 4 million round of ammunition, 3758 cases of small arms ammunition, 10,000 Springfield rifles, 10,000 bayonets, and 10,000 cartridge belts, and sent out to rendezvous with the <i>Maverick</i>, and transfer the cargo to the larger ship, which would then head for Southeast Asia. </p>
 <p>But back to Bunker Hill for now&#8230;</p>
-<p>A graduate of Delhi University, Varna had lived in the United States for about four years at the time of his arrest.Â  When he arrived in San Francisco, he operated a fruit stand that did enough business to allow him to save up his money and purchase some real estate around Berkeley.Â  Then, two and a half years ago, Varna moved to Los Angeles and took a job in a cafeteria on Fourth Street.Â  He lived in a room at 318 S. Flower with four other men, and spoke perfect English</p>
-<p>Of the charges brought against him, Varna said, &quot;I know nothing about it except as the complain was read to me.Â  It is all like a dream to me.Â  I was in no conspiracy to violate the laws of this country and can bring witnesses to show what I have been doing ever since I landed.Â  I have saved some money, but do not like to spend it on a lawyer.Â  I won&#8217;t hire an attorney.&quot;</p>
-<p>Varna had recently registered for military service, and said that he was wiling to go to war for the United States if he was called.Â </p>
+<p>A graduate of Delhi University, Varna had lived in the United States for about four years at the time of his arrest.  When he arrived in San Francisco, he operated a fruit stand that did enough business to allow him to save up his money and purchase some real estate around Berkeley.  Then, two and a half years ago, Varna moved to Los Angeles and took a job in a cafeteria on Fourth Street.  He lived in a room at 318 S. Flower with four other men, and spoke perfect English</p>
+<p>Of the charges brought against him, Varna said, &quot;I know nothing about it except as the complain was read to me.  It is all like a dream to me.  I was in no conspiracy to violate the laws of this country and can bring witnesses to show what I have been doing ever since I landed.  I have saved some money, but do not like to spend it on a lawyer.  I won&#8217;t hire an attorney.&quot;</p>
+<p>Varna had recently registered for military service, and said that he was wiling to go to war for the United States if he was called. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/the-annie-larsen-affair-comes-to-bunker-hill/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Red Light Raid:  317 S. Flower St</title>
-		<link>https://www.onbunkerhill.org/redlightraid2/</link>
-					<comments>https://www.onbunkerhill.org/redlightraid2/#respond</comments>
+		<link>/redlightraid2/</link>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 29 Apr 2008 15:39:34 +0000</pubDate>
@@ -148,7 +138,7 @@ Date: January 26, 1907</p>
 		<category><![CDATA[Saratoga Hotel]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[May 22, 1919317 S. Flower Street, Saratoga HotelA building permit for a 3-story brick lodging house that would become the Saratoga Hotel was issued to W.W. Paden and Louis Nordlinger in the summer of 1914. A year later, the hotel was offered for sale, exchange, or lease, offering &#34;long lease, good furniture, and cheap rent.&#34; &#8230; <a href="https://www.onbunkerhill.org/redlightraid2/" class="more-link">Continue reading<span class="screen-reader-text"> "A Red Light Raid:  317 S. Flower St"</span></a>]]></description>
+					<description><![CDATA[May 22, 1919317 S. Flower Street, Saratoga HotelA building permit for a 3-story brick lodging house that would become the Saratoga Hotel was issued to W.W. Paden and Louis Nordlinger in the summer of 1914. A year later, the hotel was offered for sale, exchange, or lease, offering &#34;long lease, good furniture, and cheap rent.&#34; &#8230; <a href="/redlightraid2/" class="more-link">Continue reading<span class="screen-reader-text"> "A Red Light Raid:  317 S. Flower St"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>May 22, 1919<br />317 S. Flower Street, Saratoga Hotel<br /><img loading="lazy" src="https://farm4.static.flickr.com/3285/2451419572_874aba1a1a_o.jpg" alt="saratogahotel" align="left" height="65" width="268" />A building permit for a 3-story brick lodging house that would become the Saratoga Hotel was issued to W.W. Paden and Louis Nordlinger in the summer of 1914.  A year later, the hotel was offered for sale, exchange, or lease, offering &quot;long lease, good furniture, and cheap rent.&quot;</p>
 <p>By 1919, the hotel had already acquired something of a reputation, and was home to many show business types.  On May 22, A.W. Gifford, head of the City&#8217;s Purity Squad led a raid on the hotel and arrested 32 people on charges of living in a house of prostitution.  Members of the Purity Squad had taken rooms at the Saratoga during the week prior to the raid, and gathered evidence during that time.</p>
 <p>Police tore apart the Saratoga&#8217;s 200 rooms, confiscated hundreds of bottles of liquor and beer, and questioned all occupants.  Anyone who could not prove steady employment, and any man and woman found together in the same room without a marriage license were taken to City Jail.</p>
@@ -160,15 +150,12 @@ Date: January 26, 1907</p>
 <p><i>What do you think of five men in civilian clothes with no badges or authority &#8212; or, at least none visible &#8212; bursting into the room of a girl at an unseemly hour, insulting her, accusing her of crime, when she knows absolutely nothing of the reason for such an assault&#8230; Do you think five ruffians like that, cowards, would do so if a man were in the room with a gun?  Hardly.&quot; </i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/redlightraid2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>We&#8217;ve Got a Live One</title>
-		<link>https://www.onbunkerhill.org/weve-got-a-live-one/</link>
-					<comments>https://www.onbunkerhill.org/weve-got-a-live-one/#respond</comments>
+		<link>/weve-got-a-live-one/</link>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 22 Apr 2008 14:52:55 +0000</pubDate>
@@ -178,7 +165,7 @@ Date: January 26, 1907</p>
 		<category><![CDATA[attempted robbery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[309 S. Flower Street January 21, 1940 Following his breakfast at the little cafe at 309 S. Flower Street, 25-year-old James D. Bland was full of bacon, eggs, and bad intentions. He was not armed, but pantomimed a weapon under his coat, and threatened to shoot the waitress, Heide Ogawa, unless she emptied the register. &#8230; <a href="https://www.onbunkerhill.org/weve-got-a-live-one/" class="more-link">Continue reading<span class="screen-reader-text"> "We&#8217;ve Got a Live One"</span></a>]]></description>
+					<description><![CDATA[309 S. Flower Street January 21, 1940 Following his breakfast at the little cafe at 309 S. Flower Street, 25-year-old James D. Bland was full of bacon, eggs, and bad intentions. He was not armed, but pantomimed a weapon under his coat, and threatened to shoot the waitress, Heide Ogawa, unless she emptied the register. &#8230; <a href="/weve-got-a-live-one/" class="more-link">Continue reading<span class="screen-reader-text"> "We&#8217;ve Got a Live One"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>309 S. Flower Street<br id="rh1e" /><br />
 January 21, 1940<br id="cuc2" /><br />
 <img loading="lazy" src="https://farm4.static.flickr.com/3219/2431132295_25713dfb6b_m.jpg" alt="jamesbland" align="left" height="179" width="240" /></p>
@@ -191,8 +178,6 @@ January 21, 1940<br id="cuc2" /><br />
 <p>Bland entered a guilty plea to second degree robbery and was sentenced to 5 years probation and 1 year in County Jail.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/weve-got-a-live-one/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

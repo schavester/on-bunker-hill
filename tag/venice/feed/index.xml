@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/venice/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:48:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>A Little Nippy</title>
 		<link>/alittlenippy/</link>
-					<comments>/alittlenippy/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 01 Apr 2008 16:25:42 +0000</pubDate>
@@ -51,8 +50,6 @@ Date: July 11, 1932</p>
 <p>Mrs. L. Blanchard, 67, left her apartment for a carefree evening at the shore, but had a lousy time. According to Officer Maxwell, Venice PD, he heard a woman screaming and ran to Ocean Front and Brooks Avenue, where he found Mrs. Blanchard holding her injured shoulder. Unconscious in the sand was Eugene Allison, 22, who Mrs. Blanchard explained had taken poison and, in his frenzy, bitten her. We can only assume this odd May-December pair knew each other from the neighborhood (Blanchard lived at 360 South Hill, Allison at 337 South Olive). Allison was sent to General Hospital, and there is no further report on his condition.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alittlenippy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

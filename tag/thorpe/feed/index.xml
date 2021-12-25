@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/thorpe/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:46:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Residence &#8211; 333 South Bunker Hill Avenue</title>
 		<link>/333_bunkerhill/</link>
-					<comments>/333_bunkerhill/#respond</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 20 Oct 2008 21:08:34 +0000</pubDate>
@@ -46,36 +45,36 @@
 
 					<description><![CDATA[Of all the dearly departed Bunker Hill mansions, the Castle and Salt Box are probably the best known. The two houses which resided at 325 &#38; 339 South Bunker Hill Avenue were spared the wrecking ball, declared Historic Cultural Monuments, and posed for numerous photos before being moved to Heritage Square (and were subsequently burned &#8230; <a href="/333_bunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Residence &#8211; 333 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3066/2959918891_1d316db4a8.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3066/2959918891_1d316db4a8.jpg?v=0" width="400" />
 </div>
 <p>Of all the dearly departed Bunker Hill mansions, the <a href="/castle">Castle</a> and <a href="/salt_box">Salt Box</a> are probably the best known. The two houses which resided at 325 &amp; 339 South Bunker Hill Avenue were spared the wrecking ball, declared Historic Cultural Monuments, and posed for numerous photos before being moved to Heritage Square (and were subsequently burned to the ground by vandals). Rarely mentioned is the house that stood between its two more famous neighbors at 333 South Bunker Hill Avenue.</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3169/2960761280_db4ee4fd8d.jpg?v=0" height="500" width="390" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3169/2960761280_db4ee4fd8d.jpg?v=0" height="500" width="390" />
 </div>
 <p>
 As <a href="/salt_box">discussed previously,</a> the Castle, Salt Box, and 333 S. Bunker Hill were possibly all built in 1888 by Rueben M. Baker who lived in the Castle and either sold or leased the other two structures. The mansion had various occupants until it was purchased by Spencer Roan Thorpe in 1901.  </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3034/2960761770_39f96fa023.jpg?v=0" height="500" width="223" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3034/2960761770_39f96fa023.jpg?v=0" height="500" width="223" />
 </div>
 <p>
 Thorpe was a Kentucky native and descendent of Patrick Henry which gained him easy admission into the Sons of the Revolution and Colonial Wars. He served as a Confederate captain during the Civil War and was wounded three times before being captured by the Yanks and imprisoned on Johnson&#8217;s Island. Thorpe survived the War and made his fortune as a lawyer in Louisiana before making his way to Los Angeles in 1883. He purchased plots of land throughout the city, as well as a 150 acre walnut orchard in Ventura County. Thorpe also reportedly started the first settlement in what became the city of Gardena. He also served two terms on the Board of Police Commissioners of Los Angeles. When he moved into 333 South Bunker Hill Avenue, Thorpe was accompanied by his wife, Helena, and their five children. </p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3253/2960761018_5955947af8.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3253/2960761018_5955947af8.jpg?v=0" width="400" />
 </div>
 <p>
 Helena Thorpe hosted many social events at the Bunker Hill home, including a wedding breakfast for her daughter following early morning nuptials at St. Vibiana&#8217;s Cathedral in May 1905. Close friends and family would be reunited a mere four months later for Spencer Thorpe&#8217;s funeral.</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3135/2960762126_a87722ce9e.jpg?v=0" height="292" width="348" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3135/2960762126_a87722ce9e.jpg?v=0" height="292" width="348" />
 </div>
 <p>
 On the morning of September 2, 1905, Thorpe left one of his ranch homes to travel out to Simi Valley and Moorpark. When his horse and carriage returned home alone, search parties were sent out and Thorpe&#8217;s body was found on the side of a road. There were no signs of foul play and it was presumed that he died of heart failure. His body was brought back to the Bunker Hill family residence and a small service was held at St. Vibiana&#8217;s. The surviving members of the Thorpe family lived in the Bunker Hill house for another year before selling it to an H.N. Green for $20,000 (a little under half a million in today&#8217;s dollars).</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3061/2960762494_d7c49f3586.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3061/2960762494_d7c49f3586.jpg?v=0" width="400" />
 </div>
 <p>
 Like many of the homes on the Hill, the house was soon divided, and accommodated three households. By 1920, the mansion had been further divided into twelve residences, most of which were occupied by single boarders in single rooms. 333 South Bunker Hill Avenue saw some action in 1917 when Olive H. Faulk fell out of her second story window. Moments before her plunge, she had been cutting ham when her abusive husband, Irvin, pushed her into a corner and ordered her to pack her trunk and move. Apparently, he did not mean it, for when Olive tried to walk out the door, he locked and blocked it. Olive opted for the window, survived the fall, and filed for divorce. The L.A. Times astutely observed that the incident “ended their conjugal relations.” </p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3139/2959918959_288be4895c.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3139/2959918959_288be4895c.jpg?v=0" width="400" />
 </div>
 <div align="center">
 <i>Stuck in the middle&#8230;333 with the Salt Box to the left and the Castle to the right</i>
@@ -84,8 +83,6 @@ Like many of the homes on the Hill, the house was soon divided, and accommodated
 <p><i>Photos courtesy of the Los Angeles Public Library Photo Collection and the California State Library</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/333_bunkerhill/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

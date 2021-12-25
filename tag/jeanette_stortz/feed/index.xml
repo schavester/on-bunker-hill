@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/jeanette_stortz/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:47:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>In the Death Room</title>
 		<link>/inthedeathroom/</link>
-					<comments>/inthedeathroom/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 09:44:22 +0000</pubDate>
@@ -52,11 +51,9 @@
 					<description><![CDATA[Location: 310 Clay Street Date: May 3, 1914]]></description>
 										<content:encoded><![CDATA[<p>Location: 310 Clay Street<br />
 Date: May 3, 1914</p>
-<p><a href="http://www.flickr.com/photos/richardschave/2405111659/" title="Shenanigans in Hotel Lorraine Death Room by richardschave, on Flickr"><img loading="lazy" src="http://farm4.static.flickr.com/3001/2405111659_52e16480eb_o.png" alt="Shenanigans in Hotel Lorraine Death Room" height="597" width="635" /></a></p>
+<p><a href="https://www.flickr.com/photos/richardschave/2405111659/" title="Shenanigans in Hotel Lorraine Death Room by richardschave, on Flickr"><img loading="lazy" src="https://farm4.static.flickr.com/3001/2405111659_52e16480eb_o.png" alt="Shenanigans in Hotel Lorraine Death Room" height="597" width="635" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/inthedeathroom/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

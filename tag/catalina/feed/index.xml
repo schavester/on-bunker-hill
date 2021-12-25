@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/catalina/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:47:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>&#8220;I Am Going to Bakersfield!&#8221;</title>
 		<link>/goingtobakersfield/</link>
-					<comments>/goingtobakersfield/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 09:37:25 +0000</pubDate>
@@ -48,7 +47,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 310 Clay Street Date: June 19, 1910 Jerome Hite, former bookkeeper at the Woolwine Motor Car Company, is a jealous man. He drinks to excess, and likes to chase his wife with a revolver. In an attempt to prove she had been faithless, he pretended to leave on a business trip to Bakersfield, but &#8230; <a href="/goingtobakersfield/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;I Am Going to Bakersfield!&#8221;"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2405883570/" title="jerome hite and wife whom he shot at hotel lorraine by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2044/2405883570_42371d905d.jpg" alt="jerome hite and wife whom he shot at hotel lorraine" height="500" width="158" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2405883570/" title="jerome hite and wife whom he shot at hotel lorraine by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2044/2405883570_42371d905d.jpg" alt="jerome hite and wife whom he shot at hotel lorraine" height="500" width="158" /></a></p>
 <p>Location: 310 Clay Street<br />
 Date: June 19, 1910</p>
 <p>Jerome Hite, former bookkeeper at the Woolwine Motor Car Company, is a jealous man. He drinks to excess, and likes to chase his wife with a revolver. In an attempt to prove she had been faithless, he pretended to leave on a business trip to Bakersfield, but returned to their room at the Hotel Lorraine a few hours later, saying he had forgotten a pair of shoes. But his wife was alone. He took the shoes and again &quot;left for Bakersfield,&quot; but returned later that evening; again, nothing was amiss. Damned stubborn woman!</p>
@@ -57,8 +56,6 @@ Date: June 19, 1910</p>
  </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/goingtobakersfield/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

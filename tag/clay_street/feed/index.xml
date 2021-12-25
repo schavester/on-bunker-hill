@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/clay_street/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:46:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Suicide Writ Large at Clay Central</title>
 		<link>/claycentral/</link>
-					<comments>/claycentral/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 03 May 2008 10:20:30 +0000</pubDate>
@@ -53,46 +52,44 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Before the Community Redevelopment Association swung its scythe across Bunker Hill, one building tried to do itself in. This structure was by all evidence a living, cursed thing, and like the House of Usher disappearing into the tarn, it acted to remove itself from this world. Shades of the Overlook Hotel–someone or something used the &#8230; <a href="/claycentral/" class="more-link">Continue reading<span class="screen-reader-text"> "Suicide Writ Large at Clay Central"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3093/2460152871_a449276c27_o.gif" alt="blammo" height="175" width="448" /></p>
-<p>Before the Community Redevelopment Association swung its scythe across Bunker Hill, one building tried to do itself in.  This structure was by all evidence a living, cursed thing, and like the <a href="http://www.bartleby.com/195/10.html" title="starringvincentprice" target="_blank">House of Usher</a> disappearing into the tarn, it acted to remove itself from this world.  Shades of the <a href="http://en.wikipedia.org/wiki/Overlook_Hotel" title="timberlineonclay" target="_blank">Overlook Hotel</a>–someone or something used the old exploding boiler trick to force this assembly of apartments from its supramortal coil.</p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3093/2460152871_a449276c27_o.gif" alt="blammo" height="175" width="448" /></p>
+<p>Before the Community Redevelopment Association swung its scythe across Bunker Hill, one building tried to do itself in.  This structure was by all evidence a living, cursed thing, and like the <a href="https://www.bartleby.com/195/10.html" title="starringvincentprice" target="_blank" rel="noopener">House of Usher</a> disappearing into the tarn, it acted to remove itself from this world.  Shades of the <a href="https://en.wikipedia.org/wiki/Overlook_Hotel" title="timberlineonclay" target="_blank" rel="noopener">Overlook Hotel</a>–someone or something used the old exploding boiler trick to force this assembly of apartments from its supramortal coil.</p>
 <p>I speak of the Hotel Central, aka the Clayton Apartments, aka the Lorraine Hotel.  Change the names all you want, there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s something wrong at 310 Clay Street.  Kim”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s numerous posts about the place attest to <i>that</i>.</p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2062/2459037241_09f29cfc22_o.gif" alt="gagschool" align="right" height="152" width="281" /><br />
-The spot was a trouble magnet even before the hotel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s erection.  Back when 310 was a double dwelling, it attracted kerchief-weilding lady-gagging <a href="/anightvisitor" title="nightvis" target="_blank">burglars</a>. </p>
-<p>By 1910 the Hotel Lorraine stands on the site and <a href="/goingtobakersfield" title="foundincatalina" target="_blank">Jerome Hite</a> elects to shoot his wife in the neck. </p>
-<p>Come 1914, proprietor-of-the-place Claude Mathewson–gets, what, tired of watching the walls bleed? listening to the screaming faces jutting from the washbasin mirror?–elects to pop two new holes into his <a href="/nelliebuck" title="mathewson" target="_blank">lovely wife</a> and one into his own head. </p>
-<p>Shortly after, in that room where try as one might the blood just never quite washes out, a real estate titan is <a href="/inthedeathroom" title="deathroom" target="_blank">taken down</a> for sordidness. </p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2268/2460241029_8700ac72d5_o.gif" alt="goodstart" align="left" height="115" width="266" /><br />
-A year later, the establishment, now named the Clayton, has become a <a href="/redlightraid" title="veritabledenItellyou" target="_blank">veritable den of iniquity</a>.  The new proprietor is a Mrs. Florence Cheney.  According to her, the property is owned by Leon Levy, “about whom no one concerned could give any information.”</p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2213/2459037211_e2acd7a6f9_o.gif" alt="goodstart" height="300" width="250" /></p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3220/2459037297_09e6e30028_o.gif" alt="wellpassoverthat" align="right" height="168" width="243" /><br />
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2062/2459037241_09f29cfc22_o.gif" alt="gagschool" align="right" height="152" width="281" /><br />
+The spot was a trouble magnet even before the hotel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s erection.  Back when 310 was a double dwelling, it attracted kerchief-weilding lady-gagging <a href="/anightvisitor" title="nightvis" target="_blank" rel="noopener">burglars</a>. </p>
+<p>By 1910 the Hotel Lorraine stands on the site and <a href="/goingtobakersfield" title="foundincatalina" target="_blank" rel="noopener">Jerome Hite</a> elects to shoot his wife in the neck. </p>
+<p>Come 1914, proprietor-of-the-place Claude Mathewson–gets, what, tired of watching the walls bleed? listening to the screaming faces jutting from the washbasin mirror?–elects to pop two new holes into his <a href="/nelliebuck" title="mathewson" target="_blank" rel="noopener">lovely wife</a> and one into his own head. </p>
+<p>Shortly after, in that room where try as one might the blood just never quite washes out, a real estate titan is <a href="/inthedeathroom" title="deathroom" target="_blank" rel="noopener">taken down</a> for sordidness. </p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2268/2460241029_8700ac72d5_o.gif" alt="goodstart" align="left" height="115" width="266" /><br />
+A year later, the establishment, now named the Clayton, has become a <a href="/redlightraid" title="veritabledenItellyou" target="_blank" rel="noopener">veritable den of iniquity</a>.  The new proprietor is a Mrs. Florence Cheney.  According to her, the property is owned by Leon Levy, “about whom no one concerned could give any information.”</p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2213/2459037211_e2acd7a6f9_o.gif" alt="goodstart" height="300" width="250" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3220/2459037297_09e6e30028_o.gif" alt="wellpassoverthat" align="right" height="168" width="243" /><br />
 Mrs. Cheney shows up again as a witness in the 1916 Percy Tugwell trial; Percy robbed and murdered Senator”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s-daughter Maud Kennedy, and while Mrs. Cheney asserted that Maud may have committed suicide because she was being threatened by boxer Louis “Cyclone Thompson” Astosky, her character and thus credibility were attacked mercilessly.</p>
 <p>Leon Levy decides to get out of the 310 Clay business after changing its name again to the Hotel Central.</p>
 <p>Things stay quiet at 310 Clay for the next couple decades or so&#8230;acts of ill fortune befall its residents elsewhere.  <br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2318/2460094159_73201637f6_o.gif" alt="maceydayparade" height="176" width="248" /><br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2302/2459883374_76a6b7e7b2_o.gif" alt="centrallooms" align="right" height="400" width="251" /><br />
+<img loading="lazy" src="https://farm3.static.flickr.com/2318/2460094159_73201637f6_o.gif" alt="maceydayparade" height="176" width="248" /><br />
+<img loading="lazy" src="https://farm3.static.flickr.com/2302/2459883374_76a6b7e7b2_o.gif" alt="centrallooms" align="right" height="400" width="251" /><br />
 In 1922, for example, Frank Macey, son of a wealthy Phoenix shoe dealer, dropped from sight for a week after staying in the Central.  He ended up as a nameless bloody pulp in County Hospital, hovering in and out of consciousness, until at last identified as the prodigal Frank.  </p>
-<p>In 1923, Sander Serrano, 22 year-old graduate of USC, was playing pool at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=155+E+1st+St,+Los+Angeles,+CA+90012&amp;sll=34.051842,-118.242846&amp;sspn=0.009031,0.014527&amp;layer=c&amp;ie=UTF8&amp;ll=34.053033,-118.242846&amp;spn=0.009031,0.014527&amp;t=h&amp;z=16&amp;iwloc=addr&amp;cbll=34.051814,-118.242843" title="thewatersfine" target="_blank">155 East First</a> when he was accused of jostling another player.  For this he nearly lost his arm to his penknife-wielding opponent, who severed a slew of arteries and stabbed him in the throat.</p>
-<p>A 1936 beer parlor fight at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=121+S+Main+St,+Los+Angeles,+CA+90012&amp;sll=34.051984,-118.243661&amp;sspn=0.009031,0.014527&amp;layer=c&amp;ie=UTF8&amp;ll=34.053175,-118.243661&amp;spn=0.009031,0.014527&amp;z=16&amp;iwloc=addr&amp;cbll=34.051966,-118.243645" title="drinkmaier" target="_blank">121 South Main</a> resulted in the stabbing of Hotel Central resident Walter Paine.</p>
+<p>In 1923, Sander Serrano, 22 year-old graduate of USC, was playing pool at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=155+E+1st+St,+Los+Angeles,+CA+90012&amp;sll=34.051842,-118.242846&amp;sspn=0.009031,0.014527&amp;layer=c&amp;ie=UTF8&amp;ll=34.053033,-118.242846&amp;spn=0.009031,0.014527&amp;t=h&amp;z=16&amp;iwloc=addr&amp;cbll=34.051814,-118.242843" title="thewatersfine" target="_blank" rel="noopener">155 East First</a> when he was accused of jostling another player.  For this he nearly lost his arm to his penknife-wielding opponent, who severed a slew of arteries and stabbed him in the throat.</p>
+<p>A 1936 beer parlor fight at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=121+S+Main+St,+Los+Angeles,+CA+90012&amp;sll=34.051984,-118.243661&amp;sspn=0.009031,0.014527&amp;layer=c&amp;ie=UTF8&amp;ll=34.053175,-118.243661&amp;spn=0.009031,0.014527&amp;z=16&amp;iwloc=addr&amp;cbll=34.051966,-118.243645" title="drinkmaier" target="_blank" rel="noopener">121 South Main</a> resulted in the stabbing of Hotel Central resident Walter Paine.</p>
 <p>And so it goes, until the hotel could take no more, or had claimed enough souls, or something otherwise unknowable to mere man.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3241/2460987830_f60464a514_o.gif" alt="alamogordo" height="528" width="575" /><br />
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3241/2460987830_f60464a514_o.gif" alt="alamogordo" height="528" width="575" /><br />
 Mid-day, November 27, 1953.  O. B. Reeder, a 73 year-old retired printer, was bent over a table preparing Christmas gifts for mailing.  Houses of Hell hating the Christmas season and all, the boiler exploded in rage, sending Reeder”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s door across the room and into his back.  Directly across the hall, from where resident Gus Poulas”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> guardian angel had guided him elsewhere, the room was completely wrecked, all tumbled furniture and great cakes of plaster torn from the walls.  </p>
 <p>The boiler room itself was obliterated into a mass of twisted metal and piles of timber and concrete wall blocks.  Plaster from walls and ceilings was concussed to floors throughout the hotel.   The windows and doors in the first three floors were cracked or blown out by the explosion, which attracted a large lunchtime crowd of spectators to the Hill Street section of the Grand Central Market.  (The back of the hotel towered over a Hill St. parking lot:)<br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2411/2455309324_b16fb0f5ff_o.gif" alt="hillstblues" height="581" width="400" /><br />
+<img loading="lazy" src="https://farm3.static.flickr.com/2411/2455309324_b16fb0f5ff_o.gif" alt="hillstblues" height="581" width="400" /><br />
 Making the incident all the eerier is owner/manager William Ogawa”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s statement that while the boilers were under repair, he was certain that gas to the boiler room had been turned off when the boilers went out of order several days previous.</p>
 <p>In any event, everything was rebuilt, doors rehung, windows reglazed.  Less than a decade later the scythe swung and all that was 310 Clay was at the bottom of a landfill, the CRA accomplishing what the Lorraine/Clayton/Central couldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t do itself.</p>
 <p>But remember what I said about the spot being a trouble magnet even before the hotel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s erection?  Is there some sort of Poltergeist-style burial-ground whatnot at work here?  Flash forward a hundred years from our tale of the simple double residence. </p>
 <p>310 Clay at lucky number 13:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3088/2455308872_32799a8c31_o.gif" alt="13ghosts" height="400" width="383" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3088/2455308872_32799a8c31_o.gif" alt="13ghosts" height="400" width="383" /></p>
 <p>The site of 310 on the Ghost Street that is Clay:<br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2264/2454618353_afa64d9024_o.gif" alt="ghoststreet" height="328" width="575" /></p>
-<p>On that very spot.  February 1, 2001.  What spanner of the underworld was <a href="http://juniperhills.net/elegyfortwoangels.html" title="thereaping" target="_blank">tossed into</a> the heavenly works of a newly-located Angels Flight? </p>
+<img loading="lazy" src="https://farm3.static.flickr.com/2264/2454618353_afa64d9024_o.gif" alt="ghoststreet" height="328" width="575" /></p>
+<p>On that very spot.  February 1, 2001.  What spanner of the underworld was <a href="https://juniperhills.net/elegyfortwoangels.html" title="thereaping" target="_blank" rel="noopener">tossed into</a> the heavenly works of a newly-located Angels Flight? </p>
 <p>This is the ground zero of Clay Street.  Clay Street, the street that had to be destroyed.  The street whose very name–<i>clay</i>–symbolizes (via Nebuchadnezzar&#8217;s dream) the division of an empire, and the end of a kingdom.</p>
 <p><i>Hotel Cental photographs courtesy Arnold Hylen Collection, California History Section, California State Library</i></p>
 <p><i>Newpaper images from the Los Angeles Times </i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/claycentral/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -115,27 +112,27 @@ Making the incident all the eerier is owner/manager William Ogawa”<img src="ht
 		<category><![CDATA[Olive Street]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Of all the oft-pictured sites of Los Angeles, Angels Flight is certainly up there amongst them, as who doesn”™t go for those Oldey-Timey images? There”™s probably postcards and ceramic trivets and refrigerator magnets featuring Angels Flight from here to Toledo to Timbuktu, and people probably prefer a pre-1908, pre-Elks Club Building image of the Hill &#8230; <a href="/elksannex/" class="more-link">Continue reading<span class="screen-reader-text"> "The Elks and Their Annex"</span></a>]]></description>
+					<description><![CDATA[Of all the oft-pictured sites of Los Angeles, Angels Flight is certainly up there amongst them, as who doesn”&#x2122;t go for those Oldey-Timey images? There”&#x2122;s probably postcards and ceramic trivets and refrigerator magnets featuring Angels Flight from here to Toledo to Timbuktu, and people probably prefer a pre-1908, pre-Elks Club Building image of the Hill &#8230; <a href="/elksannex/" class="more-link">Continue reading<span class="screen-reader-text"> "The Elks and Their Annex"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>
-<img loading="lazy" src="http://farm3.static.flickr.com/2093/2439669267_29311d179d_o.gif" alt="cracker" align="left" height="223" width="300" />Of all the oft-pictured sites of Los Angeles, <a href="/angelsflight" title="FlightoftheCrockers" target="_blank">Angels Flight </a>is certainly up there amongst them, as who doesn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t go for those Oldey-Timey images?  There”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s probably postcards and ceramic trivets and refrigerator magnets featuring Angels Flight from here to Toledo to Timbuktu, and people probably prefer a pre-1908, pre-Elks Club Building image of the Hill topped with the <a href="/node/86" title="grimgrinningghosts" target="_blank">Crocker Mansion</a> because, again, Oldey-Timey.  </p>
+<img loading="lazy" src="https://farm3.static.flickr.com/2093/2439669267_29311d179d_o.gif" alt="cracker" align="left" height="223" width="300" />Of all the oft-pictured sites of Los Angeles, <a href="/angelsflight" title="FlightoftheCrockers" target="_blank" rel="noopener">Angels Flight </a>is certainly up there amongst them, as who doesn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t go for those Oldey-Timey images?  There”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s probably postcards and ceramic trivets and refrigerator magnets featuring Angels Flight from here to Toledo to Timbuktu, and people probably prefer a pre-1908, pre-Elks Club Building image of the Hill topped with the <a href="/node/86" title="grimgrinningghosts" target="_blank" rel="noopener">Crocker Mansion</a> because, again, Oldey-Timey.  </p>
 <p>So what of the Elks Lodge, which supplanted the Crocker (having its 100th anniversary demolition party in a few weeks), that squarish building noted more for giving the world the Angels Flight gateway than for being, well, a squarish building?<br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2039/2440495858_54ea8f10ea_o.gif" alt="xmarksthespot" height="535" width="575" /><br />
-There were in fact two <a href="http://www.phoenixmasonry.org/masonicmuseum/fraternalism/elks.htm" title="thelks" target="_blank">BPOE</a> buildings.  The main building fronting Clay Street, at 60&#215;90&#8242;, contained an auditorium, dance hall, dormitories and offices; the Annex above at 300 South Olive, on the site of the June ”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />08-demolished Crocker (where District Deputy Grand Exalted Ruler John Whichner placed Elks Lodge No. 99 roster, and copies of the September 2, 1908 newspapers in the cornerstone), was 54&#215;64&#8242;, and full of reading and writing rooms, plus a billiard hall and card parlors–everything a fraternal organization needed. </p>
-<p>At least for a little while.  By 1925 the Elks had built much larger and <a href="http://www.you-are-here.com/building/park_plaza.html" title="thenewlodge" target="_blank">schmantzier digs</a> over by Westlake park.  </p>
-<p>300 South Olive wouldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t go to waste, though, as the Elks”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> brothers-in-fraternity, the Loyal Order of <a href="http://www.phoenixmasonry.org/masonicmuseum/fraternalism/moose.htm" title="themoose" target="_blank">Moose</a>, took over the buildings.  They covered &quot;BPOE&quot; on the aforementioned Angels Flight archway and set about putting a lot of boxers to work.  1931:<br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2095/2440495602_a70cffa799_o.gif" alt="rockmsockmrobots" height="118" width="250" /><br />
+<img loading="lazy" src="https://farm3.static.flickr.com/2039/2440495858_54ea8f10ea_o.gif" alt="xmarksthespot" height="535" width="575" /><br />
+There were in fact two <a href="https://www.phoenixmasonry.org/masonicmuseum/fraternalism/elks.htm" title="thelks" target="_blank" rel="noopener">BPOE</a> buildings.  The main building fronting Clay Street, at 60&#215;90&#8242;, contained an auditorium, dance hall, dormitories and offices; the Annex above at 300 South Olive, on the site of the June ”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />08-demolished Crocker (where District Deputy Grand Exalted Ruler John Whichner placed Elks Lodge No. 99 roster, and copies of the September 2, 1908 newspapers in the cornerstone), was 54&#215;64&#8242;, and full of reading and writing rooms, plus a billiard hall and card parlors–everything a fraternal organization needed. </p>
+<p>At least for a little while.  By 1925 the Elks had built much larger and <a href="https://www.you-are-here.com/building/park_plaza.html" title="thenewlodge" target="_blank" rel="noopener">schmantzier digs</a> over by Westlake park.  </p>
+<p>300 South Olive wouldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t go to waste, though, as the Elks”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> brothers-in-fraternity, the Loyal Order of <a href="https://www.phoenixmasonry.org/masonicmuseum/fraternalism/moose.htm" title="themoose" target="_blank" rel="noopener">Moose</a>, took over the buildings.  They covered &quot;BPOE&quot; on the aforementioned Angels Flight archway and set about putting a lot of boxers to work.  1931:<br />
+<img loading="lazy" src="https://farm3.static.flickr.com/2095/2440495602_a70cffa799_o.gif" alt="rockmsockmrobots" height="118" width="250" /><br />
 And 1951:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3053/2440495570_c79a452513_o.gif" alt="JC" height="300" width="241" /></p>
-<p>No, not that <a href="http://www.cyberboxingzone.com/boxing/carter-j.htm" title="hailtothechief" target="_blank">Jimmy Carter</a>.  </p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3053/2440495570_c79a452513_o.gif" alt="JC" height="300" width="241" /></p>
+<p>No, not that <a href="https://www.cyberboxingzone.com/boxing/carter-j.htm" title="hailtothechief" target="_blank" rel="noopener">Jimmy Carter</a>.  </p>
 <p>The Moose hung on, and kept the building til the end, despite it becoming the Royal Club:<br />
-<img loading="lazy" src="http://farm3.static.flickr.com/2069/2440495772_1db9a98b4b_o.gif" alt="royalty" height="422" width="575" /><br />
+<img loading="lazy" src="https://farm3.static.flickr.com/2069/2440495772_1db9a98b4b_o.gif" alt="royalty" height="422" width="575" /><br />
 Nice quoins.</p>
 <p>In September of 1962 it was just one more structure on the business end of the CRA”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s bulldozers:</p>
 <div align="justify">
-<img loading="lazy" src="http://farm3.static.flickr.com/2359/2439669325_12ee4f3a38_o.gif" alt="hallfalls" align="right" height="188" width="224" /><i>In its small theater–now roofless and with one wall gone because the workmen”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hammer– tattered remnants of a once-fancy curtain hang over the stage.</p>
+<img loading="lazy" src="https://farm3.static.flickr.com/2359/2439669325_12ee4f3a38_o.gif" alt="hallfalls" align="right" height="188" width="224" /><i>In its small theater–now roofless and with one wall gone because the workmen”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hammer– tattered remnants of a once-fancy curtain hang over the stage.</p>
 <p>An old-timer on the hill, Austin Blackburn, 59, of 529 W 3rd St, said the building was a lodge meeting place when he took up residence at the now-demolished Cumberland hotel, across the street at 243 S Olive, 35 years ago.  “The Royal, and all the rest of the hill, was a wonderful place then,” he reminisced.  “They used to put on free shows and boxing matches in the theater for the folks who lived here.  Later it was a dance hall, and during World War II they made a hotel out of it.  At one time boxers used to train in a small gymnasium there.”</i>
 </div>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2090/2439669393_ab82edb384_o.gif" alt="demoworld" height="663" width="575" /></p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2090/2439669393_ab82edb384_o.gif" alt="demoworld" height="663" width="575" /></p>
 <p>The question being, of course, what became of the cornerstone filled with 1908 newspapers and the Elks&#8217; club roster?</p>
 <p><i>Crocker Mansion image</i> <i>courtesy of the Los Angeles Public Library Photo Collection</i></p>
 <p><i>Annex image courtesy Arnold Hylen Collection, California History Section, California State Library</i></p>
@@ -150,7 +147,6 @@ Nice quoins.</p>
 		<item>
 		<title>The Crocker Mansion &#8211; 300 South Olive</title>
 		<link>/crocker_mansion/</link>
-					<comments>/crocker_mansion/#respond</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Tue, 08 Apr 2008 19:49:28 +0000</pubDate>
@@ -166,7 +162,7 @@ Nice quoins.</p>
 
 					<description><![CDATA[At the turn of the 20th Century, no building dominated Bunker Hill like the Crocker Mansion. Perched high at the corner of Third and Olive, the imposing 3-story Victorian structure overlooked the emerging metropolis for a mere 22 years. Though its reign over Bunker Hill was short, the Crocker Mansion remains an indelible part of &#8230; <a href="/crocker_mansion/" class="more-link">Continue reading<span class="screen-reader-text"> "The Crocker Mansion &#8211; 300 South Olive"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img loading="lazy" src="http://farm3.static.flickr.com/2343/2400089098_d88627293a.jpg?v=0" alt="Crocker Mansion" height="500" width="295" />
+<img loading="lazy" src="https://farm3.static.flickr.com/2343/2400089098_d88627293a.jpg?v=0" alt="Crocker Mansion" height="500" width="295" />
 </div>
 <p class="MsoNormal" align="justify">
 At the turn of the 20th Century, no building dominated Bunker Hill like the Crocker Mansion. Perched high at the corner of Third and Olive, the imposing 3-story Victorian structure overlooked the emerging metropolis for a mere 22 years. Though its reign over Bunker Hill was short, the Crocker Mansion remains an indelible part of early Los Angeles history.
@@ -174,10 +170,10 @@ At the turn of the 20th Century, no building dominated Bunker Hill like the Croc
 <div style="text-align: center">
 </div>
 <p class="MsoNormal">
-Designed by architect John Hall and erected in 1886, the ornate residence was built by Mrs. Margaret E. Crocker at a cost of $45,000 (a little over a million in today&#8217;s dollars). Margaret was the widow of Edwin Bryant Crocker, a California Supreme Court Justice, who with his brother, Charles, amassed a fortune in the railroad industry.  Following her husband&#8217;s death in 1875, Mrs. Crocker became a known social and civic leader who had donated the family&#8217;s impressive <a href="http://www.crockerartmuseum.org/about/history_crockers.htm" title="Crocker Art Museum" target="_blank">art collection</a> to the city of Sacramento. At the time she commissioned the Los Angeles residence, Mrs. Crocker owned homes in Sacramento, Lake Tahoe, San Francisco and New York.
+Designed by architect John Hall and erected in 1886, the ornate residence was built by Mrs. Margaret E. Crocker at a cost of $45,000 (a little over a million in today&#8217;s dollars). Margaret was the widow of Edwin Bryant Crocker, a California Supreme Court Justice, who with his brother, Charles, amassed a fortune in the railroad industry.  Following her husband&#8217;s death in 1875, Mrs. Crocker became a known social and civic leader who had donated the family&#8217;s impressive <a href="https://www.crockerartmuseum.org/about/history_crockers.htm" title="Crocker Art Museum" target="_blank" rel="noopener">art collection</a> to the city of Sacramento. At the time she commissioned the Los Angeles residence, Mrs. Crocker owned homes in Sacramento, Lake Tahoe, San Francisco and New York.
 </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm3.static.flickr.com/2147/2399268817_d0423848e8_m.jpg" alt="Crocker Mansion View from Olive" height="279" width="363" />
+<img loading="lazy" src="https://farm3.static.flickr.com/2147/2399268817_d0423848e8_m.jpg" alt="Crocker Mansion View from Olive" height="279" width="363" />
 </div>
 <p class="MsoNormal">
 In 1887, the mansion became the center of a scandal when Alma Ashe, Margaret Crocker&#8217;s granddaughter, was kidnapped from the residence.
@@ -186,14 +182,14 @@ In 1887, the mansion became the center of a scandal when Alma Ashe, Margaret Cro
 <!--[if !supportEmptyParas]-->
 </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm3.static.flickr.com/2274/2400102414_23733a8904_m.jpg" alt="LA Times Headline" height="208" width="340" />
+<img loading="lazy" src="https://farm3.static.flickr.com/2274/2400102414_23733a8904_m.jpg" alt="LA Times Headline" height="208" width="340" />
 </div>
 <p><!--[endif]--><o:p></o:p></p>
 <p class="MsoNormal">
 Two-year-old Alma was the daughter of Amy Crocker and playboy Robert Porter Ashe, who had previously scandalized the family in 1882 by eloping. Rumored to have married Miss Crocker for the family riches, Amy soon grew weary of her groom, who spent plenty of time and money at the racetrack. The marriage soon went south and in April 1887, Ashe marched into the Crocker Mansion and marched out with his daughter, who was being watched by relatives while her mother and grandmother were out of town. Ashe and the child holed up in the St. Elmo Hotel on Main Street for a couple of days until a judge formally ordered he hand the child over to the Crockers. Ashe claimed he was protecting his daughter from her unfit mother, while Amy claimed her husband was attempting to gain leverage over her by imprisoning the child. Ultimately, grandma took Alma to live in Europe until she was old enough to decide which parent she preferred to live with. The Ashe-Crocker union was officially dissolved a few months later, and Amy (later going by Aimee) would ignore the incident altogether in her 1936 memoir <i>”¦And I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d Do it Again. </i>
 </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm3.static.flickr.com/2371/2399255671_d221c3851a_m.jpg" alt="Crocker Mansion view from Clay" height="271" width="338" />
+<img loading="lazy" src="https://farm3.static.flickr.com/2371/2399255671_d221c3851a_m.jpg" alt="Crocker Mansion view from Clay" height="271" width="338" />
 </div>
 <p class="MsoNormal">
 In 1891, the Crocker Mansion became a boarding house/hotel, though far ritzier than the faded Bunker Hill boarding rooms of the 1940s/50s. Though Mrs. Crocker was no longer residing there, she still maintained ownership of the stately structure that played host to many a member of society”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s elite. Even as a commercial property, rooms were always advertised as located in the “Crocker Mansion.”
@@ -202,19 +198,19 @@ In 1891, the Crocker Mansion became a boarding house/hotel, though far ritzier t
 <!--[if !supportEmptyParas]-->
 </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3206/2399255757_9c08a7882a.jpg?v=0" alt="LA Times Headline" height="115" width="320" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3206/2399255757_9c08a7882a.jpg?v=0" alt="LA Times Headline" height="115" width="320" />
 </div>
 <p class="MsoNormal">
 Construction on the Third Street tunnel began in 1900, and Mrs. Crocker filed a petition claiming that the mansion was endangered by the street tunnel which was “unsafe, improperly constructed and a veritable death trap.” According to the Los Angeles Times, “the walls of her house are settling, the foundations giving way and the plaster is falling off”¦Unless something is done, the building is liable to topple into a hole.” The house never did topple and was alive and well in 1902 when Angels Flight began operating and dropping riders off practically on the Crocker doorstep.
 </p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3174/2399255735_060997a3f6_m.jpg" alt="Crocker Mansion Before the Tunnel" height="294" width="358" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3174/2399255735_060997a3f6_m.jpg" alt="Crocker Mansion Before the Tunnel" height="294" width="358" />
 </div>
 <div style="text-align: center">
 Before and after the Third Street Tunnel
 </div>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3214/2399255747_b11ca709b0_m.jpg" alt="Crocker Mansion next to tunnel and Angels Flight" height="246" width="346" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3214/2399255747_b11ca709b0_m.jpg" alt="Crocker Mansion next to tunnel and Angels Flight" height="246" width="346" />
 </div>
 <p class="MsoNormal">
 Margaret Crocker died in 1901 and possession of the mansion was assumed by her children, except for hell-cat Aimee who had been left out of the will. The mansion was sold in 1905 for $50,000 along with the land that ran 120 feet on Olive and 150 feet on Third, down to Clay Street. The Crocker Mansion subsequently closed its doors as a boarding house and plans were soon drawn up to renovate the residence for use as social quarters for the Elk”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s, who were putting up a new building on the eastern portion of the property. When the frame of the “old” house was deemed too weak, the Crocker Mansion was scheduled for demolition, to be replaced by a reinforced concrete structure.
@@ -226,8 +222,6 @@ The Victorian building was razed in June 1908 and the cornerstone for the Elk”
 <i>All photos courtesy of the Los Angeles Public Library Photo Collection.</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/crocker_mansion/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/exterminators/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:42:26 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:36:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Death At the Imperial Hotel:  350 South Figueroa</title>
 		<link>/death-at-the-imperial-hotel-350-south-figueroa/</link>
-					<comments>/death-at-the-imperial-hotel-350-south-figueroa/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 10 Jun 2008 21:47:04 +0000</pubDate>
@@ -46,15 +45,13 @@
 
 					<description><![CDATA[November 16, 1931 This morning, Gene Bowman, 15, and his brother Earl, 22, decided to sleep late after their mother departed for work. In the apartment directly beneath them, R.V. Darby, the Mayor of Inglewood, president of the Federated Church Brotherhoods of Los Angeles, and owner of Kilz Exterminator Company was conducting a routine fumigation &#8230; <a href="/death-at-the-imperial-hotel-350-south-figueroa/" class="more-link">Continue reading<span class="screen-reader-text"> "Death At the Imperial Hotel:  350 South Figueroa"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>November 16, 1931</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3162/2566942918_c1339abfb3_m.jpg" alt="imperialhotel" align="left" height="240" width="226" /><img loading="lazy" src="http://farm3.static.flickr.com/2166/2566119095_2e21daee0d.jpg" alt="bowmans" align="right" height="500" width="118" />This morning, Gene Bowman, 15, and his brother Earl, 22, decided to sleep late after their mother departed for work.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3162/2566942918_c1339abfb3_m.jpg" alt="imperialhotel" align="left" height="240" width="226" /><img loading="lazy" src="https://farm3.static.flickr.com/2166/2566119095_2e21daee0d.jpg" alt="bowmans" align="right" height="500" width="118" />This morning, Gene Bowman, 15, and his brother Earl, 22, decided to sleep late after their mother departed for work.</p>
 <p>In the apartment directly beneath them, R.V. Darby, the Mayor of Inglewood, president of the Federated Church Brotherhoods of Los Angeles, and owner of Kilz Exterminator Company was conducting a routine fumigation for bed bugs.</p>
 <p>As always, he had notified the Health Department, and given written and verbal notice to all occupants of the building, asking them to leave their rooms and open the windows.  And as always, he was using cyanide gas.</p>
 <p>While Darby worked, unbeknownst to him, deadly gas was seeping up into the Bowman&#8217;s apartment through a small hole in the floor around a steam pipe.  Both brothers were asphyxiated while they slept.</p>
 <p>Darby&#8217;s license was temporarily suspended while a manslaughter complaint was brought before a grand jury to determine whether the Bowmans&#8217; deaths were caused by negligence on Darby&#8217;s part.  More than twenty witnesses testified, and on December 1, Darby was exonerated, the jury stating that the deaths were a tragic accident, but that Darby had taken all possible precautions.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/death-at-the-imperial-hotel-350-south-figueroa/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

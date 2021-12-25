@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/background_documents/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Thu, 05 Nov 2015 00:44:32 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>The Belles of Bunker Hill</title>
 		<link>/bellesbunkerhill/</link>
-					<comments>/bellesbunkerhill/#respond</comments>
 		
 		<dc:creator><![CDATA[rss]]></dc:creator>
 		<pubDate>Fri, 19 Dec 2008 11:18:13 +0000</pubDate>
@@ -43,19 +42,16 @@
 
 					<description><![CDATA[A romp through the great houses and the families who built them from the Herald &#38; Express May 14, 1938. download the PDF]]></description>
 										<content:encoded><![CDATA[
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3114/3121177118_d523e60812_m.jpg" alt="" width="240" height="234" align="right"/>A romp through the great houses and the families who built them from the Herald &#38; Express May 14, 1938.</p>
-<p>download the <a href="http://ia341029.us.archive.org/3/items/LosAngelesExaminerBunkerHillStars/bunkerhillstars.pdf">PDF</a></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3114/3121177118_d523e60812_m.jpg" alt="" width="240" height="234" align="right"/>A romp through the great houses and the families who built them from the Herald &#38; Express May 14, 1938.</p>
+<p>download the <a href="https://ia341029.us.archive.org/3/items/LosAngelesExaminerBunkerHillStars/bunkerhillstars.pdf">PDF</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/bellesbunkerhill/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Studies 1950-60</title>
 		<link>/yukio-part4/</link>
-					<comments>/yukio-part4/#respond</comments>
 		
 		<dc:creator><![CDATA[rss]]></dc:creator>
 		<pubDate>Fri, 19 Dec 2008 10:58:15 +0000</pubDate>
@@ -64,12 +60,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The passage of the California Community Redevelopment Law in 1945 and Title 1 of the Federal Housing Act of 1946 and 1949 provided cities with legal and financial tools by which to deal with problems of &#8220;blight.&#8221; In 1948 the city of Los Angeles created the Community Redevelopment Agency (CRA) to use the new instruments. &#8230; <a href="/yukio-part4/" class="more-link">Continue reading<span class="screen-reader-text"> "The Studies 1950-60"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3079/3120298569_b7498178d7_m.jpg" alt="" width="193" height="240" align="right"/>The passage of the California Community Redevelopment Law in 1945 and Title 1 of the Federal Housing Act of 1946 and 1949 provided cities with legal and financial tools by which to deal with problems of &#8220;blight.&#8221;  In 1948 the city of Los Angeles created the Community Redevelopment Agency (CRA) to use the new instruments.  The immediate results were a series of studies conducted by the City Planning, Health and Housing departments for the CRA.  In 1956 architects Pereira and Luckman began another series of reports which would become the basis for the Bunker Hill Redevelopment Plan.</p>
-<p>download the <a href="http://ia310816.us.archive.org/2/items/YukioKarawataniTheEvolutionofBunkerHill--TheStudies1950-60/bunkerHillYukio4.pdf">PDF</a></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3079/3120298569_b7498178d7_m.jpg" alt="" width="193" height="240" align="right"/>The passage of the California Community Redevelopment Law in 1945 and Title 1 of the Federal Housing Act of 1946 and 1949 provided cities with legal and financial tools by which to deal with problems of &#8220;blight.&#8221;  In 1948 the city of Los Angeles created the Community Redevelopment Agency (CRA) to use the new instruments.  The immediate results were a series of studies conducted by the City Planning, Health and Housing departments for the CRA.  In 1956 architects Pereira and Luckman began another series of reports which would become the basis for the Bunker Hill Redevelopment Plan.</p>
+<p>download the <a href="https://ia310816.us.archive.org/2/items/YukioKarawataniTheEvolutionofBunkerHill--TheStudies1950-60/bunkerHillYukio4.pdf">PDF</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/yukio-part4/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -84,11 +78,11 @@
 		<category><![CDATA[Background Documents]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#60;p&#62;&#60;img src="http://farm4.static.flickr.com/3135/2938913558_e68656b7eb.jpg" alt="" width="386" height="500" align="right"/&#62; The powers that be decided that Bunker Hill was an eyesore and an impediment to the development of downtown Los Angeles, and the case was slowly created that the neighborhood was on the decline very quickly and the best thing to do would be the remove it. It was &#8230; <a href="/yukio-part3/" class="more-link">Continue reading<span class="screen-reader-text"> "Manufacturing Decline (1920-1944)"</span></a>]]></description>
-										<content:encoded><![CDATA[<pre><code>&lt;p&gt;&lt;img src="http://farm4.static.flickr.com/3135/2938913558_e68656b7eb.jpg" alt="" width="386" height="500" align="right"/&gt;
+					<description><![CDATA[&#60;p&#62;&#60;img src="https://farm4.static.flickr.com/3135/2938913558_e68656b7eb.jpg" alt="" width="386" height="500" align="right"/&#62; The powers that be decided that Bunker Hill was an eyesore and an impediment to the development of downtown Los Angeles, and the case was slowly created that the neighborhood was on the decline very quickly and the best thing to do would be the remove it. It was &#8230; <a href="/yukio-part3/" class="more-link">Continue reading<span class="screen-reader-text"> "Manufacturing Decline (1920-1944)"</span></a>]]></description>
+										<content:encoded><![CDATA[<pre><code>&lt;p&gt;&lt;img src="https://farm4.static.flickr.com/3135/2938913558_e68656b7eb.jpg" alt="" width="386" height="500" align="right"/&gt;
 </code></pre>
 <p>The powers that be decided that Bunker Hill was an eyesore and an impediment to the development of downtown Los Angeles, and the case was slowly created that the neighborhood was on the decline very quickly and the best thing to do would be the remove it.  It was in this era that the CRA (Community Redevelopment Agency) was created to deal with the city&#8217;s chore of rehabilitating Bunker Hill.  The breadth and scope of this agency&#8217;s early history and Bunker Hill (inextricably intertwined) is beyond the scale of this post, but future ones will begin to address it.</p>
-<pre><code>&lt;p&gt;This entry by Yukio, &lt;a href="http://ia310816.us.archive.org/1/items/yukiokarawataniBunkerHillHistoryPart3/Bunker192045.pdf" title="1920-44"&gt;The Evolution of Bunker Hill&amp;#8212;Part Three&lt;/a&gt;, simply creates the stereotype of a blighted neighborhood, which would become its self-fulfilling prophecy.  &lt;/p&gt;
+<pre><code>&lt;p&gt;This entry by Yukio, &lt;a href="https://ia310816.us.archive.org/1/items/yukiokarawataniBunkerHillHistoryPart3/Bunker192045.pdf" title="1920-44"&gt;The Evolution of Bunker Hill&amp;#8212;Part Three&lt;/a&gt;, simply creates the stereotype of a blighted neighborhood, which would become its self-fulfilling prophecy.  &lt;/p&gt;
 
 &lt;p&gt;It should be noted in reference to the article&amp;#8217;s mention of the Hill&amp;#8217;s much appreciated housing during WWII, that it was considered the safest place in the city for single women to live.&lt;/p&gt;
 </code></pre>
@@ -111,8 +105,8 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Another installment, part 2 (1867-1925) of the 9 part history of Bunker Hill by Yukio Karawatani. Photo is an exterior view of the historic Bradbury mansion at Temple and Court streets, which long before was the home of John and Lucy (daugther of Phineas) Banning Bradbury and a center of social life. It became a &#8230; <a href="/bunkerhillhistory2/" class="more-link">Continue reading<span class="screen-reader-text"> "Bunker Hill History Part 2 (1867-1925)"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm1.static.flickr.com/191/446369023_11a0b1da3b.jpg" align="left" height="500" width="327" />Another installment, <a href="http://ia341020.us.archive.org/2/items/YukioKarawataniBunkerHillHistoryPart219875-1925/bunkerHillHistoryPart2.pdf" title="1867-1925">part 2 (1867-1925)</a> of the 9 part history of Bunker Hill by Yukio Karawatani.</p>
-<p>Photo is an exterior view of the historic Bradbury mansion at Temple and Court streets, which long before was the home of John and Lucy (daugther of <a href="http://en.wikipedia.org/wiki/Phineas_Banning">Phineas</a>) Banning Bradbury and a center of social life. It became a film studio and the home of Hal Roach comedies in 1914. Then Roach and Dan Linthicum founded the Rolin Film Co. and <a href="http://en.wikipedia.org/wiki/Harold_Lloyd">Harold Lloyd</a> started his climb to fame in the “Lonesome Luke” comedies.</p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm1.static.flickr.com/191/446369023_11a0b1da3b.jpg" align="left" height="500" width="327" />Another installment, <a href="https://ia341020.us.archive.org/2/items/YukioKarawataniBunkerHillHistoryPart219875-1925/bunkerHillHistoryPart2.pdf" title="1867-1925">part 2 (1867-1925)</a> of the 9 part history of Bunker Hill by Yukio Karawatani.</p>
+<p>Photo is an exterior view of the historic Bradbury mansion at Temple and Court streets, which long before was the home of John and Lucy (daugther of <a href="https://en.wikipedia.org/wiki/Phineas_Banning">Phineas</a>) Banning Bradbury and a center of social life. It became a film studio and the home of Hal Roach comedies in 1914. Then Roach and Dan Linthicum founded the Rolin Film Co. and <a href="https://en.wikipedia.org/wiki/Harold_Lloyd">Harold Lloyd</a> started his climb to fame in the “Lonesome Luke” comedies.</p>
 <p><br clear="all"></p>
 ]]></content:encoded>
 					
@@ -124,7 +118,6 @@
 		<item>
 		<title>Bunker Hill History Part 1</title>
 		<link>/bunkhillhistory1/</link>
-					<comments>/bunkhillhistory1/#respond</comments>
 		
 		<dc:creator><![CDATA[rss]]></dc:creator>
 		<pubDate>Tue, 25 Mar 2008 17:51:28 +0000</pubDate>
@@ -133,12 +126,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Bunker Hill History Part 1 traces the history of Los Angeles (The Plaza and its immediate neighborhoods) through the founding 1781, the passing of California into United States hands, the Gold Rush of 1849 and subsequent bust of the 1850s which laid the groundwork for Prudent Beaudry purchase of Bunker Hill (20 acres) in 1867. &#8230; <a href="/bunkhillhistory1/" class="more-link">Continue reading<span class="screen-reader-text"> "Bunker Hill History Part 1"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://jpg1.lapl.org/pics17/00008152.jpg" align="left" height="200" width="431" /> <a href="http://ia341031.us.archive.org/3/items/YukioKarawataniBunkerHillHistory/bunkerHillHistory1.pdf">Bunker Hill History Part 1</a> traces the history of Los Angeles (<a href="http://en.wikipedia.org/wiki/La_Iglesia_de_Nuestra_Se%C3%B1ora_Reina_de_los_Angeles">The Plaza</a> and its immediate neighborhoods) through the founding 1781, the passing of California into United States hands, the Gold Rush of 1849 and subsequent bust of the 1850s which laid the groundwork for <a href="http://en.wikipedia.org/wiki/Prudent_Beaudry's">Prudent Beaudry</a> purchase of Bunker Hill (20 acres) in 1867.</p>
-<p>This is part one of a nine part series which was authored by Yukio Karawatani, a giant in the <a href="http://www.crala.net/">CRA</a> (Community Redevelopment Agency), and a major strategist in the evolution of the modern Bunker Hill.  The project appeared as a series of nine posterboards, and also were reprinted in the Downtown News in mid 1998.  The large body of original documents which served as the basis for the exhibit now reside in UCLA special collections.</p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://jpg1.lapl.org/pics17/00008152.jpg" align="left" height="200" width="431" /> <a href="https://ia341031.us.archive.org/3/items/YukioKarawataniBunkerHillHistory/bunkerHillHistory1.pdf">Bunker Hill History Part 1</a> traces the history of Los Angeles (<a href="https://en.wikipedia.org/wiki/La_Iglesia_de_Nuestra_Se%C3%B1ora_Reina_de_los_Angeles">The Plaza</a> and its immediate neighborhoods) through the founding 1781, the passing of California into United States hands, the Gold Rush of 1849 and subsequent bust of the 1850s which laid the groundwork for <a href="https://en.wikipedia.org/wiki/Prudent_Beaudry's">Prudent Beaudry</a> purchase of Bunker Hill (20 acres) in 1867.</p>
+<p>This is part one of a nine part series which was authored by Yukio Karawatani, a giant in the <a href="https://www.crala.net/">CRA</a> (Community Redevelopment Agency), and a major strategist in the evolution of the modern Bunker Hill.  The project appeared as a series of nine posterboards, and also were reprinted in the Downtown News in mid 1998.  The large body of original documents which served as the basis for the exhibit now reside in UCLA special collections.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/bunkhillhistory1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

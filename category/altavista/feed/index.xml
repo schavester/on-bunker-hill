@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/category/altavista/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:48:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Van Vanishes</title>
 		<link>/vanvanishes/</link>
-					<comments>/vanvanishes/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 06 Apr 2008 18:13:02 +0000</pubDate>
@@ -51,29 +50,26 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: October 31, 1904 It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &#34;I can&#8217;t be good; I want to &#8230; <a href="/vanvanishes/" class="more-link">Continue reading<span class="screen-reader-text"> "Van Vanishes"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2185/2394379840_159bb783a8.jpg" alt="Van Blarcom" height="500" width="250" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2185/2394379840_159bb783a8.jpg" alt="Van Blarcom" height="500" width="250" /></a></p>
 <p>Location: 255 South Bunker Hill Avenue<br />
 Date: October 31, 1904</p>
 <p>It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &quot;I can&#8217;t be good; I want to be bad. I shall be bad. My brothers and sisters have always said that I was the black sheep in the family. Now I will prove to them that I am. Good-bye. Go home and wait for me.&quot; </p>
 <p>She did as she was told and went back to their three-room apartment in the Alta Vista, but there has been no word from Van since and the lady is half mad with worry and regret. When visited by a reporter she was being closely watched by friends who feared she would make good on her threats of suicide. </p>
 <p>Her story: &quot;My life has become a blank. It is as if I had run against a stone wall. I shall commit suicide. If only he would come back–if only he would let me know why he went–if only I could go to him. And yet they say he has done this thing before. I have reported his disappearance to the police and they can get no trace of him. One minute I believe he has committed suicide and the next I believe there is a woman in the case. Yes–there must be a woman in the case. But in any event, there is nothing left for me. I shall take my life. About a week ago I was arranging some of his clothes in a closet, when a bundle of letters fell on the floor. One of them was from a woman in San Francisco, in which she wrote of a violent attachment for my husband, and added: &#8216;I suppose you are having a lovely time with you &#8212;.&#8217; I am the blank! Think of it! We had a little tiff over this letter and in taking it away from me he tore my arm with his nails, see, here is the sore place yet. Then when I agreed to burn it up and he saw me do so he swore with uplifted hand an oath to his dead mother than nothing but death could separate us. That was just a week ago today. Last Monday he was very despondent and did not come home as promised, and I went down to the newspaper office where he was working and tried to cheer him up. Then I went to Secretary Stevens of the Elks lodge and had him telephone my husband and ask him what was the matter. &#8216;Everything is all right now; tell her to come over here at once,&#8217; he answered. I went and that is when he took me to the foot of the Angels&#8217; Flight and told me that he wanted to be bad. Finally he sad that he would come home at 3 o&#8217;clock in the morning, but he never came.&quot;</p>
 <p>The couple married last Christmas in Salt Lake, three months after Van&#8217;s divorce (Emily was four years divorced from a Mr. Miner), and came to Los Angeles via Portland and San Francisco. They choose this town for the climate, which they hoped would aid Van&#8217;s lung ailment (he said he&#8217;d been shot through the chest while representing the Associated Press in Cuba during the war with Spain). He quickly got work on the <i>Herald</i>, but after ten days moved over to the <i>Examiner</i>, and was so employed at the time of his disappearance. Police doubt he&#8217;s killed himself, although friends say he spoke often of doing so, since his last act before vanishing was to pawn Emily&#8217;s $50 gold watch. But as he was an Elk, the brothers have taken up a collection to pay the passage of the destitute bride back to her friends in Utah. Where, by the by, he abandoned his last wife in just the same way he did this one.</p>
-<p>Emily said that Van was related to Lincoln portraitist <a href="http://lincoln.lib.niu.edu/cgi-bin/philologic/getobject.pl?c.3360:11:83.lincoln" target="_blank">A.J. Conant</a> and to the wealthy St. Louis Van Blarcoms–a branch with a <a href="http://www.frederickok.org/History/Name.htm" target="_blank">blackish sheep</a> of its own. </p>
+<p>Emily said that Van was related to Lincoln portraitist <a href="https://lincoln.lib.niu.edu/cgi-bin/philologic/getobject.pl?c.3360:11:83.lincoln" target="_blank" rel="noopener">A.J. Conant</a> and to the wealthy St. Louis Van Blarcoms–a branch with a <a href="https://www.frederickok.org/History/Name.htm" target="_blank" rel="noopener">blackish sheep</a> of its own. </p>
 <p>We hear no more of him until 1936, when an obituary appears for an old newspaperman of the right name, approximate age and career history, passing from arthritis in Bakersfield and leaving an unnamed widow, a son and a daughter. Was the widow Emily, or some later wife who was better able to salt this bounder&#8217;s wings? </p>
 <p>*note: Angels&#8217; Flight has its oft-missing possessive in the 1904 article in the <i>Los Angeles Times</i> from which this entry is adapted.<br />
  </p>
-<p><a href="http://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"></a></p>
+<p><a href="https://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vanvanishes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mrs. Allen Slain By Ex-Beau</title>
 		<link>/mrsallen/</link>
-					<comments>/mrsallen/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 04 Apr 2008 21:12:23 +0000</pubDate>
@@ -88,7 +84,7 @@ Date: October 31, 1904</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: August 13, 1933 The newlyweds kept a modest apartment here at the Alta Vista. Oh, it may have been something of a step down in the world for bride Harriet Fencel Easton Allen, 25, who had attended USC and UCLA and studied art for two years in Europe, &#8230; <a href="/mrsallen/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Allen Slain By Ex-Beau"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2388293092/" title="Picture 1 by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2360/2388293092_09e57851d0_o.png" alt="Picture 1" height="285" width="147" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2388293092/" title="Picture 1 by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2360/2388293092_09e57851d0_o.png" alt="Picture 1" height="285" width="147" /></a></p>
 <p>Location: 255 South Bunker Hill Avenue<br />
 Date: August 13, 1933</p>
 <p>The newlyweds kept a modest apartment here at the Alta Vista. Oh, it may have been something of a step down in the world for bride Harriet Fencel Easton Allen, 25, who had attended USC and UCLA and studied art for two years in Europe, and whose father John was former superintendent of the L.A. Athletic Club and manager of the Jonathan Club, but then again, it was convenient to husband Robert Allen&#8217;s cafe at 257 South Olive.</p>
@@ -97,15 +93,12 @@ Date: August 13, 1933</p>
 <p>In the killer&#8217;s pockets were year-old seaside photos of himself with the dead woman, and on the back of one he&#8217;d penciled a last will and testament leaving his insurance, furniture and some land in Arizona, total value $2255 to his sister Elsie Bitner. But this will would be challenged in court when Mrs. Carol E. Moore came forward claiming to be Moore&#8217;s widow, as their divorce decree had not been entered at the time of his death.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mrsallen/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Going With The Flow</title>
 		<link>/goingwiththeflow/</link>
-					<comments>/goingwiththeflow/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 04 Apr 2008 10:48:42 +0000</pubDate>
@@ -124,15 +117,12 @@ Date: August 24, 1937</p>
 <p>Traffic expert Edmund C. Easton of this address spoke today before the Police Commission. Based on his fifteen years of study of automotive congestion in Los Angeles and other large cities, Easton advised the following measures for easing gridlock: street clearance through adequate design, regulation and police enforcement, trolleys given right-of-way, one-way streets, and controlling both jaywalking and automobiles &quot;shooting&quot; into cross-sections. The Chief is considering his suggestions, and we are certain that by 1940, traffic jams will be but a distant memory to our burg.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/goingwiththeflow/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Bookie Who Didn&#8217;t Make Book</title>
 		<link>/bookie/</link>
-					<comments>/bookie/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 04 Apr 2008 10:46:27 +0000</pubDate>
@@ -150,15 +140,12 @@ Date: March 1, 1935</p>
 <p>In Municipal Court today, Judge Scheinman found George Parent, 32, bookkeeper of this address, guilty of petty theft on the accusation of attorney Stewart P. Fisher. Fisher said he&#8217;d given Parent $6 to bet on Gillie in a horse race on February 16, but that the bet was not placed. Parent&#8217;s unconvincing defense was that he believed that because Gillie&#8217;s stable mate Peradventure had been scratched, Gillie was not open for a bet. After his conviction, Parent asked for probation, and a hearing was set for March 7.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/bookie/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Stroll Cut Short</title>
 		<link>/strollcutshort/</link>
-					<comments>/strollcutshort/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 04 Apr 2008 10:44:40 +0000</pubDate>
@@ -178,8 +165,6 @@ Date: January 22, 1918</p>
 <p>Herbert Maas, 19, resident of the Alta Vista at 255 South Bunker Hill Avenue, was strolling with Alice Averill of 332 South Bunker Hill near Fifth and Fremont Streets when they were accosted by a four bandits who pulled up beside them in a car. Two of the men jumped out and grabbed Herbert, hustling him into the back seat. Then they drove away, leaving Miss Averill on the sidewalk. Near Orange and Figueroa the crooks relieved Herbert at gunpoint of $15, a gold watch and a stickpin. He must have been anticipating they&#8217;d soon release him when the man on his left, shaking from nervousness, suddenly fired his weapon. The bullet went through Herbert&#8217;s back, and next thing he knew, he&#8217;d been shoved onto the street in front of 1127 Orange Street. The wounded man made it into the Baltic Apartments, where he found aid and was taken to the Receiving Hospital, where he was listed in serious condition with a bullet through his lumbar region possibly nicking his peritoneum. A search was on for the highwayman, but there was no further news published about Herbert&#8217;s condition or any arrests. Ten years later, an Alice Averill was appearing around town as a chorus girl, in &quot;Topsy and Eva&quot; (a part she repeated on Broadway) and &quot;A Connecticut Yankee.&quot;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/strollcutshort/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

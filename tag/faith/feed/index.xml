@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/faith/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:44:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:32:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Angels Dictate at 355 South Grand Avenue</title>
 		<link>/greateleven/</link>
-					<comments>/greateleven/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 24 Aug 2008 22:44:06 +0000</pubDate>
@@ -50,22 +49,20 @@
 					<description><![CDATA[Location: 355 South Grand Avenue Date: 1922-? When the Angel Michael spoke to Ruth Wieland in 1922, she was a Spring Street taxi dancer living on Bunker Hill. She first heard him as she walked along Broadway, then three days later in her room at 355 South Grand Avenue. Over the next 42 months he &#8230; <a href="/greateleven/" class="more-link">Continue reading<span class="screen-reader-text"> "Angels Dictate at 355 South Grand Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 355 South Grand Avenue<br />
 Date: 1922-?<br />
-<img src="http://farm4.static.flickr.com/3050/2795648132_9f6cbbb046_o.png" /><br />
+<img src="https://farm4.static.flickr.com/3050/2795648132_9f6cbbb046_o.png" /><br />
 When the Angel Michael spoke to Ruth Wieland in 1922, she was a Spring Street taxi dancer living on Bunker Hill. She first heard him as she walked along Broadway, then three days later in her room at 355 South Grand Avenue. Over the next 42 months he dictated the &quot;Lamb&#8217;s Book of Life&quot; to Ruth and her mother May Otis Blackburn, speaking occasionally, night and day&#8211;but only if they stayed inside and away from the bustle of everyday life.  In time, the handwritten book comprised such vast bulk that, at least according to May, it would have taken sixteen stenographers six months to transcribe it. <br />
-<img src="http://farm4.static.flickr.com/3260/2795616638_d0f199dc19.jpg" /><br />
+<img src="https://farm4.static.flickr.com/3260/2795616638_d0f199dc19.jpg" /><br />
 Much later, after the women were arrested for hustling oil man Clifford Dabney and their strange tale splashed across the papers, one Arthur C. Osborne appeared to announce he was Ruth&#8217;s bethrothed in those heady early days, when he loaned the girl $1500 to help finance her divorce. He told her she was too delicate to work, and that he would pay the bills while she and May worked on the holy book, also known as the Sixth Seal. Then she and mama vanished. He came to see Ruth in jail, but she was cold and told him to talk to her lawyer. <br />
-<img src="http://farm4.static.flickr.com/3144/2795616672_e9a700dbf9.jpg" /><br />
+<img src="https://farm4.static.flickr.com/3144/2795616672_e9a700dbf9.jpg" /><br />
 For by 1929, pretty Ruth&#8217;s tastes had moved far beyond sad sack guys who loaned cash to taxi dancers. She was the priestess of The Divine Order of the Royal Arms of the Great Eleven, perhaps the wackiest in an era of wack-a-doodle cults and alternative faiths the likes of which continue to color California&#8217;s reputation for peculiarity to this day. With Mother May, Ruth commanded a small army of true believers who inhabited &quot;Harmony Hamlet,&quot; a retreat in the Santa Susanna mountains, near Moorpark (later the haunt of the Manson Family), where about 100 cult members lived like hermits after driving their cars into the mountains and leaving them to rust as a sign of devotion. But who needs wheels when you have nude, interracial dancing? Not you, mister.</p>
 <p>The Great Eleven began on Bunker Hill and found its first faithful there. Ruth and May couldn&#8217;t spend all their time taking dictation from aetherial beings. They were social butterflies, the pair of them, and enjoyed sharing philosophy and bossing people around. Before long, both had found new husbands, Ruth with the doomed Sammie Rizzio, likely murdered in 1924 for the sin of striking his bride, May with weird Ward Blackburn, he of the Chinese moustaches, prodigious claws and fondness for collecting rainwater in a coffee can at the corner of Wilshire and Western. And it was likely on the Hill that Clifford Dabney found the ladies and became convinced that their holy book, once finished, would give him the power to discover hidden mineral wealth within the earth, to hold the power of life and death, and to reanimate the corpses he created while chugging along down Broadway in his customized human reaping machine and calliope. He began writing checks, which Ruth and May were only too happy to cash.<br />
-<img src="http://farm4.static.flickr.com/3272/2795616660_1b84a482c9.jpg" /><br />
-After several years, when all the money was gone, Clifford Dabney&#8217;s wealthy uncle <a href="http://en.wikipedia.org/wiki/Dabney_Oil_Syndicate" target="_blank">Joseph</a> took a break from berating his boozehound employee Raymond Chandler to offer his nephew a bail out, if he&#8217;d take those looney women to court. He did, and the story that came out ultimately included the symbolic exorcism of all the madness in the world via abusing a batch of crazy quilts, grandmas happily chained to their beds, ladies baked in brick ovens, poisoned sands, the abiding mystery of the Lord&#8217;s Furniture Set and the ritual mummification of a teenage priestess and her seven pet puppies. <br />
-<img src="http://farm4.static.flickr.com/3263/2795616646_a33b7edcea_o.jpg" /><br />
-But these odd tales take us far from the Hill, and this is not the place for them. If you are curious about the Great Eleven, join us on the <a href="http://esotouric.com/wildwestside" target="_blank">Wild Wild West Side</a> crime bus tour, when we will visit the grave of the young mummy and talk at length of the practices of this most original downtown faith.</p>
+<img src="https://farm4.static.flickr.com/3272/2795616660_1b84a482c9.jpg" /><br />
+After several years, when all the money was gone, Clifford Dabney&#8217;s wealthy uncle <a href="https://en.wikipedia.org/wiki/Dabney_Oil_Syndicate" target="_blank" rel="noopener">Joseph</a> took a break from berating his boozehound employee Raymond Chandler to offer his nephew a bail out, if he&#8217;d take those looney women to court. He did, and the story that came out ultimately included the symbolic exorcism of all the madness in the world via abusing a batch of crazy quilts, grandmas happily chained to their beds, ladies baked in brick ovens, poisoned sands, the abiding mystery of the Lord&#8217;s Furniture Set and the ritual mummification of a teenage priestess and her seven pet puppies. <br />
+<img src="https://farm4.static.flickr.com/3263/2795616646_a33b7edcea_o.jpg" /><br />
+But these odd tales take us far from the Hill, and this is not the place for them. If you are curious about the Great Eleven, join us on the <a href="https://esotouric.com/wildwestside" target="_blank" rel="noopener">Wild Wild West Side</a> crime bus tour, when we will visit the grave of the young mummy and talk at length of the practices of this most original downtown faith.</p>
 <p><i>Photos courtesy the Los Angeles Times and the UCLA Library Digital Collections.</i> </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/greateleven/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/category/hill-st/300-block-hill/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Tue, 14 Jun 2016 16:45:03 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:37:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -50,14 +50,14 @@
 		<category><![CDATA[redevelopment]]></category>
 		<guid isPermaLink="false">/?p=1687</guid>
 
-					<description><![CDATA[Last evening, we met on Bunker Hill, old friends coming together for an old friend, Angels Flight. As the sun set, the orange and black station house along with the cars, Olivet and Sinai, were bathed in its soft, orange glow. As the evening darkened, Angels Flight”™s arches and cars were lit by the low &#8230; <a href="/an-evening-at-angels-flight/" class="more-link">Continue reading<span class="screen-reader-text"> "An Evening at Angels Flight"</span></a>]]></description>
+					<description><![CDATA[Last evening, we met on Bunker Hill, old friends coming together for an old friend, Angels Flight. As the sun set, the orange and black station house along with the cars, Olivet and Sinai, were bathed in its soft, orange glow. As the evening darkened, Angels Flight”&#x2122;s arches and cars were lit by the low &#8230; <a href="/an-evening-at-angels-flight/" class="more-link">Continue reading<span class="screen-reader-text"> "An Evening at Angels Flight"</span></a>]]></description>
 										<content:encoded><![CDATA[<figure id="attachment_1697" aria-describedby="caption-attachment-1697" style="width: 225px" class="wp-caption alignleft"><a href="/wp-content/uploads/2016/06/IMG_20160605_192344.jpg"><img loading="lazy" class="wp-image-1697 size-medium" src="/wp-content/uploads/2016/06/IMG_20160605_192344-225x300.jpg" alt="At the golden hour, Gordon Pattison gazes into the Angels Flight station house " width="225" height="300" srcset="/wp-content/uploads/2016/06/IMG_20160605_192344-225x300.jpg 225w, /wp-content/uploads/2016/06/IMG_20160605_192344-768x1024.jpg 768w" sizes="(max-width: 225px) 85vw, 225px" /></a><figcaption id="caption-attachment-1697" class="wp-caption-text">At the golden hour, Gordon Pattison gazes into the Angels Flight station house</figcaption></figure>
-<p>Last evening, we met on Bunker Hill, old friends coming together for an old friend, Angels Flight. As the sun set, the orange and black station house along with the cars, Olivet and Sinai, were bathed in its soft, orange glow. As the evening darkened, Angels Flight”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s arches and cars were lit by the low amber light of dozens of incandescent bulbs. It was a magical time, and for a moment, I was transported back to the time when <a href="http://www.lavatransforms.org/2013/06/15/gordon-pattison-presents-old-bunker-hill-one-familys-perspective-at-the-lava-sunday-salon-may-2013/" target="_blank">I lived on Bunker Hill</a> in its old Victorian neighborhood in the 1940”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s ”“ 1960”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s. That neighborhood has been gone for more than 50 years now, and Angels Flight is all we have to remind us of it.</p>
+<p>Last evening, we met on Bunker Hill, old friends coming together for an old friend, Angels Flight. As the sun set, the orange and black station house along with the cars, Olivet and Sinai, were bathed in its soft, orange glow. As the evening darkened, Angels Flight”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s arches and cars were lit by the low amber light of dozens of incandescent bulbs. It was a magical time, and for a moment, I was transported back to the time when <a href="https://www.lavatransforms.org/2013/06/15/gordon-pattison-presents-old-bunker-hill-one-familys-perspective-at-the-lava-sunday-salon-may-2013/" target="_blank" rel="noopener">I lived on Bunker Hill</a> in its old Victorian neighborhood in the 1940”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s ”“ 1960”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s. That neighborhood has been gone for more than 50 years now, and Angels Flight is all we have to remind us of it.</p>
 <p>As I looked out over the city from the top of Angels Flight, the twinkling lights of Grand Central Market came on, beckoning to us longingly. The Market stays open until 10:00 pm now, and it was filled with people enjoying its attractions. I thought, how nice it would be to board Angels Flight to go down there as I did years ago, have a bite to eat and join the people who looked to be having such a good time. They seemed miles away, though, at the bottom of long, daunting flights of stairs. That”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s exactly why Col. Eddy built Angels Flight 115 years ago, to join Bunker Hill and Downtown. What foresight! What a wonderful service to fill a civic need! And for decades, Angels Flight filled that need happily, faithfully, asking for little in return.</p>
 <p>But sadly, Angels Flight is not running. For two years now, Angels Flight has sat quietly, waiting patiently for Los Angeles to come back to it. While Angelenos go busily about their lives, Angels Flight sits forlorn and vulnerable, largely ignored by the community it once served and we hope will serve again.</p>
 <figure id="attachment_1698" aria-describedby="caption-attachment-1698" style="width: 225px" class="wp-caption alignright"><a href="/wp-content/uploads/2016/06/IMG_20160605_182540.jpg"><img loading="lazy" class="size-medium wp-image-1698" src="/wp-content/uploads/2016/06/IMG_20160605_182540-225x300.jpg" alt="Richard Schave and Gordon Pattison scrub graffiti off Olivet" width="225" height="300" srcset="/wp-content/uploads/2016/06/IMG_20160605_182540-225x300.jpg 225w, /wp-content/uploads/2016/06/IMG_20160605_182540-768x1024.jpg 768w" sizes="(max-width: 225px) 85vw, 225px" /></a><figcaption id="caption-attachment-1698" class="wp-caption-text">Richard Schave and Gordon Pattison scrub graffiti off Olivet</figcaption></figure>
 <p>Angels Flight is not a nostalgic anachronism. It was and remains an important civic asset. Not just for its historic significance, but as an important piece of public transportation, carrying people from the heights of Bunker Hill to greater Downtown and back again.</p>
-<p>When we came together at Angels Flight last evening, we came to pay attention to an old friend and to bear witness to its plight. We cleaned away graffiti that had thoughtlessly desecrated it. We had a <a href="https://esotouric.com/angelsflight3d/" target="_blank">3-D scan</a> done on Angels Flight so that anyone can board it online and take a vicarious ride. Angels Flight has served our city well and can again. But it needs our <a href="https://www.change.org/p/eric-garcetti-mayor-of-los-angeles-save-angels-flight" target="_blank">support</a> and loving attention, or one day we will drive by and wonder why it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not there anymore. Then all we will have are photographs and memories. It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a lot more fun to actually ride it.</p>
+<p>When we came together at Angels Flight last evening, we came to pay attention to an old friend and to bear witness to its plight. We cleaned away graffiti that had thoughtlessly desecrated it. We had a <a href="https://esotouric.com/angelsflight3d/" target="_blank" rel="noopener">3-D scan</a> done on Angels Flight so that anyone can board it online and take a vicarious ride. Angels Flight has served our city well and can again. But it needs our <a href="https://www.change.org/p/eric-garcetti-mayor-of-los-angeles-save-angels-flight" target="_blank" rel="noopener">support</a> and loving attention, or one day we will drive by and wonder why it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not there anymore. Then all we will have are photographs and memories. It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a lot more fun to actually ride it.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/an-evening-at-angels-flight/feed/</wfw:commentRss>
@@ -87,23 +87,23 @@
 
 					<description><![CDATA[Hillzapoppin&#8216; in the OBH!  A couple swanky new color images emerged from the greater Mann grotto and the good people at the archives wanted to share them with you.  Ain&#8217;t they the best? This image is later than the other Manns (Menn?) we&#8217;ve seen.  (Given the specific progress made on the Union Bank tower, I&#8217;d &#8230; <a href="/angelsmann/" class="more-link">Continue reading<span class="screen-reader-text"> "Two New Mann Images – Final Days of the Flight!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><i>Hillzapoppin</i>&#8216; in the OBH!  A couple swanky new color images emerged from the greater Mann grotto and the good people at the archives wanted to share them with <i>you</i>.  Ain&#8217;t they the best?</p>
-<p><img loading="lazy" src="http://farm5.static.flickr.com/4143/4751217862_a268081233_b.jpg" alt="AF1" height="502" width="468" /></p>
+<p><img loading="lazy" src="https://farm5.static.flickr.com/4143/4751217862_a268081233_b.jpg" alt="AF1" height="502" width="468" /></p>
 <p>This image is later than the other Manns (Menn?) we&#8217;ve seen.  (Given the specific progress made on the Union Bank tower, I&#8217;d peg this photo at September 1966).  By comparison, here&#8217;s one of late-50s vintage you&#8217;ve seen before:</p>
-<p><img loading="lazy" src="http://farm5.static.flickr.com/4078/4750573645_0aaae6c9ca_o.jpg" alt="AF2" height="500" width="468" /></p>
+<p><img loading="lazy" src="https://farm5.static.flickr.com/4078/4750573645_0aaae6c9ca_o.jpg" alt="AF2" height="500" width="468" /></p>
 <p>The Community Redevelopment Agency got their wreckers and worked from top to bottom; started with the Elks in the autum of 1962, then hit the Hulburt (middle) and finished the Ferguson on Hill in &#8217;63.</p>
-<p>With Angels Flight&#8217;s Western Wall removed, you then see <a href="/theEms" target="_blank">these</a> <a href="/KelloggPalaceCasaAlta" title="CasAl" target="_blank">two</a> characters in images of the Flight, but they were chewed up pretty quickly.</p>
-<p><img loading="lazy" src="http://farm5.static.flickr.com/4081/4750574321_804ff30489_o.jpg" alt="theseguys" height="403" width="468" /></p>
+<p>With Angels Flight&#8217;s Western Wall removed, you then see <a href="/theEms" target="_blank" rel="noopener">these</a> <a href="/KelloggPalaceCasaAlta" title="CasAl" target="_blank" rel="noopener">two</a> characters in images of the Flight, but they were chewed up pretty quickly.</p>
+<p><img loading="lazy" src="https://farm5.static.flickr.com/4081/4750574321_804ff30489_o.jpg" alt="theseguys" height="403" width="468" /></p>
 <p>But back to our original Mann photo up top.  To the east of the flight on the other side of the tunnel, the Royal Liquor&#8217;s still there, and so&#8217;s the McCoy house above.  </p>
 <p>Royal Liquor&#8211;AKA St. Helena Sanitarium&#8211;always amuses because before Los Angeles became last refuge for the hunted and the tortured, it was just a sunny place to go for salubrious living:</p>
-<p><img loading="lazy" src="http://farm5.static.flickr.com/4115/4750574373_f97157fe06_b.jpg" alt="weggie" height="538" width="300" /></p>
+<p><img loading="lazy" src="https://farm5.static.flickr.com/4115/4750574373_f97157fe06_b.jpg" alt="weggie" height="538" width="300" /></p>
 <p>Now let&#8217;s cross the intersection, down Hill a bit&#8230;</p>
-<p><img loading="lazy" src="http://farm5.static.flickr.com/4099/4751218214_5b084b1b7b_b.jpg" alt="afotherside" height="501" width="468" /></p>
-<p>&#8230;turn to see that Olivet and Sinai have passed each other.  The Hill Crest and the Sunshine, of whom we&#8217;ve spoken quite a bit recently, gone, again, the CRA working down from Olive to Clay, the HillCrest lost in the autumn of 1961 and the Sunshine goes ca. 1965.  There&#8217;s the McCoy House and St. Helena, although now the latter, known as My Hotel for some time, became the Vista Hotel between 1942 and &#8217;47 (and the actual full name of its corner booze boutique, despite what the neon read, was Royal Gold Liquors).  Vaguely visible looming behind in the mist, the <a href="/HotelBelmont" title="belmont" target="_blank">Belmont</a>.</p>
+<p><img loading="lazy" src="https://farm5.static.flickr.com/4099/4751218214_5b084b1b7b_b.jpg" alt="afotherside" height="501" width="468" /></p>
+<p>&#8230;turn to see that Olivet and Sinai have passed each other.  The Hill Crest and the Sunshine, of whom we&#8217;ve spoken quite a bit recently, gone, again, the CRA working down from Olive to Clay, the HillCrest lost in the autumn of 1961 and the Sunshine goes ca. 1965.  There&#8217;s the McCoy House and St. Helena, although now the latter, known as My Hotel for some time, became the Vista Hotel between 1942 and &#8217;47 (and the actual full name of its corner booze boutique, despite what the neon read, was Royal Gold Liquors).  Vaguely visible looming behind in the mist, the <a href="/HotelBelmont" title="belmont" target="_blank" rel="noopener">Belmont</a>.</p>
 <p>The former front door of the Ferguson CafÃ© apparently a swell place to park your faded yellow jalopy.  In September of 1966.  Now, not so much.</p>
-<p><img loading="lazy" src="http://farm5.static.flickr.com/4139/4751453054_d4cc73fc19_o.jpg" alt="nowwee" height="324" width="468" /></p>
+<p><img loading="lazy" src="https://farm5.static.flickr.com/4139/4751453054_d4cc73fc19_o.jpg" alt="nowwee" height="324" width="468" /></p>
 <p>Hey, at least the light pole and fireplug are still there. </p>
-<p><i>Thanks to George Mann&#8217;s son Brad Smith, and daughter-in-law Dianne Woods, for allowing us to reprint these copyrighted photographs and tell George&#8217;s story. To see George&#8217;s photos of theater marquees, visit <a href="http://www.flickr.com/photos/brad_smith" target="_blank">http://www.flickr.com/photos/brad_smith</a></i></p>
-<p><i>For a representative selection of photographs from his archive, or to license images for reproduction or other use, see <a href="http://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/" target="_blank">http://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/</a></i></p>
+<p><i>Thanks to George Mann&#8217;s son Brad Smith, and daughter-in-law Dianne Woods, for allowing us to reprint these copyrighted photographs and tell George&#8217;s story. To see George&#8217;s photos of theater marquees, visit <a href="https://www.flickr.com/photos/brad_smith" target="_blank" rel="noopener">https://www.flickr.com/photos/brad_smith</a></i></p>
+<p><i>For a representative selection of photographs from his archive, or to license images for reproduction or other use, see <a href="https://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/" target="_blank" rel="noopener">https://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/</a></i></p>
 <p><i>St. Helena/Vegetarian CafÃ©, USC Digital Archives; Ems &amp; Casa Alta, personal collection <br />
 </i></p>
 ]]></content:encoded>
@@ -116,7 +116,6 @@
 		<item>
 		<title>Bunker Hill and the Crib Wars</title>
 		<link>/cribwars/</link>
-					<comments>/cribwars/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 30 Sep 2008 22:39:22 +0000</pubDate>
@@ -131,7 +130,7 @@
 					<description><![CDATA[They called it the red light district, the tenderloin, Little Paree, Hell&#8217;s Half Acre, and my favorite, the crib district. From the late 1800s until the turn of the century, prostitution in Los Angeles was more or less legal, and centered in a district that included Alameda, New High, Main, and a few other streets &#8230; <a href="/cribwars/" class="more-link">Continue reading<span class="screen-reader-text"> "Bunker Hill and the Crib Wars"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>They called it the red light district, the tenderloin, Little Paree, Hell&#8217;s Half Acre, and my favorite, the crib district.</p>
 <p>From the late 1800s until the turn of the century, prostitution in Los Angeles was more or less legal, and centered in a district that included Alameda, New High, Main, and a few other streets in the area east of Bunker Hill.  Most of the classier parlor houses that catered to wealthy and well-connected Angelenos were located on New High Street, including the one belonging to Los Angeles&#8217;s first storied madam, Pearl Morton.  The brothels on Main Street were more modest, mostly rooming houses.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3234/2904106382_ffb1efa2fc_o.jpg" alt="cribs" align="left" width="245" height="188" />However, the most notorious eyesores were the single-story, ramshackle cribs on Alameda, long rows of narrow rooms that prostitutes could rent by the night, at exorbitant rates, designated here on the Sanborn maps as &quot;female boarding.&quot;  The Alameda cribs were visible from the nearby Southern Pacific line, and rail passengers on their way to Los Angeles would gawk out the windows at prostitutes soliciting business from the sidewalks.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3234/2904106382_ffb1efa2fc_o.jpg" alt="cribs" align="left" width="245" height="188" />However, the most notorious eyesores were the single-story, ramshackle cribs on Alameda, long rows of narrow rooms that prostitutes could rent by the night, at exorbitant rates, designated here on the Sanborn maps as &quot;female boarding.&quot;  The Alameda cribs were visible from the nearby Southern Pacific line, and rail passengers on their way to Los Angeles would gawk out the windows at prostitutes soliciting business from the sidewalks.</p>
 <p>The prevailing line of thought among civil leaders and Los Angeles&#8217;s many, many police chiefs during this period was that prostitution was a social evil that could not be eradicated, but could be contained and regulated.  Better to have vice located within a few city blocks rather than scattered throughout the city where it would be impossible to police.</p>
 <p>Los Angeles residents, however, felt differently about it.  In a June 1895 article, the <i>Times</i> reported that Police Chief John Glass had received numerous complaints from Bunker Hill residents complaining of the crib district&#8217;s proximity to their tony neighborhood.</p>
 <p>And since the prostitutes were making fairly good money, and since crib living was both expensive and unpleasant, many prostitutes managed to pay the rent on their cribs and also rented lodging in nearby Bunker Hill hotels and rooming houses. </p>
@@ -140,22 +139,19 @@
 <p>That mission accomplished, the social purity crusaders turned their attention to the parlor houses, a tougher nut to crack, partly because they kept a lower profile, and partly because they counted no small number of politicians, attorneys, and other civic leaders among their clientele.</p>
 <p>The crusaders put these houses, including Morton&#8217;s at 327 1/2 New High Street, the Antlers Club, Stella Mitchell&#8217;s, and Viola&#8217;s Place, under surveillance, and pestered the Mayor and Police Commission until finally winning a small victory.  At the end of March 1904, the parlor houses would be shuttered.  Almost all of them went along with the ordinance, and the <i>Times</i> reported that &quot;the keepers of dives did not wait for the police to call, but quietly folded their tents and departed.&quot;</p>
 <p>All but one.  All but one that had been operating right on Bunker Hill, not a block away from the First Congregational Church.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3291/2904106434_ff5433a41c_o.jpg" alt="parlorhouse" align="right" width="320" height="297" />On March 31, 1904, police raided an establishment at 355 South Hill Street, operated by Ethel Wood.  She was arrested along with three women, Mabel Stone, Dolly Long, and Hattie Jones.  The  four appeared in court the next day, all wearing long black veils to frustrate the looky-loos.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3291/2904106434_ff5433a41c_o.jpg" alt="parlorhouse" align="right" width="320" height="297" />On March 31, 1904, police raided an establishment at 355 South Hill Street, operated by Ethel Wood.  She was arrested along with three women, Mabel Stone, Dolly Long, and Hattie Jones.  The  four appeared in court the next day, all wearing long black veils to frustrate the looky-loos.</p>
 <p>Wood was fined $100 for selling beer without a license, and the three women were &quot;vagged,&quot; or charged with vagrancy, the usual charge for prostitutes until the charge of &quot;offering&quot; came into use in the 1920s.</p>
 <p>After the raid, the other parlor houses reopened quietly, and would remain open for another four years.  Pearl Morton, famed for her lavish parlor with two Steinway pianos, as well as her hourglass figure, flamboyant style, and hennaed hair, would be shut down in 1908, and move north to re-establish her operation in San Francisco.</p>
 <p>The last quasi-legal parlor houses would close down in 1909, in tandem with the recall and subsequent resignation of Mayor Arthur Harper, a frequent brothel client.</p>
 <p>And after that, prostitution did exactly what city leaders in favor of a containment strategy had predicted all along.  It scattered throughout the city and into residential neighborhoods, before falling under the jurisdiction of organized crime in the 1920s.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/cribwars/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kaboom!</title>
 		<link>/kaboomgasexplosion/</link>
-					<comments>/kaboomgasexplosion/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Thu, 25 Sep 2008 08:48:38 +0000</pubDate>
@@ -166,9 +162,9 @@
 		<category><![CDATA[gas leak]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[November 15, 1904 Harry L. Redd was crawling around beneath the city streets attempting to repair a telephone wire, but it was so dark he couldn”™t see a thing. He”™d been catching a whiff of gas fumes for the past few days in the same location, yet without thinking he fumbled around in his pockets &#8230; <a href="/kaboomgasexplosion/" class="more-link">Continue reading<span class="screen-reader-text"> "Kaboom!"</span></a>]]></description>
+					<description><![CDATA[November 15, 1904 Harry L. Redd was crawling around beneath the city streets attempting to repair a telephone wire, but it was so dark he couldn”&#x2122;t see a thing. He”&#x2122;d been catching a whiff of gas fumes for the past few days in the same location, yet without thinking he fumbled around in his pockets &#8230; <a href="/kaboomgasexplosion/" class="more-link">Continue reading<span class="screen-reader-text"> "Kaboom!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="middle" width="275" src="http://farm4.static.flickr.com/3172/2887064087_263d8be679_o.jpg" alt="kaboom headline" height="375" />
+<img loading="lazy" border="0" align="middle" width="275" src="https://farm4.static.flickr.com/3172/2887064087_263d8be679_o.jpg" alt="kaboom headline" height="375" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 November 15, 1904
@@ -180,7 +176,7 @@ Harry L. Redd was crawling around beneath the city streets attempting to repair 
 <span></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<span></span><img loading="lazy" border="0" align="left" width="286" src="http://farm4.static.flickr.com/3135/2887899580_a0997c87e9.jpg" alt="explosion" height="500" />Harry”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s world caught fire, leaving him dazed and in excruciating pain. The force of the explosion hurled him back against some pipes. The injured man was snapped back to his senses when a second blast thrust him out of the manhole and into the street. He was so violently tossed around that he rolled for a few feet, and then fell backwards through the manhole. Unbelievably, although badly burned, Harry survived.
+<span></span><img loading="lazy" border="0" align="left" width="286" src="https://farm4.static.flickr.com/3135/2887899580_a0997c87e9.jpg" alt="explosion" height="500" />Harry”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s world caught fire, leaving him dazed and in excruciating pain. The force of the explosion hurled him back against some pipes. The injured man was snapped back to his senses when a second blast thrust him out of the manhole and into the street. He was so violently tossed around that he rolled for a few feet, and then fell backwards through the manhole. Unbelievably, although badly burned, Harry survived.
 </p>
 <p><o:p></o:p></p>
 <p style="margin: 0pt" class="MsoNormal">
@@ -189,8 +185,6 @@ Several bystanders were hurt, including a small boy named Albert Adams who had b
 <p>The eruption was so powerful that a heavy iron manhole cover at Fourth and Hill Streets flew up into the air and flipped over several times before returning to Earth. The only building to suffer damage was at 331 South Hill where the windows were shattered. <o:p> </o:p><o:p></o:p> <o:p></o:p><span style="font-size: 12pt; font-family: 'Times New Roman'">To avoid this kind of accident in the future, maybe we”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d better review a couple of childhood lessons: don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t run with scissors, don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t put anything bigger than your elbow up your nose, and never light a match if you smell gas.</span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/kaboomgasexplosion/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -210,7 +204,7 @@ Several bystanders were hurt, including a small boy named Albert Adams who had b
 
 					<description><![CDATA[&#160; 215 North Hill Street May 10, 1931  It was bad enough to be saddled with the moniker Stinko Gursasovich ”“ how could things possibly get worse?  On the morning of May 10, 1931, the 42 year old laborer would find out. He was out walking when he suddenly felt hungry. Heading to his room &#8230; <a href="/amannamedstinko/" class="more-link">Continue reading<span class="screen-reader-text"> "A Man Named Stinko"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<st1:street w:st="on"><st1:address w:st="on"><img loading="lazy" border="0" width="214" src="http://farm4.static.flickr.com/3021/2473868197_07209c444d_o.jpg" alt="Stinko headline" height="145" /></st1:address></st1:street>
+<st1:street w:st="on"><st1:address w:st="on"><img loading="lazy" border="0" width="214" src="https://farm4.static.flickr.com/3021/2473868197_07209c444d_o.jpg" alt="Stinko headline" height="145" /></st1:address></st1:street>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -222,7 +216,7 @@ Several bystanders were hurt, including a small boy named Albert Adams who had b
 May 10, 1931 
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="left" width="240" src="http://farm4.static.flickr.com/3096/2456319989_1cd231e1d0_m.jpg" alt="215 N Hill" height="193" />
+<img loading="lazy" border="0" align="left" width="240" src="https://farm4.static.flickr.com/3096/2456319989_1cd231e1d0_m.jpg" alt="215 N Hill" height="193" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 It was bad enough to be saddled with the moniker Stinko Gursasovich ”“ how could things possibly get worse?<span>  </span>On the morning of May 10, 1931, the 42 year old laborer would find out. He was out walking when he suddenly felt hungry. Heading to his room at <st1:street w:st="on"><st1:address w:st="on">215 North Hill Street</st1:address></st1:street> to fix himself a sandwich, he decided that he needed to stop for a snack first. Problem was, there wasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t a single canned ham or loaf of bread to be had anywhere in the area.<span>  </span>It was then that he decided he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d break into the cellar of a house at 1037 Alpine Street ”“ surely the homeowners would have left some tasty treats in the cellar.
@@ -237,7 +231,7 @@ It was bad enough to be saddled with the moniker Stinko Gursasovich ”“ how c
 <span></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<span></span><!--break-->A neighbor saw Stinko creep into the basement through a window and immediately phoned the cops. The <img loading="lazy" border="0" align="right" width="240" src="http://farm4.static.flickr.com/3235/2474685978_949f3e6876_m.jpg" alt="radio car" height="194" />LAPD had recently installed radios in their cruisers, so officers Webb and Hamblin made it to the scene in a mere 90 seconds. The hapless perpetrator wasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t familiar with the latest crime fighting advances, and was promptly arrested and booked on a charge of burglary.
+<span></span><!--break-->A neighbor saw Stinko creep into the basement through a window and immediately phoned the cops. The <img loading="lazy" border="0" align="right" width="240" src="https://farm4.static.flickr.com/3235/2474685978_949f3e6876_m.jpg" alt="radio car" height="194" />LAPD had recently installed radios in their cruisers, so officers Webb and Hamblin made it to the scene in a mere 90 seconds. The hapless perpetrator wasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t familiar with the latest crime fighting advances, and was promptly arrested and booked on a charge of burglary.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -254,7 +248,6 @@ Let”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="�
 		<item>
 		<title>Goodbye, mother!</title>
 		<link>/goodbyemother/</link>
-					<comments>/goodbyemother/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 24 Apr 2008 18:07:08 +0000</pubDate>
@@ -269,18 +262,15 @@ Let”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="�
 					<description><![CDATA[Location: 360 South Hill Street Date: September 15, 1910 The anonymous rooming house cyanide suicide seemed calculated to deliver himself into an unmarked pauper&#8217;s grave, but a last impulse led him to pen a letter of farewell to his mother. He did not name her, but addressed the envelope with their hometown, Benkelman, Nebraska. A &#8230; <a href="/goodbyemother/" class="more-link">Continue reading<span class="screen-reader-text"> "Goodbye, mother!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 360 South Hill Street<br />
 Date: September 15, 1910</p>
-<p>The anonymous rooming house cyanide suicide seemed calculated to deliver himself into an unmarked pauper&#8217;s grave, but a last impulse led him to pen a letter of farewell to his mother. He did not name her, but addressed the envelope with their hometown, <a href="http://maps.google.com/maps?ie=UTF8&amp;oe=utf-8&amp;client=firefox-a&amp;q=Benkelman,+NE,+USA&amp;ll=40.05311,-101.531525&amp;spn=0.028973,0.069351&amp;t=h&amp;z=14&amp;iwloc=addr" target="_blank">Benkelman, Nebraska</a>. A telegraph to the postmaster of that burg soon brought the reply: the dead man was one Judson Graves, 35, from a good family but for some time bumming broke around the west. His sorrowful mother has asked Dr. Lockwood of Pasadena to go to Pierce Brothers and claim the body, and ship it home for burial.</p>
+<p>The anonymous rooming house cyanide suicide seemed calculated to deliver himself into an unmarked pauper&#8217;s grave, but a last impulse led him to pen a letter of farewell to his mother. He did not name her, but addressed the envelope with their hometown, <a href="https://maps.google.com/maps?ie=UTF8&amp;oe=utf-8&amp;client=firefox-a&amp;q=Benkelman,+NE,+USA&amp;ll=40.05311,-101.531525&amp;spn=0.028973,0.069351&amp;t=h&amp;z=14&amp;iwloc=addr" target="_blank" rel="noopener">Benkelman, Nebraska</a>. A telegraph to the postmaster of that burg soon brought the reply: the dead man was one Judson Graves, 35, from a good family but for some time bumming broke around the west. His sorrowful mother has asked Dr. Lockwood of Pasadena to go to Pierce Brothers and claim the body, and ship it home for burial.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/goodbyemother/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Little Nippy</title>
 		<link>/alittlenippy/</link>
-					<comments>/alittlenippy/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 01 Apr 2008 16:25:42 +0000</pubDate>
@@ -298,15 +288,12 @@ Date: July 11, 1932</p>
 <p>Mrs. L. Blanchard, 67, left her apartment for a carefree evening at the shore, but had a lousy time. According to Officer Maxwell, Venice PD, he heard a woman screaming and ran to Ocean Front and Brooks Avenue, where he found Mrs. Blanchard holding her injured shoulder. Unconscious in the sand was Eugene Allison, 22, who Mrs. Blanchard explained had taken poison and, in his frenzy, bitten her. We can only assume this odd May-December pair knew each other from the neighborhood (Blanchard lived at 360 South Hill, Allison at 337 South Olive). Allison was sent to General Hospital, and there is no further report on his condition.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/alittlenippy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Gas Widow</title>
 		<link>/gaswidow/</link>
-					<comments>/gaswidow/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 01 Apr 2008 16:10:41 +0000</pubDate>
@@ -324,15 +311,12 @@ Date: July 25, 1932</p>
 <p>Mrs. Blanche Hill, a recent widow who had suffered two paralytic strokes, killed herself with gas in her apartment. The smell alerted manager S.J. Gadd, who shimmied over the transom, but was too late to save the lady.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/gaswidow/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Plucky Dame Pursues Purse Pilferers</title>
 		<link>/pursepilfer/</link>
-					<comments>/pursepilfer/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Tue, 01 Apr 2008 13:23:52 +0000</pubDate>
@@ -342,26 +326,23 @@ Date: July 25, 1932</p>
 		<category><![CDATA[purse snatching]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[  August 6, 1889 Mrs. C.W. Strong, described by the Los Angeles Times as an elderly lady, was walking from her home at 340 South Hill Street to view a cottage near Fort Street (now Broadway) and Bunker Hill Avenue when she was accosted by two men.  It was between 2 and 3 o”™clock in &#8230; <a href="/pursepilfer/" class="more-link">Continue reading<span class="screen-reader-text"> "Plucky Dame Pursues Purse Pilferers"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span style="font-size: 11pt; font-family: Arial"> <img loading="lazy" border="0" width="258" src="http://farm3.static.flickr.com/2395/2377069435_8c36c4b6ec_o.jpg" alt="purse pilfer" height="184" /></span></p>
+					<description><![CDATA[  August 6, 1889 Mrs. C.W. Strong, described by the Los Angeles Times as an elderly lady, was walking from her home at 340 South Hill Street to view a cottage near Fort Street (now Broadway) and Bunker Hill Avenue when she was accosted by two men.  It was between 2 and 3 o”&#x2122;clock in &#8230; <a href="/pursepilfer/" class="more-link">Continue reading<span class="screen-reader-text"> "Plucky Dame Pursues Purse Pilferers"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span style="font-size: 11pt; font-family: Arial"> <img loading="lazy" border="0" width="258" src="https://farm3.static.flickr.com/2395/2377069435_8c36c4b6ec_o.jpg" alt="purse pilfer" height="184" /></span></p>
 <p><span style="font-size: 11pt; font-family: Arial">August 6, 1889</span> <span style="font-size: 11pt; font-family: Arial"></p>
 <p></span><span style="font-size: 11pt; font-family: Arial">Mrs. C.W. Strong, described by the Los Angeles Times as an elderly lady, was walking from her home at 340 South Hill Street to view a cottage near Fort Street (now Broadway) and Bunker Hill Avenue when she was accosted by two men.<span>  </span>It was between 2 and 3 o”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />clock in the afternoon when a rough looking citizen of 30 or 35 and his teenaged companion passed Mrs. Strong. They walked a few steps ahead of the woman and then pretended that they had lost their way, one of them remarking that they would have to go down another street. They turned back and again passed Mrs. Strong. <span> </span>Once they were behind her one of the men grabbed her handbag and attempted to wrench it from her grasp. The aptly named Mrs. Strong was having none of it, and held on to her purse like grim death ”“ calling at the top of her voice for the police. <span></span>Unwilling to be denied their prize, the men wouldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t let go of the bag and finally tore it from her hands. Then they hightailed it south on <st1:street w:st="on"><st1:address w:st="on">Bunker Hill Avenue</st1:address></st1:street>.</span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"></span><span style="font-size: 11pt; font-family: Arial"></span><span style="font-size: 11pt; font-family: Arial"></span><span style="font-size: 11pt; font-family: Arial"></p>
 <p>Mrs. Strong may have been elderly, but she was a plucky dame, and she gave chase yelling “stop thief”! Apparently there were no men in the neighborhood at that time of the day, but a young girl heard the cries of help and she joined in the pursuit. The two women stayed on the heels of the miscreants down past the Normal School building (now the site of the Central Library), and into <st1:place w:st="on"><st1:placename w:st="on">Sixth</st1:placename> <st1:placename w:st="on">Street</st1:placename> <st1:placetype w:st="on">Park</st1:placetype></st1:place> (renamed <st1:street w:st="on"><st1:address w:st="on">Pershing Square</st1:address></st1:street>).<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><br />
-<img loading="lazy" border="0" width="500" src="http://farm4.static.flickr.com/3268/2381149544_a47b3325a9.jpg" alt="park" height="398" /><br />
+<img loading="lazy" border="0" width="500" src="https://farm4.static.flickr.com/3268/2381149544_a47b3325a9.jpg" alt="park" height="398" /><br />
 The thieves were sprinting out of the south end of the park just as Mrs. Strong got to the north side. She then spotted the park policeman, Officer Glidden. <span> </span>Breathlessly, she began to relate the story of the purse snatching when a young man named Munn, who had seen the men dashing through park, came up to find out what was going on. As soon as he heard Mrs. Strong”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s story, Munn volunteered to go with the officer after the men saying that he thought they could be captured. Instead of giving chase, Glidden informed Mrs. Strong that he really couldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t do a thing to help her unless she came to the station and swore out a complaint! Meanwhile the two daylight bandits had vanished into the city. <o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"></p>
 <p>Mrs. Strong went immediately to the police station to swear out a complaint. Chief Glass heard Mrs. Strong”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s statement and was annoyed by Glidden”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lack of action.<span>  </span>He dispatched Officers Sheets, Bowler, Bosqui and Loomis to hunt the thieves, but the crooks had a significant head start. The officers spent hours searching the neighborhood, but returned to the station empty handed.<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"></p>
 <p>Indignant over Officer Glidden”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s behavior, Mrs. Strong stopped in at the LA Times office, where she gave an account of the crime and related how she”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been treated by the officer. She told reporters that if Glidden had done his duty she wouldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t have lost her handbag and the ten dollar gold piece it contained. Chief Glass said that the case would be thoroughly investigated.<o:p></o:p></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pursepilfer/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Angels Flight and the Flickers</title>
 		<link>/angelsflightandtheflickers/</link>
-					<comments>/angelsflightandtheflickers/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 31 Mar 2008 16:28:15 +0000</pubDate>
@@ -373,8 +354,8 @@ The thieves were sprinting out of the south end of the park just as Mrs. Strong 
 		<category><![CDATA[Olive Street]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[As an addendum to my Angels Flight post, below, I got to thinking about AF”™s relationship to cinema after OnBunkerHill&#8217;r John wrote to the other contributors: How many of you have seen the 1965 film, &#34;Angel&#8217;s Flight&#34;? Here is how the program of the Egyptian Theater&#8217;s 2006 Film Noir film festival described it: ANGEL&#8217;S FLIGHT, &#8230; <a href="/angelsflightandtheflickers/" class="more-link">Continue reading<span class="screen-reader-text"> "Angels Flight and the Flickers"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3246/2370681208_8b5daf0cf3_o.gif" alt="AFFilm" height="250" width="300" /> </p>
+					<description><![CDATA[As an addendum to my Angels Flight post, below, I got to thinking about AF”&#x2122;s relationship to cinema after OnBunkerHill&#8217;r John wrote to the other contributors: How many of you have seen the 1965 film, &#34;Angel&#8217;s Flight&#34;? Here is how the program of the Egyptian Theater&#8217;s 2006 Film Noir film festival described it: ANGEL&#8217;S FLIGHT, &#8230; <a href="/angelsflightandtheflickers/" class="more-link">Continue reading<span class="screen-reader-text"> "Angels Flight and the Flickers"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3246/2370681208_8b5daf0cf3_o.gif" alt="AFFilm" height="250" width="300" /> </p>
 <p>As an addendum to my Angels Flight post, below, I got to thinking about AF”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s relationship to cinema after OnBunkerHill&#8217;r John wrote to the other contributors:<br />
 <i></i></p>
 <p><i>How many of you have seen the 1965 film, &quot;Angel&#8217;s Flight&quot;?   Here is how the program of the Egyptian Theater&#8217;s 2006 Film Noir film festival described it:</i></p>
@@ -383,27 +364,25 @@ ANGEL&#8217;S FLIGHT, 1965, 77 min. Dirs. Raymond Nassour and Ken Richardson. A 
 </p>
 <p>
 ”¦and I realized, jeez, there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a picture named after Angel(&#8216;)s Flight, but whenever our Flight is mentioned vis-a-vis film, everyone is quick to mention <i>Criss Cross</i>, and rightfully so.  Any picture in which a sultry Yvonne De Carlo skulks around Bunker Hill should win the Oscar for, you know, Best Use of Everything.</p>
-<p>So on the assumption that You Our Reader were at the Egyptian for <i>Angel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight</i>, and dutifully have the Betamax of <i>Criss Cross</i> on your shelf, you still might appreciate a heads up about <i>Indestructible Man</i> and <a href="http://www.bleedingskull.com/dvd/incrediblystrange.html" title="strangelyincredible" target="_blank"><i>The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?</i></a></p>
-<p><i>Indestructible Man</i> stars Lon Chaney Jr., who so masterfully skulked around <a href="http://www.laokay.com/lathumb/laphoto/Victorian255.jpg" title="highlandparkrepresent" target="_blank">El Mio</a> in <a href="http://www.imagesjournal.com/issue08/reviews/spiderbaby/text.htm" title="SB" target="_blank"><i>Spider Baby</i></a>.  You can actually watch the movie in its entirety right <a href="http://www.archive.org/details/indestructible_man" title="thisiswhatImeanbyIM" target="_blank">here</a>, right now.<br />
-<img loading="lazy" src="http://farm4.static.flickr.com/3086/2356616824_762b93ba9a_o.gif" alt="im-af-up" height="225" width="300" /><br />
-<img loading="lazy" src="http://farm4.static.flickr.com/3200/2355782033_b96546ed82_o.gif" alt="im-af-2" height="224" width="300" /><br />
-<img loading="lazy" src="http://farm4.static.flickr.com/3122/2356616628_9bddb1e61a_o.gif" alt="im-af-mcoff" height="225" width="300" /><br />
+<p>So on the assumption that You Our Reader were at the Egyptian for <i>Angel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight</i>, and dutifully have the Betamax of <i>Criss Cross</i> on your shelf, you still might appreciate a heads up about <i>Indestructible Man</i> and <a href="https://www.bleedingskull.com/dvd/incrediblystrange.html" title="strangelyincredible" target="_blank" rel="noopener"><i>The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?</i></a></p>
+<p><i>Indestructible Man</i> stars Lon Chaney Jr., who so masterfully skulked around <a href="https://www.laokay.com/lathumb/laphoto/Victorian255.jpg" title="highlandparkrepresent" target="_blank" rel="noopener">El Mio</a> in <a href="https://www.imagesjournal.com/issue08/reviews/spiderbaby/text.htm" title="SB" target="_blank" rel="noopener"><i>Spider Baby</i></a>.  You can actually watch the movie in its entirety right <a href="https://www.archive.org/details/indestructible_man" title="thisiswhatImeanbyIM" target="_blank" rel="noopener">here</a>, right now.<br />
+<img loading="lazy" src="https://farm4.static.flickr.com/3086/2356616824_762b93ba9a_o.gif" alt="im-af-up" height="225" width="300" /><br />
+<img loading="lazy" src="https://farm4.static.flickr.com/3200/2355782033_b96546ed82_o.gif" alt="im-af-2" height="224" width="300" /><br />
+<img loading="lazy" src="https://farm4.static.flickr.com/3122/2356616628_9bddb1e61a_o.gif" alt="im-af-mcoff" height="225" width="300" /><br />
 <i>See! </i> Marian Carr want off Angels Flight!</p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2361/2356617058_69a08cc568_o.gif" alt="lc-af" height="225" width="300" /></p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2044/2355781681_9fd1328872_o.gif" alt="lcgetsoff" height="223" width="300" /><br />
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2361/2356617058_69a08cc568_o.gif" alt="lc-af" height="225" width="300" /></p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2044/2355781681_9fd1328872_o.gif" alt="lcgetsoff" height="223" width="300" /><br />
 <i>Thrill! </i> In screaming blood terror as master of horror Lon Chaney walks past beer neon to get on Angels Flight!  <i>Then get off!!!  </i>(To be fair, he does throw a guy down some stairs by the Hillcrest.  It&#8217;s pretty cool.)</p>
-<p>And of the wonders and glories of <a href="http://www.monstershack.net/reviews/full/mixedupzombies.php" title="incrediblygreat" target="_blank">TISCWSLABMUZ</a> there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s simply too much to say.  Many have heard of yet few have actually viewed this spectacular (I was lucky enough to see it in a San Francisco picture-house when a knife-brandishing Jello Biafra &amp; Boyd Rice exploded from the screen–<i>in gore-soaked living 3-D!</i>).  The only other people known to have seen this film are Joel Hodgson, Tom Servo, and Crow T. Robot:<br />
-<img loading="lazy" src="http://farm4.static.flickr.com/3142/2355756737_c9ab3e7a27_o.gif" alt="isc-1up" height="223" width="300" /></p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2141/2355756825_cbcb5534ac_o.gif" alt="isc-2" height="221" width="300" /></p>
+<p>And of the wonders and glories of <a href="https://www.monstershack.net/reviews/full/mixedupzombies.php" title="incrediblygreat" target="_blank" rel="noopener">TISCWSLABMUZ</a> there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s simply too much to say.  Many have heard of yet few have actually viewed this spectacular (I was lucky enough to see it in a San Francisco picture-house when a knife-brandishing Jello Biafra &amp; Boyd Rice exploded from the screen–<i>in gore-soaked living 3-D!</i>).  The only other people known to have seen this film are Joel Hodgson, Tom Servo, and Crow T. Robot:<br />
+<img loading="lazy" src="https://farm4.static.flickr.com/3142/2355756737_c9ab3e7a27_o.gif" alt="isc-1up" height="223" width="300" /></p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2141/2355756825_cbcb5534ac_o.gif" alt="isc-2" height="221" width="300" /></p>
 <p>Jerry has just tried to strangle his girlfriend.  Because she spun an umbrella.  Don&#8217;t ask.  Suffice it to say, he has to go here: </p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2230/2355756505_8a9734c851_o.gif" alt="isc-3" height="222" width="300" /></p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3273/2356591036_2381f93b7e_o.gif" alt="isc-look" height="224" width="300" /></p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2151/2356591348_41c083e4bc_o.gif" alt="isc-leavin'" height="221" width="300" /></p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2230/2355756505_8a9734c851_o.gif" alt="isc-3" height="222" width="300" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3273/2356591036_2381f93b7e_o.gif" alt="isc-look" height="224" width="300" /></p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2151/2356591348_41c083e4bc_o.gif" alt="isc-leavin'" height="221" width="300" /></p>
 <p>And for that we are thankful.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/angelsflightandtheflickers/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

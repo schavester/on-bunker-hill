@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/author/michaelseveral/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 19 Jun 2016 17:15:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:31:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Pershing Square&#8217;s Spanish-American War Memorial (part 1)</title>
 		<link>/spanish-american-war-memorial-1/</link>
-					<comments>/spanish-american-war-memorial-1/#respond</comments>
 		
 		<dc:creator><![CDATA[Michael Several]]></dc:creator>
 		<pubDate>Sat, 18 Jun 2016 00:17:32 +0000</pubDate>
@@ -55,8 +54,6 @@
 <p>After picking up Company K, the train continued to Pomona, where Herman L. Hils and the other men of Company D had gathered. Company D”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s departure was a strikingly simple affair. Instead of a parade from the armory, the men assembled at the station, said farewell to family and friends, boarded the train with its two coaches decorated with flowers by the Fruit and Flower Mission “girls”, and left for the final leg of the journey to Los Angeles.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/spanish-american-war-memorial-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

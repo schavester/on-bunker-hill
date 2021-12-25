@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/larronde/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:46:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:33:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -47,19 +47,19 @@
 					<description><![CDATA[&#160; As Bunker Hill developed from a fashionable Victorian neighborhood to an area of somewhat slummy dwellings, the grand mansions of the earlier era adapted with the times. In most cases, the large homes were converted into multi resident housing, sometimes a mere decade or two after construction. However, there are rare cases of Bunker &#8230; <a href="/larronde/" class="more-link">Continue reading<span class="screen-reader-text"> "The Larronde Residence &#8211; 237 N. Hope Street"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://helios.library.ca.gov/soca/hylen/2001-0613.jpg" width="400" />
+<img src="https://helios.library.ca.gov/soca/hylen/2001-0613.jpg" width="400" />
 </div>
 <p>As Bunker Hill developed from a fashionable Victorian neighborhood to an area of somewhat slummy dwellings, the grand mansions of the earlier era adapted with the times. In most cases, the large homes were converted into multi resident housing, sometimes a mere decade or two after construction. However, there are rare cases of Bunker Hill homes being inhabited by one family from the beginning to the bitter end, as was the case with the Larronde home at 237 North Hope Street. <br />
 <!--break--><br />
 At one time, the name Larronde was a fairly well known one in the City of Angels. Pierre Larronde was a native Frenchman who landed in San Francisco in 1847 and made a killing in the gold mines. When he relocated to Los Angeles in 1851, he amassed a further fortune by successfully raising sheep on one of the Ranchos. Always the astute businessman, Larronde cashed out his sheep empire in the late 1880s and focused his energies on real estate. His holdings included prime land at the corner of First and Spring, and a parcel on North Hope Street near Temple where he built the family home.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3270/2734672226_3ee8f6f17d.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3270/2734672226_3ee8f6f17d.jpg?v=0" width="400" />
 </div>
 <p>Pierre Larronde had a great deal in common with a fellow Los Angeles pioneer named Jean Etchemendy. Both men hailed from a south western region in France called the Basses-Pyrenees, both briefly lived in South America before cashing in early on the Gold Rush, and both successfully settled in Los Angles as sheep ranchers. Last but not least, both men married a gal named Juana Egurrola. Juana was born in Marquina, Spain but moved to California with her family at a very young age. She married Etchemendy in 1865 and gave birth to daughters Mariana, Madeleine and Carolina. Jean Etchemendy died in 1872 and Juana mourned for a couple of years before hooking up with the other French sheep-man in town. Juana”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1874 union with Pierre Larronde produced three children, Pedro Domingo, John and Antoinette.</p>
 <p>&nbsp;</p>
 <div align="center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3130/2733841077_d0f12ec6bb.jpg?v=0" height="500" width="201" />          <img src="http://farm4.static.flickr.com/3203/2733841105_ab08dbe32b.jpg?v=0" width="180" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3130/2733841077_d0f12ec6bb.jpg?v=0" height="500" width="201" />          <img src="https://farm4.static.flickr.com/3203/2733841105_ab08dbe32b.jpg?v=0" width="180" />
 </div>
 <div align="center">
 Larronde House on 1888 &amp; 1950 Sanborn Map
@@ -68,7 +68,7 @@ Larronde House on 1888 &amp; 1950 Sanborn Map
 The Sanborn Fire Insurance maps show the house on Hope Street as being under construction in 1888. The Larronde Bunch moved in shortly thereafter and held gatherings on a regular basis that made the society pages. Unlike many residences of Bunker Hill, the Larronde home suffered no scandals or controversies. Pierre the pioneer died in 1896, around the age of 70, and Juana resided on Hope Street until her death in 1920 at the ripe old age of 84.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3145/2733840571_f346cc3507.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3145/2733840571_f346cc3507.jpg?v=0" width="400" />
 </div>
 <p>Of the six Larronde/Etchemendy children, only two ventured off of Hope Street. Pedro Domingo would become a principal in the Franco American Baking Company and Antoinette married James J. Watson and had three children. John served as the head of the Fire Commission for a number of years and lived at 237 N. Hope Street until his death in 1954. The three Etchemendy girls also lived in the mansion for decades. Madeleine died shortly after her stepbrother in 1954, and Caroline and Mariana would live on for another decade. </p>
 <p>For nearly eighty years, one family resided in the house at 237 North Hope Street. By the <br />

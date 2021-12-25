@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/category/grand-ave/300-block-grand-ave/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:46:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:38:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Love(joy) and Death – 529 W. Third</title>
 		<link>/loveanddeathatthelovejoy/</link>
-					<comments>/loveanddeathatthelovejoy/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 25 Jan 2009 00:17:07 +0000</pubDate>
@@ -49,44 +48,42 @@
 		<category><![CDATA[shooting]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[1947project readers may remember this addition that King of Historians Larry Harnisch made to the blog back in its earliest incarnation. It”™s the story of Gerald Richards, and, because you can read the story in full in the link, I”™ll just toss out the particulars: Gerald Richards is 19, and he hasn”™t much in the &#8230; <a href="/loveanddeathatthelovejoy/" class="more-link">Continue reading<span class="screen-reader-text"> "Love(joy) and Death – 529 W. Third"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3120/3223969201_e9166b9630_o.gif" alt="youthadmits!" height="200" width="207" />1947project readers may remember <a href="http://1947project.blogspot.com/2005/11/hardly-love-match.html" title="kristallnacht47" target="_blank">this addition</a> that King of Historians <a href="http://latimesblogs.latimes.com/thedailymirror/" title="TheHarn" target="_blank">Larry Harnisch</a> made to the blog back in its earliest incarnation.  It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the story of Gerald Richards, and, because you can read the story in full in the link, I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll just toss out the particulars:</p>
-<p>Gerald Richards is 19, and he hasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t much in the world.  He has a .25 auto that he picked up in Japan during his tour in the Maritime Service, and he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s got George Kirtland, 24, who he picked up in New Orleans during his postwar wanderlust.  It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1947 and they”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve landed in Los Angeles–George is from Gardena, Gerald an Illinois boy–and George goes to visit Gerald at his digs in the Biltmore.  Gerald should have probably chosen somewhere less tony, because his argument over the $32 hotel bill resulted in his shooting the assistant manager in the <a href="http://www.flickr.com/photos/zilf/221204623/" title="BiltLobby" target="_blank">lobby</a>.  Once nabbed, he also copped to two more slayings–a Tom Nitsch in New Mexico, and LA”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s own 52-year-old tailor Charles Vuykov, whose nude body was found on the floor of his room, 529 West Third.  </p>
+					<description><![CDATA[1947project readers may remember this addition that King of Historians Larry Harnisch made to the blog back in its earliest incarnation. It”&#x2122;s the story of Gerald Richards, and, because you can read the story in full in the link, I”&#x2122;ll just toss out the particulars: Gerald Richards is 19, and he hasn”&#x2122;t much in the &#8230; <a href="/loveanddeathatthelovejoy/" class="more-link">Continue reading<span class="screen-reader-text"> "Love(joy) and Death – 529 W. Third"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3120/3223969201_e9166b9630_o.gif" alt="youthadmits!" height="200" width="207" />1947project readers may remember <a href="https://1947project.blogspot.com/2005/11/hardly-love-match.html" title="kristallnacht47" target="_blank" rel="noopener">this addition</a> that King of Historians <a href="https://latimesblogs.latimes.com/thedailymirror/" title="TheHarn" target="_blank" rel="noopener">Larry Harnisch</a> made to the blog back in its earliest incarnation.  It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the story of Gerald Richards, and, because you can read the story in full in the link, I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll just toss out the particulars:</p>
+<p>Gerald Richards is 19, and he hasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t much in the world.  He has a .25 auto that he picked up in Japan during his tour in the Maritime Service, and he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s got George Kirtland, 24, who he picked up in New Orleans during his postwar wanderlust.  It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1947 and they”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve landed in Los Angeles–George is from Gardena, Gerald an Illinois boy–and George goes to visit Gerald at his digs in the Biltmore.  Gerald should have probably chosen somewhere less tony, because his argument over the $32 hotel bill resulted in his shooting the assistant manager in the <a href="https://www.flickr.com/photos/zilf/221204623/" title="BiltLobby" target="_blank" rel="noopener">lobby</a>.  Once nabbed, he also copped to two more slayings–a Tom Nitsch in New Mexico, and LA”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s own 52-year-old tailor Charles Vuykov, whose nude body was found on the floor of his room, 529 West Third.  </p>
 <p>In the 47p post, Larry made mention of the manner in which the <i>Times</i> heads off homosexual implications in Richards”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Kirtland relationship; but then, what was 19-year-old Gerald doing in the apartment of a 50-something tailor?  Especially a nude one?</p>
 <p>And let”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not let this particular address of Vuykov”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s slip by”¦529 isn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t just <i>any</i> spot on West Third.  That shot reverberated across the four corners of Third and Grand. That”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Lovejoy Hotel.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3324/3224441970_65eac1a3c5_o.gif" alt="LoveJoy" height="312" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3324/3224441970_65eac1a3c5_o.gif" alt="LoveJoy" height="312" width="575" /></p>
 <p>The Lovejoy is announced May 1903:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3416/3223821591_abb53e79ed_o.gif" alt="pulledpermits" height="55" width="400" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3416/3223821591_abb53e79ed_o.gif" alt="pulledpermits" height="55" width="400" /></p>
 <p>142 rooms, divided into 78 apartments, it opens in November.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3360/3224702464_a0ce704135_o.gif" alt="LoveJ65" height="445" width="575" /></p>
-<p>It is immediately the scene of many a large society wedding, and home to the known (William O. Owen lived at the Lovejoy when it was finally decreed, in 1927, that it was in fact he who first reached the summit of the <a href="http://en.wikipedia.org/wiki/Grand_Teton" title="greatteat" target="_blank">Grand Teton</a>).</p>
-<p>The Lovejoy is also a hotbed of lefty activity. It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a center for the Equal Rights League and magnet for suffragists of various stripe. It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s where Professor Flinn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s “physical culture” class met in 1904. It also serves as the 1930s home for the <a href="http://en.wikipedia.org/wiki/American_League_Against_War_and_Fascism" title="AL" target="_blank">American League Against War and Fascism</a>.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3395/3223823909_626b907e8d_o.gif" alt="lookingdownGrand" height="385" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3360/3224702464_a0ce704135_o.gif" alt="LoveJ65" height="445" width="575" /></p>
+<p>It is immediately the scene of many a large society wedding, and home to the known (William O. Owen lived at the Lovejoy when it was finally decreed, in 1927, that it was in fact he who first reached the summit of the <a href="https://en.wikipedia.org/wiki/Grand_Teton" title="greatteat" target="_blank" rel="noopener">Grand Teton</a>).</p>
+<p>The Lovejoy is also a hotbed of lefty activity. It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a center for the Equal Rights League and magnet for suffragists of various stripe. It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s where Professor Flinn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s “physical culture” class met in 1904. It also serves as the 1930s home for the <a href="https://en.wikipedia.org/wiki/American_League_Against_War_and_Fascism" title="AL" target="_blank" rel="noopener">American League Against War and Fascism</a>.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3395/3223823909_626b907e8d_o.gif" alt="lookingdownGrand" height="385" width="575" /></p>
 <p>Above, looking north/east on Grand.  (Nice crenellated parapets. Despite being against war, its residents were probably glad for defensible battlements.)</p>
 <p>Now you see Angels Flight Drugs:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3527/3224681028_22ca0dbee0_o.gif" alt="closer" height="325" width="432" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3527/3224681028_22ca0dbee0_o.gif" alt="closer" height="325" width="432" /></p>
 <p>Now you don&#8217;t:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3357/3223844845_e6ef40864f_o.gif" alt="nowyoudont" height="394" width="575" /></p>
-<p>This being Third and Grand, the Lovejoy was also across the street from the <a href="/NugentNewGrand" title="crosstheSt" target="_blank">Nugent</a>.  Below, the Nugent is on the left, and we peer down to Olive&#8230;there&#8217;s the top of Angels Flight, its neighbor the <a href="/elksannex" title="elxaugogo" target="_blank">Elks Lodge</a>, and the <a href="http://www.flickr.com/photos/ice_nyne/1911639696/" title="EdisonBldg" target="_blank">Edison</a>/Metro Water <a href="http://www.you-are-here.com/broadway/metropolitan_water.html" title="MWD" target="_blank">Bldng</a> at <a href="http://www.andreas-praefcke.de/carthalia/usa/usa_losangeles_million.htm" title="milliondolla" target="_blank">Third and Broadway</a> in the distance.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3117/3224702674_fd44efdce8_o.gif" alt="towardMtOlive" height="365" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3357/3223844845_e6ef40864f_o.gif" alt="nowyoudont" height="394" width="575" /></p>
+<p>This being Third and Grand, the Lovejoy was also across the street from the <a href="/NugentNewGrand" title="crosstheSt" target="_blank" rel="noopener">Nugent</a>.  Below, the Nugent is on the left, and we peer down to Olive&#8230;there&#8217;s the top of Angels Flight, its neighbor the <a href="/elksannex" title="elxaugogo" target="_blank" rel="noopener">Elks Lodge</a>, and the <a href="https://www.flickr.com/photos/ice_nyne/1911639696/" title="EdisonBldg" target="_blank" rel="noopener">Edison</a>/Metro Water <a href="https://www.you-are-here.com/broadway/metropolitan_water.html" title="MWD" target="_blank" rel="noopener">Bldng</a> at <a href="https://www.andreas-praefcke.de/carthalia/usa/usa_losangeles_million.htm" title="milliondolla" target="_blank" rel="noopener">Third and Broadway</a> in the distance.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3117/3224702674_fd44efdce8_o.gif" alt="towardMtOlive" height="365" width="575" /></p>
 <p>And, in our continuing effort to get you oriented, endless maps.</p>
 <p>From the Sanborn Fire Insurance maps, 1906:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3508/3224776638_a114727685_o.gif" alt="Sanborn06" height="464" width="439" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3508/3224776638_a114727685_o.gif" alt="Sanborn06" height="464" width="439" /></p>
 <p>From the Birdseye:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3262/3224776594_7a6e59e4fa_o.gif" alt="3rdGrand09" height="346" width="454" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3262/3224776594_7a6e59e4fa_o.gif" alt="3rdGrand09" height="346" width="454" /></p>
 <p>From the Baists Real Estate Atlas, 1926:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3366/3223918391_4fdc54ca3f_o.gif" alt="baistyboy" height="454" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3366/3223918391_4fdc54ca3f_o.gif" alt="baistyboy" height="454" width="575" /></p>
 <p>And of course, the WPA model from 1940:</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3436/3224776760_a8c458e64d_o.gif" alt="3andG" height="619" width="575" /></p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3436/3224776760_a8c458e64d_o.gif" alt="3andG" height="619" width="575" /></p>
 <p>Above, the Nugent has lost the top of its tower.  And is also apparently falling over.</p>
 <p>The Lovejoy stands strong, though painted yellow, as per its reputation for hosting pacifists.</p>
-<p>The 1960s saw its demolition, and in its place, in the early 80s, the erection of a similarly formidable fortress, Isozaki&#8217;s <a href="http://www.magazineusa.com/us/cityguide/show.aspx?state=ca&amp;unit=losangeles&amp;doc=17&amp;dsc=MOCA" title="iso" target="_blank">Museum of Contemporary Art</a>.  Through true to the Hill, it&#8217;s styled less like a castle than it is bunker-like.</p>
-<p><img loading="lazy" src="http://farm4.static.flickr.com/3094/3224136953_610e4f53f8_o.gif" alt="MOCA" height="240" width="530" /></p>
+<p>The 1960s saw its demolition, and in its place, in the early 80s, the erection of a similarly formidable fortress, Isozaki&#8217;s <a href="https://www.magazineusa.com/us/cityguide/show.aspx?state=ca&amp;unit=losangeles&amp;doc=17&amp;dsc=MOCA" title="iso" target="_blank" rel="noopener">Museum of Contemporary Art</a>.  Through true to the Hill, it&#8217;s styled less like a castle than it is bunker-like.</p>
+<p><img loading="lazy" src="https://farm4.static.flickr.com/3094/3224136953_610e4f53f8_o.gif" alt="MOCA" height="240" width="530" /></p>
 <p><i>Lovejoy images, from top to bottom:  author;  William Reagh Collection, California History Section, California State Library; Arnold Hylen Collection, California History Section, California State Library; William Reagh, Los Angeles Public Library Photo Collection; William Reagh, Los Angeles Public Library Photo Collection</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/loveanddeathatthelovejoy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -107,7 +104,7 @@
 
 					<description><![CDATA[When the Castle and Salt Box were physically moved from Bunker Hill to Heritage Square in Highland Park, it was probably a sight most residents had never seen. However, this was not the first time a home on the Hill was relocated. Almira Hershey outdid them all in the early 1900s by not only moving &#8230; <a href="/hershey_castletowers/" class="more-link">Continue reading<span class="screen-reader-text"> "Hershey Residence/Castle Towers &#8211; 350 South Grand/750 West Fourth"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="http://farm3.static.flickr.com/2256/2921092332_d6c26d4936.jpg?v=0" width="500" />
+<img src="https://farm3.static.flickr.com/2256/2921092332_d6c26d4936.jpg?v=0" width="500" />
 </div>
 <p>When <a href="/castle">the Castle</a> and <a href="/salt_box">Salt Box</a> were physically moved from Bunker Hill to Heritage Square in Highland Park, it was probably a sight most residents had never seen. However, this was not the first time a home on the Hill was relocated. Almira Hershey outdid them all in the early 1900s by not only moving her Bunker Hill home, but by also splitting it in half and transforming it into a massive and majestic apartment building.<br />
 <!--break--><br />
@@ -115,21 +112,21 @@
 Almira Hershey, better known as Mira, is a name that was once prominent in Los Angeles, but is now pretty much (and unfortunately) forgotten. She was a relative of Milton S. Hershey, founder of the Pennsylvania chocolate empire, and the daughter of Benjamin Hershey who amassed a fortune in the lumber and banking industries. Mira inherited a substantial sum when her father died and she relocated from Muscatine, Iowa to Los Angeles in the 1890s.</p>
 <p>Hershey purchased real estate on Bunker Hill and commenced construction on a number of residences, including her own home at the NE corner of Fourth and Grand Avenue in 1896. The elegant structure sat across the street from the Rose Residence, and cost $5,000 to build (around $123,000 in today&#8217;s dollars).</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3163/2920248831_8eba013f1e.jpg?v=0" height="102" width="317" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3163/2920248831_8eba013f1e.jpg?v=0" height="102" width="317" />
 </div>
 <p>After living at 350 South Grand for ten years, Hershey decided she needed a change. Instead of merely redecorating, she physically had the house moved to 750 W. Fourth Street and commissioned architects  C.F. Skilling and Otto H. Neher to split the residence in half and turn it into an apartment building. The renovations on the new building were completed in December of 1907 and the finished product included one and three bedroom suites complete with patented wall beds, artistic wall decorations, and interior wood finishings. Because of the structure&#8217;s resemblance to a European castle, Hershey&#8217;s new apartment building was christened the Castle Towers.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3285/2921093320_713617551b.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3285/2921093320_713617551b.jpg?v=0" width="400" />
 </div>
 <p>
 As for the prime lot on the corner of Fourth and Grand, Hershey had plans to build a hotel on the location of her former residence, and again hired Skilling &amp; Neher. The concrete foundation had been laid by March of 1908, but plans were halted a couple of weeks later when the architects filed a lawsuit against Hershey for nonpayment of fees. The hotel was never completed, and the concrete foundation was turned into a parking lot that would remain until the neighborhood was completely redeveloped in the 1960s.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3224/2920248505_b7486a1650.jpg?v=0" width="400" />
+<img src="https://farm4.static.flickr.com/3224/2920248505_b7486a1650.jpg?v=0" width="400" />
 </div>
 <p>
 Mira Hershey did go on build her hotel called the Hershey Arms on Wilshire Boulevard. She also fell in love with the famed (and former) Hollywood Hotel, which she purchased and lived in until her death in 1930. She was so enamored with the building at the corner of Hollywood and Highland that she commissioned a replica, the Naples Hotel, be constructed in a Long Beach neighborhood.</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3138/2920249567_fa4c2bd636.jpg?v=0" width="400" /> 
+<img src="https://farm4.static.flickr.com/3138/2920249567_fa4c2bd636.jpg?v=0" width="400" /> 
 </div>
 <div align="center">
 <i>The Hershey Residence at the corner of Fourth &amp; Grand</i> <i>(1906 Sanborn Map)</i>
@@ -137,7 +134,7 @@ Mira Hershey did go on build her hotel called the Hershey Arms on Wilshire Boule
 <p>
 Mira Hershey was always quick to share her wealth, but kept her philanthropic activities private after the Los Angeles Times attacked her for donating money for a hospital to be built in her hometown of Muscatine, Iowa instead of her current home city. One of Hershey&#8217;s most significant donations came after she died and her will revealed that she left $300,000 to UCLA for the construction of the school&#8217;s first on-campus dormitory. Countless students would call Hershey Hall home for decades.</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3284/2920246755_91fde9e475.jpg?v=0" height="443" width="192" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3284/2920246755_91fde9e475.jpg?v=0" height="443" width="192" />
 </div>
 <div align="center">
 <i>The Castle Towers on West Fourth Street</i> <i>(1950 Sanborn Map)</i>
@@ -155,7 +152,6 @@ As for the former residence-turned-apartment building, the Castle Towers and its
 		<item>
 		<title>Angels Dictate at 355 South Grand Avenue</title>
 		<link>/greateleven/</link>
-					<comments>/greateleven/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 24 Aug 2008 22:44:06 +0000</pubDate>
@@ -172,22 +168,20 @@ As for the former residence-turned-apartment building, the Castle Towers and its
 					<description><![CDATA[Location: 355 South Grand Avenue Date: 1922-? When the Angel Michael spoke to Ruth Wieland in 1922, she was a Spring Street taxi dancer living on Bunker Hill. She first heard him as she walked along Broadway, then three days later in her room at 355 South Grand Avenue. Over the next 42 months he &#8230; <a href="/greateleven/" class="more-link">Continue reading<span class="screen-reader-text"> "Angels Dictate at 355 South Grand Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 355 South Grand Avenue<br />
 Date: 1922-?<br />
-<img src="http://farm4.static.flickr.com/3050/2795648132_9f6cbbb046_o.png" /><br />
+<img src="https://farm4.static.flickr.com/3050/2795648132_9f6cbbb046_o.png" /><br />
 When the Angel Michael spoke to Ruth Wieland in 1922, she was a Spring Street taxi dancer living on Bunker Hill. She first heard him as she walked along Broadway, then three days later in her room at 355 South Grand Avenue. Over the next 42 months he dictated the &quot;Lamb&#8217;s Book of Life&quot; to Ruth and her mother May Otis Blackburn, speaking occasionally, night and day&#8211;but only if they stayed inside and away from the bustle of everyday life.  In time, the handwritten book comprised such vast bulk that, at least according to May, it would have taken sixteen stenographers six months to transcribe it. <br />
-<img src="http://farm4.static.flickr.com/3260/2795616638_d0f199dc19.jpg" /><br />
+<img src="https://farm4.static.flickr.com/3260/2795616638_d0f199dc19.jpg" /><br />
 Much later, after the women were arrested for hustling oil man Clifford Dabney and their strange tale splashed across the papers, one Arthur C. Osborne appeared to announce he was Ruth&#8217;s bethrothed in those heady early days, when he loaned the girl $1500 to help finance her divorce. He told her she was too delicate to work, and that he would pay the bills while she and May worked on the holy book, also known as the Sixth Seal. Then she and mama vanished. He came to see Ruth in jail, but she was cold and told him to talk to her lawyer. <br />
-<img src="http://farm4.static.flickr.com/3144/2795616672_e9a700dbf9.jpg" /><br />
+<img src="https://farm4.static.flickr.com/3144/2795616672_e9a700dbf9.jpg" /><br />
 For by 1929, pretty Ruth&#8217;s tastes had moved far beyond sad sack guys who loaned cash to taxi dancers. She was the priestess of The Divine Order of the Royal Arms of the Great Eleven, perhaps the wackiest in an era of wack-a-doodle cults and alternative faiths the likes of which continue to color California&#8217;s reputation for peculiarity to this day. With Mother May, Ruth commanded a small army of true believers who inhabited &quot;Harmony Hamlet,&quot; a retreat in the Santa Susanna mountains, near Moorpark (later the haunt of the Manson Family), where about 100 cult members lived like hermits after driving their cars into the mountains and leaving them to rust as a sign of devotion. But who needs wheels when you have nude, interracial dancing? Not you, mister.</p>
 <p>The Great Eleven began on Bunker Hill and found its first faithful there. Ruth and May couldn&#8217;t spend all their time taking dictation from aetherial beings. They were social butterflies, the pair of them, and enjoyed sharing philosophy and bossing people around. Before long, both had found new husbands, Ruth with the doomed Sammie Rizzio, likely murdered in 1924 for the sin of striking his bride, May with weird Ward Blackburn, he of the Chinese moustaches, prodigious claws and fondness for collecting rainwater in a coffee can at the corner of Wilshire and Western. And it was likely on the Hill that Clifford Dabney found the ladies and became convinced that their holy book, once finished, would give him the power to discover hidden mineral wealth within the earth, to hold the power of life and death, and to reanimate the corpses he created while chugging along down Broadway in his customized human reaping machine and calliope. He began writing checks, which Ruth and May were only too happy to cash.<br />
-<img src="http://farm4.static.flickr.com/3272/2795616660_1b84a482c9.jpg" /><br />
-After several years, when all the money was gone, Clifford Dabney&#8217;s wealthy uncle <a href="http://en.wikipedia.org/wiki/Dabney_Oil_Syndicate" target="_blank">Joseph</a> took a break from berating his boozehound employee Raymond Chandler to offer his nephew a bail out, if he&#8217;d take those looney women to court. He did, and the story that came out ultimately included the symbolic exorcism of all the madness in the world via abusing a batch of crazy quilts, grandmas happily chained to their beds, ladies baked in brick ovens, poisoned sands, the abiding mystery of the Lord&#8217;s Furniture Set and the ritual mummification of a teenage priestess and her seven pet puppies. <br />
-<img src="http://farm4.static.flickr.com/3263/2795616646_a33b7edcea_o.jpg" /><br />
-But these odd tales take us far from the Hill, and this is not the place for them. If you are curious about the Great Eleven, join us on the <a href="http://esotouric.com/wildwestside" target="_blank">Wild Wild West Side</a> crime bus tour, when we will visit the grave of the young mummy and talk at length of the practices of this most original downtown faith.</p>
+<img src="https://farm4.static.flickr.com/3272/2795616660_1b84a482c9.jpg" /><br />
+After several years, when all the money was gone, Clifford Dabney&#8217;s wealthy uncle <a href="https://en.wikipedia.org/wiki/Dabney_Oil_Syndicate" target="_blank" rel="noopener">Joseph</a> took a break from berating his boozehound employee Raymond Chandler to offer his nephew a bail out, if he&#8217;d take those looney women to court. He did, and the story that came out ultimately included the symbolic exorcism of all the madness in the world via abusing a batch of crazy quilts, grandmas happily chained to their beds, ladies baked in brick ovens, poisoned sands, the abiding mystery of the Lord&#8217;s Furniture Set and the ritual mummification of a teenage priestess and her seven pet puppies. <br />
+<img src="https://farm4.static.flickr.com/3263/2795616646_a33b7edcea_o.jpg" /><br />
+But these odd tales take us far from the Hill, and this is not the place for them. If you are curious about the Great Eleven, join us on the <a href="https://esotouric.com/wildwestside" target="_blank" rel="noopener">Wild Wild West Side</a> crime bus tour, when we will visit the grave of the young mummy and talk at length of the practices of this most original downtown faith.</p>
 <p><i>Photos courtesy the Los Angeles Times and the UCLA Library Digital Collections.</i> </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/greateleven/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -209,7 +203,7 @@ But these odd tales take us far from the Hill, and this is not the place for the
 					<description><![CDATA[&#160; For many, the tragedy of Bunker Hill was seeing Victorian structures that had survived more than half a century torn down in the blink of an eye. While many homes did survive for up to eight decades, others like the Crocker Mansion had somewhat abbreviated lives, lasting a mere thirty years or so. The &#8230; <a href="/bryan_mansion/" class="more-link">Continue reading<span class="screen-reader-text"> "Bryan Mansion &#038; Fleur-de-Lis Apartments/Capitol Hotel &#8211; 333 S. Grand Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3149/2507988560_6af5f183d7.jpg?v=0" alt="Bryan Mansion " height="500" width="344" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3149/2507988560_6af5f183d7.jpg?v=0" alt="Bryan Mansion " height="500" width="344" />
 </div>
 <p>For many, the tragedy of Bunker Hill was seeing Victorian structures that had survived more than half a century torn down in the blink of an eye. While many homes did survive for up to eight decades, others like the <a href="/node/86" title="Crocker Mansion">Crocker Mansion</a> had somewhat abbreviated lives, lasting a mere thirty years or so. The E.P. Bryan residence at 333 S. Grand, however, might possibly win the award for shortest existence of a mansion on Bunker Hill.</p>
 <p><!--break--></p>
@@ -219,20 +213,20 @@ But these odd tales take us far from the Hill, and this is not the place for the
 </div>
 <p>Elden P. Bryan was a Texan who landed in Los Angeles in 1886 and made a fortune in real estate, most notably selling H.E. Huntington his first piece of property. Around 1890, the Bryan family decided to reside in the quickly developing Bunker Hill neighborhood and construction began at 333 S. Grand Avenue. A superstitious man, Bryan allegedly halted construction and altered architectural plans numerous times to suit his paranoia. The finished product was an elegant home with two sets of stairs leading up to the front door. One set was made up of fourteen steps and the other twelve, deliberately designed to avoid the unlucky number thirteen. The real estate baron and his wife, Georgie, entertained other prominent Los Angeles folk at the residence, frequently receiving coverage in the society column</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm3.static.flickr.com/2092/2507988504_c8dbf1ccbc.jpg?v=0" alt="E.P. Bryan" height="349" width="229" />
+<img loading="lazy" src="https://farm3.static.flickr.com/2092/2507988504_c8dbf1ccbc.jpg?v=0" alt="E.P. Bryan" height="349" width="229" />
 </div>
 <p>
 In 1904, Bryan was developing the Westmoreland Tract in the Wilshire-Pico District and construction commenced on an eighteen room home by architect Charles F Whittlesey, who incorporated his trademark reinforced concrete into the design. It is unknown if Bryan left Bunker Hill because Westmoreland was more fashionable or because he felt the Grand Ave residence to be unlucky after all. By 1906, the Bryan family had moved into their palatial new quarters and the home on Bunker Hill was gone, replaced by the Fleur-de-Lis Apartments and another house. The E.P. Bryan Residence has existed for approximately fourteen years.</p>
 <p>Perhaps the superstitious homeowner had been onto something. In the ensuing years, many residents of the building that replaced the short lived mansion would suffer severe misfortunes.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3291/2507163327_d8c4cf8251.jpg?v=0" alt="LA Times" height="167" width="271" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3291/2507163327_d8c4cf8251.jpg?v=0" alt="LA Times" height="167" width="271" />
 </div>
 <p>&nbsp;</p>
 <p>In 1907, John Harding was half a block away from his Grand Ave lodgings, when he was beaten within an inch of his life in a case of mistaken identity. Another resident, P.J. Sinclair, had been out of work for sometime before he decided to end it all by swallowing poison in 1938. Several days went by before his body was discovered inside the boarding house, along with the suicide note that read &quot;I have not got the nerve or conscience to be a crook and under the present conditions it is better to die than to live.&quot; In 1932, Everett R. Todd thought jumping out the window of his room a preferable way to end it all. His reasons according to the letter he left behind were &quot;the suffering I am causing so many people and because of nervousness.&quot; Then there was C.L. Devont, who was despondent over a failed marriage in 1934 when she shot herself in the heart . At least she was thoughtful enough to write a farewell note, leaving all her possessions to her estranged husband.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm4.static.flickr.com/3056/2507988470_8faf51c73a.jpg?v=0" alt="LA Times" height="451" width="295" />
+<img loading="lazy" src="https://farm4.static.flickr.com/3056/2507988470_8faf51c73a.jpg?v=0" alt="LA Times" height="451" width="295" />
 </div>
 <p>It wasn&#8217;t all gloom and doom at the Fleur-de-Lis Apartments, later known as the Capitol Hotel. In 1937, residents were involved in a 1,200 person written protest, objecting to the City Council&#8217;s proposal to replace <a href="/angelsflight" title="Angels Flight">Angels Flight</a> with an elevator. The building also held the distinguished honor of housing Los Angeles&#8217; shortest man, Angelo Rossitto, who was two feet eleven inches tall.</p>
 <p>By 1962, &quot;progress&quot; had come to Bunker Hill and the Capitol Hotel went the way of its Victorian predecessor. </p>
@@ -248,7 +242,6 @@ In 1904, Bryan was developing the Westmoreland Tract in the Wilshire-Pico Distri
 		<item>
 		<title>Brunson Mansion &#8211; 347 South Grand Avenue</title>
 		<link>/brunson_mansion/</link>
-					<comments>/brunson_mansion/#respond</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 05 May 2008 22:05:57 +0000</pubDate>
@@ -264,31 +257,31 @@ In 1904, Bryan was developing the Westmoreland Tract in the Wilshire-Pico Distri
 					<description><![CDATA[&#160; The demise of Bunker Hill conjures up image of bull dozers doing the bidding of the Community Redevelopment Agency, leveling the landscape of the once colorful and picturesque neighborhood. While the CRA&#8217;s master plan dealt the final blow to Bunker Hill, the demolition of victorian structures in the area had been taking place for &#8230; <a href="/brunson_mansion/" class="more-link">Continue reading<span class="screen-reader-text"> "Brunson Mansion &#8211; 347 South Grand Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img src="http://farm4.static.flickr.com/3112/2470231792_bf69ff3ae8.jpg?v=0" alt="Brunson Mansion" vspace="2" width="400" hspace="2" />
+<img src="https://farm4.static.flickr.com/3112/2470231792_bf69ff3ae8.jpg?v=0" alt="Brunson Mansion" vspace="2" width="400" hspace="2" />
 </div>
 <p>The demise of Bunker Hill conjures up image of bull dozers doing the bidding of the Community Redevelopment Agency, leveling the landscape of the once colorful and picturesque neighborhood. While the CRA&#8217;s master plan dealt the final blow to Bunker Hill, the demolition of victorian structures in the area had been taking place for decades. The Brunson Mansion at the corner of Fourth Street and Grand Avenue was an imposing structure that seemed destined to stand indefinitely. Instead it would last less than four decades and become an early victim of the City&#8217;s obsession with the automobile. </p>
 <p>The residence known as the Brunson Mansion was built in the early 1880s by Judge Anson Brunson who resided on the bench of the Los Angeles County Superior Court before stepping down to serve as a lawyer for the lucrative Santa Fe Rail Road. According to the L.A. Times, the residence was “a dark red house, large, compact, dignified, in the center of sloping lawns walled up above the level of three streets.” The house was so large it had a Bunker Hill Avenue and a Grand Avenue address, before settling on 347 South Grand as its official label.</p>
 <div style="text-align: center">
-<img src="http://farm3.static.flickr.com/2148/2469410203_9338e82a6a.jpg?v=0" alt="Brunson Headline" width="300" />
+<img src="https://farm3.static.flickr.com/2148/2469410203_9338e82a6a.jpg?v=0" alt="Brunson Headline" width="300" />
 </div>
 <p>
 The Judge resided at the home with his wife Angela until the early 1890s when details of his torrid affair with the widow of a Civil War General came to light. In December 1892, Mrs. Brunson filed for divorce on the grounds of desertion, extreme cruelty and adultery. She was supposedly in possession of hotel registers and love letters, one of which read like “an extract from a French novel,” documenting the relationship  between her 60 year old husband and Mrs. General George Stoneman, 10 years his junior. The Judge had left the Grand Ave property and taken up residence on Flower Street and Mrs. Brunson stayed in the mansion until she was forced to sell it in 1894. While Judge Brunson denied the existence of a romantic relationship between him and Mrs. Stoneman, when he died in October 1894, he left all his possessions to  “my dear and faithful friend, Mary O.H. Stoneman.” Years after the mansion was long gone, locals felt that the “ghosts of unhappinesses remained there,” haunted by “the husband and wife who for years lived as strangers under the same stately roof.”</p>
 <div style="text-align: center">
-<img src="http://farm3.static.flickr.com/2080/2469410263_d14251e4d5.jpg?v=0" alt="Brunson Mansion" width="300" />
+<img src="https://farm3.static.flickr.com/2080/2469410263_d14251e4d5.jpg?v=0" alt="Brunson Mansion" width="300" />
 </div>
 <p>One of the mansion&#8217;s next owners was Dr. B.F. Church, who with his wife, used part of the house as their residence where numerous social gatherings were held. The doctor converted the other part of the house into the short-lived Los Angeles Eye, Ear &amp; Throat Hospital aka The Eye and Ear Infirmary until 1901. Eighteen years later, B.F. Church, who had suffered years of mental problems, would throw himself out of an office window at 7th and Grand, plummeting to his death in front of a lunchtime crowd. </p>
 <p>In the early years of the new Century, the 18 room property became the Hotel Brunson. Its thirteen years as a boarding house would see little incident other than almost getting burned down by a wayward firecracker in 1904, and the shooting of a burglar by a hotel resident in 1909 (the police followed the trail of blood and apprehended the suspect at his nearby home).</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm3.static.flickr.com/2199/2469410217_b000139d9f.jpg?v=0" alt="Brunson Headline" width="398" height="107" />
+<img loading="lazy" src="https://farm3.static.flickr.com/2199/2469410217_b000139d9f.jpg?v=0" alt="Brunson Headline" width="398" height="107" />
 </div>
 <div align="center">
 </div>
 <div style="text-align: center">
-<img loading="lazy" src="http://farm3.static.flickr.com/2279/2469410053_3fdbf9e4e4.jpg?v=0" alt="Brunson Ad" width="402" height="170" />
+<img loading="lazy" src="https://farm3.static.flickr.com/2279/2469410053_3fdbf9e4e4.jpg?v=0" alt="Brunson Ad" width="402" height="170" />
 </div>
 <p>By 1917, the automobile had come to Bunker Hill and the owners of the property at 347 South Grand decided that a two story brick garage would be more lucrative than a hotel. In April of that year, the furnishings of the Brunson Hotel were auctioned off, and stately structure which was once a “show place of the city” was demolished and replaced by an auto mechanic.</p>
-<p><img src="http://farm3.static.flickr.com/2246/2470231888_0ca2bb4045.jpg?v=0" alt="347 S Grand 1894" width="200" /> <img src="http://farm3.static.flickr.com/2280/2470231916_129e79c898.jpg?v=0" alt="347 S Grand 1906" width="200" /> <img src="http://farm3.static.flickr.com/2036/2469409795_0ec68476a9.jpg?v=0" alt="347 S Grand 1950" width="200" /></p>
+<p><img src="https://farm3.static.flickr.com/2246/2470231888_0ca2bb4045.jpg?v=0" alt="347 S Grand 1894" width="200" /> <img src="https://farm3.static.flickr.com/2280/2470231916_129e79c898.jpg?v=0" alt="347 S Grand 1906" width="200" /> <img src="https://farm3.static.flickr.com/2036/2469409795_0ec68476a9.jpg?v=0" alt="347 S Grand 1950" width="200" /></p>
 <p align="center">
 Three views of the Brunson Property 1894, 1906 &amp; the garage in 1950
 </p>
@@ -299,15 +292,12 @@ Three views of the Brunson Property 1894, 1906 &amp; the garage in 1950
 <i>All quotes from the Los Angeles Times</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/brunson_mansion/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lovejoy Apartments</title>
 		<link>/lovejoy/</link>
-					<comments>/lovejoy/#respond</comments>
 		
 		<dc:creator><![CDATA[rss]]></dc:creator>
 		<pubDate>Wed, 12 Mar 2008 19:47:34 +0000</pubDate>
@@ -320,8 +310,6 @@ Three views of the Brunson Property 1894, 1906 &amp; the garage in 1950
 										<content:encoded><![CDATA[<p>An apartment complex at the corner of 3rd &amp; Grand.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lovejoy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +15,7 @@
 	<atom:link href="/tag/harry_houdini/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Sun, 13 Mar 2016 18:42:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:36:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,6 @@
 	<item>
 		<title>Bunker Hill:  A Hotbed of Spiritualist Fraud!</title>
 		<link>/spritualistfraud-bunkerhill/</link>
-					<comments>/spritualistfraud-bunkerhill/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 13 May 2008 14:46:47 +0000</pubDate>
@@ -48,12 +47,12 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[On October 16, 1924, Los Angeles Times reporter Charles Sloan took rooms at the Alexandria Hotel under the name of Dr. Chamberlyn Snow, and arranged a meeting with William A. Jackson, President of the National Independent Spiritualist Association, Inc. (NISA). He wanted to set up practice as a spiritualist and medium in Los Angeles, he &#8230; <a href="/spritualistfraud-bunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Bunker Hill:  A Hotbed of Spiritualist Fraud!"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3249/2488212421_f183804f81.jpg" alt="spiritualists" height="156" width="376" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3249/2488212421_f183804f81.jpg" alt="spiritualists" height="156" width="376" /></p>
 <p>On October 16, 1924, <i>Los Angeles Times</i> reporter Charles Sloan took rooms at the Alexandria Hotel under the name of Dr. Chamberlyn Snow, and arranged a meeting with William A. Jackson, President of the National Independent Spiritualist Association, Inc. (NISA).</p>
 <p>He wanted to set up practice as a spiritualist and medium in Los Angeles, he told Jackson, but was unable to get a permit under the city&#8217;s ordinances regulating the operation and advertisement of spiritualist practice.  That license would require that &quot;Snow&quot; be ordained by a recognized spiritualist organization, and the problem was, he told Jackson, &quot;I don&#8217;t know a damn thing about spiritualism.&quot;</p>
 <p>This was, Jackson said, no problem at all.  All Snow needed to do was to produce a check for $175, and he could be ordained as a spiritualist minister and healer.  Snow gave his money to Jackson&#8217;s wife, Lois A. Jackson, secretary of N.I.S.A., and all was in order.</p>
 <p>On November 7, 1924, acting on Sloan&#8217;s information, warrants were issued for the arrest of the Jacksons, the 8 other directors and officers of NISA, and 36 mediums and spiritualists in Los Angeles, on charges of criminal conspiracy, attempts to obtain money by false pretense, larceny by trick and device, and other related charges.</p>
-<p><img loading="lazy" src="http://farm3.static.flickr.com/2134/2489029300_f6fa7c4966_m.jpg" alt="lankershim building" align="left" height="240" width="204" /> The NISA headquarters were located in the Lankershim Building at 3rd and Spring, and many of those arrested lived right on Bunker Hill.</p>
+<p><img loading="lazy" src="https://farm3.static.flickr.com/2134/2489029300_f6fa7c4966_m.jpg" alt="lankershim building" align="left" height="240" width="204" /> The NISA headquarters were located in the Lankershim Building at 3rd and Spring, and many of those arrested lived right on Bunker Hill.</p>
 <p>Besides the Jacksons, who resided at 223 S. Flower Street, were Professor Bernard of 316 1/2 S. Broadway, Mabel Tyler of 318 W. 3rd Street, and Michael Crespo, BS, MS, and PhD, the so-called &quot;miracle man,&quot; who lived at 145 S. Spring.</p>
 <p>The bust led to an investigation of over 200 spiritualist groups, 48 of them located in Los Angeles.  The cities of Alhambra and Long Beach set about passing ordinances that would make the practice of spiritualism illegal.</p>
 <p>Crespo was the easiest target and first major conviction of the bunch, found in violation of the State Medical Practice Act, and guilty of performing illegal marriages and divorces.</p>
@@ -64,8 +63,6 @@
 <p><i>Image from the Los Angeles Public Library Photo Collection</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/spritualistfraud-bunkerhill/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
