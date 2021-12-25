@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>knife &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/knife/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/knife/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:20:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>knife &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Game is Afoot</title>
-		<link>https://www.onbunkerhill.org/gameisafoot/</link>
-					<comments>https://www.onbunkerhill.org/gameisafoot/#respond</comments>
+		<link>/gameisafoot/</link>
+					<comments>/gameisafoot/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 30 Jul 2008 10:41:15 +0000</pubDate>
@@ -43,27 +46,27 @@
 		<category><![CDATA[murder]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[On the afternoon of August 21, 1924, residents of 328 Clay Street were terror stricken by weird noises emanating from a room on the second floor of the building. There were scuffling sounds and urgent whisperings â€“ all of which sounded ominous enough to draw the attention of several residents in adjacent rooms. A few &#8230; <a href="https://www.onbunkerhill.org/gameisafoot/" class="more-link">Continue reading<span class="screen-reader-text"> "The Game is Afoot"</span></a>]]></description>
+					<description><![CDATA[On the afternoon of August 21, 1924, residents of 328 Clay Street were terror stricken by weird noises emanating from a room on the second floor of the building. There were scuffling sounds and urgent whisperings ”“ all of which sounded ominous enough to draw the attention of several residents in adjacent rooms. A few &#8230; <a href="/gameisafoot/" class="more-link">Continue reading<span class="screen-reader-text"> "The Game is Afoot"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" width="249" src="https://farm4.static.flickr.com/3234/2716694965_c14a93d2db_o.jpg" alt="game afoot headline" height="226" />
+<img loading="lazy" border="0" width="249" src="http://farm4.static.flickr.com/3234/2716694965_c14a93d2db_o.jpg" alt="game afoot headline" height="226" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-On the afternoon of August 21, 1924, residents of <st1:street w:st="on"><st1:address w:st="on">328 Clay Street</st1:address></st1:street> were terror stricken by weird noises emanating from a room on the second floor of the building. There were scuffling sounds and urgent whisperings â€“ all of which sounded ominous enough to draw the attention of several residents in adjacent rooms. A few of the braver souls crept along the corridor until they were near enough to the room to hear voices.
+On the afternoon of August 21, 1924, residents of <st1:street w:st="on"><st1:address w:st="on">328 Clay Street</st1:address></st1:street> were terror stricken by weird noises emanating from a room on the second floor of the building. There were scuffling sounds and urgent whisperings ”“ all of which sounded ominous enough to draw the attention of several residents in adjacent rooms. A few of the braver souls crept along the corridor until they were near enough to the room to hear voices.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <!--break-->
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="middle" width="460" src="https://farm4.static.flickr.com/3120/2716694957_11172479f9_o.jpg" alt="328 Clay Street" height="400" />
+<img loading="lazy" border="0" align="middle" width="460" src="http://farm4.static.flickr.com/3120/2716694957_11172479f9_o.jpg" alt="328 Clay Street" height="400" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-A woman cried out â€œO, Henry! You wouldnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t do that! Oh, no! No! No! Henry, For Godâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s sake!â€ The woman then emitted a blood-curdling shriek which ended in a choking moan. The eavesdroppers shuddered.
+A woman cried out “O, Henry! You wouldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t do that! Oh, no! No! No! Henry, For God”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s sake!” The woman then emitted a blood-curdling shriek which ended in a choking moan. The eavesdroppers shuddered.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-The deep guttural voice of a man snarled â€œYou lied, you she-devil. You lied and lied, but if I swing into hell for it, youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll never leave here to lie again.â€
+The deep guttural voice of a man snarled “You lied, you she-devil. You lied and lied, but if I swing into hell for it, you”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll never leave here to lie again.”
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -75,33 +78,33 @@ As if mortally wounded, the woman wailed one last time. The hallway Sherlocks he
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-The spooked tenants waited for a few seconds, then rushed to their telephones. Moments later in the captainâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s office at Central Police Station, three phones rang in unison. After deciphering the frantic messages, police concluded that each caller was reporting a murder at <st1:street w:st="on"><st1:address w:st="on">328 Clay Street</st1:address></st1:street>.
+The spooked tenants waited for a few seconds, then rushed to their telephones. Moments later in the captain”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s office at Central Police Station, three phones rang in unison. After deciphering the frantic messages, police concluded that each caller was reporting a murder at <st1:street w:st="on"><st1:address w:st="on">328 Clay Street</st1:address></st1:street>.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Officer Voy K. Apt was dispatched immediately. With sirens blaring, the cop raced to the scene.<span>Â  </span>A group of frightened people waited on the buildingâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s second floor landing, hoping that police would unravel the mystery of the crime committed through a closed door.
+Officer Voy K. Apt was dispatched immediately. With sirens blaring, the cop raced to the scene.<span>  </span>A group of frightened people waited on the building”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s second floor landing, hoping that police would unravel the mystery of the crime committed through a closed door.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Revolver in hand, Apt was directed to a room at the rear of the building. He drew a deep breath and then burst through the door. The spectators waited for an all clear signal, but what they heard instead was â€œWell, Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll beâ€¦!â€<span>Â Â  </span>Awaiting the armed officer in the death chamber were members of a dramatic club rehearsing a murder scene â€“ using a bread knife.
+Revolver in hand, Apt was directed to a room at the rear of the building. He drew a deep breath and then burst through the door. The spectators waited for an all clear signal, but what they heard instead was “Well, I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be”¦!”<span>   </span>Awaiting the armed officer in the death chamber were members of a dramatic club rehearsing a murder scene ”“ using a bread knife.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/gameisafoot/feed/</wfw:commentRss>
+					<wfw:commentRss>/gameisafoot/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Brother Can You Spare&#8230;?</title>
-		<link>https://www.onbunkerhill.org/brothercanyouspare/</link>
-					<comments>https://www.onbunkerhill.org/brothercanyouspare/#respond</comments>
+		<link>/brothercanyouspare/</link>
+					<comments>/brothercanyouspare/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 24 May 2008 16:00:13 +0000</pubDate>
@@ -113,13 +116,13 @@ Revolver in hand, Apt was directed to a room at the rear of the building. He dre
 		<category><![CDATA[skid row]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 330 South Flower Street Date: September 21, 1937 Arrested on charges of stabbing J.T. Murray, 27-year-old laborer, as he stepped from a cafe at 234 East Fifth Street, was Charles Parsons, 19, of this address, captured with Victor Burk, 20, at Fifth and Spring Streets. Earlier, Murray had argued with two beggars who dunned &#8230; <a href="https://www.onbunkerhill.org/brothercanyouspare/" class="more-link">Continue reading<span class="screen-reader-text"> "Brother Can You Spare&#8230;?"</span></a>]]></description>
+					<description><![CDATA[Location: 330 South Flower Street Date: September 21, 1937 Arrested on charges of stabbing J.T. Murray, 27-year-old laborer, as he stepped from a cafe at 234 East Fifth Street, was Charles Parsons, 19, of this address, captured with Victor Burk, 20, at Fifth and Spring Streets. Earlier, Murray had argued with two beggars who dunned &#8230; <a href="/brothercanyouspare/" class="more-link">Continue reading<span class="screen-reader-text"> "Brother Can You Spare&#8230;?"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 330 South Flower Street<br />
 Date: September 21, 1937</p>
 <p>Arrested on charges of stabbing J.T. Murray, 27-year-old laborer, as he stepped from a cafe at 234 East Fifth Street, was Charles Parsons, 19, of this address, captured with Victor Burk, 20, at Fifth and Spring Streets. Earlier, Murray had argued with two beggars who dunned him for a nickel, and a fistfight broke out. One of the beggars pulled a knife and stabbed Murray, who was taken to General Hospital with a belly wound that was expected to prove fatal. When frisked, Parsons&#8217; pockets revealed a bloody knife.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/brothercanyouspare/feed/</wfw:commentRss>
+					<wfw:commentRss>/brothercanyouspare/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

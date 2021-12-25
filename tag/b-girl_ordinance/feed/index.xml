@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>b-girl ordinance &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/b-girl_ordinance/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/b-girl_ordinance/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:42:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>b-girl ordinance &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Know Your Bunker Hill B-Girls</title>
-		<link>https://www.onbunkerhill.org/bgirl-bunkerhill/</link>
-					<comments>https://www.onbunkerhill.org/bgirl-bunkerhill/#respond</comments>
+		<link>/bgirl-bunkerhill/</link>
+					<comments>/bgirl-bunkerhill/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 24 Jun 2008 12:55:14 +0000</pubDate>
@@ -42,21 +45,21 @@
 		<category><![CDATA[Imperial Hotel]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Meet Ruth Winters, 31, of 350 S. Figueroa (site of the Bowman brothers&#8217; asphyxiation by cyanide gas poisoning), an angular blonde with a naughty smile and a way with the fellas. Despite her considerable charms, Ruth is on of the most detested women on Bunker Hill, or at least she is if you judge her &#8230; <a href="https://www.onbunkerhill.org/bgirl-bunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Know Your Bunker Hill B-Girls"</span></a>]]></description>
+					<description><![CDATA[Meet Ruth Winters, 31, of 350 S. Figueroa (site of the Bowman brothers&#8217; asphyxiation by cyanide gas poisoning), an angular blonde with a naughty smile and a way with the fellas. Despite her considerable charms, Ruth is on of the most detested women on Bunker Hill, or at least she is if you judge her &#8230; <a href="/bgirl-bunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Know Your Bunker Hill B-Girls"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Meet Ruth Winters, 31, of 350 S. Figueroa (<a href="/node/138" title="bowman" target="_blank">site of the Bowman brothers&#8217; asphyxiation by cyanide gas poisoning</a>), an angular blonde with a naughty smile and a way with the fellas.  Despite her considerable charms, Ruth is on of the most detested women on Bunker Hill, or at least she is if you judge her by the names bestowed upon her by the <i>Times</i> and the thick stack of hysterical city ordinances set forth to curb her profession.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3165/2606100535_d706c671a1.jpg" alt="ruth" height="325" width="500" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3165/2606100535_d706c671a1.jpg" alt="ruth" height="325" width="500" /></p>
 <p>Yes, Ruth is one of those &quot;harpies of Main Street,&quot; a B-girl at Marco&#8217;s Cafe at 513 S. Main, and Ruth is one of the best in the business (she&#8217;s the one with the world-weary eyes sitting in the front row, above).</p>
 <p>When Marco&#8217;s makes a new hire, bartender Patsy Figlio always tells the girls to follow the &quot;experienced bust-out girl&quot; Ruth&#8217;s lead.  Pick your mark, clean out his wallet, and get rid of him fast.  And if he leaves with so much as a dime in his pocket, you&#8217;d better believe you&#8217;ll catch hell from Patsy.</p>
 <p>Marco&#8217;s owner Louis Lobel told the girls to lay low when the heat was on, and Patsy made sure they worked the crowd hard when it wasn&#8217;t, and the whole thing works out just grand provided that the poor sap with the empty wallet is too embarrassed to let on to anyone that he got fleeced.  </p>
 <p>But then Marine Sergeant William R. Okerman decided to visit Marco&#8217;s with $10 in cash, and 6 $20 traveler&#8217;s checks in his pocket.  Ruth moved in, embracing Okerman as he entered the bar and asking him how long since he&#8217;d had a woman.  What happened next was all a blur.  Ruth teased, Patsy poured champagne cocktails, and in a scant 30 minutes, the pair had taken Okerman for all he had.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3217/2606100403_e0074bfd4b.jpg" alt="convictions" height="152" width="378" /><br />
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3217/2606100403_e0074bfd4b.jpg" alt="convictions" height="152" width="378" /><br />
 The shameless Sgt. Okerman made a complaint to the police, right around the same time that Kathleen Krischenowski, a former Marco&#8217;s waitress, went in to apply for a job.  She was horrified by what she saw, and connected with the LAPD vice detail.  She and two other waitresses turned undercover informant, and told the police what was going on at Marco&#8217;s.</p>
 <p>Their reports led to the arrests of Figlio, Lobel, Winters, and another b-girl, Beverly Reed.  They were charged with violation of 8 municipal laws, including indecent exposure, being lewd and dissolute, and conspiracy to violate the city&#8217;s b-girl ordinance, including 44 overt acts too filthy to print.</p>
 <p>It was the first time that the District Attorney&#8217;s office had sought felony charges in a case involving violation of the b-girl ordinance, which had been in effect since 1939 (and drastically expanded after b-girls moved their trade to soda shops).</p>
 <p>In the end, all four entered guilty pleas, though Winters and Reed were allowed to plead to misdemeanor charges.  Lobel and Figlio were sentenced to 3 years in Chino, while the women faced 6 months in the city jail.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/bgirl-bunkerhill/feed/</wfw:commentRss>
+					<wfw:commentRss>/bgirl-bunkerhill/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

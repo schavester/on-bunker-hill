@@ -1,26 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: Nathan Marsak	</title>
-	<atom:link href="https://www.onbunkerhill.org/nathanmarsak/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/nathanmarsak/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Fri, 18 Sep 2020 18:01:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Nov 2020 01:25:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
+		By: Ken Karagozian		</title>
+		<link>/nathanmarsak/#comment-110246</link>
+
+		<dc:creator><![CDATA[Ken Karagozian]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2020 01:25:21 +0000</pubDate>
+		<guid isPermaLink="false">#comment-110246</guid>
+
+					<description><![CDATA[Hi Nathan, Enjoyed your talk last Sunday fromÂ &lt;strong&gt;Hennessey + Ingalls Art bookstore vis Zoom.&lt;/strong&gt;
+
+Would like to snail mail you a book with photos from downtown Los Angeles.
+
+It was from Los Angeles photographer Ray McSavaney who passed away in 2014. I have Ray&#039;s archives. Currently have a lightbox photo exhibit at Union Station on my Los Angeles underground transportation project.
+
+Thanks,
+
+Ken Karagozian
+
+http://www.kenkaragozian.com/
+
+&#160;
+
+&#160;]]></description>
+			<content:encoded><![CDATA[<p>Hi Nathan, Enjoyed your talk last Sunday fromÂ <strong>Hennessey + Ingalls Art bookstore vis Zoom.</strong></p>
+<p>Would like to snail mail you a book with photos from downtown Los Angeles.</p>
+<p>It was from Los Angeles photographer Ray McSavaney who passed away in 2014. I have Ray&#8217;s archives. Currently have a lightbox photo exhibit at Union Station on my Los Angeles underground transportation project.</p>
+<p>Thanks,</p>
+<p>Ken Karagozian</p>
+<p><a href="http://www.kenkaragozian.com/" rel="nofollow ugc">http://www.kenkaragozian.com/</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
 		By: Eric Boardman		</title>
-		<link>https://www.onbunkerhill.org/nathanmarsak/#comment-97780</link>
+		<link>/nathanmarsak/#comment-97780</link>
 
 		<dc:creator><![CDATA[Eric Boardman]]></dc:creator>
 		<pubDate>Fri, 18 Sep 2020 18:01:52 +0000</pubDate>
@@ -37,7 +75,7 @@ Eager to hear your talk on October 5. Thank you for keeping the history alive.]]
 		<item>
 		<title>
 		By: How Mabel Normand filmed her Safety Last! Moment (Before Harold Lloyd Did) &#124; Chaplin-Keaton-Lloyd film locations (and more)		</title>
-		<link>https://www.onbunkerhill.org/nathanmarsak/#comment-1021</link>
+		<link>/nathanmarsak/#comment-1021</link>
 
 		<dc:creator><![CDATA[How Mabel Normand filmed her Safety Last! Moment (Before Harold Lloyd Did) &#124; Chaplin-Keaton-Lloyd film locations (and more)]]></dc:creator>
 		<pubDate>Tue, 08 Mar 2016 17:50:48 +0000</pubDate>

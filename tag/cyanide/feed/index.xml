@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>cyanide &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/cyanide/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/cyanide/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 21:47:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>cyanide &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Goodbye, mother!</title>
-		<link>https://www.onbunkerhill.org/goodbyemother/</link>
-					<comments>https://www.onbunkerhill.org/goodbyemother/#respond</comments>
+		<link>/goodbyemother/</link>
+					<comments>/goodbyemother/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 24 Apr 2008 18:07:08 +0000</pubDate>
@@ -42,13 +45,13 @@
 		<category><![CDATA[suicide]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 360 South Hill Street Date: September 15, 1910 The anonymous rooming house cyanide suicide seemed calculated to deliver himself into an unmarked pauper&#8217;s grave, but a last impulse led him to pen a letter of farewell to his mother. He did not name her, but addressed the envelope with their hometown, Benkelman, Nebraska. A &#8230; <a href="https://www.onbunkerhill.org/goodbyemother/" class="more-link">Continue reading<span class="screen-reader-text"> "Goodbye, mother!"</span></a>]]></description>
+					<description><![CDATA[Location: 360 South Hill Street Date: September 15, 1910 The anonymous rooming house cyanide suicide seemed calculated to deliver himself into an unmarked pauper&#8217;s grave, but a last impulse led him to pen a letter of farewell to his mother. He did not name her, but addressed the envelope with their hometown, Benkelman, Nebraska. A &#8230; <a href="/goodbyemother/" class="more-link">Continue reading<span class="screen-reader-text"> "Goodbye, mother!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 360 South Hill Street<br />
 Date: September 15, 1910</p>
-<p>The anonymous rooming house cyanide suicide seemed calculated to deliver himself into an unmarked pauper&#8217;s grave, but a last impulse led him to pen a letter of farewell to his mother. He did not name her, but addressed the envelope with their hometown, <a href="https://maps.google.com/maps?ie=UTF8&amp;oe=utf-8&amp;client=firefox-a&amp;q=Benkelman,+NE,+USA&amp;ll=40.05311,-101.531525&amp;spn=0.028973,0.069351&amp;t=h&amp;z=14&amp;iwloc=addr" target="_blank">Benkelman, Nebraska</a>. A telegraph to the postmaster of that burg soon brought the reply: the dead man was one Judson Graves, 35, from a good family but for some time bumming broke around the west. His sorrowful mother has asked Dr. Lockwood of Pasadena to go to Pierce Brothers and claim the body, and ship it home for burial.</p>
+<p>The anonymous rooming house cyanide suicide seemed calculated to deliver himself into an unmarked pauper&#8217;s grave, but a last impulse led him to pen a letter of farewell to his mother. He did not name her, but addressed the envelope with their hometown, <a href="http://maps.google.com/maps?ie=UTF8&amp;oe=utf-8&amp;client=firefox-a&amp;q=Benkelman,+NE,+USA&amp;ll=40.05311,-101.531525&amp;spn=0.028973,0.069351&amp;t=h&amp;z=14&amp;iwloc=addr" target="_blank">Benkelman, Nebraska</a>. A telegraph to the postmaster of that burg soon brought the reply: the dead man was one Judson Graves, 35, from a good family but for some time bumming broke around the west. His sorrowful mother has asked Dr. Lockwood of Pasadena to go to Pierce Brothers and claim the body, and ship it home for burial.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/goodbyemother/feed/</wfw:commentRss>
+					<wfw:commentRss>/goodbyemother/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

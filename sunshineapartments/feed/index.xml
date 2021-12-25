@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: Sunshine and Noir	</title>
-	<atom:link href="https://www.onbunkerhill.org/sunshineapartments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/sunshineapartments/</link>
+	<atom:link href="/sunshineapartments/feed/" rel="self" type="application/rss+xml" />
+	<link>/sunshineapartments/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Fri, 11 Jan 2019 03:12:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: Vic Kostrukoff		</title>
-		<link>https://www.onbunkerhill.org/sunshineapartments/#comment-25728</link>
+		<link>/sunshineapartments/#comment-25728</link>
 
 		<dc:creator><![CDATA[Vic Kostrukoff]]></dc:creator>
 		<pubDate>Fri, 11 Jan 2019 03:12:58 +0000</pubDate>
 		<guid isPermaLink="false">#comment-25728</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/sunshineapartments/#comment-25701&quot;&gt;Nathan Marsak&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/sunshineapartments/#comment-25701&quot;&gt;Nathan Marsak&lt;/a&gt;.
 
 Hello, Nathan
 
@@ -45,7 +48,7 @@ While living on Clay Street, I went to Fremont Elementary, and watched them buil
 Good memories!
 
 -Vic]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/sunshineapartments/#comment-25701">Nathan Marsak</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/sunshineapartments/#comment-25701">Nathan Marsak</a>.</p>
 <p>Hello, Nathan</p>
 <p>I have one photo of the same buildings you show taken from the first floor fire escape at 345 Clay street. How can I get it to you&#8221; (I&#8217;m not a facebook or twitter user).</p>
 <p>A UPS truck had a parking brake failure and crashed into the older house in my photo, causing a lot of damage.Â You list the movies that used the hill. I remember a film crew working on Clay street one eveningÂ under the Angel&#8217;s flight It was a Joan Crawford vehicle called &#8220;Sudden Fear&#8221; When I saw the movie years later, there didn&#8217;t seem to be any scenes from that location.</p>
@@ -61,7 +64,7 @@ Good memories!
 		<item>
 		<title>
 		By: Nathan Marsak		</title>
-		<link>https://www.onbunkerhill.org/sunshineapartments/#comment-25701</link>
+		<link>/sunshineapartments/#comment-25701</link>
 
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Thu, 10 Jan 2019 07:14:51 +0000</pubDate>
@@ -102,7 +105,7 @@ Again, thanks for contacting us and please don&#039;t hesitate to write back wit
 		<item>
 		<title>
 		By: Nathan Marsak		</title>
-		<link>https://www.onbunkerhill.org/sunshineapartments/#comment-25700</link>
+		<link>/sunshineapartments/#comment-25700</link>
 
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Thu, 10 Jan 2019 07:04:45 +0000</pubDate>
@@ -134,7 +137,7 @@ Here&#039;s an interior shot, Unit 108, from about 1955.
 		<item>
 		<title>
 		By: Nathan Marsak		</title>
-		<link>https://www.onbunkerhill.org/sunshineapartments/#comment-25699</link>
+		<link>/sunshineapartments/#comment-25699</link>
 
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Thu, 10 Jan 2019 06:55:56 +0000</pubDate>
@@ -154,7 +157,7 @@ Here&#039;s an interior shot, Unit 108, from about 1955.
 		<item>
 		<title>
 		By: Vic Kostrukoff		</title>
-		<link>https://www.onbunkerhill.org/sunshineapartments/#comment-25654</link>
+		<link>/sunshineapartments/#comment-25654</link>
 
 		<dc:creator><![CDATA[Vic Kostrukoff]]></dc:creator>
 		<pubDate>Wed, 09 Jan 2019 03:30:37 +0000</pubDate>
@@ -172,28 +175,28 @@ I lived at 345 Clay Street when I was 5 years old (1949). We used to play under 
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/sunshineapartments/#comment-344</link>
+		<link>/sunshineapartments/#comment-344</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Mon, 07 Jun 2010 23:27:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-344</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/sunshineapartments/#comment-343&quot;&gt;chrissainth&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/sunshineapartments/#comment-343&quot;&gt;chrissainth&lt;/a&gt;.
 
 &lt;p&gt;
 Well thank you so much for your kind words!Â  It isn&#039;t every day we (or anyone) runs into someone who&#039;s been in town for as long as your family has.Â  And doubly cool that you like the City&#039;s history.
 &lt;/p&gt;
 &lt;p&gt;
-Lemmee tell you what happened over on&lt;a href=&quot;https://americanfilmnoir.com/page18.html&quot; title=&quot;afn&quot; target=&quot;_blank&quot;&gt; this page&lt;/a&gt;. Â  First of all, let me say I think Phil is a total genius and I always get a kick out of turning people on to his site; I have learned much from it.Â  However, I can see how he got flummoxed with the pic and it wasn&#039;t until you called attention to the image and I &lt;i&gt;really&lt;/i&gt; had to look at it that I went -- aha. Â  
+Lemmee tell you what happened over on&lt;a href=&quot;http://americanfilmnoir.com/page18.html&quot; title=&quot;afn&quot; target=&quot;_blank&quot;&gt; this page&lt;/a&gt;. Â  First of all, let me say I think Phil is a total genius and I always get a kick out of turning people on to his site; I have learned much from it.Â  However, I can see how he got flummoxed with the pic and it wasn&#039;t until you called attention to the image and I &lt;i&gt;really&lt;/i&gt; had to look at it that I went -- aha. Â  
 &lt;/p&gt;
 &lt;p&gt;
 The image is reversed.Â  Wherever he got it from, he got confused, as anyone would, because they&#039;re tearing down stuff on the east side of the Flight, right?Â  But check it out: 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm2.static.flickr.com/1271/4681463556_c6751580ac_o.jpg&quot; alt=&quot;reverse&quot; height=&quot;300&quot; width=&quot;322&quot; /&gt;
+&lt;img src=&quot;http://farm2.static.flickr.com/1271/4681463556_c6751580ac_o.jpg&quot; alt=&quot;reverse&quot; height=&quot;300&quot; width=&quot;322&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm5.static.flickr.com/4024/4680831587_b3c71b874f_o.jpg&quot; alt=&quot;obverse&quot; height=&quot;300&quot; width=&quot;322&quot; /&gt; 
+&lt;img src=&quot;http://farm5.static.flickr.com/4024/4680831587_b3c71b874f_o.jpg&quot; alt=&quot;obverse&quot; height=&quot;300&quot; width=&quot;322&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 Where we are, y&#039;see, is inside the bottom of the Elks Lodge, that is to say, that&#039;s where the crane is.Â  Below that there&#039;s Clay Street.Â  The half demolished building next to Angels Flight is the Hulburt.Â  The big building still standing is the Ferguson.
@@ -202,7 +205,7 @@ Where we are, y&#039;see, is inside the bottom of the Elks Lodge, that is to say
 Here&#039;s a slightly later image (the crane and its damage done on our side): 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm5.static.flickr.com/4044/4681548838_1dc0b5d7e2_o.jpg&quot; alt=&quot;otherside&quot; height=&quot;308&quot; width=&quot;481&quot; /&gt;
+&lt;img src=&quot;http://farm5.static.flickr.com/4044/4681548838_1dc0b5d7e2_o.jpg&quot; alt=&quot;otherside&quot; height=&quot;308&quot; width=&quot;481&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 See, at the corner, below the McCoy House (the Victorian with the steep gables) there&#039;s the St. Helena Sanitarium AKA the later Royal Liquor, the Belmont is the tall one next to it -- the fenestration is the dead giveaway in both pictures; same parking lot across Hill, Pan American Bldg across the parking lot, etc. 
@@ -212,21 +215,21 @@ The Hillcrest started demolition in September of &#039;61; the Elks started demo
 &lt;/p&gt;
 Anyhow, hope that answered your question, it&#039;s always our pleasure to help.Â  Thanks again for your interest and keep checking in!
 ]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/sunshineapartments/#comment-343">chrissainth</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/sunshineapartments/#comment-343">chrissainth</a>.</p>
 <p>
 Well thank you so much for your kind words!Â  It isn&#8217;t every day we (or anyone) runs into someone who&#8217;s been in town for as long as your family has.Â  And doubly cool that you like the City&#8217;s history.
 </p>
 <p>
-Lemmee tell you what happened over on<a href="https://americanfilmnoir.com/page18.html" title="afn" target="_blank"> this page</a>. Â  First of all, let me say I think Phil is a total genius and I always get a kick out of turning people on to his site; I have learned much from it.Â  However, I can see how he got flummoxed with the pic and it wasn&#8217;t until you called attention to the image and I <i>really</i> had to look at it that I went &#8212; aha. Â 
+Lemmee tell you what happened over on<a href="http://americanfilmnoir.com/page18.html" title="afn" target="_blank"> this page</a>. Â  First of all, let me say I think Phil is a total genius and I always get a kick out of turning people on to his site; I have learned much from it.Â  However, I can see how he got flummoxed with the pic and it wasn&#8217;t until you called attention to the image and I <i>really</i> had to look at it that I went &#8212; aha. Â 
 </p>
 <p>
 The image is reversed.Â  Wherever he got it from, he got confused, as anyone would, because they&#8217;re tearing down stuff on the east side of the Flight, right?Â  But check it out:
 </p>
 <p>
-<img src="https://farm2.static.flickr.com/1271/4681463556_c6751580ac_o.jpg" alt="reverse" height="300" width="322" />
+<img src="http://farm2.static.flickr.com/1271/4681463556_c6751580ac_o.jpg" alt="reverse" height="300" width="322" />
 </p>
 <p>
-<img src="https://farm5.static.flickr.com/4024/4680831587_b3c71b874f_o.jpg" alt="obverse" height="300" width="322" />
+<img src="http://farm5.static.flickr.com/4024/4680831587_b3c71b874f_o.jpg" alt="obverse" height="300" width="322" />
 </p>
 <p>
 Where we are, y&#8217;see, is inside the bottom of the Elks Lodge, that is to say, that&#8217;s where the crane is.Â  Below that there&#8217;s Clay Street.Â  The half demolished building next to Angels Flight is the Hulburt.Â  The big building still standing is the Ferguson.
@@ -235,7 +238,7 @@ Where we are, y&#8217;see, is inside the bottom of the Elks Lodge, that is to sa
 Here&#8217;s a slightly later image (the crane and its damage done on our side):
 </p>
 <p>
-<img src="https://farm5.static.flickr.com/4044/4681548838_1dc0b5d7e2_o.jpg" alt="otherside" height="308" width="481" />
+<img src="http://farm5.static.flickr.com/4044/4681548838_1dc0b5d7e2_o.jpg" alt="otherside" height="308" width="481" />
 </p>
 <p>
 See, at the corner, below the McCoy House (the Victorian with the steep gables) there&#8217;s the St. Helena Sanitarium AKA the later Royal Liquor, the Belmont is the tall one next to it &#8212; the fenestration is the dead giveaway in both pictures; same parking lot across Hill, Pan American Bldg across the parking lot, etc.
@@ -250,7 +253,7 @@ The Hillcrest started demolition in September of &#8217;61; the Elks started dem
 		<item>
 		<title>
 		By: chrissainth		</title>
-		<link>https://www.onbunkerhill.org/sunshineapartments/#comment-343</link>
+		<link>/sunshineapartments/#comment-343</link>
 
 		<dc:creator><![CDATA[chrissainth]]></dc:creator>
 		<pubDate>Mon, 07 Jun 2010 17:46:52 +0000</pubDate>

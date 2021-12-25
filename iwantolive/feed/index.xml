@@ -1,44 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: I Want to Live!	</title>
-	<atom:link href="https://www.onbunkerhill.org/iwantolive/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/iwantolive/</link>
+	<atom:link href="/iwantolive/feed/" rel="self" type="application/rss+xml" />
+	<link>/iwantolive/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:20:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/iwantolive/#comment-78</link>
+		<link>/iwantolive/#comment-78</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sat, 31 Jan 2009 16:55:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-78</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;a href=&quot;https://latimesblogs.latimes.com/thedailymirror/2009/01/paul-coates--24.html&quot; title=&quot;CrackerOnGraham&quot; target=&quot;_blank&quot;&gt;A great Paul Coates column&lt;/a&gt;, having its fiftieth birthday, about &#034;The Ballad of Barbara Graham,&#034; as posted by ace historian Larry Harnisch of Daily Mirror fame.&lt;br /&gt;
+&lt;a href=&quot;http://latimesblogs.latimes.com/thedailymirror/2009/01/paul-coates--24.html&quot; title=&quot;CrackerOnGraham&quot; target=&quot;_blank&quot;&gt;A great Paul Coates column&lt;/a&gt;, having its fiftieth birthday, about &#034;The Ballad of Barbara Graham,&#034; as posted by ace historian Larry Harnisch of Daily Mirror fame.&lt;br /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-I especially like how Coates makes note of having enlisted &lt;a href=&quot;https://fidelseyeglasses.blogspot.com/2008/08/chuy-reyes-mambo-at-mocambo-10-lp.html&quot; title=&quot;chewy&quot; target=&quot;_blank&quot;&gt;Chuy Reyes&lt;/a&gt; to record the &lt;a href=&quot;https://www.jstor.org/pss/3478321&quot; title=&quot;CahanStomp&quot; target=&quot;_blank&quot;&gt;&#034;Cahan Decision &lt;/a&gt;Cha-Cha&#034; with him; too bad he didn&#039;t have the guts to record more sizzling, out-and-out propaganda.
+I especially like how Coates makes note of having enlisted &lt;a href=&quot;http://fidelseyeglasses.blogspot.com/2008/08/chuy-reyes-mambo-at-mocambo-10-lp.html&quot; title=&quot;chewy&quot; target=&quot;_blank&quot;&gt;Chuy Reyes&lt;/a&gt; to record the &lt;a href=&quot;http://www.jstor.org/pss/3478321&quot; title=&quot;CahanStomp&quot; target=&quot;_blank&quot;&gt;&#034;Cahan Decision &lt;/a&gt;Cha-Cha&#034; with him; too bad he didn&#039;t have the guts to record more sizzling, out-and-out propaganda.
 &lt;br /&gt;
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<a href="https://latimesblogs.latimes.com/thedailymirror/2009/01/paul-coates--24.html" title="CrackerOnGraham" target="_blank">A great Paul Coates column</a>, having its fiftieth birthday, about &quot;The Ballad of Barbara Graham,&quot; as posted by ace historian Larry Harnisch of Daily Mirror fame.
+<a href="http://latimesblogs.latimes.com/thedailymirror/2009/01/paul-coates--24.html" title="CrackerOnGraham" target="_blank">A great Paul Coates column</a>, having its fiftieth birthday, about &quot;The Ballad of Barbara Graham,&quot; as posted by ace historian Larry Harnisch of Daily Mirror fame.
 </p>
 <p>
-I especially like how Coates makes note of having enlisted <a href="https://fidelseyeglasses.blogspot.com/2008/08/chuy-reyes-mambo-at-mocambo-10-lp.html" title="chewy" target="_blank">Chuy Reyes</a> to record the <a href="https://www.jstor.org/pss/3478321" title="CahanStomp" target="_blank">&quot;Cahan Decision </a>Cha-Cha&quot; with him; too bad he didn&#8217;t have the guts to record more sizzling, out-and-out propaganda.<br />
+I especially like how Coates makes note of having enlisted <a href="http://fidelseyeglasses.blogspot.com/2008/08/chuy-reyes-mambo-at-mocambo-10-lp.html" title="chewy" target="_blank">Chuy Reyes</a> to record the <a href="http://www.jstor.org/pss/3478321" title="CahanStomp" target="_blank">&quot;Cahan Decision </a>Cha-Cha&quot; with him; too bad he didn&#8217;t have the guts to record more sizzling, out-and-out propaganda.<br />
 </p>
 ]]></content:encoded>
 		
@@ -46,15 +49,15 @@ I especially like how Coates makes note of having enlisted <a href="https://fide
 		<item>
 		<title>
 		By: kim		</title>
-		<link>https://www.onbunkerhill.org/iwantolive/#comment-8</link>
+		<link>/iwantolive/#comment-8</link>
 
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Mon, 28 Jul 2008 07:45:12 +0000</pubDate>
 		<guid isPermaLink="false">#comment-8</guid>
 
-					<description><![CDATA[Just found this MP3 &lt;a href=&quot;https://blog.wfmu.org/freeform/2008/06/the-ballad-of-b.html&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt; on the great WFMU blog. What a jaunty, creepy tune.
+					<description><![CDATA[Just found this MP3 &lt;a href=&quot;http://blog.wfmu.org/freeform/2008/06/the-ballad-of-b.html&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt; on the great WFMU blog. What a jaunty, creepy tune.
 ]]></description>
-			<content:encoded><![CDATA[<p>Just found this MP3 <a href="https://blog.wfmu.org/freeform/2008/06/the-ballad-of-b.html" target="_blank">link</a> on the great WFMU blog. What a jaunty, creepy tune.</p>
+			<content:encoded><![CDATA[<p>Just found this MP3 <a href="http://blog.wfmu.org/freeform/2008/06/the-ballad-of-b.html" target="_blank">link</a> on the great WFMU blog. What a jaunty, creepy tune.</p>
 ]]></content:encoded>
 		
 			</item>

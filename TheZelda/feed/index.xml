@@ -1,26 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
-	Comments on: Zelda â€” 401 South Grand	</title>
-	<atom:link href="https://www.onbunkerhill.org/thezelda/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/thezelda/</link>
+	Comments on: Zelda – 401 South Grand	</title>
+	<atom:link href="/thezelda/feed/" rel="self" type="application/rss+xml" />
+	<link>/thezelda/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 20:04:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Jun 2020 16:46:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
+		By: Lori Halfhide		</title>
+		<link>/thezelda/#comment-75296</link>
+
+		<dc:creator><![CDATA[Lori Halfhide]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2020 16:46:03 +0000</pubDate>
+		<guid isPermaLink="false">#comment-75296</guid>
+
+					<description><![CDATA[Beatrice Danton, the child taken in by Baroness Rosa Von Zimmerman was in fact NOT returned to the New York Foundling Home.Â  Custody was granted to her governess, Mary Ardis Schnebly.Â  There was a court fight over money for Beatrice and she wound up with $15,000, quite a bit shy of the $50,000 that they were looking for.Â  Beatrice married and had a family and lived the rest of her life in California]]></description>
+			<content:encoded><![CDATA[<p>Beatrice Danton, the child taken in by Baroness Rosa Von Zimmerman was in fact NOT returned to the New York Foundling Home.Â  Custody was granted to her governess, Mary Ardis Schnebly.Â  There was a court fight over money for Beatrice and she wound up with $15,000, quite a bit shy of the $50,000 that they were looking for.Â  Beatrice married and had a family and lived the rest of her life in California</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
 		By: Castle dweller		</title>
-		<link>https://www.onbunkerhill.org/thezelda/#comment-351</link>
+		<link>/thezelda/#comment-351</link>
 
 		<dc:creator><![CDATA[Castle dweller]]></dc:creator>
 		<pubDate>Thu, 24 Jun 2010 00:34:12 +0000</pubDate>
@@ -37,21 +54,21 @@ Gordon Pattison, aka Castle Dweller]]></description>
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/thezelda/#comment-60</link>
+		<link>/thezelda/#comment-60</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Thu, 25 Dec 2008 12:00:26 +0000</pubDate>
 		<guid isPermaLink="false">#comment-60</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3093/3135450939_aa255c5c63_o.gif&quot; alt=&quot;zelda1912&quot; height=&quot;527&quot; width=&quot;500&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3093/3135450939_aa255c5c63_o.gif&quot; alt=&quot;zelda1912&quot; height=&quot;527&quot; width=&quot;500&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;i&gt;From the USC Digital Archives &lt;/i&gt;
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3093/3135450939_aa255c5c63_o.gif" alt="zelda1912" height="527" width="500" />
+<img src="http://farm4.static.flickr.com/3093/3135450939_aa255c5c63_o.gif" alt="zelda1912" height="527" width="500" />
 </p>
 <p>
 <i>From the USC Digital Archives </i></p>
@@ -61,7 +78,7 @@ Gordon Pattison, aka Castle Dweller]]></description>
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/thezelda/#comment-22</link>
+		<link>/thezelda/#comment-22</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sun, 24 Aug 2008 13:14:17 +0000</pubDate>
@@ -71,7 +88,7 @@ Gordon Pattison, aka Castle Dweller]]></description>
 See the Mission-style white building, upper left?  That&#039;s the Granada.  Zelda was her neighbor.  Behind that date palm there.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3020/2793077403_17e445d71c_o.gif&quot; alt=&quot;4thcut&quot; height=&quot;400&quot; width=&quot;527&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3020/2793077403_17e445d71c_o.gif&quot; alt=&quot;4thcut&quot; height=&quot;400&quot; width=&quot;527&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 Notice the lonely steps at the bottom of this image.  Those of course led one once through the doors of the &lt;a href=&quot;/node/183&quot; title=&quot;FremontPost&quot; target=&quot;_blank&quot;&gt;Fremont&lt;/a&gt;. 
@@ -81,7 +98,7 @@ Notice the lonely steps at the bottom of this image.  Those of course led one on
 See the Mission-style white building, upper left?  That&#8217;s the Granada.  Zelda was her neighbor.  Behind that date palm there.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3020/2793077403_17e445d71c_o.gif" alt="4thcut" height="400" width="527" />
+<img src="http://farm4.static.flickr.com/3020/2793077403_17e445d71c_o.gif" alt="4thcut" height="400" width="527" />
 </p>
 <p>
 Notice the lonely steps at the bottom of this image.  Those of course led one once through the doors of the <a href="/node/183" title="FremontPost" target="_blank">Fremont</a>.</p>
@@ -91,13 +108,13 @@ Notice the lonely steps at the bottom of this image.  Those of course led one on
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/thezelda/#comment-9</link>
+		<link>/thezelda/#comment-9</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Mon, 04 Aug 2008 15:42:21 +0000</pubDate>
 		<guid isPermaLink="false">#comment-9</guid>
 
-					<description><![CDATA[OBH reader Carol kindly pointed out to us that Edith Claire Posener, aka Edith Spare (who in 1923 was to become Edith Head) moved into the Zelda ca. 1914.  Seems her fatherâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s work as a mining engineer took the family from their New York comforts to rough Mexican camp-towns where Edith and mother Anna would cook for the minersâ€”until  at last mama said enough is enough, packed up Edith and they moved in with mama&#039;s friend Mittie Morgan, who lived at the Zelda.  According to David Chierichettiâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s book on Head, there was a ballroom on the fourth floor of the Zelda and after Edith enrolled in Los Angeles High School (then at the corner of Sunset and Grand) she invited the school over to use it for a dance.  &lt;br /&gt;
+					<description><![CDATA[OBH reader Carol kindly pointed out to us that Edith Claire Posener, aka Edith Spare (who in 1923 was to become Edith Head) moved into the Zelda ca. 1914.  Seems her fatherâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s work as a mining engineer took the family from their New York comforts to rough Mexican camp-towns where Edith and mother Anna would cook for the minersâ€”until  at last mama said enough is enough, packed up Edith and they moved in with mama&#039;s friend Mittie Morgan, who lived at the Zelda.  According to David Chierichettiâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s book on Head, there was a ballroom on the fourth floor of the Zelda and after Edith enrolled in Los Angeles High School (then at the corner of Sunset and Grand) she invited the school over to use it for a dance.  &lt;br /&gt;
 &lt;br /&gt;
 Edith graduated in 1917 and enrolled in Berkeley; when she returned to Los Angeles in 1920, she moved back in with Mittie who had built a home in the Westlake District. &lt;br /&gt;
 &lt;br /&gt;

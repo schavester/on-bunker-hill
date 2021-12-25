@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>love &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/love/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/love/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 22:08:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>love &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hotel Trenton, 427 South Olive Street</title>
-		<link>https://www.onbunkerhill.org/hoteltrenton/</link>
-					<comments>https://www.onbunkerhill.org/hoteltrenton/#comments</comments>
+		<link>/hoteltrenton/</link>
+					<comments>/hoteltrenton/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 25 Sep 2008 23:02:03 +0000</pubDate>
@@ -44,40 +47,40 @@
 		<category><![CDATA[suicide]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The Hotel Trenton, seven stories of sober brick laced with fire escapes, its yawning central maw somewhere between a gate of hell and a jaunty fireman&#8217;s doorway, lurked low on Bunker Hill for many decades. There it is at 10 o&#8217;clock in the panorama. It was not a racy hotel, but it had its moments, &#8230; <a href="https://www.onbunkerhill.org/hoteltrenton/" class="more-link">Continue reading<span class="screen-reader-text"> "Hotel Trenton, 427 South Olive Street"</span></a>]]></description>
+					<description><![CDATA[The Hotel Trenton, seven stories of sober brick laced with fire escapes, its yawning central maw somewhere between a gate of hell and a jaunty fireman&#8217;s doorway, lurked low on Bunker Hill for many decades. There it is at 10 o&#8217;clock in the panorama. It was not a racy hotel, but it had its moments, &#8230; <a href="/hoteltrenton/" class="more-link">Continue reading<span class="screen-reader-text"> "Hotel Trenton, 427 South Olive Street"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3057/2889484818_a8c238cbb6_o.jpg" /></p>
-<p><img src="https://farm4.static.flickr.com/3119/2889493892_a6b7b5fe5f.jpg" /></p>
+<img src="http://farm4.static.flickr.com/3057/2889484818_a8c238cbb6_o.jpg" /></p>
+<p><img src="http://farm4.static.flickr.com/3119/2889493892_a6b7b5fe5f.jpg" /></p>
 <p>The Hotel Trenton, seven stories of sober brick laced with fire escapes, its yawning central maw somewhere between a gate of hell and a jaunty fireman&#8217;s doorway, lurked low on Bunker Hill for many decades. There it is at 10 o&#8217;clock in the panorama. It was not a racy hotel, but it had its moments, and left an imprint on the fabric of its times.</p>
-<p><img src="https://farm4.static.flickr.com/3018/2888657343_94f46e00ef_o.png" /><br />
-And speaking of imprints, it was July 1905 when a lady guest of the establishment marched into to the <i>Los Angeles Times</i> offices to report her dismay at having ruined her long white skirt, white stockings and slippers when she walked over the streetcar tracks at First and Broadway and picked up a liberal helping of petroleum, which the cars&#8217; operators had smeared on the rails to deafen the screech which otherwise came whenever a curve was taken. A snarky <i>Times</i> reporter noted that had the lady been as eager to lift her skirts when crossing the tracks as she was to show off the damage caused by the oilâ€”&quot;and it&#8217;s higher up, too!&quot;â€”she would not be in such a predicament.</p>
-<p><img src="https://farm4.static.flickr.com/3120/2889484804_7d17c1f50e_o.jpg" /></p>
-<p>In May 1906, town gossips received confirmation of a scandal, but too late to shun anyone involved. Some months earlier, Mrs. Genevieve Hughes arrived in Los Angeles from Denver and took rooms in the Trenton, where she was paid significant attention by fellow guest, Boston lawyer Charles W. Ward. Ward was briefly a Harvard man who took his degree from Columbia, a gymnast, a Knight Templar and a soldier, every inch the eligible young fellow&#8230; well, almost. Again and again he would ask that she marry him, and always she would demurâ€”but not refuse his friendship. On February 28, Ward went into his room and shot himself in the head, and the whispers said it was out of thwarted love for Genevieve. The lady, however, had eyes for another, and quietly married A.G. Jones, also of Boston, departing for an Eastern honeymoon before news of the nuptials spread. And as for Ward, he was, it proved, a bounder, having left a wife and children awaiting the return of his health under the Californian sun. He lingered a few days after being shot, but died before his father could arrive by train.</p>
-<p><img src="https://farm4.static.flickr.com/3108/2889484812_de0df72fd1.jpg" /></p>
-<p>In November 1907, Mexican Secret Service officer (and soon-to-be fink in the trial of revolutionary countrymen <a href="https://www.sandiegohistory.org/journal/99winter/magonista.htm" target="_blank">Magon</a>, Rivera and Villareal) Trinidad Vasquez left the safe harbor of the Trenton for a meal in a restaurant at Fifth and Olive. He had a ham and cheese sandwich and a cup of coffee, returned to the hotel and walked out again. In front of the Police Station, Vazquez was stricken with symptoms of poisoning and rushed to Receiving Hospital, where his stomach was pumped. Relieved, Vasquez testified that soon after eating he had felt a sense of suffocation, then felt as though his very heart would burst before blackness washed over him. He was soon released, doubtless with a greater respect for the fervor of the anarchist community of Los Angeles.</p>
+<p><img src="http://farm4.static.flickr.com/3018/2888657343_94f46e00ef_o.png" /><br />
+And speaking of imprints, it was July 1905 when a lady guest of the establishment marched into to the <i>Los Angeles Times</i> offices to report her dismay at having ruined her long white skirt, white stockings and slippers when she walked over the streetcar tracks at First and Broadway and picked up a liberal helping of petroleum, which the cars&#8217; operators had smeared on the rails to deafen the screech which otherwise came whenever a curve was taken. A snarky <i>Times</i> reporter noted that had the lady been as eager to lift her skirts when crossing the tracks as she was to show off the damage caused by the oil–&quot;and it&#8217;s higher up, too!&quot;–she would not be in such a predicament.</p>
+<p><img src="http://farm4.static.flickr.com/3120/2889484804_7d17c1f50e_o.jpg" /></p>
+<p>In May 1906, town gossips received confirmation of a scandal, but too late to shun anyone involved. Some months earlier, Mrs. Genevieve Hughes arrived in Los Angeles from Denver and took rooms in the Trenton, where she was paid significant attention by fellow guest, Boston lawyer Charles W. Ward. Ward was briefly a Harvard man who took his degree from Columbia, a gymnast, a Knight Templar and a soldier, every inch the eligible young fellow&#8230; well, almost. Again and again he would ask that she marry him, and always she would demur–but not refuse his friendship. On February 28, Ward went into his room and shot himself in the head, and the whispers said it was out of thwarted love for Genevieve. The lady, however, had eyes for another, and quietly married A.G. Jones, also of Boston, departing for an Eastern honeymoon before news of the nuptials spread. And as for Ward, he was, it proved, a bounder, having left a wife and children awaiting the return of his health under the Californian sun. He lingered a few days after being shot, but died before his father could arrive by train.</p>
+<p><img src="http://farm4.static.flickr.com/3108/2889484812_de0df72fd1.jpg" /></p>
+<p>In November 1907, Mexican Secret Service officer (and soon-to-be fink in the trial of revolutionary countrymen <a href="http://www.sandiegohistory.org/journal/99winter/magonista.htm" target="_blank">Magon</a>, Rivera and Villareal) Trinidad Vasquez left the safe harbor of the Trenton for a meal in a restaurant at Fifth and Olive. He had a ham and cheese sandwich and a cup of coffee, returned to the hotel and walked out again. In front of the Police Station, Vazquez was stricken with symptoms of poisoning and rushed to Receiving Hospital, where his stomach was pumped. Relieved, Vasquez testified that soon after eating he had felt a sense of suffocation, then felt as though his very heart would burst before blackness washed over him. He was soon released, doubtless with a greater respect for the fervor of the anarchist community of Los Angeles.</p>
 <p>In early February 1909 it was revealed that the Trenton&#8217;s recently hired night clerk Harry Stevens was in fact Florin G. Lee, a Riverside lad who&#8217;d suffered a breakdown from overwork (dry goods clerking by day, electrical engineering study by night) or, some whispered, love unrequited, on December 30 and fled his home, shaking off all memory of his former life. When confronted by old friends, who said they knew him well, Stevens/ Lee expressed astonishment, and mused on his happier times in Iowa and Butte, Montana, and his New Years Day rail trip to Los Angeles over the Salt Lake Route. Conveyed to Riverside, he looked with bemusement upon his aged grandmother and treated the rest of the family with cordial unfamiliarity. He did not recognize the shop where he clerked for nine years, the books he had kept (quite well) or respond to the music which he formerly had loved. For two months, the stranger stayed on in Riverside as those who loved him tried to spark a memory of his past life. And then suddenly, on April 2, while in the dry goods store where he had long labored, Florin&#8217;s memory of his accounting work came flooding back. He raced to San Bernardino to share the happy, mathematical news with his father, and we hear no more about him.</p>
 <p>On the evening of August 6, 1912, an &quot;elevator pilot&quot; was sent down to the basement to fetch some ice water. On the way up poked he his head out as the cage made its ascent. The ice water went everywhere, and so did the poor lad&#8217;s cranium. So complete was the destruction that there was initially some confusion when night clerk E.G. Merrifield came on the scene as to whether the dead man was Charles J. Oberman or his colleague, Earl Ansley. The victim was actually, it transpired, Earl McDonald, 18, from Riverside, who was moonlighting under the name Earl C. Ansley at the Trenton and working a day shift at the Hotel Victoria at Seventh at Hope. It was his first night on the job, and hotel manager R. Hughes was later charged for violating the state law requiring all elevator operators be properly licensed. </p>
 <p>On February 3, 1913, S. W. Westmeyer, a successful mining man from Globe, Arizona, visited his wife at the Trenton and wrote her a check for $1025. From there, he went to the Hotel Redondo in Redondo Beach, where, the following evening, he shot himself in the head. Westmeyer left notes giving his personal effects to his wife and asking that his Lodge, Rescue No. 12 of the International Order of Odd Fellows in Globe be notified of his passing. </p>
-<p>Later that month, the Trenton figured in the notorious jury tampering case of the great attorney Clarence Darrow, who rang up large charges at the hotel for select jurymen, far in excess of the $9 weekly rate that investigators were quotedâ€”though it was the thirty dollars in ten cent cigars that got the jury&#8217;s goat.</p>
+<p>Later that month, the Trenton figured in the notorious jury tampering case of the great attorney Clarence Darrow, who rang up large charges at the hotel for select jurymen, far in excess of the $9 weekly rate that investigators were quoted–though it was the thirty dollars in ten cent cigars that got the jury&#8217;s goat.</p>
 <p>In October 1915, resident Marie Kinney announced that she was moving her dressmaking parlor from the Fay Building at Third and Hill to the Trenton, and noted that help was wanted. A year later, she announced her winter reopening in suites 102-103-104, crowing &quot;choicest novelties in stock.&quot; Marie must have liked the place, for it was still her home on Valentine&#8217;s Day 1941, when, aged 80, she stepped in front of a Pacific Electric car on Huntington Drive near Poplar in El Sereno, and was killed instantly. Her rosary was said at Cunningham &amp; O&#8217;Conner at 1031 South Grand, requiem mass held at St. Vibiana&#8217;s and she was interred at Calvary.</p>
 <p>In October 1917 the Los Angeles Division of the Collegiate Periodical League began a monthly drive to collect 5000 magazines, none older than ten days, for distribution among the servicemen at Camp Lewis. Among the district captains was Mrs. Alice M. Bryant of the Hotel Trenton. Your blogger will now attempt to staunch the drool inspired by the thought of what was gathered.</p>
 <p>Late on December 2, 1930, the Trenton was among a trio of downtown hotels robbed by a pair of bandits in a taxicab. After they hit the Stillwell at 9th and Grand for $30 and a pair of guest handbags, unknowing driver George Kruger waited patiently outside the Trenton while night clerk A. E. Finnity and manager Herbert Perry were relieved of another $30. Finally the Victor Hotel at 616 South St. Paul was victim, and again yielded up a lucky thirty simolians. The thieves then paid their ferryman and slipped off into the night.</p>
 <p>By 1933, we note that rooms were being let for a modest $3.50 a week. On June 8, 1936, Arnie J. Powers, 42, shot himself to death in his room, having failed to recover his health after coming out from Omaha.</p>
-<p><img src="https://farm4.static.flickr.com/3095/2889484808_7d730923e2_o.jpg" /><br />
-On June 14, 1937 the Trenton hosted its most eloquent suicide, when retired schoolteacher Mrs. Ida Mae Mills, 70, gassed herself with a chloroform-soaked rag alongside an open copy of the book <i>The Right to Die.</i> Her note read, &quot;Remember thisâ€”Death should be a smooth finish, not a jagged interruption. There is nothing mysterious nor dramatic about this. Neither was it conceived in a moment of desperation. I think I am as sane as I ever was, but I have long been convinced of the wisdom of mercy killing. Why must I live on, tortured by constant pain, and facing total blindness? My abject apologies to the management for the trouble I am giving them, but I had to have some place to die, didn&#8217;t I? I could not vanish into the air.&quot;</p>
+<p><img src="http://farm4.static.flickr.com/3095/2889484808_7d730923e2_o.jpg" /><br />
+On June 14, 1937 the Trenton hosted its most eloquent suicide, when retired schoolteacher Mrs. Ida Mae Mills, 70, gassed herself with a chloroform-soaked rag alongside an open copy of the book <i>The Right to Die.</i> Her note read, &quot;Remember this–Death should be a smooth finish, not a jagged interruption. There is nothing mysterious nor dramatic about this. Neither was it conceived in a moment of desperation. I think I am as sane as I ever was, but I have long been convinced of the wisdom of mercy killing. Why must I live on, tortured by constant pain, and facing total blindness? My abject apologies to the management for the trouble I am giving them, but I had to have some place to die, didn&#8217;t I? I could not vanish into the air.&quot;</p>
 <p>She could not, but sometime in the early 1960s, it seems, the Trenton Hotel did just that. We can only assume the CRA had a little something to do with that.</p>
 <p><i>Postcards from the Nathan Marsak Collection, Vasquez and 1908 advertisement from the Los Angeles Times, panoramic photo from the Los Angeles Public Library.</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/hoteltrenton/feed/</wfw:commentRss>
+					<wfw:commentRss>/hoteltrenton/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Van Vanishes</title>
-		<link>https://www.onbunkerhill.org/vanvanishes/</link>
-					<comments>https://www.onbunkerhill.org/vanvanishes/#respond</comments>
+		<link>/vanvanishes/</link>
+					<comments>/vanvanishes/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 06 Apr 2008 18:13:02 +0000</pubDate>
@@ -94,22 +97,22 @@ On June 14, 1937 the Trenton hosted its most eloquent suicide, when retired scho
 		<category><![CDATA[reporter]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: October 31, 1904 It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,Â  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &#34;I can&#8217;t be good; I want to &#8230; <a href="https://www.onbunkerhill.org/vanvanishes/" class="more-link">Continue reading<span class="screen-reader-text"> "Van Vanishes"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2185/2394379840_159bb783a8.jpg" alt="Van Blarcom" height="500" width="250" /></a></p>
+					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: October 31, 1904 It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &#34;I can&#8217;t be good; I want to &#8230; <a href="/vanvanishes/" class="more-link">Continue reading<span class="screen-reader-text"> "Van Vanishes"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2185/2394379840_159bb783a8.jpg" alt="Van Blarcom" height="500" width="250" /></a></p>
 <p>Location: 255 South Bunker Hill Avenue<br />
 Date: October 31, 1904</p>
-<p>It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,Â  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &quot;I can&#8217;t be good; I want to be bad. I shall be bad. My brothers and sisters have always said that I was the black sheep in the family. Now I will prove to them that I am. Good-bye. Go home and wait for me.&quot; </p>
+<p>It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &quot;I can&#8217;t be good; I want to be bad. I shall be bad. My brothers and sisters have always said that I was the black sheep in the family. Now I will prove to them that I am. Good-bye. Go home and wait for me.&quot; </p>
 <p>She did as she was told and went back to their three-room apartment in the Alta Vista, but there has been no word from Van since and the lady is half mad with worry and regret. When visited by a reporter she was being closely watched by friends who feared she would make good on her threats of suicide. </p>
-<p>Her story: &quot;My life has become a blank. It is as if I had run against a stone wall. I shall commit suicide. If only he would come backâ€”if only he would let me know why he wentâ€”if only I could go to him. And yet they say he has done this thing before. I have reported his disappearance to the police and they can get no trace of him. One minute I believe he has committed suicide and the next I believe there is a woman in the case. Yesâ€”there must be a woman in the case. But in any event, there is nothing left for me. I shall take my life. About a week ago I was arranging some of his clothes in a closet, when a bundle of letters fell on the floor. One of them was from a woman in San Francisco, in which she wrote of a violent attachment for my husband, and added: &#8216;I suppose you are having a lovely time with you &#8212;.&#8217; I am the blank! Think of it! We had a little tiff over this letter and in taking it away from me he tore my arm with his nails, see, here is the sore place yet. Then when I agreed to burn it up and he saw me do so he swore with uplifted hand an oath to his dead mother than nothing but death could separate us. That was just a week ago today. Last Monday he was very despondent and did not come home as promised, and I went down to the newspaper office where he was working and tried to cheer him up. Then I went to Secretary Stevens of the Elks lodge and had him telephone my husband and ask him what was the matter. &#8216;Everything is all right now; tell her to come over here at once,&#8217; he answered. I went and that is when he took me to the foot of the Angels&#8217; Flight and told me that he wanted to be bad. Finally he sad that he would come home at 3 o&#8217;clock in the morning, but he never came.&quot;</p>
+<p>Her story: &quot;My life has become a blank. It is as if I had run against a stone wall. I shall commit suicide. If only he would come back–if only he would let me know why he went–if only I could go to him. And yet they say he has done this thing before. I have reported his disappearance to the police and they can get no trace of him. One minute I believe he has committed suicide and the next I believe there is a woman in the case. Yes–there must be a woman in the case. But in any event, there is nothing left for me. I shall take my life. About a week ago I was arranging some of his clothes in a closet, when a bundle of letters fell on the floor. One of them was from a woman in San Francisco, in which she wrote of a violent attachment for my husband, and added: &#8216;I suppose you are having a lovely time with you &#8212;.&#8217; I am the blank! Think of it! We had a little tiff over this letter and in taking it away from me he tore my arm with his nails, see, here is the sore place yet. Then when I agreed to burn it up and he saw me do so he swore with uplifted hand an oath to his dead mother than nothing but death could separate us. That was just a week ago today. Last Monday he was very despondent and did not come home as promised, and I went down to the newspaper office where he was working and tried to cheer him up. Then I went to Secretary Stevens of the Elks lodge and had him telephone my husband and ask him what was the matter. &#8216;Everything is all right now; tell her to come over here at once,&#8217; he answered. I went and that is when he took me to the foot of the Angels&#8217; Flight and told me that he wanted to be bad. Finally he sad that he would come home at 3 o&#8217;clock in the morning, but he never came.&quot;</p>
 <p>The couple married last Christmas in Salt Lake, three months after Van&#8217;s divorce (Emily was four years divorced from a Mr. Miner), and came to Los Angeles via Portland and San Francisco. They choose this town for the climate, which they hoped would aid Van&#8217;s lung ailment (he said he&#8217;d been shot through the chest while representing the Associated Press in Cuba during the war with Spain). He quickly got work on the <i>Herald</i>, but after ten days moved over to the <i>Examiner</i>, and was so employed at the time of his disappearance. Police doubt he&#8217;s killed himself, although friends say he spoke often of doing so, since his last act before vanishing was to pawn Emily&#8217;s $50 gold watch. But as he was an Elk, the brothers have taken up a collection to pay the passage of the destitute bride back to her friends in Utah. Where, by the by, he abandoned his last wife in just the same way he did this one.</p>
-<p>Emily said that Van was related to Lincoln portraitist <a href="https://lincoln.lib.niu.edu/cgi-bin/philologic/getobject.pl?c.3360:11:83.lincoln" target="_blank">A.J. Conant</a> and to the wealthy St. Louis Van Blarcomsâ€”a branch with a <a href="https://www.frederickok.org/History/Name.htm" target="_blank">blackish sheep</a> of its own. </p>
+<p>Emily said that Van was related to Lincoln portraitist <a href="http://lincoln.lib.niu.edu/cgi-bin/philologic/getobject.pl?c.3360:11:83.lincoln" target="_blank">A.J. Conant</a> and to the wealthy St. Louis Van Blarcoms–a branch with a <a href="http://www.frederickok.org/History/Name.htm" target="_blank">blackish sheep</a> of its own. </p>
 <p>We hear no more of him until 1936, when an obituary appears for an old newspaperman of the right name, approximate age and career history, passing from arthritis in Bakersfield and leaving an unnamed widow, a son and a daughter. Was the widow Emily, or some later wife who was better able to salt this bounder&#8217;s wings? </p>
 <p>*note: Angels&#8217; Flight has its oft-missing possessive in the 1904 article in the <i>Los Angeles Times</i> from which this entry is adapted.<br />
-Â </p>
-<p><a href="https://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"></a></p>
+ </p>
+<p><a href="http://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/vanvanishes/feed/</wfw:commentRss>
+					<wfw:commentRss>/vanvanishes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

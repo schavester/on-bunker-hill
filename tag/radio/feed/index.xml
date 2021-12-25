@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>radio &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/radio/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/radio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:20:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>radio &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Man Named Stinko</title>
-		<link>https://www.onbunkerhill.org/amannamedstinko/</link>
-					<comments>https://www.onbunkerhill.org/amannamedstinko/#comments</comments>
+		<link>/amannamedstinko/</link>
+					<comments>/amannamedstinko/#comments</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 07 May 2008 14:39:44 +0000</pubDate>
@@ -41,9 +44,9 @@
 		<category><![CDATA[radio]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160; 215 North Hill Street May 10, 1931Â  It was bad enough to be saddled with the moniker Stinko Gursasovich â€“ how could things possibly get worse?Â  On the morning of May 10, 1931, the 42 year old laborer would find out. He was out walking when he suddenly felt hungry. Heading to his room &#8230; <a href="https://www.onbunkerhill.org/amannamedstinko/" class="more-link">Continue reading<span class="screen-reader-text"> "A Man Named Stinko"</span></a>]]></description>
+					<description><![CDATA[&#160; 215 North Hill Street May 10, 1931  It was bad enough to be saddled with the moniker Stinko Gursasovich ”“ how could things possibly get worse?  On the morning of May 10, 1931, the 42 year old laborer would find out. He was out walking when he suddenly felt hungry. Heading to his room &#8230; <a href="/amannamedstinko/" class="more-link">Continue reading<span class="screen-reader-text"> "A Man Named Stinko"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<st1:street w:st="on"><st1:address w:st="on"><img loading="lazy" border="0" width="214" src="https://farm4.static.flickr.com/3021/2473868197_07209c444d_o.jpg" alt="Stinko headline" height="145" /></st1:address></st1:street>
+<st1:street w:st="on"><st1:address w:st="on"><img loading="lazy" border="0" width="214" src="http://farm4.static.flickr.com/3021/2473868197_07209c444d_o.jpg" alt="Stinko headline" height="145" /></st1:address></st1:street>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -52,13 +55,13 @@
 <st1:street w:st="on"><st1:address w:st="on">215 North Hill Street</st1:address></st1:street>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-May 10, 1931Â 
+May 10, 1931 
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="left" width="240" src="https://farm4.static.flickr.com/3096/2456319989_1cd231e1d0_m.jpg" alt="215 N Hill" height="193" />
+<img loading="lazy" border="0" align="left" width="240" src="http://farm4.static.flickr.com/3096/2456319989_1cd231e1d0_m.jpg" alt="215 N Hill" height="193" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-It was bad enough to be saddled with the moniker Stinko Gursasovich â€“ how could things possibly get worse?<span>Â  </span>On the morning of May 10, 1931, the 42 year old laborer would find out. He was out walking when he suddenly felt hungry. Heading to his room at <st1:street w:st="on"><st1:address w:st="on">215 North Hill Street</st1:address></st1:street> to fix himself a sandwich, he decided that he needed to stop for a snack first. Problem was, there wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t a single canned ham or loaf of bread to be had anywhere in the area.<span>Â  </span>It was then that he decided heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d break into the cellar of a house at 1037 Alpine Street â€“ surely the homeowners would have left some tasty treats in the cellar.
+It was bad enough to be saddled with the moniker Stinko Gursasovich ”“ how could things possibly get worse?<span>  </span>On the morning of May 10, 1931, the 42 year old laborer would find out. He was out walking when he suddenly felt hungry. Heading to his room at <st1:street w:st="on"><st1:address w:st="on">215 North Hill Street</st1:address></st1:street> to fix himself a sandwich, he decided that he needed to stop for a snack first. Problem was, there wasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t a single canned ham or loaf of bread to be had anywhere in the area.<span>  </span>It was then that he decided he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d break into the cellar of a house at 1037 Alpine Street ”“ surely the homeowners would have left some tasty treats in the cellar.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -70,16 +73,16 @@ It was bad enough to be saddled with the moniker Stinko Gursasovich â€“ how
 <span></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<span></span><!--break-->A neighbor saw Stinko creep into the basement through a window and immediately phoned the cops. The <img loading="lazy" border="0" align="right" width="240" src="https://farm4.static.flickr.com/3235/2474685978_949f3e6876_m.jpg" alt="radio car" height="194" />LAPD had recently installed radios in their cruisers, so officers Webb and Hamblin made it to the scene in a mere 90 seconds. The hapless perpetrator wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t familiar with the latest crime fighting advances, and was promptly arrested and booked on a charge of burglary.
+<span></span><!--break-->A neighbor saw Stinko creep into the basement through a window and immediately phoned the cops. The <img loading="lazy" border="0" align="right" width="240" src="http://farm4.static.flickr.com/3235/2474685978_949f3e6876_m.jpg" alt="radio car" height="194" />LAPD had recently installed radios in their cruisers, so officers Webb and Hamblin made it to the scene in a mere 90 seconds. The hapless perpetrator wasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t familiar with the latest crime fighting advances, and was promptly arrested and booked on a charge of burglary.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Letâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hope Stinko made it to his cell in time for lunch.</p>
+Let”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hope Stinko made it to his cell in time for lunch.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/amannamedstinko/feed/</wfw:commentRss>
+					<wfw:commentRss>/amannamedstinko/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

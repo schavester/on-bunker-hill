@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Sir Issac Newton &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/sir_issac_newton/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/sir_issac_newton/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:20:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>Sir Issac Newton &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>What Goes Up&#8230;</title>
-		<link>https://www.onbunkerhill.org/whatgoesup/</link>
-					<comments>https://www.onbunkerhill.org/whatgoesup/#respond</comments>
+		<link>/whatgoesup/</link>
+					<comments>/whatgoesup/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Thu, 05 Jun 2008 12:48:28 +0000</pubDate>
@@ -43,9 +46,9 @@
 		<category><![CDATA[Sir Issac Newton]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Lincoln Hotel January 1903 Based upon his Theory of Universal Gravitation, Sir Issac Newton conducted a â€œthought experimentâ€ that he dubbed Newtonâ€™s Cannonball.Â  In his experiment, Newton demonstrated that in most cases what goes up, must come down &#8211; unless the missile is traveling fast enough to either leave Earth entirely and head for deep &#8230; <a href="https://www.onbunkerhill.org/whatgoesup/" class="more-link">Continue reading<span class="screen-reader-text"> "What Goes Up&#8230;"</span></a>]]></description>
+					<description><![CDATA[Lincoln Hotel January 1903 Based upon his Theory of Universal Gravitation, Sir Issac Newton conducted a “thought experiment” that he dubbed Newton”™s Cannonball.  In his experiment, Newton demonstrated that in most cases what goes up, must come down &#8211; unless the missile is traveling fast enough to either leave Earth entirely and head for deep &#8230; <a href="/whatgoesup/" class="more-link">Continue reading<span class="screen-reader-text"> "What Goes Up&#8230;"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<span style="font-size: 10pt; font-family: Arial"><img loading="lazy" border="0" width="275" src="https://farm4.static.flickr.com/3045/2551517440_6dd5c09e6d_o.jpg" alt="jones headline" height="354" /></span>
+<span style="font-size: 10pt; font-family: Arial"><img loading="lazy" border="0" width="275" src="http://farm4.static.flickr.com/3045/2551517440_6dd5c09e6d_o.jpg" alt="jones headline" height="354" /></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 10pt; font-family: Arial">Lincoln Hotel</span>
@@ -56,20 +59,20 @@
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 10pt; font-family: Arial"></span>
 </p>
-<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">Based upon his Theory of Universal Gravitation, Sir Issac Newton conducted a â€œthought experimentâ€ that he dubbed <st1:city w:st="on"><st1:place w:st="on">Newton</st1:place></st1:city>â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cannonball.<span>Â  </span>In his experiment, <st1:place w:st="on"><st1:city w:st="on">Newton</st1:city></st1:place> demonstrated that in most cases what goes up, must come down &#8211; unless the missile is traveling fast enough to either leave Earth entirely and head for deep space, or to pick up enough speed to begin its own orbit around the planet. There is another possibility that was not covered in <st1:place w:st="on"><st1:city w:st="on">Newton</st1:city></st1:place>â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s experiment; a projectile hurtling toward the heavens can be prevented from continuing its flight by a sufficiently dense object or, as in this tale, by the forehead of Mr. J.F. Jones.</span> <!--break--></p>
+<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">Based upon his Theory of Universal Gravitation, Sir Issac Newton conducted a “thought experiment” that he dubbed <st1:city w:st="on"><st1:place w:st="on">Newton</st1:place></st1:city>”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cannonball.<span>  </span>In his experiment, <st1:place w:st="on"><st1:city w:st="on">Newton</st1:city></st1:place> demonstrated that in most cases what goes up, must come down &#8211; unless the missile is traveling fast enough to either leave Earth entirely and head for deep space, or to pick up enough speed to begin its own orbit around the planet. There is another possibility that was not covered in <st1:place w:st="on"><st1:city w:st="on">Newton</st1:city></st1:place>”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s experiment; a projectile hurtling toward the heavens can be prevented from continuing its flight by a sufficiently dense object or, as in this tale, by the forehead of Mr. J.F. Jones.</span> <!--break--></p>
 <p><span style="font-size: 10pt; font-family: Arial"></span></p>
 <p><span style="font-size: 10pt; font-family: Arial"></span></p>
-<p><span style="font-size: 10pt; font-family: Arial">T</span><span style="font-size: 10pt; font-family: Arial">he second hour of January 1, 1903 had just begun, and New Yearâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Eve revelers were still celebrating in the streets of the city.<span>Â  </span>Three friends; <span>Â </span>J.F. Jones, S.M. Schoonover, and Elsie Stahl were standing on an upper floor balcony of the Lincoln Hotel, enjoying each otherâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s company as well as the sights and sounds of nearby parties. They were unaware that beneath them on the sidewalk in front of the hotel, there were three young men; Lauren Hanna, John G. Todd, and W.W. Burton, who had decided to ring in the New Year by sending a fusillade of bullets into space. Todd and <st1:place w:st="on"><st1:city w:st="on">Burton</st1:city></st1:place> were firing blanks, but Hannaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s pistol was loaded with live rounds.</span></p>
-<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">The young men may have been drinking, or perhaps they were just too dumb to comprehend the consequences of blindly firing weapons above their heads into the pitch black sky. The initial burst of gunfire apparently did no harm, but the second round from Lauren Hannaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s gun found its trajectory impeded, and any dreams J.F. Jones may have had for the future died with him when a stray bullet lodged in his brain.</span></p>
-<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">Moments after the shooting, Schoonover came running out of the hotel to inform the young men that their carelessness had resulted in a death. Todd stayed put, but cohorts Hanna and <st1:place w:st="on"><st1:city w:st="on">Burton</st1:city></st1:place> slunk down <st1:street w:st="on"><st1:address w:st="on">Second Street</st1:address></st1:street> toward Broadway, emptying their guns of ammunition as they went. Hanna may as well have left a trail of breadcrumbs to the door of his workplace, the Sunset Telephone Company, because thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s where the last of the discarded bullets was found. Detectives Flammer, Quinn, and Churchill quickly located Hanna, who soon confessed to the shooting. He was accused of involuntary manslaughter, and his bail was set at $2000 [$</span><span style="font-size: 10pt; font-family: Arial" lang="EN">47,981.55 USD 2008]</span><span style="font-size: 10pt; font-family: Arial">.</span></p>
-<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">The cops did some digging into Hannaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s life and uncovered a few unsavory details about him, which were then reported by the Los Angeles Times; â€œHannaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s case is not strengthened any, nor public sympathy increased to any great extent, by the discovery of the police that Hanna had recently deserted his wife and baby at Santa Ana, and was living at a hotel in this city with another womanâ€.</span></p>
-<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial"><img loading="lazy" border="0" align="left" width="260" src="https://farm4.static.flickr.com/3016/2550695951_efb451bb27_o.jpg" alt="Hanna acquitted" height="235" />Fortunately for the accused, he was â€œâ€¦something of a cousin to the renowned Senator Marcusâ€. The esteemed senator from <st1:place w:st="on"><st1:state w:st="on">Ohio</st1:state></st1:place> provided money for Laurenâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s defense fund. Hanna was represented at trial by Charles S. McKelvey, Esq., and the firm of Davis &amp; Rush.<span>Â  </span>Experts hired by the defense testified that a bullet fragment removed from Jonesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> brain at autopsy could have come from a .22 caliber pistol. Hannaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s gun was a .32 caliber. </span></p>
-<p><span style="font-size: 10pt; font-family: Arial">Were the Senatorâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s money and power merely coincidental in winning an acquittal for Lauren? Weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll never know. In any case, Judge Smith felt that there was enough reasonable doubt to instruct the jury to acquit Lauren Hanna.</span></p>
+<p><span style="font-size: 10pt; font-family: Arial">T</span><span style="font-size: 10pt; font-family: Arial">he second hour of January 1, 1903 had just begun, and New Year”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Eve revelers were still celebrating in the streets of the city.<span>  </span>Three friends; <span> </span>J.F. Jones, S.M. Schoonover, and Elsie Stahl were standing on an upper floor balcony of the Lincoln Hotel, enjoying each other”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s company as well as the sights and sounds of nearby parties. They were unaware that beneath them on the sidewalk in front of the hotel, there were three young men; Lauren Hanna, John G. Todd, and W.W. Burton, who had decided to ring in the New Year by sending a fusillade of bullets into space. Todd and <st1:place w:st="on"><st1:city w:st="on">Burton</st1:city></st1:place> were firing blanks, but Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s pistol was loaded with live rounds.</span></p>
+<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">The young men may have been drinking, or perhaps they were just too dumb to comprehend the consequences of blindly firing weapons above their heads into the pitch black sky. The initial burst of gunfire apparently did no harm, but the second round from Lauren Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s gun found its trajectory impeded, and any dreams J.F. Jones may have had for the future died with him when a stray bullet lodged in his brain.</span></p>
+<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">Moments after the shooting, Schoonover came running out of the hotel to inform the young men that their carelessness had resulted in a death. Todd stayed put, but cohorts Hanna and <st1:place w:st="on"><st1:city w:st="on">Burton</st1:city></st1:place> slunk down <st1:street w:st="on"><st1:address w:st="on">Second Street</st1:address></st1:street> toward Broadway, emptying their guns of ammunition as they went. Hanna may as well have left a trail of breadcrumbs to the door of his workplace, the Sunset Telephone Company, because that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s where the last of the discarded bullets was found. Detectives Flammer, Quinn, and Churchill quickly located Hanna, who soon confessed to the shooting. He was accused of involuntary manslaughter, and his bail was set at $2000 [$</span><span style="font-size: 10pt; font-family: Arial" lang="EN">47,981.55 USD 2008]</span><span style="font-size: 10pt; font-family: Arial">.</span></p>
+<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">The cops did some digging into Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s life and uncovered a few unsavory details about him, which were then reported by the Los Angeles Times; “Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s case is not strengthened any, nor public sympathy increased to any great extent, by the discovery of the police that Hanna had recently deserted his wife and baby at Santa Ana, and was living at a hotel in this city with another woman”.</span></p>
+<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial"><img loading="lazy" border="0" align="left" width="260" src="http://farm4.static.flickr.com/3016/2550695951_efb451bb27_o.jpg" alt="Hanna acquitted" height="235" />Fortunately for the accused, he was “”¦something of a cousin to the renowned Senator Marcus”. The esteemed senator from <st1:place w:st="on"><st1:state w:st="on">Ohio</st1:state></st1:place> provided money for Lauren”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s defense fund. Hanna was represented at trial by Charles S. McKelvey, Esq., and the firm of Davis &amp; Rush.<span>  </span>Experts hired by the defense testified that a bullet fragment removed from Jones”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> brain at autopsy could have come from a .22 caliber pistol. Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s gun was a .32 caliber. </span></p>
+<p><span style="font-size: 10pt; font-family: Arial">Were the Senator”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s money and power merely coincidental in winning an acquittal for Lauren? We”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll never know. In any case, Judge Smith felt that there was enough reasonable doubt to instruct the jury to acquit Lauren Hanna.</span></p>
 <p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">J.F. Jones would be buried in his hometown of <st1:place w:st="on"><st1:city w:st="on">Greenville</st1:city>, <st1:state w:st="on">Texas</st1:state></st1:place>.<o:p></o:p></span></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/whatgoesup/feed/</wfw:commentRss>
+					<wfw:commentRss>/whatgoesup/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>missing persons &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/missing_persons/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/missing_persons/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:42:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>missing persons &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>&#8220;Otto Liebman Is Alive and Well Instead of Being Burned to Death&#8221;</title>
-		<link>https://www.onbunkerhill.org/liebman/</link>
-					<comments>https://www.onbunkerhill.org/liebman/#respond</comments>
+		<link>/liebman/</link>
+					<comments>/liebman/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 02 Sep 2008 21:46:34 +0000</pubDate>
@@ -41,16 +44,16 @@
 		<category><![CDATA[missing persons]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[George Roughton&#8217;s boarding house at 324 Clay Street was advertised as possessing a &#34;most healthful locality&#34; and &#34;very fine view.&#34;Â  However, it&#8217;s unlikely that it appeared that way to tenants who were awakened at dawn on July 2, 1894 to find the place engulfed in flames. The fire was caused by an oil stove explosion &#8230; <a href="https://www.onbunkerhill.org/liebman/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;Otto Liebman Is Alive and Well Instead of Being Burned to Death&#8221;"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>George Roughton&#8217;s boarding house at 324 Clay Street was advertised as possessing a &quot;most healthful locality&quot; and &quot;very fine view.&quot;Â  However, it&#8217;s unlikely that it appeared that way to tenants who were awakened at dawn on July 2, 1894 to find the place engulfed in flames.</p>
-<p>The fire was caused by an oil stove explosion in the basement rooms of &quot;a colored family named Phoenix,&quot; and destroyed the entire building within minutes.Â  Roughton was only partially insured for the loss, which was estimated at between $3000-$4000 ($76,000-$102,000 2008 USD), and most tenants lost all of their possessions.</p>
-<p>After making their escape, the residents of 324 Clay did a head count, and discovered one among their number to be missing.Â  Otto Liebman was recalled by his neighbors as elderly and a semi-invalid who had lived on the third floor for only a few months.</p>
-<p>When Liebman failed to turn up, and his remains could not be found in the ashes, a concerned neighbor reported his disappearance&#8230; two weeks after the fire.Â  Within a day or so, however, the mystery was solved.</p>
-<p>In perhaps the greatest understatement ever to find its way into print, the <i>Times</i> reported, &quot;Otto Liebman is alive and well instead of being burned to death.&quot;Â  It turns out that on the morning of the fire, Liebman woke up choking from smoke inhalation, and crawled down the stairs to safety.Â  As soon as he reached the street, he passed out until he was discovered by a friend, who carried him home.Â  Liebman remained in bed for a week, recovering from the shock.Â  After his recovery, the friend did him a solid and found the penniless and now homeless man work in a fruit and tobacco shop.</p>
+					<description><![CDATA[George Roughton&#8217;s boarding house at 324 Clay Street was advertised as possessing a &#34;most healthful locality&#34; and &#34;very fine view.&#34;  However, it&#8217;s unlikely that it appeared that way to tenants who were awakened at dawn on July 2, 1894 to find the place engulfed in flames. The fire was caused by an oil stove explosion &#8230; <a href="/liebman/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;Otto Liebman Is Alive and Well Instead of Being Burned to Death&#8221;"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>George Roughton&#8217;s boarding house at 324 Clay Street was advertised as possessing a &quot;most healthful locality&quot; and &quot;very fine view.&quot;  However, it&#8217;s unlikely that it appeared that way to tenants who were awakened at dawn on July 2, 1894 to find the place engulfed in flames.</p>
+<p>The fire was caused by an oil stove explosion in the basement rooms of &quot;a colored family named Phoenix,&quot; and destroyed the entire building within minutes.  Roughton was only partially insured for the loss, which was estimated at between $3000-$4000 ($76,000-$102,000 2008 USD), and most tenants lost all of their possessions.</p>
+<p>After making their escape, the residents of 324 Clay did a head count, and discovered one among their number to be missing.  Otto Liebman was recalled by his neighbors as elderly and a semi-invalid who had lived on the third floor for only a few months.</p>
+<p>When Liebman failed to turn up, and his remains could not be found in the ashes, a concerned neighbor reported his disappearance&#8230; two weeks after the fire.  Within a day or so, however, the mystery was solved.</p>
+<p>In perhaps the greatest understatement ever to find its way into print, the <i>Times</i> reported, &quot;Otto Liebman is alive and well instead of being burned to death.&quot;  It turns out that on the morning of the fire, Liebman woke up choking from smoke inhalation, and crawled down the stairs to safety.  As soon as he reached the street, he passed out until he was discovered by a friend, who carried him home.  Liebman remained in bed for a week, recovering from the shock.  After his recovery, the friend did him a solid and found the penniless and now homeless man work in a fruit and tobacco shop.</p>
 <p>But as for the good neighbors at 324 Clay, not only did they fail to report his disappearance for two weeks, they also gave police an entirely inaccurate description, Liebman being neither elderly nor gray-headed as they&#8217;d reported.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/liebman/feed/</wfw:commentRss>
+					<wfw:commentRss>/liebman/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

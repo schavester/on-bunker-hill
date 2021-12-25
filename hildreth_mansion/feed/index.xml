@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: Hildreth Mansion &#8211; 357 South Hope Street	</title>
-	<atom:link href="https://www.onbunkerhill.org/hildreth_mansion/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/hildreth_mansion/</link>
+	<atom:link href="/hildreth_mansion/feed/" rel="self" type="application/rss+xml" />
+	<link>/hildreth_mansion/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:46:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: karwelis		</title>
-		<link>https://www.onbunkerhill.org/hildreth_mansion/#comment-41</link>
+		<link>/hildreth_mansion/#comment-41</link>
 
 		<dc:creator><![CDATA[karwelis]]></dc:creator>
 		<pubDate>Sun, 19 Oct 2008 20:11:17 +0000</pubDate>
@@ -39,7 +42,7 @@ bunker hill is worth the effort]]></description>
 		<item>
 		<title>
 		By: Grover		</title>
-		<link>https://www.onbunkerhill.org/hildreth_mansion/#comment-1</link>
+		<link>/hildreth_mansion/#comment-1</link>
 
 		<dc:creator><![CDATA[Grover]]></dc:creator>
 		<pubDate>Fri, 02 May 2008 13:21:08 +0000</pubDate>

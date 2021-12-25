@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>criminal inventions &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/criminal_inventions/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/criminal_inventions/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:42:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>criminal inventions &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Whole New Meaning to the Term &#8220;Hollow Leg&#8221;</title>
-		<link>https://www.onbunkerhill.org/whole-new-meaning-to-the-term-hollow-leg/</link>
-					<comments>https://www.onbunkerhill.org/whole-new-meaning-to-the-term-hollow-leg/#respond</comments>
+		<link>/whole-new-meaning-to-the-term-hollow-leg/</link>
+					<comments>/whole-new-meaning-to-the-term-hollow-leg/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 01 Jul 2008 21:55:44 +0000</pubDate>
@@ -41,16 +44,16 @@
 		<category><![CDATA[criminal inventions]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[August 6, 1923 240 South Figueroa Police came to the apartment of William Fisher and Walter J. O&#8217;Connell, responding to neighbors&#8217; complaints of a loud party. When they arrived, they found seven men and a woman seated primly around a large round table, and grinning like mad. However, police could not help but notice &#34;the &#8230; <a href="https://www.onbunkerhill.org/whole-new-meaning-to-the-term-hollow-leg/" class="more-link">Continue reading<span class="screen-reader-text"> "Whole New Meaning to the Term &#8220;Hollow Leg&#8221;"</span></a>]]></description>
+					<description><![CDATA[August 6, 1923 240 South Figueroa Police came to the apartment of William Fisher and Walter J. O&#8217;Connell, responding to neighbors&#8217; complaints of a loud party. When they arrived, they found seven men and a woman seated primly around a large round table, and grinning like mad. However, police could not help but notice &#34;the &#8230; <a href="/whole-new-meaning-to-the-term-hollow-leg/" class="more-link">Continue reading<span class="screen-reader-text"> "Whole New Meaning to the Term &#8220;Hollow Leg&#8221;"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>August 6, 1923<br />
 240 South Figueroa</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3277/2629592339_e607658060.jpg" alt="hiddenhooch" align="left" height="251" width="238" />Police came to the apartment of William Fisher and Walter J. O&#8217;Connell, responding to neighbors&#8217; complaints of a loud party.  When they arrived, they found seven men and a woman seated  primly around a large round table, and grinning like mad.  However, police could not help but notice &quot;the odor of synthetic gin was in the air.&quot;</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3277/2629592339_e607658060.jpg" alt="hiddenhooch" align="left" height="251" width="238" />Police came to the apartment of William Fisher and Walter J. O&#8217;Connell, responding to neighbors&#8217; complaints of a loud party.  When they arrived, they found seven men and a woman seated  primly around a large round table, and grinning like mad.  However, police could not help but notice &quot;the odor of synthetic gin was in the air.&quot;</p>
 <p>At first, police were stumped.  There was no evidence of a party, and no bottles to be seen.  But then, one of the detectives noticed a stream of liquid trickling out from the thick center leg of the table, and a sniff revealed it to be contraband booze.</p>
 <p>Quickly, the detectives dismantled the table and discovered that its leg had been hollowed out, and a hooch tank and spigot installed.  In all the excitement, some careless partygoer had neglected to twist the spigot shut, leading to the telltale leak.</p>
 <p>A more thorough search of the apartment turned up two copper tanks, designed to be fitted into an automobile gas tank and used for the illicit transport of bathtub gin.  Fisher and O&#8217;Connell were booked on charges of violating the Volstead Act.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/whole-new-meaning-to-the-term-hollow-leg/feed/</wfw:commentRss>
+					<wfw:commentRss>/whole-new-meaning-to-the-term-hollow-leg/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

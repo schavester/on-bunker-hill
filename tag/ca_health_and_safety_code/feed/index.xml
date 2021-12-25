@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>CA Health and Safety Code &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/ca_health_and_safety_code/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/ca_health_and_safety_code/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:42:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>CA Health and Safety Code &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Fix By Any Other Name</title>
-		<link>https://www.onbunkerhill.org/manicuredtea/</link>
-					<comments>https://www.onbunkerhill.org/manicuredtea/#respond</comments>
+		<link>/manicuredtea/</link>
+					<comments>/manicuredtea/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 16 Sep 2008 21:45:23 +0000</pubDate>
@@ -42,16 +45,16 @@
 		<category><![CDATA[narcotics]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[From the files of &#34;Where&#8217;d that law come from?&#34; we turn to Section 11352.1b of the California Health and Safety Code, which makes it illegal to sell &#34;any material represented as, or presented in lieu of, any dangerous drug or dangerous device.&#34; The story behind the legislation takes us to a Chinatown street in the &#8230; <a href="https://www.onbunkerhill.org/manicuredtea/" class="more-link">Continue reading<span class="screen-reader-text"> "A Fix By Any Other Name"</span></a>]]></description>
+					<description><![CDATA[From the files of &#34;Where&#8217;d that law come from?&#34; we turn to Section 11352.1b of the California Health and Safety Code, which makes it illegal to sell &#34;any material represented as, or presented in lieu of, any dangerous drug or dangerous device.&#34; The story behind the legislation takes us to a Chinatown street in the &#8230; <a href="/manicuredtea/" class="more-link">Continue reading<span class="screen-reader-text"> "A Fix By Any Other Name"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>From the files of &quot;Where&#8217;d that law come from?&quot; we turn to Section 11352.1b of the California Health and Safety Code, which makes it illegal to sell &quot;any material represented as, or presented in lieu of, any dangerous drug or dangerous device.&quot;</p>
-<p>The story behind the legislation takes us to a Chinatown street in the early 1950s where two undercover police from the narcotics division were attempting to score marijuana, and arranged a &quot;hand-to-hand go&quot; of $300 for 5 pounds of &quot;manicured tea.&quot;Â  They had their street lingo down, but I&#8217;m sure you can see where this is going.Â  The dealer took their money, and proceeded to hand over exactly what he&#8217;d promised &#8212; 5 pounds of tea.Â  At those prices, let&#8217;s hope he at least sprung for Twinings.</p>
-<p>Once the crime lab revealed their folly, the two officers rushed back to Chinatown to arrest the enterprising young dealer until realizing that they didn&#8217;t know what to arrest him for.Â  Finally, they settled on the somewhat dubious charge of grand theft. </p>
-<p>At first, there was some concern that undercover police officers would have to make their buys using specific, literal language, tipping off any half-wise dealer to their ruse.Â  An apoplectic police force lobbied the California legislature for provisions that would prevent this kind of misunderstanding in the future, and in 1953, they got their wish.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3173/2864766814_d463f951a4_o.jpg" alt="bellhoptrial" width="250" align="left" height="186" />One of the firstÂ  people to stand trial under the new law was a resident of our very own Bunker Hill, Conrado M. Fragoso, a bellhop at 244 South Figueroa.Â  Fragoso arranged to sell $10 of a substance he referred to only as &quot;junk&quot; or &quot;stuff&quot; to Officer Manuel Gutierrez.Â  The &quot;junk&quot; in question was nothing but headache powder twisted into small paper bindles.Â  As the arrest took place on April 1, 1954, Fragoso missed his opportunity to declare the whole thing an April Fool, and was arrested.</p>
-<p>At his trial, the public defender argued that Fragoso had never claimed to be selling heroin, as he never uttered the word; however, the judge was unmoved.Â  In 1954, a conviction for selling a substance under the pretense that it was a narcotic substance carried a sentence of up to one year in the County Jail.</p>
+<p>The story behind the legislation takes us to a Chinatown street in the early 1950s where two undercover police from the narcotics division were attempting to score marijuana, and arranged a &quot;hand-to-hand go&quot; of $300 for 5 pounds of &quot;manicured tea.&quot;  They had their street lingo down, but I&#8217;m sure you can see where this is going.  The dealer took their money, and proceeded to hand over exactly what he&#8217;d promised &#8212; 5 pounds of tea.  At those prices, let&#8217;s hope he at least sprung for Twinings.</p>
+<p>Once the crime lab revealed their folly, the two officers rushed back to Chinatown to arrest the enterprising young dealer until realizing that they didn&#8217;t know what to arrest him for.  Finally, they settled on the somewhat dubious charge of grand theft. </p>
+<p>At first, there was some concern that undercover police officers would have to make their buys using specific, literal language, tipping off any half-wise dealer to their ruse.  An apoplectic police force lobbied the California legislature for provisions that would prevent this kind of misunderstanding in the future, and in 1953, they got their wish.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3173/2864766814_d463f951a4_o.jpg" alt="bellhoptrial" width="250" align="left" height="186" />One of the first  people to stand trial under the new law was a resident of our very own Bunker Hill, Conrado M. Fragoso, a bellhop at 244 South Figueroa.  Fragoso arranged to sell $10 of a substance he referred to only as &quot;junk&quot; or &quot;stuff&quot; to Officer Manuel Gutierrez.  The &quot;junk&quot; in question was nothing but headache powder twisted into small paper bindles.  As the arrest took place on April 1, 1954, Fragoso missed his opportunity to declare the whole thing an April Fool, and was arrested.</p>
+<p>At his trial, the public defender argued that Fragoso had never claimed to be selling heroin, as he never uttered the word; however, the judge was unmoved.  In 1954, a conviction for selling a substance under the pretense that it was a narcotic substance carried a sentence of up to one year in the County Jail.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/manicuredtea/feed/</wfw:commentRss>
+					<wfw:commentRss>/manicuredtea/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

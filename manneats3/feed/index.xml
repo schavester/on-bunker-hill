@@ -1,21 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: From the George Mann Archives: La Cienega Restaurant Row	</title>
-	<atom:link href="https://www.onbunkerhill.org/manneats3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/manneats3/</link>
+	<atom:link href="/manneats3/feed/" rel="self" type="application/rss+xml" />
+	<link>/manneats3/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 21:56:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Feb 2021 02:24:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		By: Neal Sausen		</title>
+		<link>/manneats3/#comment-128071</link>
+
+		<dc:creator><![CDATA[Neal Sausen]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 02:24:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1382#comment-128071</guid>
+
+					<description><![CDATA[II remember growing up around all these places I was right down the street from Wan Q and Did in deed eat there on occasion I remember all those restaurants from the 1950s on restaurant Row back in the day when food was real food!
+
+Iâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve only posted this once]]></description>
+			<content:encoded><![CDATA[<p>II remember growing up around all these places I was right down the street from Wan Q and Did in deed eat there on occasion I remember all those restaurants from the 1950s on restaurant Row back in the day when food was real food!</p>
+<p>Iâ€™ve only posted this once</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Neal $ausen		</title>
+		<link>/manneats3/#comment-128069</link>
+
+		<dc:creator><![CDATA[Neal $ausen]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 02:22:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1382#comment-128069</guid>
+
+					<description><![CDATA[II remember growing up around all these places I was right down the street from Wan Q and Did in deed eat there on occasion I remember all those restaurants from the 1950s on restaurant Row back in the day when food was real food!]]></description>
+			<content:encoded><![CDATA[<p>II remember growing up around all these places I was right down the street from Wan Q and Did in deed eat there on occasion I remember all those restaurants from the 1950s on restaurant Row back in the day when food was real food!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

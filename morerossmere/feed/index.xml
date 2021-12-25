@@ -1,109 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: More of the Rossmere	</title>
-	<atom:link href="https://www.onbunkerhill.org/morerossmere/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/morerossmere/</link>
+	<atom:link href="/morerossmere/feed/" rel="self" type="application/rss+xml" />
+	<link>/morerossmere/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 20:06:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/morerossmere/#comment-53</link>
+		<link>/morerossmere/#comment-53</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Mon, 15 Dec 2008 13:36:49 +0000</pubDate>
 		<guid isPermaLink="false">#comment-53</guid>
 
 					<description><![CDATA[&lt;p&gt;
-An image of the Rossmere in its final days, from the &lt;a href=&quot;https://webapp1.dlib.indiana.edu/cushman/index.jsp&quot; title=&quot;notthescooter&quot; target=&quot;_blank&quot;&gt;Cushman Collection&lt;/a&gt;.  
+An image of the Rossmere in its final days, from the &lt;a href=&quot;http://webapp1.dlib.indiana.edu/cushman/index.jsp&quot; title=&quot;notthescooter&quot; target=&quot;_blank&quot;&gt;Cushman Collection&lt;/a&gt;.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3054/2929334359_4574412ae2_o.gif&quot; alt=&quot;rossmerefar&quot; height=&quot;387&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3054/2929334359_4574412ae2_o.gif&quot; alt=&quot;rossmerefar&quot; height=&quot;387&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Note the background:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3201/2929334595_634de9a205_o.gif&quot; alt=&quot;oneofthesevenhills&quot; height=&quot;423&quot; width=&quot;429&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3201/2929334595_634de9a205_o.gif&quot; alt=&quot;oneofthesevenhills&quot; height=&quot;423&quot; width=&quot;429&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-Which bears some resemblance (as shot from the deck of the &lt;a href=&quot;https://www.you-are-here.com/los_angeles/dwp.html&quot; title=&quot;imagine1963&quot; target=&quot;_blank&quot;&gt;DWP&lt;/a&gt;)  to this:
+Which bears some resemblance (as shot from the deck of the &lt;a href=&quot;http://www.you-are-here.com/los_angeles/dwp.html&quot; title=&quot;imagine1963&quot; target=&quot;_blank&quot;&gt;DWP&lt;/a&gt;)  to this:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3017/2934674425_7cac9222f0_o.gif&quot; alt=&quot;hillmatch&quot; height=&quot;352&quot; width=&quot;429&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3017/2934674425_7cac9222f0_o.gif&quot; alt=&quot;hillmatch&quot; height=&quot;352&quot; width=&quot;429&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Heck, let&#039;s run with the then-and-now.  The Rossmere, sitting on its corner of Hope and First, Hope St. obscured by a mound of dirt:  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3157/2930192938_ebdcec4c35_o.gif&quot; alt=&quot;rossagain&quot; height=&quot;369&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3157/2930192938_ebdcec4c35_o.gif&quot; alt=&quot;rossagain&quot; height=&quot;369&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 And that corner today.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3038/3111670030_24f00599f5_o.gif&quot; alt=&quot;rossmereghost&quot; height=&quot;288&quot; width=&quot;575&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3038/3111670030_24f00599f5_o.gif&quot; alt=&quot;rossmereghost&quot; height=&quot;288&quot; width=&quot;575&quot; /&gt; 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-An image of the Rossmere in its final days, from the <a href="https://webapp1.dlib.indiana.edu/cushman/index.jsp" title="notthescooter" target="_blank">Cushman Collection</a>.
+An image of the Rossmere in its final days, from the <a href="http://webapp1.dlib.indiana.edu/cushman/index.jsp" title="notthescooter" target="_blank">Cushman Collection</a>.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3054/2929334359_4574412ae2_o.gif" alt="rossmerefar" height="387" width="575" />
+<img src="http://farm4.static.flickr.com/3054/2929334359_4574412ae2_o.gif" alt="rossmerefar" height="387" width="575" />
 </p>
 <p>
 Note the background:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3201/2929334595_634de9a205_o.gif" alt="oneofthesevenhills" height="423" width="429" />
+<img src="http://farm4.static.flickr.com/3201/2929334595_634de9a205_o.gif" alt="oneofthesevenhills" height="423" width="429" />
 </p>
 <p>
-Which bears some resemblance (as shot from the deck of the <a href="https://www.you-are-here.com/los_angeles/dwp.html" title="imagine1963" target="_blank">DWP</a>)  to this:
+Which bears some resemblance (as shot from the deck of the <a href="http://www.you-are-here.com/los_angeles/dwp.html" title="imagine1963" target="_blank">DWP</a>)  to this:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3017/2934674425_7cac9222f0_o.gif" alt="hillmatch" height="352" width="429" />
+<img src="http://farm4.static.flickr.com/3017/2934674425_7cac9222f0_o.gif" alt="hillmatch" height="352" width="429" />
 </p>
 <p>
 Heck, let&#8217;s run with the then-and-now.  The Rossmere, sitting on its corner of Hope and First, Hope St. obscured by a mound of dirt:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3157/2930192938_ebdcec4c35_o.gif" alt="rossagain" height="369" width="575" />
+<img src="http://farm4.static.flickr.com/3157/2930192938_ebdcec4c35_o.gif" alt="rossagain" height="369" width="575" />
 </p>
 <p>
 And that corner today.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3038/3111670030_24f00599f5_o.gif" alt="rossmereghost" height="288" width="575" /></p>
+<img src="http://farm4.static.flickr.com/3038/3111670030_24f00599f5_o.gif" alt="rossmereghost" height="288" width="575" /></p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/morerossmere/#comment-30</link>
+		<link>/morerossmere/#comment-30</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Fri, 03 Oct 2008 22:33:52 +0000</pubDate>
 		<guid isPermaLink="false">#comment-30</guid>
 
 					<description><![CDATA[&lt;p&gt;
-â€¦which was named the &lt;i&gt;Majestic&lt;/i&gt; in 1921, so indicates Baistâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Real Estate Atlas.&lt;br /&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3130/2911095638_47d4dbcccf_o.gif&quot; alt=&quot;1stHopeMajestic&quot; height=&quot;521&quot; width=&quot;575&quot; /&gt;
+â€¦which was named the &lt;i&gt;Majestic&lt;/i&gt; in 1921, so indicates Baistâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Real Estate Atlas.&lt;br /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3130/2911095638_47d4dbcccf_o.gif&quot; alt=&quot;1stHopeMajestic&quot; height=&quot;521&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3207/2910248597_24e677bfd6_o.gif&quot; alt=&quot;lookattheRossmere&quot; align=&quot;left&quot; height=&quot;300&quot; width=&quot;350&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3207/2910248597_24e677bfd6_o.gif&quot; alt=&quot;lookattheRossmere&quot; align=&quot;left&quot; height=&quot;300&quot; width=&quot;350&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
@@ -115,7 +118,7 @@ And that corner today.
 Another glimpse from our visit to the model, peering south down Hope across the intersection of First.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3052/2911095352_50fa615272_o.gif&quot; alt=&quot;rossMod&quot; height=&quot;431&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3052/2911095352_50fa615272_o.gif&quot; alt=&quot;rossMod&quot; height=&quot;431&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
@@ -126,10 +129,10 @@ Another glimpse from our visit to the model, peering south down Hope across the 
 ]]></description>
 			<content:encoded><![CDATA[<p>
 â€¦which was named the <i>Majestic</i> in 1921, so indicates Baistâ€™s Real Estate Atlas.<br />
-<img src="https://farm4.static.flickr.com/3130/2911095638_47d4dbcccf_o.gif" alt="1stHopeMajestic" height="521" width="575" />
+<img src="http://farm4.static.flickr.com/3130/2911095638_47d4dbcccf_o.gif" alt="1stHopeMajestic" height="521" width="575" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3207/2910248597_24e677bfd6_o.gif" alt="lookattheRossmere" align="left" height="300" width="350" />
+<img src="http://farm4.static.flickr.com/3207/2910248597_24e677bfd6_o.gif" alt="lookattheRossmere" align="left" height="300" width="350" />
 </p>
 <p>
 &nbsp;
@@ -141,7 +144,7 @@ Another glimpse from our visit to the model, peering south down Hope across the 
 Another glimpse from our visit to the model, peering south down Hope across the intersection of First.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3052/2911095352_50fa615272_o.gif" alt="rossMod" height="431" width="575" />
+<img src="http://farm4.static.flickr.com/3052/2911095352_50fa615272_o.gif" alt="rossMod" height="431" width="575" />
 </p>
 <p>
 &nbsp;
@@ -154,7 +157,7 @@ Another glimpse from our visit to the model, peering south down Hope across the 
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/morerossmere/#comment-19</link>
+		<link>/morerossmere/#comment-19</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Fri, 15 Aug 2008 15:41:00 +0000</pubDate>
@@ -164,13 +167,13 @@ Another glimpse from our visit to the model, peering south down Hope across the 
 Looking east on First, from Flower toward Hope, 1926: 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm3.static.flickr.com/2054/2765823813_c10ecb5c08_o.gif&quot; alt=&quot;Rossindist&quot; height=&quot;427&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm3.static.flickr.com/2054/2765823813_c10ecb5c08_o.gif&quot; alt=&quot;Rossindist&quot; height=&quot;427&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Rossmere at Hope and First; further in we&#039;ve the 1902 Warner Apts at 710 and the 1911 Maxine (at far right, with the tall columns), 724 W First.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3153/2765824083_74d426fd4b_o.gif&quot; alt=&quot;closertoyou&quot; height=&quot;496&quot; width=&quot;575&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3153/2765824083_74d426fd4b_o.gif&quot; alt=&quot;closertoyou&quot; height=&quot;496&quot; width=&quot;575&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 &lt;i&gt;Courtesy USC Digital Archives &lt;/i&gt;
@@ -180,13 +183,13 @@ Rossmere at Hope and First; further in we&#039;ve the 1902 Warner Apts at 710 an
 Looking east on First, from Flower toward Hope, 1926:
 </p>
 <p>
-<img src="https://farm3.static.flickr.com/2054/2765823813_c10ecb5c08_o.gif" alt="Rossindist" height="427" width="575" />
+<img src="http://farm3.static.flickr.com/2054/2765823813_c10ecb5c08_o.gif" alt="Rossindist" height="427" width="575" />
 </p>
 <p>
 Rossmere at Hope and First; further in we&#8217;ve the 1902 Warner Apts at 710 and the 1911 Maxine (at far right, with the tall columns), 724 W First.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3153/2765824083_74d426fd4b_o.gif" alt="closertoyou" height="496" width="575" />
+<img src="http://farm4.static.flickr.com/3153/2765824083_74d426fd4b_o.gif" alt="closertoyou" height="496" width="575" />
 </p>
 <p>
 <i>Courtesy USC Digital Archives </i></p>

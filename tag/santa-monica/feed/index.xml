@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>santa monica &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/santa-monica/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/santa-monica/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 21:56:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>santa monica &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>From the George Mann Archives: Cruising the Coast Highway</title>
-		<link>https://www.onbunkerhill.org/manneats1/</link>
-					<comments>https://www.onbunkerhill.org/manneats1/#respond</comments>
+		<link>/manneats1/</link>
+					<comments>/manneats1/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 24 May 2012 15:48:49 +0000</pubDate>
@@ -42,22 +45,22 @@
 		<category><![CDATA[santa monica]]></category>
 		<category><![CDATA[signgeeks]]></category>
 		<category><![CDATA[vintage neon]]></category>
-		<guid isPermaLink="false">https://www.onbunkerhill.org/?p=1391</guid>
+		<guid isPermaLink="false">/?p=1391</guid>
 
-					<description><![CDATA[George Mann Archives If you&#8217;re a modern person who is passionate about the lost downtown Los Angeles neighborhood of Bunker Hill, you&#8217;re guaranteed more than your fair share of heartbreak. After all, the place you love was completely destroyed after the largest eminent domain land seizure in American history, and replaced with an asparagus patch &#8230; <a href="https://www.onbunkerhill.org/manneats1/" class="more-link">Continue reading<span class="screen-reader-text"> "From the George Mann Archives: Cruising the Coast Highway"</span></a>]]></description>
-										<content:encoded><![CDATA[<p style="text-align: left;"><a title="030.Beach by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943523988/"><img loading="lazy" src="https://farm8.staticflickr.com/7062/6943523988_7622ee2c7f.jpg" alt="030.Beach" width="500" height="333" /></a><i><br />
+					<description><![CDATA[George Mann Archives If you&#8217;re a modern person who is passionate about the lost downtown Los Angeles neighborhood of Bunker Hill, you&#8217;re guaranteed more than your fair share of heartbreak. After all, the place you love was completely destroyed after the largest eminent domain land seizure in American history, and replaced with an asparagus patch &#8230; <a href="/manneats1/" class="more-link">Continue reading<span class="screen-reader-text"> "From the George Mann Archives: Cruising the Coast Highway"</span></a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;"><a title="030.Beach by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943523988/"><img loading="lazy" src="http://farm8.staticflickr.com/7062/6943523988_7622ee2c7f.jpg" alt="030.Beach" width="500" height="333" /></a><i><br />
 George Mann Archives</i></p>
 <p style="text-align: left;">If you&#8217;re a modern person who is passionate about the lost downtown Los Angeles neighborhood of Bunker Hill, you&#8217;re guaranteed more than your fair share of heartbreak. After all, the place you love was completely destroyed after the largest eminent domain land seizure in American history, and replaced with an asparagus patch of bland skyscrapers.<br />
-<a title="BH105 The Melrose, Bunker Hill, Los Angeles - Late 1950s. This copyrighted photograph was taken by George Mann of the comedy dance team, Barto &amp; Mann.jpg by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/4652549743/"><img loading="lazy" src="https://farm5.staticflickr.com/4067/4652549743_b0713a4b28.jpg" alt="BH105 The Melrose, Bunker Hill, Los Angeles - Late 1950s. This copyrighted photograph was taken by George Mann of the comedy dance team, Barto &amp; Mann.jpg" width="471" height="500" /></a><i><br />
+<a title="BH105 The Melrose, Bunker Hill, Los Angeles - Late 1950s. This copyrighted photograph was taken by George Mann of the comedy dance team, Barto &amp; Mann.jpg by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/4652549743/"><img loading="lazy" src="http://farm5.staticflickr.com/4067/4652549743_b0713a4b28.jpg" alt="BH105 The Melrose, Bunker Hill, Los Angeles - Late 1950s. This copyrighted photograph was taken by George Mann of the comedy dance team, Barto &amp; Mann.jpg" width="471" height="500" /></a><i><br />
 photo: George Mann</i></p>
 <p style="text-align: left;">But sweet things come out loving Bunker Hill, too, and few of them sweeter than the rediscovery of George Mann&#8217;s 3-D color <a href="/georgemannshop">scenes</a> of the hill&#8217;s doomed mansions and hotels. These marvelous photographs were taken as part of the ex-Vaudevillian&#8217;s late-life enterprise, the distribution of a device known as the Free 3-D Photo Gallery of Interesting Places and Things, aka Stereo Theatre.<br />
-<a title="GM R-069a by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7089592951/"><img loading="lazy" src="https://farm6.staticflickr.com/5235/7089592951_312d37bc4a.jpg" alt="GM R-069a" width="473" height="500" /></a><i><br />
+<a title="GM R-069a by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7089592951/"><img loading="lazy" src="http://farm6.staticflickr.com/5235/7089592951_312d37bc4a.jpg" alt="GM R-069a" width="473" height="500" /></a><i><br />
 photo: George Mann</i></p>
 <p style="text-align: left;">This compact, freestanding viewing device was invented and manufactured by Mann, and could be found in the entries of numerous L.A. restaurants in the 1950s and 1960s. And should you return two weeks later, you&#8217;d find a different set of original 3-D images inside. No charge to the customer; the restaurants bore the cost.<br />
-<a title="001.Heart of the City by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943523732/"><img loading="lazy" src="https://farm8.staticflickr.com/7110/6943523732_42a3ca38ef.jpg" alt="001.Heart of the City" width="500" height="332" /></a></p>
+<a title="001.Heart of the City by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943523732/"><img loading="lazy" src="http://farm8.staticflickr.com/7110/6943523732_42a3ca38ef.jpg" alt="001.Heart of the City" width="500" height="332" /></a></p>
 <p style="text-align: left;"><i>George Mann Archives</i></p>
 <p style="text-align: left;">Among the thematic selections: scenes of Chinatown, Catalina, Big Sur, Las Vegas, San Pedro, Death Valley, UCLA, the Salton Sea and a great many more.<br />
-<a title="058.LasVegas by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943524282/"><img loading="lazy" src="https://farm8.staticflickr.com/7178/6943524282_7e256f492d.jpg" alt="058.LasVegas" width="500" height="344" /></a></p>
+<a title="058.LasVegas by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943524282/"><img loading="lazy" src="http://farm8.staticflickr.com/7178/6943524282_7e256f492d.jpg" alt="058.LasVegas" width="500" height="344" /></a></p>
 <p style="text-align: left;"><i>George Mann Archives</i></p>
 <p style="text-align: left;">You might be surprised to discover that a popular subject was the signage and exteriors of other Southern California restaurants and nightclubs. In addition to such celebrated and oft-photographed establishments as Ciro&#8217;s, The Brown Derby and Lawry&#8217;s The Prime Rib, Mann documented dozens of attractive establishments that have been otherwise lost to the ages.</p>
 <p style="text-align: left;">Thanks to the dedication of George Mann&#8217;s son Brad Smith and daughter-in-law Dianne Woods, this photographic archive is being scanned and catalogued (and <a href="/georgemannshop" target="_blank">prints</a> sold!).</p>
@@ -65,48 +68,48 @@ photo: George Mann</i></p>
 <p style="text-align: left;"><b>Today&#8217;s episode: Cruising the Coast Highway.<br />
 </b></p>
 <p style="text-align: left;">Sometimes, you&#8217;ve just got to climb into that old wagon, put pedal to the metal and simply drive. There&#8217;s no better vague destination than Santa Monica to Malibu via the Pacific Coast Highway, and Angelenoes have been making this drive in droves since the 1920s. How about if we take a virtual, George Mann-hosted tour of some interesting watering holes along the way?<br />
-<a title="GM 0-13 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943522444/"><img loading="lazy" src="https://farm8.staticflickr.com/7054/6943522444_9e725a233b.jpg" alt="GM 0-13" width="474" height="451" /></a> <i></i></p>
+<a title="GM 0-13 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943522444/"><img loading="lazy" src="http://farm8.staticflickr.com/7054/6943522444_9e725a233b.jpg" alt="GM 0-13" width="474" height="451" /></a> <i></i></p>
 <p style="text-align: left;"><i>photo: George Mann</i></p>
 <p style="text-align: left;">Down at the end of Pier Avenue on the Ocean Park Pier you&#8217;ll find <b>Jack&#8217;s at the Beach,</b> the venerable restaurant run by Jack Compselides. (Stay tuned, as in a later post we&#8217;ll be showing off the amazing figural neon sign from Jack&#8217;s 1950s-era Sunset Strip burger joint.)</p>
 <p style="text-align: left;">Born in Greece circa 1892, by 1907 the teenaged Jack Compselides was learning the hospitality ropes as a busboy in San Francisco&#8217;s elegant Palace Hotel. He opened his own &#8220;small fish shack&#8221; in Venice in 1917 (or maybe 1922), then moved it to Santa Monica in the 1940s. Jack-the-man died in 1957, but Jack&#8217;s-the-place lived on under the ownership of the Hecht family. In 1975, Jack&#8217;s moved inland to 2700 Wilshire Boulevard. The restaurant was sold to the Pacific Dining Car in 1990, and today is the Western outpost of that very old Los Angeles chain, whose Eggs Sardou we adore.<br />
-<a title="GM R-050 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943534252/"><img loading="lazy" src="https://farm8.staticflickr.com/7048/6943534252_0b8148fcf1.jpg" alt="GM R-050" width="474" height="496" /></a> <i></i></p>
+<a title="GM R-050 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943534252/"><img loading="lazy" src="http://farm8.staticflickr.com/7048/6943534252_0b8148fcf1.jpg" alt="GM R-050" width="474" height="496" /></a> <i></i></p>
 <p style="text-align: left;"><i>photo: George Mann</i></p>
-<p style="text-align: left;">Out on the Santa Monica Pier, we&#8217;ll drop in on the <b>Santa Monica Sea Food Co.</b> for a couple of oysters and and to kick the tires of the brand new Mercury Monterey on view outside. Still in business and in the same family, SMSFC was the vision of Italian-born Jack Deluca, a commercial fisherman turned wholesale seafood dealer, who partnered with his brother Frank in the ambitious wholesale/retail enterprise. Read more about it <a href="https://www.santamonicaseafood.com/content/seafood-company-history#" target="_blank">here</a>.<br />
-<a title="GM R-027 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943522614/"><img loading="lazy" src="https://farm6.staticflickr.com/5468/6943522614_0448434f50.jpg" alt="GM R-027" width="471" height="491" /></a></p>
+<p style="text-align: left;">Out on the Santa Monica Pier, we&#8217;ll drop in on the <b>Santa Monica Sea Food Co.</b> for a couple of oysters and and to kick the tires of the brand new Mercury Monterey on view outside. Still in business and in the same family, SMSFC was the vision of Italian-born Jack Deluca, a commercial fisherman turned wholesale seafood dealer, who partnered with his brother Frank in the ambitious wholesale/retail enterprise. Read more about it <a href="http://www.santamonicaseafood.com/content/seafood-company-history#" target="_blank">here</a>.<br />
+<a title="GM R-027 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943522614/"><img loading="lazy" src="http://farm6.staticflickr.com/5468/6943522614_0448434f50.jpg" alt="GM R-027" width="471" height="491" /></a></p>
 <p style="text-align: left;"><i>photo: George Mann</i></p>
 <p style="text-align: left;">Our next stop is Malibu proper, and the <b>Las Flores Cafe</b>&#8211;or as it later became, the <b>Sea Lion</b>.<br />
 Chris Polos purchased the then-modest beach shack around 1944, expanding it and adding the wraparound windows that made it the perfect, cozy spot for viewing the sunset, and they practically had to drag him kicking and screaming off the premises as he neared the century mark. At his side throughout, his wife and partner Helen.<br />
-<a title="GM R-027a by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943522706/"><img loading="lazy" src="https://farm6.staticflickr.com/5319/6943522706_3ce2db01ae.jpg" alt="GM R-027a" width="473" height="490" /></a> <i></i></p>
+<a title="GM R-027a by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943522706/"><img loading="lazy" src="http://farm6.staticflickr.com/5319/6943522706_3ce2db01ae.jpg" alt="GM R-027a" width="473" height="490" /></a> <i></i></p>
 <p style="text-align: left;"><i>photo: George Mann</i></p>
 <p style="text-align: left;">Funny thing, the vintage neon sign as seen in this 1954 photograph doesn&#8217;t say anything about those loud, smelly and somewhat scary sea lions. Seals are so much more cuddly, what with balls on the noses, the big wet eyes, the cute little honking noises and so forth. But it was a single sea lion named Josephine who was the first pinniped on the premises, soon joined in her pool by a variety of injured creatures who ended up on the rocks below and were cared for as they recuperated by the Polos family.</p>
 <p style="text-align: left;">In 1983, Chris Polos told his story to Dave Larsen of the <i>Los Angeles Times</i>. Born in Greece, Chris emigrated in 1900, aged 13, the first of his siblings to join their father in Chicago; his mother never made the trip. Feeling the call of the west, Chris hopped freight trains and did odd jobs, finally reaching California at 18. He survived the San Francisco earthquake, and briefly joined the legions camping in Golden Gate Park, then went up to Portland where he ran a laundry.</p>
 <p style="text-align: left;">Chris travelled the coast, working mainly in restaurants and the candy business, and saving money. He started an avocado and lemon ranch in Escondido, invested in a Long Beach apartment building, then bought the little hamburger shack at the foot of Las Flores Canyon for what he later described as &#8220;a sack of peanuts.&#8221; Somewhere along the way, the Las Flores Cafe became the Sea Lion, and Chris Polos became a millionaire. He built his house on the property, where he read the history and philosophy that fascinated this self-educated gentleman. Over the decades, he and Helen probably made half of Southern California feel at home. He sold the restaurant to the Hungry Tiger chain in 1984, but continued living in the apartment upstairs and bellyaching about how the joint was being run. Chris Polos died in 1986, aged 99.</p>
 <p style="text-align: left;">Today, the old place is called Duke&#8217;s Malibu, part of the T S Restaurants Pacific rim chain. Their blunt mission statement: &#8220;Have Fun, Make Money, With Aloha.&#8221;</p>
 <p style="text-align: left;">Memo to the All Mighty: if you&#8217;re considering extending eternal life to any class of mortals, please consider shining that light over the very few, very special inn keepers who truly care about their work and providing a lively place where travelers can feel like family. Nothing against Duke&#8217;s Malibu in particular&#8211; though recent reviews from regulars bemoan rising prices and decreasing fish quality&#8211;but it&#8217;s really never the same when a corporation is making decisions in the back of the house.<br />
-<a title="GM R-027b by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943522904/"><img loading="lazy" src="https://farm6.staticflickr.com/5350/6943522904_258dbc41e3.jpg" alt="GM R-027b" width="474" height="489" /></a><br />
+<a title="GM R-027b by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943522904/"><img loading="lazy" src="http://farm6.staticflickr.com/5350/6943522904_258dbc41e3.jpg" alt="GM R-027b" width="474" height="489" /></a><br />
 <i>photo: George Mann</i></p>
-<p style="text-align: left;"><a title="GM R-053 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7089593671/"><img loading="lazy" src="https://farm8.staticflickr.com/7091/7089593671_2c7ef2209a.jpg" alt="GM R-053" width="473" height="442" /></a><br />
+<p style="text-align: left;"><a title="GM R-053 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7089593671/"><img loading="lazy" src="http://farm8.staticflickr.com/7091/7089593671_2c7ef2209a.jpg" alt="GM R-053" width="473" height="442" /></a><br />
 <i>photo: George Mann</i></p>
 <p style="text-align: left;"><b>The Albatross</b> was a small hotel/restaurant just west of Chris Polos&#8217; place. The elegant dining room has a cameo in the 1960 Kim Novak / Kirk Douglas infidelity vehicle <a href="ttp://www.youtube.com/watch?v=VObuPJKnc7k" target="_blank">Strangers When We Meet</a>.</p>
-<p style="text-align: left;"><a title="Albatross Strangers When We Meet screen grab 1960 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943521624/"><img loading="lazy" src="https://farm8.staticflickr.com/7061/6943521624_a2338abbd0.jpg" alt="Albatross Strangers When We Meet screen grab 1960" width="411" height="280" /></a><br />
-<a title="Albatross interior Novak and Douglass standing Strangers When We Meet screen grab 1960 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7089592457/"><img loading="lazy" src="https://farm6.staticflickr.com/5450/7089592457_f54fb6e11d.jpg" alt="Albatross interior Novak and Douglass standing Strangers When We Meet screen grab 1960" width="500" height="271" /></a></p>
+<p style="text-align: left;"><a title="Albatross Strangers When We Meet screen grab 1960 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943521624/"><img loading="lazy" src="http://farm8.staticflickr.com/7061/6943521624_a2338abbd0.jpg" alt="Albatross Strangers When We Meet screen grab 1960" width="411" height="280" /></a><br />
+<a title="Albatross interior Novak and Douglass standing Strangers When We Meet screen grab 1960 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7089592457/"><img loading="lazy" src="http://farm6.staticflickr.com/5450/7089592457_f54fb6e11d.jpg" alt="Albatross interior Novak and Douglass standing Strangers When We Meet screen grab 1960" width="500" height="271" /></a></p>
 <p style="text-align: left;">The hotel had only eight rooms, and the restaurant 6,000 square feet. In 1975, the owner sought to expand the dining room, and received a permit to do so if more parking was added and a public sidewalk be built over Las Flores Creek. When these were not done, the permit was revoked and the Albatross shuttered. In 1993, the devastating Old Topanga fire destroyed the building on its path to the sea.</p>
 <p style="text-align: left;">In 2008, the Albatross property was rezoned from commercial to multifamily residential, but various drainage hurdles continue to stand in the way of anything being built on the site. It is today just the fenced-off ruins of a narrow structure which once hugged the shore, tucked between parking lots.<br />
-<a title="GM R-061 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943523218/"><img loading="lazy" src="https://farm8.staticflickr.com/7050/6943523218_c328755d12.jpg" alt="GM R-061" width="472" height="487" /></a></p>
-<p style="text-align: left;"><i>photo: George Mann</i><a title="Malibu Inn 1940s PC by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7089592105/"><img loading="lazy" src="https://farm6.staticflickr.com/5038/7089592105_9dbc63ba0e.jpg" alt="Malibu Inn 1940s PC" width="500" height="305" /></a><br />
+<a title="GM R-061 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943523218/"><img loading="lazy" src="http://farm8.staticflickr.com/7050/6943523218_c328755d12.jpg" alt="GM R-061" width="472" height="487" /></a></p>
+<p style="text-align: left;"><i>photo: George Mann</i><a title="Malibu Inn 1940s PC by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7089592105/"><img loading="lazy" src="http://farm6.staticflickr.com/5038/7089592105_9dbc63ba0e.jpg" alt="Malibu Inn 1940s PC" width="500" height="305" /></a><br />
 The next stop on our coastal jaunt is the old <b>Malibu Inn</b>, opened circa 1920 and run by pioneering Malibu real estate man Art Jones. Its slogan, <i>Where the Hollywood Stars Meet the Sea</i>, reminds us that the original Malibu Colony was a playground for the cinema set.<br />
-<a title="malibu inn menu slogan where the stars meet the sea maybe circa 1930s by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943521468/"><img loading="lazy" src="https://farm6.staticflickr.com/5342/6943521468_c5cb23914e.jpg" alt="malibu inn menu slogan where the stars meet the sea maybe circa 1930s" width="500" height="324" /></a><br />
-But times change, and tastes do, too, and by the spring of 1965 nobody thought anything of the Malibu Federated Republican Women&#8217;s club gathering at the Malibu Inn for a screening and discussion of the film <a href="https://archive.org/details/Perversi1965" target="_blank"><i>Perversion for Profit</i></a>, Charles Keating&#8217;s notorious anti-smut documentary.</p>
+<a title="malibu inn menu slogan where the stars meet the sea maybe circa 1930s by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943521468/"><img loading="lazy" src="http://farm6.staticflickr.com/5342/6943521468_c5cb23914e.jpg" alt="malibu inn menu slogan where the stars meet the sea maybe circa 1930s" width="500" height="324" /></a><br />
+But times change, and tastes do, too, and by the spring of 1965 nobody thought anything of the Malibu Federated Republican Women&#8217;s club gathering at the Malibu Inn for a screening and discussion of the film <a href="http://archive.org/details/Perversi1965" target="_blank"><i>Perversion for Profit</i></a>, Charles Keating&#8217;s notorious anti-smut documentary.</p>
 <p style="text-align: left;">The Malibu Inn moved east in 1950, but we don&#8217;t know if the mortal remains of the brave German Shepard Jerry, a beloved community fixture through the 1930s, made the move as well. According to his 1938 obituary in the <i>L.A. Times,</i> the homeless hero pup rescued two daughters of an unnamed Hollywood star from the surf in 1936, and in 1937 restrained with his teeth a rabid chow-chow that was threatening some children. On his death, he was buried with ceremony behind the old Malibu Inn, where he used to cadge meals.</p>
 <p style="text-align: left;">We also don&#8217;t know if the ghost of John Jensen, Oxnard farmworker, followed the Inn to its new building. Jensen was killed nearby on October 24, 1930, when a telegraph wire stretched across the old Roosevelt Highway caught him as he stood up in back of a truckload of hay being brought into town. He fell head first onto the road and died instantly.<br />
-<a title="malibu inn 1963 postcard by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943521278/"><img loading="lazy" src="https://farm8.staticflickr.com/7127/6943521278_ba914d5bf3.jpg" alt="malibu inn 1963 postcard" width="500" height="308" /></a></p>
+<a title="malibu inn 1963 postcard by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943521278/"><img loading="lazy" src="http://farm8.staticflickr.com/7127/6943521278_ba914d5bf3.jpg" alt="malibu inn 1963 postcard" width="500" height="308" /></a></p>
 <p style="text-align: left;">By 1975, the restaurant was known as the Crazy Horse Saloon, which is rumored to have been run by Neil Young. To anyone who knows anything about Neil Young&#8217;s career, the idea of him running a restaurant circa <i>Zuma</i> evokes an alternate reality <i>Fawlty Towers</i> &#8212; and maybe we&#8217;ll just take this notion and run with it. Anyway, perhaps Young was an investor, but the actual proprietors were Harold Fatt and Tom Blake.</p>
 <p style="text-align: left;">The Malibu Inn name was revived in the &#8216;oughts under the management of Mitchell Stewart and wife Nurit Petri. Stewart died in 2008, and the restaurant was sold in a foreclosure auction. The current owners have rebranded the Inn as a rock and roll-themed restaurant and performance venue.<br />
-<a title="GM R-028 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7089594015/"><img loading="lazy" src="https://farm8.staticflickr.com/7189/7089594015_08798f1550.jpg" alt="GM R-028" width="471" height="467" /></a></p>
+<a title="GM R-028 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7089594015/"><img loading="lazy" src="http://farm8.staticflickr.com/7189/7089594015_08798f1550.jpg" alt="GM R-028" width="471" height="467" /></a></p>
 <p style="text-align: left;"><i>photo: George Mann</i></p>
 <p style="text-align: left;">For our final stop along the coast, what say we grab a cocktail at <b>The Point</b>? The Point has been the Chart House for a long, long time. Before that, it was the Tides Cafe, destroyed by fire in September 1941. We miss its artist&#8217;s palate sign, and its unpretentious nautical architecture. If you&#8217;re not watching the sunset at Las Flores Cafe, this will do just fine.<br />
-<a title="the point malibu pc by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6943521954/"><img loading="lazy" src="https://farm8.staticflickr.com/7076/6943521954_0178ab8af6.jpg" alt="the point malibu pc" width="500" height="321" /></a><br />
-<a title="GM R-065 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7089594161/"><img loading="lazy" src="https://farm6.staticflickr.com/5071/7089594161_77d9bc9371.jpg" alt="GM R-065" width="464" height="500" /></a></p>
+<a title="the point malibu pc by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6943521954/"><img loading="lazy" src="http://farm8.staticflickr.com/7076/6943521954_0178ab8af6.jpg" alt="the point malibu pc" width="500" height="321" /></a><br />
+<a title="GM R-065 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7089594161/"><img loading="lazy" src="http://farm6.staticflickr.com/5071/7089594161_77d9bc9371.jpg" alt="GM R-065" width="464" height="500" /></a></p>
 <p style="text-align: left;"><i>photo: George Mann<br />
 </i></p>
 <p style="text-align: left;">Eventually, of course, you&#8217;ve got to turn the car around and head back into town. And if you&#8217;ve enjoyed yourself a little too thoroughly along the way, when entering Santa Monica you might see something like the above.</p>
@@ -114,8 +117,8 @@ But times change, and tastes do, too, and by the spring of 1965 nobody thought a
 <p style="text-align: left;">Thus ends our first virtual drive following in the footsteps of photographer George Mann. Tune in next time, when we&#8217;ll flip a coin to determine our destination. Heads, we&#8217;re bound for the Sunset Strip and Restaurant Row. Tails? Santa Monica. And if the coin rolls under the davenport, we&#8217;ll simply go to Long Beach. Till then&#8230;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/manneats1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>/manneats1/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
 		
 		
 			</item>

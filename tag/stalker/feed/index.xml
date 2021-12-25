@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>stalker &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/stalker/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/stalker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 21:48:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>stalker &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mrs. Allen Slain By Ex-Beau</title>
-		<link>https://www.onbunkerhill.org/mrsallen/</link>
-					<comments>https://www.onbunkerhill.org/mrsallen/#respond</comments>
+		<link>/mrsallen/</link>
+					<comments>/mrsallen/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 04 Apr 2008 21:12:23 +0000</pubDate>
@@ -44,8 +47,8 @@
 		<category><![CDATA[stalker]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: August 13, 1933 The newlyweds kept a modest apartment here at the Alta Vista. Oh, it may have been something of a step down in the world for bride Harriet Fencel Easton Allen, 25, who had attended USC and UCLA and studied art for two years in Europe, &#8230; <a href="https://www.onbunkerhill.org/mrsallen/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Allen Slain By Ex-Beau"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2388293092/" title="Picture 1 by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2360/2388293092_09e57851d0_o.png" alt="Picture 1" height="285" width="147" /></a></p>
+					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: August 13, 1933 The newlyweds kept a modest apartment here at the Alta Vista. Oh, it may have been something of a step down in the world for bride Harriet Fencel Easton Allen, 25, who had attended USC and UCLA and studied art for two years in Europe, &#8230; <a href="/mrsallen/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Allen Slain By Ex-Beau"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2388293092/" title="Picture 1 by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2360/2388293092_09e57851d0_o.png" alt="Picture 1" height="285" width="147" /></a></p>
 <p>Location: 255 South Bunker Hill Avenue<br />
 Date: August 13, 1933</p>
 <p>The newlyweds kept a modest apartment here at the Alta Vista. Oh, it may have been something of a step down in the world for bride Harriet Fencel Easton Allen, 25, who had attended USC and UCLA and studied art for two years in Europe, and whose father John was former superintendent of the L.A. Athletic Club and manager of the Jonathan Club, but then again, it was convenient to husband Robert Allen&#8217;s cafe at 257 South Olive.</p>
@@ -54,7 +57,7 @@ Date: August 13, 1933</p>
 <p>In the killer&#8217;s pockets were year-old seaside photos of himself with the dead woman, and on the back of one he&#8217;d penciled a last will and testament leaving his insurance, furniture and some land in Arizona, total value $2255 to his sister Elsie Bitner. But this will would be challenged in court when Mrs. Carol E. Moore came forward claiming to be Moore&#8217;s widow, as their divorce decree had not been entered at the time of his death.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/mrsallen/feed/</wfw:commentRss>
+					<wfw:commentRss>/mrsallen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

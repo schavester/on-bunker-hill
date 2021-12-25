@@ -1,43 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: Icarus and the Auto	</title>
-	<atom:link href="https://www.onbunkerhill.org/noicarus/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/noicarus/</link>
+	<atom:link href="/noicarus/feed/" rel="self" type="application/rss+xml" />
+	<link>/noicarus/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 19:53:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/noicarus/#comment-104</link>
+		<link>/noicarus/#comment-104</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Mon, 02 Mar 2009 14:26:27 +0000</pubDate>
 		<guid isPermaLink="false">#comment-104</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3596/3324158376_2a7cbe87fa_o.gif&quot; alt=&quot;subwaymealdeal&quot; height=&quot;431&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3596/3324158376_2a7cbe87fa_o.gif&quot; alt=&quot;subwaymealdeal&quot; height=&quot;431&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3653/3323322371_3281ed351f_o.gif&quot; alt=&quot;thebounce&quot; height=&quot;431&quot; width=&quot;575&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3653/3323322371_3281ed351f_o.gif&quot; alt=&quot;thebounce&quot; height=&quot;431&quot; width=&quot;575&quot; /&gt; 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3596/3324158376_2a7cbe87fa_o.gif" alt="subwaymealdeal" height="431" width="575" />
+<img src="http://farm4.static.flickr.com/3596/3324158376_2a7cbe87fa_o.gif" alt="subwaymealdeal" height="431" width="575" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3653/3323322371_3281ed351f_o.gif" alt="thebounce" height="431" width="575" /></p>
+<img src="http://farm4.static.flickr.com/3653/3323322371_3281ed351f_o.gif" alt="thebounce" height="431" width="575" /></p>
 ]]></content:encoded>
 		
 			</item>

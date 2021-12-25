@@ -1,35 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
-	Comments on: The Hotel Elmar â€” 235 South Hope St.	</title>
-	<atom:link href="https://www.onbunkerhill.org/theelmar/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/theelmar/</link>
+	Comments on: The Hotel Elmar – 235 South Hope St.	</title>
+	<atom:link href="/theelmar/feed/" rel="self" type="application/rss+xml" />
+	<link>/theelmar/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 18 Aug 2019 19:56:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: Patricia Yonemoto		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-31893</link>
+		<link>/theelmar/#comment-31893</link>
 
 		<dc:creator><![CDATA[Patricia Yonemoto]]></dc:creator>
 		<pubDate>Sun, 18 Aug 2019 19:56:16 +0000</pubDate>
 		<guid isPermaLink="false">#comment-31893</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/theelmar/#comment-31582&quot;&gt;Chelsea&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/theelmar/#comment-31582&quot;&gt;Chelsea&lt;/a&gt;.
 
 I could very well be your great aunt, but one must be careful who they contact on the internet.Â  There are three things about the birth of my brother&#039;s daughter that only our families would know.Â  The first being her mother&#039;s first name.Â  If you know these three things, then I am your great aunt, and we should meet.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/theelmar/#comment-31582">Chelsea</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/theelmar/#comment-31582">Chelsea</a>.</p>
 <p>I could very well be your great aunt, but one must be careful who they contact on the internet.Â  There are three things about the birth of my brother&#8217;s daughter that only our families would know.Â  The first being her mother&#8217;s first name.Â  If you know these three things, then I am your great aunt, and we should meet.</p>
 ]]></content:encoded>
 		
@@ -37,16 +40,16 @@ I could very well be your great aunt, but one must be careful who they contact o
 		<item>
 		<title>
 		By: Chelsea		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-31582</link>
+		<link>/theelmar/#comment-31582</link>
 
 		<dc:creator><![CDATA[Chelsea]]></dc:creator>
 		<pubDate>Tue, 13 Aug 2019 13:36:40 +0000</pubDate>
 		<guid isPermaLink="false">#comment-31582</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/theelmar/#comment-13999&quot;&gt;Patricia Yonemoto&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/theelmar/#comment-13999&quot;&gt;Patricia Yonemoto&lt;/a&gt;.
 
 My mother was born Deborah Darlene Mitchell. Her dad was Ernest Owens Chilson, son of Adah and Thearn Chilson. Is this your brother? My mother didn&#039;t really know her dad or much of his family, but I think we might be related. I hope your book is working out well. Please get back to me as you might be my mother&#039;s aunt and my great aunt.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/theelmar/#comment-13999">Patricia Yonemoto</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/theelmar/#comment-13999">Patricia Yonemoto</a>.</p>
 <p>My mother was born Deborah Darlene Mitchell. Her dad was Ernest Owens Chilson, son of Adah and Thearn Chilson. Is this your brother? My mother didn&#8217;t really know her dad or much of his family, but I think we might be related. I hope your book is working out well. Please get back to me as you might be my mother&#8217;s aunt and my great aunt.</p>
 ]]></content:encoded>
 		
@@ -54,7 +57,7 @@ My mother was born Deborah Darlene Mitchell. Her dad was Ernest Owens Chilson, s
 		<item>
 		<title>
 		By: Paul Coyne		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-22548</link>
+		<link>/theelmar/#comment-22548</link>
 
 		<dc:creator><![CDATA[Paul Coyne]]></dc:creator>
 		<pubDate>Sat, 01 Sep 2018 01:28:05 +0000</pubDate>
@@ -68,7 +71,7 @@ My mother was born Deborah Darlene Mitchell. Her dad was Ernest Owens Chilson, s
 		<item>
 		<title>
 		By: Patricia Yonemoto		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-13999</link>
+		<link>/theelmar/#comment-13999</link>
 
 		<dc:creator><![CDATA[Patricia Yonemoto]]></dc:creator>
 		<pubDate>Sun, 15 Oct 2017 22:56:11 +0000</pubDate>
@@ -78,7 +81,7 @@ My mother was born Deborah Darlene Mitchell. Her dad was Ernest Owens Chilson, s
  
 I&#039;m trying to write a short book for my children and grandchildren while I can still remember those early years in L.A. and thought you might enjoy reading the introduction.
 
- &quot; Before there was an us, there was me.  I know itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hard to imagine that there was a time when I had a life that all of you were not a part of, but there was.&quot; 
+ &quot; Before there was an us, there was me.  I know itâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hard to imagine that there was a time when I had a life that all of you were not a part of, but there was.&quot; 
 
 &quot; I was born Patricia Dell Chilson in East L.A. at the old county hospital on February 2nd, 1947.  It was a time before the singers had sung their songs and before the big screen movies had been made, or authors had written their captivating books that glamorized the impoverished and often forgotten people of downtown Los Angeles. In the years to come, I would hear the beautiful, happy sounds of song and music. I would see the big screen movies in vivid technicolor, and read the stories in books that would capture my attention and hold me prisoner, but not yet.  I was born poor, to a mother who already had an eight-year-old son to feed.  My birth certificate says my mother Adah Chilson was a stenographer and an office worker.  It says my father Thearn Chilson was a mechanic.  Our mailing address: 235 S. Hope Street, Los Angeles 12, California.  My birth certificate is black and a photocopy.  My mother white and 39 and my father white and 38.  My world was black and white on the day that I was born.  When there was only me, those in my world often said what was expected of them, but not necessarily what was the truth about them. &quot;]]></description>
 			<content:encoded><![CDATA[<p>Nathan; I don&#8217;t know how long my mother and brother lived at The Hotel Elmar before I was born or how long we lived there after I was born, maybe a year or two. I know I never lived with my father and my mother never worked in an office in L.A. My grandmother joined us at some point.  All my clear memories are of the four of us living at the Huntley Hotel @ 1207 West 3rd., L.A. which later changed its name to the Huntley Apartments @ 1207 Miramar St., L.A. I lived there until I graduated from Belmont High at 18yrs and moved out.</p>
@@ -91,27 +94,27 @@ I&#039;m trying to write a short book for my children and grandchildren while I 
 		<item>
 		<title>
 		By: ronwally		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-132</link>
+		<link>/theelmar/#comment-132</link>
 
 		<dc:creator><![CDATA[ronwally]]></dc:creator>
 		<pubDate>Mon, 02 Aug 2010 13:10:50 +0000</pubDate>
 		<guid isPermaLink="false">#comment-132</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/theelmar/#comment-3&quot;&gt;kim&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/theelmar/#comment-3&quot;&gt;kim&lt;/a&gt;.
 
-Larryâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s tragic death has haunted me all my life. The day Larry was killed, he came up to me in the school yard of Nightingale Elementary School and picked a fight with me. We met between classes at school and had our little fight, who won or who lost is not important. If only I had known he lost his Mother just a few weeks prior, to an illness. Larry went home after our little scuffle, The School principle and his teacher knew that nobody was home for Larry, but they expelled us that day anyway, we were told to go home, the school knew his Dad was still at work. Larry went home made himself a sandwich, and left for the board walk which ran along the beach from Pacific Ocean Park, to the Santa Monica Pier. For several weeks after Larry&#039;s death the Police were at our school quite often. I had heard both Teachers were fired, and eventually sued by Larry&#039;s Father. I think back to that day, now realizing why Larry was angry, I wish I knew what Larry was going through, perhaps I could have befriended him instead of fighting him, and then we could have become friends. His tragic death still affects me, I think of him so often. Luckily for me my Mother was home waiting for me.
+Larryâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s tragic death has haunted me all my life. The day Larry was killed, he came up to me in the school yard of Nightingale Elementary School and picked a fight with me. We met between classes at school and had our little fight, who won or who lost is not important. If only I had known he lost his Mother just a few weeks prior, to an illness. Larry went home after our little scuffle, The School principle and his teacher knew that nobody was home for Larry, but they expelled us that day anyway, we were told to go home, the school knew his Dad was still at work. Larry went home made himself a sandwich, and left for the board walk which ran along the beach from Pacific Ocean Park, to the Santa Monica Pier. For several weeks after Larry&#039;s death the Police were at our school quite often. I had heard both Teachers were fired, and eventually sued by Larry&#039;s Father. I think back to that day, now realizing why Larry was angry, I wish I knew what Larry was going through, perhaps I could have befriended him instead of fighting him, and then we could have become friends. His tragic death still affects me, I think of him so often. Luckily for me my Mother was home waiting for me.
 May God Bless Larry may he rest in peace.
 -Ronald Roy Wallace
 
 THIS ARTICLE WAS WRITTEN BY JACK WEBB: TELEVISION SERIES DRAGNET
 
-â€œKillings are cheap. They cost about $1.35 or $1.40â€¦Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s like being on a quiz show â€¦ When you get 10, you go for 20 â€¦ You always want more â€¦ â€œWhen I was in Quentin, I borrowed books from the prison library. I was studying the operation of railroads. I. panned to run a whole train off a bridge and watch them monkeys go swimming. Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d lie on the river bank and enjoy myself laughing at them.â€
+â€œKillings are cheap. They cost about $1.35 or $1.40â€¦Itâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s like being on a quiz show â€¦ When you get 10, you go for 20 â€¦ You always want more â€¦ â€œWhen I was in Quentin, I borrowed books from the prison library. I was studying the operation of railroads. I. panned to run a whole train off a bridge and watch them monkeys go swimming. Iâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d lie on the river bank and enjoy myself laughing at them.â€
                                                                                     _Steven Nash
 
- How can you read any manâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mind? Especially that of a grunt, toothless, six-foot-three drifter who dreams such monstrous thought as these? How can you believe that in less than a year a man would perpetrate five senseless murders with knife and lead pipe (and perhaps half a dozen more)?
+ How can you read any manâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mind? Especially that of a grunt, toothless, six-foot-three drifter who dreams such monstrous thought as these? How can you believe that in less than a year a man would perpetrate five senseless murders with knife and lead pipe (and perhaps half a dozen more)?
 
-  Sergeant Larry Scarborough was just a slow talking rookie in Homicide Division at the time. His background was the Narcotics detail where he had worked the previous five years. You couldnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reasonably expect that he yet would have developed that intuition, smell of blood, call-it-what-you-will, which sets the Homicide detective apart.
- Yet the very first day he heard of Stephen Nash he knew instinctively that he was touching something evil. Something especially that would have to be stopped fast. At the time, Nash wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t even wanted for murder, but Scarborough suspected a little of the monstrous truth.
+  Sergeant Larry Scarborough was just a slow talking rookie in Homicide Division at the time. His background was the Narcotics detail where he had worked the previous five years. You couldnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reasonably expect that he yet would have developed that intuition, smell of blood, call-it-what-you-will, which sets the Homicide detective apart.
+ Yet the very first day he heard of Stephen Nash he knew instinctively that he was touching something evil. Something especially that would have to be stopped fast. At the time, Nash wasnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t even wanted for murder, but Scarborough suspected a little of the monstrous truth.
 
  All that dull November day, from morning until late afternoon, two men, one boyish twenty-four-year-old the other an older sullen man, stood together on the skid-Row corner in the slave belt, hoping for a job.
 
@@ -130,32 +133,32 @@ THIS ARTICLE WAS WRITTEN BY JACK WEBB: TELEVISION SERIES DRAGNET
 
  Knife upraised for the kill, his assailant followed him, trapping him in the lobby.
 
- For some reason, perhaps because it would have been more merciful, he withheld the fatal thrust, Instead, deliberately, viciously, he stomped on his prostrate victim until he had broken Butlerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s collarbone. Then he fled.
+ For some reason, perhaps because it would have been more merciful, he withheld the fatal thrust, Instead, deliberately, viciously, he stomped on his prostrate victim until he had broken Butlerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s collarbone. Then he fled.
 
  Somehow, Butler survived the attack, and in the hospital he whispered to a radio car patrolman the name of his assailant had given. It was Stephen Nash, all right, and the records down in R. and I. flashed out the story.
 
  At the age of thirty-three, Nash had already done half a dozen years in San Quentin for strong-arm robberies. He had brawled at a cannery where he was working, and done six months on a sheriffs honor farm at Santa Rita.
 
- In the stupid, senseless way of some Skid Row characters, he was bad, but there was nothing to suggest that he was monstrous. Yet something clicked right then for Sergeant Scarborough. Wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t it four or five weeks earlier in Sacramento that it had happened?
+ In the stupid, senseless way of some Skid Row characters, he was bad, but there was nothing to suggest that he was monstrous. Yet something clicked right then for Sergeant Scarborough. Wasnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t it four or five weeks earlier in Sacramento that it had happened?
 
  Scarborough checked the file of All Points Bulletins. Yes here it was: Floyd Leroy Barnett, 27, cannery worker, body found in Sacramento River, Bludgeon and knife wounds.
  Scarborough wired the Sacramento police for full details. Standup mugs of Nash were printed up and distributed. All commands were briefed on his physical description, habits, and known haunts. To police in other cities, LAPD put out a â€œwantâ€ on Nash for assault with a deadly weapon.
 
  Privately, Scarborough knew the charge was an understatement. Ten days later, the gaunt, toothless man is in Long Beach, twenty miles south of Skid Row hangouts. He meets John William Berg, twenty-seven, and the young hairdresser invites him up to his apartment.
 
- There is an argument, or is it one of Nashâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s tirades against society that can be satisfied only by blood and death? He fatally stabs the hairdresser. The next day, he has Bergâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s new clothes altered to fit him, sells his own shabby garments and disappears.
+ There is an argument, or is it one of Nashâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s tirades against society that can be satisfied only by blood and death? He fatally stabs the hairdresser. The next day, he has Bergâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s new clothes altered to fit him, sells his own shabby garments and disappears.
 
  Back in LAPD Homicide, Sergeant Scarborough notes the modus operand i and adds a second murder to the case he is already building against Nash.
 
  Now it is three days after the Berg killing, and ten-year-old Larry Rice is listlessly playing near the pier in the beach area at Venice. Now and then, he glumly kicks a stone, but mostly he just stares out at the water, blinking occasionally.
 
- Larry doesnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t want to play with the other kids or go home to his empty house. He is just killing time in a lonely, inarticulate, small boy way until his father comes home from his job as an aircraft assembler. Larry is an only child; and, eight days ago, his mother died of cancer.
+ Larry doesnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t want to play with the other kids or go home to his empty house. He is just killing time in a lonely, inarticulate, small boy way until his father comes home from his job as an aircraft assembler. Larry is an only child; and, eight days ago, his mother died of cancer.
 
  A gaunt man with a funny, toothless smile gets Larry to talking a little. They drift over to a food stand, and he treats the boy to a hamburger and pop. Then they go under the pier and talk some more.
 
- Thereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s one nice thing ahead, Larry suddenly confides to his new friend. His face brightens in anticipation.
+ Thereâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s one nice thing ahead, Larry suddenly confides to his new friend. His face brightens in anticipation.
 
- After it, well, happenedâ€”he blinks quickly and goes onâ€”his daddy talked to him. Look, kid these things happen, and itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s better for her this way. Now, you be brave, and weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re going on all the rides in the amusement park. Howâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s that! All the rides.
+ After it, well, happenedâ€”he blinks quickly and goes onâ€”his daddy talked to him. Look, kid these things happen, and itâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s better for her this way. Now, you be brave, and weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re going on all the rides in the amusement park. Howâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s that! All the rides.
  Larry likes that, he tells his friend under the pier. He likes his daddy. His daddy says there are going to be lots of more nice things, too.
 
  He looks up smilingly at the gaunt man and wonders, in sudden panic, what did he say wrong? Larry tries to yell, but it comes out a small boys squeak. He tries to run, but the gaunt man grabs him and slashes viciously with a knife.
@@ -172,39 +175,39 @@ Next day, when Nash was bagged by the Santa Monica cops in a roundup of vagrant,
 
  Then toothlessly he smiled at the cops. â€œBesides, I never killed a kid before. I wanted to see how it felt.â€
 
- Quietly Larry Scarborough snapped the handcuffs on Nashâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s thick, muscled wrists, noticing the cuffs clicked in the first notch ad n ore. He took him back to LAPD Headquarters for one of the most detailed, brilliant interrogations in LAPD history, one that was to win for him a special honor plaque from the California Association of Private Investigations.
+ Quietly Larry Scarborough snapped the handcuffs on Nashâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s thick, muscled wrists, noticing the cuffs clicked in the first notch ad n ore. He took him back to LAPD Headquarters for one of the most detailed, brilliant interrogations in LAPD history, one that was to win for him a special honor plaque from the California Association of Private Investigations.
 
  Because he knew so much about his man even before laying eyes on him, Sergeant Scarborough had little trouble getting Bash to talk.
 
- For two weeks, a tape recorder at his side, Scarborough listened and prompted as the killer bragged, whined, screamed, joked, wept, and ranted. Endlessly Nash reviled society and occasionally he laughedâ€”when he described a murder or his hope to invent a new kind of murder by spiking whiskey with iodine. Like the train wreck, he just hadnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t had the opportunity to test it out, he added resentfully.
+ For two weeks, a tape recorder at his side, Scarborough listened and prompted as the killer bragged, whined, screamed, joked, wept, and ranted. Endlessly Nash reviled society and occasionally he laughedâ€”when he described a murder or his hope to invent a new kind of murder by spiking whiskey with iodine. Like the train wreck, he just hadnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t had the opportunity to test it out, he added resentfully.
 
  The story was even worse than Scarborough had suspected. He already knew about the killings of the cannery worker, the hairdresser, and the little boy, all in a six-week period stretching from mid-October to late November. Now Nash filled him in on two more.
 
  Almost a year ago, the previous December, he had beaten William Clarence Burns to death with a lead pipe. Burns an Oakland merchant seaman, had a good job, Nash thought, and that was reason enough to murder. The pipe and body had been thrown into San Francisco Bay near Richmond just north of Oakland.
 
  Then in August, two months before killing fellow cannery worker, Barnett, he had murdered Robert Eche, a twenty-three-year-old draftsman for the Pacific Gas &amp; Electric Company. This was the first time he had used a knife, but the motive was the same as in all wanton killingsâ€”an envious hate.
-Afterwards, he told Sergeant Scarborough, he piled Echeâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s corps into his car and rolled it down a cement ramp into the bay, off Pier 52, in San Francisco. The tide carried the car out to some oil docks where it got caught in the pilings.
+Afterwards, he told Sergeant Scarborough, he piled Echeâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s corps into his car and rolled it down a cement ramp into the bay, off Pier 52, in San Francisco. The tide carried the car out to some oil docks where it got caught in the pilings.
 
- Scarborough listened to a playback of the tape recording and made some notes. The murders had occurred in December, August, October, and then two in November. Had this monster abstained during the long eight-monthâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> period between December and August? Scarborough put it up to him and Nash laughed teasingly.
+ Scarborough listened to a playback of the tape recording and made some notes. The murders had occurred in December, August, October, and then two in November. Had this monster abstained during the long eight-monthâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> period between December and August? Scarborough put it up to him and Nash laughed teasingly.
 
  Why, there were another half dozen killings he could talk about if he wanted to. He was going to sell that information at $200 per body. Scarborough could believe it. The killer was misery as well as bloody.
 
- He didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t even drink wine like most of his Skid Row associates because it cost too much, and he had saved up the prodigious sum of $450 from his cannery wages. But, as it turned out, though he repeated his $200 offer in court, he made no blood money. Neither the newspaper nor the authorities would give him the satisfaction.
+ He didnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t even drink wine like most of his Skid Row associates because it cost too much, and he had saved up the prodigious sum of $450 from his cannery wages. But, as it turned out, though he repeated his $200 offer in court, he made no blood money. Neither the newspaper nor the authorities would give him the satisfaction.
 
  When Scarborough took Nash into Los Angles County Superior Court, the case was tight and tidy. Incredible as the quintuple-murder confession sounded, Scarborough had painstakingly corroborated it. On a week-long tour through the state with Nash, he had revisited the scenes of the five slayings, and everything had checked out as the killer told it.
 
- After listening to the tapes, there wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t much for the jury to do except rule that Nash had been sane when he committed the killings. Since the death sentence was mandatory, there was even less for Judge Burton Noble to do. Sadly he called the New York founding â€œthe most evil person who ever appeared in my courtâ€ and consigned him to death row at San Quentin.â€
+ After listening to the tapes, there wasnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t much for the jury to do except rule that Nash had been sane when he committed the killings. Since the death sentence was mandatory, there was even less for Judge Burton Noble to do. Sadly he called the New York founding â€œthe most evil person who ever appeared in my courtâ€ and consigned him to death row at San Quentin.â€
 
- As Nash stepped into a station wagon for his last ride to San Quentin, he bragged to newspapermen: â€œIâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m the king of killers! Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll go to my death like a king should. I have nothing to die for because I had nothing to live for.â€ A reporter asked if he wanted a Christian burial, and Nash laughed harshly 
+ As Nash stepped into a station wagon for his last ride to San Quentin, he bragged to newspapermen: â€œIâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m the king of killers! Iâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll go to my death like a king should. I have nothing to die for because I had nothing to live for.â€ A reporter asked if he wanted a Christian burial, and Nash laughed harshly 
 
  â€œWho, me!â€ he exclaimed in derision.
 Sergeant Scarborough had no statement. He was drained and sick at heart from his long, close association with evil.
 
 â€¢	Nash was convicted of murder, and sentenced to death. At this writing, an appeal is pending due to a question of â€œDue processâ€ in connection with his sanity trial.
-â€¢	Neither did Larry Riceâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s father, who in ten days had lost his wife and only child to two equally monstrous forms of cancer.
+â€¢	Neither did Larry Riceâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s father, who in ten days had lost his wife and only child to two equally monstrous forms of cancer.
 â€¢	 Backbone of the force, my boy
 ]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/theelmar/#comment-3">kim</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/theelmar/#comment-3">kim</a>.</p>
 <p>Larryâ€™s tragic death has haunted me all my life. The day Larry was killed, he came up to me in the school yard of Nightingale Elementary School and picked a fight with me. We met between classes at school and had our little fight, who won or who lost is not important. If only I had known he lost his Mother just a few weeks prior, to an illness. Larry went home after our little scuffle, The School principle and his teacher knew that nobody was home for Larry, but they expelled us that day anyway, we were told to go home, the school knew his Dad was still at work. Larry went home made himself a sandwich, and left for the board walk which ran along the beach from Pacific Ocean Park, to the Santa Monica Pier. For several weeks after Larry&#8217;s death the Police were at our school quite often. I had heard both Teachers were fired, and eventually sued by Larry&#8217;s Father. I think back to that day, now realizing why Larry was angry, I wish I knew what Larry was going through, perhaps I could have befriended him instead of fighting him, and then we could have become friends. His tragic death still affects me, I think of him so often. Luckily for me my Mother was home waiting for me.<br />
 May God Bless Larry may he rest in peace.<br />
 -Ronald Roy Wallace</p>
@@ -270,17 +273,17 @@ Sergeant Scarborough had no statement. He was drained and sick at heart from his
 		<item>
 		<title>
 		By: rbpowers		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-126</link>
+		<link>/theelmar/#comment-126</link>
 
 		<dc:creator><![CDATA[rbpowers]]></dc:creator>
 		<pubDate>Wed, 06 May 2009 16:14:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-126</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/theelmar/#comment-31&quot;&gt;nathan&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/theelmar/#comment-31&quot;&gt;nathan&lt;/a&gt;.
 
 I found this article most interesting...it isn&#039;t far from where my biological mother lived at 116 South Hope Street shortly before my birth in 1934...later called the Bunker Hill Hotel.  I tried to imagine her walking up and down the streets shown in the photographs and perhaps passing by the Elmar Hotel.
 ]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/theelmar/#comment-31">nathan</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/theelmar/#comment-31">nathan</a>.</p>
 <p>I found this article most interesting&#8230;it isn&#8217;t far from where my biological mother lived at 116 South Hope Street shortly before my birth in 1934&#8230;later called the Bunker Hill Hotel.  I tried to imagine her walking up and down the streets shown in the photographs and perhaps passing by the Elmar Hotel.</p>
 ]]></content:encoded>
 		
@@ -288,25 +291,25 @@ I found this article most interesting...it isn&#039;t far from where my biologic
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-98</link>
+		<link>/theelmar/#comment-98</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sun, 22 Feb 2009 17:41:21 +0000</pubDate>
 		<guid isPermaLink="false">#comment-98</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/theelmar/#comment-88&quot;&gt;nathan&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/theelmar/#comment-88&quot;&gt;nathan&lt;/a&gt;.
 
-&lt;img src=&quot;https://farm4.static.flickr.com/3377/3292796321_45cf304933_o.gif&quot; alt=&quot;ticklemeelmar&quot; height=&quot;319&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3377/3292796321_45cf304933_o.gif&quot; alt=&quot;ticklemeelmar&quot; height=&quot;319&quot; width=&quot;575&quot; /&gt;
 ]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/theelmar/#comment-88">nathan</a>.</p>
-<p><img src="https://farm4.static.flickr.com/3377/3292796321_45cf304933_o.gif" alt="ticklemeelmar" height="319" width="575" /></p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/theelmar/#comment-88">nathan</a>.</p>
+<p><img src="http://farm4.static.flickr.com/3377/3292796321_45cf304933_o.gif" alt="ticklemeelmar" height="319" width="575" /></p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-88</link>
+		<link>/theelmar/#comment-88</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Tue, 17 Feb 2009 13:49:04 +0000</pubDate>
@@ -319,13 +322,13 @@ Digging around in the LAPL online photo archives, as is my wont, searching for s
 That little figure, right, were he to trudge up those stairs, would be up on Hope Street.  The scorched plain in the foreground is the former site of the Elmar.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3135/3287979401_70a5a2f435_o.gif&quot; alt=&quot;scorchedearth&quot; height=&quot;400&quot; width=&quot;498&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3135/3287979401_70a5a2f435_o.gif&quot; alt=&quot;scorchedearth&quot; height=&quot;400&quot; width=&quot;498&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-Who knows, maybe that&#039;s a young &lt;a href=&quot;https://www.malaspina.org/Kiefera.htm&quot; title=&quot;thekief&quot; target=&quot;_blank&quot;&gt;Anselm Kiefer&lt;/a&gt; getting ideas.
+Who knows, maybe that&#039;s a young &lt;a href=&quot;http://www.malaspina.org/Kiefera.htm&quot; title=&quot;thekief&quot; target=&quot;_blank&quot;&gt;Anselm Kiefer&lt;/a&gt; getting ideas.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3229/3288795930_8b6ec72e9f_o.gif&quot; alt=&quot;landfill&quot; height=&quot;400&quot; width=&quot;494&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3229/3288795930_8b6ec72e9f_o.gif&quot; alt=&quot;landfill&quot; height=&quot;400&quot; width=&quot;494&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
@@ -338,13 +341,13 @@ Digging around in the LAPL online photo archives, as is my wont, searching for s
 That little figure, right, were he to trudge up those stairs, would be up on Hope Street.  The scorched plain in the foreground is the former site of the Elmar.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3135/3287979401_70a5a2f435_o.gif" alt="scorchedearth" height="400" width="498" />
+<img src="http://farm4.static.flickr.com/3135/3287979401_70a5a2f435_o.gif" alt="scorchedearth" height="400" width="498" />
 </p>
 <p>
-Who knows, maybe that&#8217;s a young <a href="https://www.malaspina.org/Kiefera.htm" title="thekief" target="_blank">Anselm Kiefer</a> getting ideas.
+Who knows, maybe that&#8217;s a young <a href="http://www.malaspina.org/Kiefera.htm" title="thekief" target="_blank">Anselm Kiefer</a> getting ideas.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3229/3288795930_8b6ec72e9f_o.gif" alt="landfill" height="400" width="494" />
+<img src="http://farm4.static.flickr.com/3229/3288795930_8b6ec72e9f_o.gif" alt="landfill" height="400" width="494" />
 </p>
 <p>
 &nbsp;</p>
@@ -354,7 +357,7 @@ Who knows, maybe that&#8217;s a young <a href="https://www.malaspina.org/Kiefera
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-63</link>
+		<link>/theelmar/#comment-63</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sun, 28 Dec 2008 17:49:00 +0000</pubDate>
@@ -364,13 +367,13 @@ Who knows, maybe that&#8217;s a young <a href="https://www.malaspina.org/Kiefera
 While poking around after something else (which I sought to find in USC&#039;s Automobile Club archives, bless &#039;em) I turned up this image shot from 2nd down Hope toward the library:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3216/3145252645_92ee39eba9_o.gif&quot; alt=&quot;downwithhope&quot; height=&quot;327&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3216/3145252645_92ee39eba9_o.gif&quot; alt=&quot;downwithhope&quot; height=&quot;327&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 -- which of course screams &#034;giant Elmar rooftop neon.&#034;  Oh, were that all screaming was such music.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3249/3146084128_e7e10131d3_o.gif&quot; alt=&quot;neonupclose&quot; height=&quot;336&quot; width=&quot;444&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3249/3146084128_e7e10131d3_o.gif&quot; alt=&quot;neonupclose&quot; height=&quot;336&quot; width=&quot;444&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 1928, and they already must insist they&#039;re the &lt;i&gt;New&lt;/i&gt; Hotel Elmar.  Uh-huh. 
@@ -380,13 +383,13 @@ While poking around after something else (which I sought to find in USC&#039;s A
 While poking around after something else (which I sought to find in USC&#8217;s Automobile Club archives, bless &#8217;em) I turned up this image shot from 2nd down Hope toward the library:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3216/3145252645_92ee39eba9_o.gif" alt="downwithhope" height="327" width="575" />
+<img src="http://farm4.static.flickr.com/3216/3145252645_92ee39eba9_o.gif" alt="downwithhope" height="327" width="575" />
 </p>
 <p>
 &#8212; which of course screams &quot;giant Elmar rooftop neon.&quot;  Oh, were that all screaming was such music.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3249/3146084128_e7e10131d3_o.gif" alt="neonupclose" height="336" width="444" />
+<img src="http://farm4.static.flickr.com/3249/3146084128_e7e10131d3_o.gif" alt="neonupclose" height="336" width="444" />
 </p>
 <p>
 1928, and they already must insist they&#8217;re the <i>New</i> Hotel Elmar.  Uh-huh.</p>
@@ -396,7 +399,7 @@ While poking around after something else (which I sought to find in USC&#8217;s 
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/theelmar/#comment-31</link>
+		<link>/theelmar/#comment-31</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sun, 05 Oct 2008 22:17:28 +0000</pubDate>
@@ -406,19 +409,19 @@ While poking around after something else (which I sought to find in USC&#8217;s 
 In this post I assert the Elmar was built in 1926--shows what the hell I know.  That&#039;s a date I pulled from a &lt;i&gt;Times&lt;/i&gt; article.  But lo and behold, here&#039;s the Elmar in 1921:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3073/2913087937_21d16ed1b8_o.gif&quot; alt=&quot;elmarbaist&quot; height=&quot;496&quot; width=&quot;452&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3073/2913087937_21d16ed1b8_o.gif&quot; alt=&quot;elmarbaist&quot; height=&quot;496&quot; width=&quot;452&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 ...perhaps the &#039;26 date had something to do with when they joined the two buildings?  As you can see, they made one big to-do of the hotel and its annex:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3249/2913933760_768dccedae_o.gif&quot; alt=&quot;Elmaracrosscinnabar&quot; height=&quot;387&quot; width=&quot;452&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3249/2913933760_768dccedae_o.gif&quot; alt=&quot;Elmaracrosscinnabar&quot; height=&quot;387&quot; width=&quot;452&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3193/2913933440_b6056b5c87_o.gif&quot; alt=&quot;elmarsanborn&quot; height=&quot;501&quot; width=&quot;452&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3193/2913933440_b6056b5c87_o.gif&quot; alt=&quot;elmarsanborn&quot; height=&quot;501&quot; width=&quot;452&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3057/2913933604_880fbb67b5_o.gif&quot; alt=&quot;elmaragainmod&quot; height=&quot;309&quot; width=&quot;452&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3057/2913933604_880fbb67b5_o.gif&quot; alt=&quot;elmaragainmod&quot; height=&quot;309&quot; width=&quot;452&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 I do like how, in the 1950 Sanborn map, it&#039;s called the &#034;El Mar,&#034; which makes it sound much more along-the-coast than hunkered against Hope and sidled against Cinnabar.   
@@ -428,19 +431,19 @@ I do like how, in the 1950 Sanborn map, it&#039;s called the &#034;El Mar,&#034;
 In this post I assert the Elmar was built in 1926&#8211;shows what the hell I know.  That&#8217;s a date I pulled from a <i>Times</i> article.  But lo and behold, here&#8217;s the Elmar in 1921:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3073/2913087937_21d16ed1b8_o.gif" alt="elmarbaist" height="496" width="452" />
+<img src="http://farm4.static.flickr.com/3073/2913087937_21d16ed1b8_o.gif" alt="elmarbaist" height="496" width="452" />
 </p>
 <p>
 &#8230;perhaps the &#8217;26 date had something to do with when they joined the two buildings?  As you can see, they made one big to-do of the hotel and its annex:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3249/2913933760_768dccedae_o.gif" alt="Elmaracrosscinnabar" height="387" width="452" />
+<img src="http://farm4.static.flickr.com/3249/2913933760_768dccedae_o.gif" alt="Elmaracrosscinnabar" height="387" width="452" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3193/2913933440_b6056b5c87_o.gif" alt="elmarsanborn" height="501" width="452" />
+<img src="http://farm4.static.flickr.com/3193/2913933440_b6056b5c87_o.gif" alt="elmarsanborn" height="501" width="452" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3057/2913933604_880fbb67b5_o.gif" alt="elmaragainmod" height="309" width="452" />
+<img src="http://farm4.static.flickr.com/3057/2913933604_880fbb67b5_o.gif" alt="elmaragainmod" height="309" width="452" />
 </p>
 <p>
 I do like how, in the 1950 Sanborn map, it&#8217;s called the &quot;El Mar,&quot; which makes it sound much more along-the-coast than hunkered against Hope and sidled against Cinnabar.</p>

@@ -1,49 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: Bryan Mansion &#038; Fleur-de-Lis Apartments/Capitol Hotel &#8211; 333 S. Grand Avenue	</title>
-	<atom:link href="https://www.onbunkerhill.org/bryan_mansion/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/bryan_mansion/</link>
+	<atom:link href="/bryan_mansion/feed/" rel="self" type="application/rss+xml" />
+	<link>/bryan_mansion/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:46:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/bryan_mansion/#comment-29</link>
+		<link>/bryan_mansion/#comment-29</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Thu, 02 Oct 2008 23:43:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-29</guid>
 
 					<description><![CDATA[&lt;p&gt;
-I thought it a shame there wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t an image of the Fleur-de-Lis/Capitol Hotel that replaced the Bryan, so I dug one up in the USC Archives.  Notice the &lt;a href=&quot;/brunson_mansion&quot; title=&quot;Brunson&quot; target=&quot;_blank&quot;&gt;Brunson&lt;/a&gt; in the foreground.  &lt;br /&gt;
+I thought it a shame there wasnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t an image of the Fleur-de-Lis/Capitol Hotel that replaced the Bryan, so I dug one up in the USC Archives.  Notice the &lt;a href=&quot;/brunson_mansion&quot; title=&quot;Brunson&quot; target=&quot;_blank&quot;&gt;Brunson&lt;/a&gt; in the foreground.  &lt;br /&gt;
 &lt;br /&gt;
-This shot ca. 1910, obviously taken atop the recently-completed &lt;a href=&quot;/TheZelda&quot; title=&quot;homeoftheZeldettes&quot; target=&quot;_blank&quot;&gt;Zelda&lt;/a&gt;.  Other stuff to look atâ€”the turreted building in the distance is the Nugent, later called the New Grand.  Eventually the &lt;a href=&quot;/stottslanding&quot; title=&quot;Alto&quot; target=&quot;_blank&quot;&gt;Alto &lt;/a&gt; would be built behind it.  Further beyond, one can just read the â€œMinnewaskaâ€ ghost-sign on the Dome (flagpole sticking up from).  One can make out the tower of the &lt;a href=&quot;/as%20well%20https://www.onbunkerhill.org/brousseau_mansion&quot; title=&quot;bm&quot; target=&quot;_blank&quot;&gt;Brousseau&lt;/a&gt;, to the left.&lt;br /&gt;
+This shot ca. 1910, obviously taken atop the recently-completed &lt;a href=&quot;/TheZelda&quot; title=&quot;homeoftheZeldettes&quot; target=&quot;_blank&quot;&gt;Zelda&lt;/a&gt;.  Other stuff to look atâ€”the turreted building in the distance is the Nugent, later called the New Grand.  Eventually the &lt;a href=&quot;/stottslanding&quot; title=&quot;Alto&quot; target=&quot;_blank&quot;&gt;Alto &lt;/a&gt; would be built behind it.  Further beyond, one can just read the â€œMinnewaskaâ€ ghost-sign on the Dome (flagpole sticking up from).  One can make out the tower of the &lt;a href=&quot;/as%20well%20/brousseau_mansion&quot; title=&quot;bm&quot; target=&quot;_blank&quot;&gt;Brousseau&lt;/a&gt;, to the left.&lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3167/2908438515_85681d8dd4_o.gif&quot; alt=&quot;map&quot; align=&quot;left&quot; height=&quot;491&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3167/2908438515_85681d8dd4_o.gif&quot; alt=&quot;map&quot; align=&quot;left&quot; height=&quot;491&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
 &lt;/p&gt;
 &lt;p&gt;
-The Fleur de Lis here is not to be confused with the establishment run by Pierce Patchett.  (Rather, please note that the &lt;i&gt;Fleur de Lis&lt;/i&gt; in becoming the &lt;i&gt;Capitol&lt;/i&gt;, signified the ascendancy of the Merovingians from mere occultic into real power; the destruction of Bunker Hill was actually symbolic regicide.  But thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s another post.)
+The Fleur de Lis here is not to be confused with the establishment run by Pierce Patchett.  (Rather, please note that the &lt;i&gt;Fleur de Lis&lt;/i&gt; in becoming the &lt;i&gt;Capitol&lt;/i&gt;, signified the ascendancy of the Merovingians from mere occultic into real power; the destruction of Bunker Hill was actually symbolic regicide.  But thatâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s another post.)
 &lt;/p&gt;
 &lt;p&gt;
 And now, a map:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3109/2909314654_f097cc09f2_o.gif&quot; alt=&quot;amapupGrand&quot; height=&quot;444&quot; width=&quot;281&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3109/2909314654_f097cc09f2_o.gif&quot; alt=&quot;amapupGrand&quot; height=&quot;444&quot; width=&quot;281&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 ...1921; FDL has undergone its name change.  The Brunson&#039;s undergone &lt;i&gt;its&lt;/i&gt; transformation into a garage.
@@ -54,8 +57,8 @@ And now, a map:
 ]]></description>
 			<content:encoded><![CDATA[<p>
 I thought it a shame there wasnâ€™t an image of the Fleur-de-Lis/Capitol Hotel that replaced the Bryan, so I dug one up in the USC Archives.  Notice the <a href="/brunson_mansion" title="Brunson" target="_blank">Brunson</a> in the foreground.  </p>
-<p>This shot ca. 1910, obviously taken atop the recently-completed <a href="/TheZelda" title="homeoftheZeldettes" target="_blank">Zelda</a>.  Other stuff to look atâ€”the turreted building in the distance is the Nugent, later called the New Grand.  Eventually the <a href="/stottslanding" title="Alto" target="_blank">Alto </a> would be built behind it.  Further beyond, one can just read the â€œMinnewaskaâ€ ghost-sign on the Dome (flagpole sticking up from).  One can make out the tower of the <a href="/as%20well%20https://www.onbunkerhill.org/brousseau_mansion" title="bm" target="_blank">Brousseau</a>, to the left.</p>
-<p><img src="https://farm4.static.flickr.com/3167/2908438515_85681d8dd4_o.gif" alt="map" align="left" height="491" width="575" />
+<p>This shot ca. 1910, obviously taken atop the recently-completed <a href="/TheZelda" title="homeoftheZeldettes" target="_blank">Zelda</a>.  Other stuff to look atâ€”the turreted building in the distance is the Nugent, later called the New Grand.  Eventually the <a href="/stottslanding" title="Alto" target="_blank">Alto </a> would be built behind it.  Further beyond, one can just read the â€œMinnewaskaâ€ ghost-sign on the Dome (flagpole sticking up from).  One can make out the tower of the <a href="/as%20well%20/brousseau_mansion" title="bm" target="_blank">Brousseau</a>, to the left.</p>
+<p><img src="http://farm4.static.flickr.com/3167/2908438515_85681d8dd4_o.gif" alt="map" align="left" height="491" width="575" />
 </p>
 <p>
 &nbsp;
@@ -67,7 +70,7 @@ The Fleur de Lis here is not to be confused with the establishment run by Pierce
 And now, a map:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3109/2909314654_f097cc09f2_o.gif" alt="amapupGrand" height="444" width="281" />
+<img src="http://farm4.static.flickr.com/3109/2909314654_f097cc09f2_o.gif" alt="amapupGrand" height="444" width="281" />
 </p>
 <p>
 &#8230;1921; FDL has undergone its name change.  The Brunson&#8217;s undergone <i>its</i> transformation into a garage.
@@ -80,7 +83,7 @@ And now, a map:
 		<item>
 		<title>
 		By: jss1954		</title>
-		<link>https://www.onbunkerhill.org/bryan_mansion/#comment-2</link>
+		<link>/bryan_mansion/#comment-2</link>
 
 		<dc:creator><![CDATA[jss1954]]></dc:creator>
 		<pubDate>Tue, 20 May 2008 05:20:22 +0000</pubDate>

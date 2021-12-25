@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>doctor &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/doctor/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/doctor/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:46:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>doctor &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Zahn Family &#8211; 427 South Hope Street</title>
-		<link>https://www.onbunkerhill.org/zahn_mansion/</link>
-					<comments>https://www.onbunkerhill.org/zahn_mansion/#respond</comments>
+		<link>/zahn_mansion/</link>
+					<comments>/zahn_mansion/#respond</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 02 Jun 2008 23:26:13 +0000</pubDate>
@@ -44,37 +47,37 @@
 		<category><![CDATA[zahn]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[From the time Bunker Hill started becoming a fashionable residential neighborhood in the 1880s until it fell out of fashion and started being razed in the 1950s, countless residents filtered in and out of the area. Pioneers like Beaudry and Bradbury are memorialized with their names emblazoned on street signs or buildings. Most have been &#8230; <a href="https://www.onbunkerhill.org/zahn_mansion/" class="more-link">Continue reading<span class="screen-reader-text"> "The Zahn Family &#8211; 427 South Hope Street"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3060/2546876175_9a45fd4729.jpg?v=0" alt="Zahn Residence" align="left" height="380" hspace="5" vspace="5" width="469" /></p>
+					<description><![CDATA[From the time Bunker Hill started becoming a fashionable residential neighborhood in the 1880s until it fell out of fashion and started being razed in the 1950s, countless residents filtered in and out of the area. Pioneers like Beaudry and Bradbury are memorialized with their names emblazoned on street signs or buildings. Most have been &#8230; <a href="/zahn_mansion/" class="more-link">Continue reading<span class="screen-reader-text"> "The Zahn Family &#8211; 427 South Hope Street"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3060/2546876175_9a45fd4729.jpg?v=0" alt="Zahn Residence" align="left" height="380" hspace="5" vspace="5" width="469" /></p>
 <p>From the time Bunker Hill started becoming a fashionable residential neighborhood in the 1880s until it fell out of fashion and started being razed in the 1950s, countless residents filtered in and out of the area. Pioneers like Beaudry and Bradbury are memorialized with their names emblazoned on street signs or buildings. Most have been forgotten. Others, like the Zahn family of Hope Street are a faded memory of the city they helped develop, but whose contributions can linger in the minds of those chasing the ghosts of Los Angeles. </p>
 <p><!--break--><br />
 Dr. Johann Carl Zahn was born in Austria in 1822 and made his way to Australia when he was in his mid 20s. A deeply religious man, the small fortune he amassed as a successful physician was donated to a mission he helped found. In 1871, Dr. Zahn and his bride, Frances, sailed to San Francisco. The couple originally planned to continue on to Chicago, but the Great Fire killed those plans and they stayed in California where Zahn again built up his bank account as a physician and his wife gave birth to three sons; Oscar, Oswald and Otto.</p>
 <div align="center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3068/2547699588_b8f84a5cb6.jpg?v=0" alt="Zahn Residence" height="400" width="363" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3068/2547699588_b8f84a5cb6.jpg?v=0" alt="Zahn Residence" height="400" width="363" />
 </div>
 <p>
-In 1874, the family moved to Los Angeles, where Dr. Zahn, now going by the name John instead of Johann, began purchasing real estate. By 1878, the family had added two more sons; Lorenzo Paul and Hector. Early on the family resided on Spring Street near a church Zahn had built because, according to the L.A. Times, â€œthe denomination with which he had been accustomed to worship had no church.â€ In 1890 the Zahns decided to relocate to Bunker Hill and had a house built at 427 South Hope Street.</p>
-<p>The residence on Hope Street was a large building, yet simple and elegant with far less ornamentation than a lot of the other painted ladies in the neighborhood. Behind the house was a small pasteur where horses were kept and the Zahn boys would sometimes amuse themselves by careening down the grassy hills in the area on homemade sleds. Lorenzo Paul Zahn later became friends with artist Leo Politi and recounted learning to swim at a pond at Second and Beaudry which â€œwas formed by a brook that ran down from Echo Park.â€ Despite the pastoral setting of the family home, Dr. Zahn prophesied to his five sons that one day they would be able to walk from Downtown to Santa Monica on concrete sidewalks.</p>
+In 1874, the family moved to Los Angeles, where Dr. Zahn, now going by the name John instead of Johann, began purchasing real estate. By 1878, the family had added two more sons; Lorenzo Paul and Hector. Early on the family resided on Spring Street near a church Zahn had built because, according to the L.A. Times, “the denomination with which he had been accustomed to worship had no church.” In 1890 the Zahns decided to relocate to Bunker Hill and had a house built at 427 South Hope Street.</p>
+<p>The residence on Hope Street was a large building, yet simple and elegant with far less ornamentation than a lot of the other painted ladies in the neighborhood. Behind the house was a small pasteur where horses were kept and the Zahn boys would sometimes amuse themselves by careening down the grassy hills in the area on homemade sleds. Lorenzo Paul Zahn later became friends with artist Leo Politi and recounted learning to swim at a pond at Second and Beaudry which “was formed by a brook that ran down from Echo Park.” Despite the pastoral setting of the family home, Dr. Zahn prophesied to his five sons that one day they would be able to walk from Downtown to Santa Monica on concrete sidewalks.</p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3116/2547699704_d8bf60d231.jpg?v=0" alt="Zahn Residence" height="293" width="500" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3116/2547699704_d8bf60d231.jpg?v=0" alt="Zahn Residence" height="293" width="500" />
 </div>
 <p>&nbsp;</p>
 <div>
-Dr. J.C. Zahn became a beloved member of the community, treating anyone in need regardless of income or social standing, and contributing to countless charities. He always supported street work in the ever growing city, even if damage was done to his property. Dr. John Carl Zahn passed away after a long illness at the age of 79 in October 1901. In his lengthy obituary, the Times pointed out that â€œhe was never affiliated with secret organizations. His church was his lodge.â€ His family would continue living in the Hope Street residence for another eleven years. 
+Dr. J.C. Zahn became a beloved member of the community, treating anyone in need regardless of income or social standing, and contributing to countless charities. He always supported street work in the ever growing city, even if damage was done to his property. Dr. John Carl Zahn passed away after a long illness at the age of 79 in October 1901. In his lengthy obituary, the Times pointed out that “he was never affiliated with secret organizations. His church was his lodge.” His family would continue living in the Hope Street residence for another eleven years. 
 </div>
 <p align="center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3037/2546875923_545bc9881c.jpg?v=0" alt="LA Times Ad" height="161" width="500" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3037/2546875923_545bc9881c.jpg?v=0" alt="LA Times Ad" height="161" width="500" />
 </p>
 <p>
-While the elder Zahn kept busy with his patients, two of his sons became, of all things, expert homing pigeon trainers. The birds were trained to deliver messages to and from Catalina Island and their pigeon â€œBig Jimâ€ once made the trip from the island in fifty minutes. The Zahns would frequently organize pigeon races from Santa Monica where five of Oswald&#8217;s birds once set a local record by flying in a flock and making the trip in 16 minutes 20 seconds. The brothers also bred and sold homing pigeons until technology made their usefulness obsolete.</p>
+While the elder Zahn kept busy with his patients, two of his sons became, of all things, expert homing pigeon trainers. The birds were trained to deliver messages to and from Catalina Island and their pigeon “Big Jim” once made the trip from the island in fifty minutes. The Zahns would frequently organize pigeon races from Santa Monica where five of Oswald&#8217;s birds once set a local record by flying in a flock and making the trip in 16 minutes 20 seconds. The brothers also bred and sold homing pigeons until technology made their usefulness obsolete.</p>
 <div align="center">
-<img loading="lazy" src="https://farm3.static.flickr.com/2125/2547699844_ab130af5a5.jpg?v=0" alt="LA Times Headline" height="217" width="500" />
+<img loading="lazy" src="http://farm3.static.flickr.com/2125/2547699844_ab130af5a5.jpg?v=0" alt="LA Times Headline" height="217" width="500" />
 </div>
 <p>
-In 1903, scandal struck the squeaky clean family when Hector Zahn was sued for â€œ$25,000 damage for winning away the wife of Grant Burkert, a drug clerk.â€ Burkert and his wife had been hired by Otto Zahn to work at  Rancho Angelleno near Hemet where Hector frequently resided, training race horses. While Burket was attending to his duties, Hector Zahn kept busy in the house â€œsparkingâ€ Mrs. Burket and would â€œtake her driving with the speedy nags to Hemet and San Jacinto, sometimes returning late at night.â€ Zahn would continually coax the young woman into the barnyard and other cozy places on the ranch and talked her into filing for divorce by lavishing her with â€œjewelry, candy, slippers, toilet articles, perfumes and a racehorse named Bead&#8217;s Orphan.â€ Mr. Burket also claimed that the widow Zahn encouraged the adulterous behavior by suggesting her son and his new squeeze move into the Hope Street house, despite the objections of the rest of the family. Young Hector eventually made an honest woman out of the divorcee by eloping in Arizona.</p>
+In 1903, scandal struck the squeaky clean family when Hector Zahn was sued for “$25,000 damage for winning away the wife of Grant Burkert, a drug clerk.” Burkert and his wife had been hired by Otto Zahn to work at  Rancho Angelleno near Hemet where Hector frequently resided, training race horses. While Burket was attending to his duties, Hector Zahn kept busy in the house “sparking” Mrs. Burket and would “take her driving with the speedy nags to Hemet and San Jacinto, sometimes returning late at night.” Zahn would continually coax the young woman into the barnyard and other cozy places on the ranch and talked her into filing for divorce by lavishing her with “jewelry, candy, slippers, toilet articles, perfumes and a racehorse named Bead&#8217;s Orphan.” Mr. Burket also claimed that the widow Zahn encouraged the adulterous behavior by suggesting her son and his new squeeze move into the Hope Street house, despite the objections of the rest of the family. Young Hector eventually made an honest woman out of the divorcee by eloping in Arizona.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3132/2546876437_ace6fd91e3.jpg?v=0" alt="Board of Library Commissioners" height="370" width="500" /><i></i>
+<img loading="lazy" src="http://farm4.static.flickr.com/3132/2546876437_ace6fd91e3.jpg?v=0" alt="Board of Library Commissioners" height="370" width="500" /><i></i>
 </div>
 <div style="text-align: center">
 <i>Mrs. Otto Zahn and the Board of Library Commissioners</i>
@@ -83,14 +86,14 @@ In 1903, scandal struck the squeaky clean family when Hector Zahn was sued for �
 <p>Otto Zahn brought renewed respectability to the family name by marrying Frances Sproston, who had resided in Los Angeles since 1896. Frances Sproston Zahn would serve on the Board of Library Commissioners from 1914 until her death in 1944, and became the first female to be elected President of the Board in 1936.  </p>
 <p>Mrs. J.C. Zahn continued overseeing the family real estate holdings after her husband&#8217;s death, and in 1912 had the family home demolished in favor of a three story brick building which was to be called the Zahn Apartments but ended up going by the name Rubaiyat. In 1930, the building was remodeled and renamed the Wickland Apartments and in its last few years was known as the St. Leon until it was demolished around 1963.</p>
 <p align="center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3108/2547699460_9f921d78f0.jpg?v=0" alt="The Zahn Brothers" height="367" width="500" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3108/2547699460_9f921d78f0.jpg?v=0" alt="The Zahn Brothers" height="367" width="500" />
 </p>
 <p>
 By 1937, Dr. Zahn&#8217;s prophecy had come true, and the green pastures of Los Angeles had become a concrete jungle. To celebrate their father and his prediction about sidewalks stretching from Downtown to Santa Monica, the five Zahn brothers got together and walked from the Evening Herald and Express Building to the sea. It probably took them a little bit longer to make the trek than Oswald&#8217;s homing pigeons.</p>
 <p><i>All photos courtesy of the Los Angeles Public Library Photo Collection</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/zahn_mansion/feed/</wfw:commentRss>
+					<wfw:commentRss>/zahn_mansion/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

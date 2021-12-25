@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: A Drive Through Bunker Hill and Downtown Los Angeles, ca. 1940s	</title>
-	<atom:link href="https://www.onbunkerhill.org/adrivethroughbunkerhill/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/adrivethroughbunkerhill/</link>
+	<atom:link href="/adrivethroughbunkerhill/feed/" rel="self" type="application/rss+xml" />
+	<link>/adrivethroughbunkerhill/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Fri, 04 Oct 2019 00:51:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: Martha H. Urueta		</title>
-		<link>https://www.onbunkerhill.org/adrivethroughbunkerhill/#comment-13088</link>
+		<link>/adrivethroughbunkerhill/#comment-13088</link>
 
 		<dc:creator><![CDATA[Martha H. Urueta]]></dc:creator>
 		<pubDate>Sun, 06 Aug 2017 23:36:03 +0000</pubDate>
@@ -34,7 +37,7 @@
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/adrivethroughbunkerhill/#comment-356</link>
+		<link>/adrivethroughbunkerhill/#comment-356</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sat, 10 Sep 2011 04:41:00 +0000</pubDate>
@@ -46,50 +49,50 @@ Here at OBH HQ, there&#039;s forever something clackety-clackin&#039; on the ol&
 &lt;p&gt;
 Don&#039;t get me wrong:Â  I love violence and nudity, and that other nonsense they put in Vaster Achievements of Cinema, whatsitcalled, narrative, and this picture &lt;i&gt;still&lt;/i&gt; achieves greatness after dispensing with all that stuff.Â  This is a mere piece of process-plate photography, footage shot so, whomever, Alan Ladd could lounge in some studio, well-lit and well-recorded, &#034;driving&#034; in a fake-o car and they&#039;d throw this filmic business behind him, while we&#039;re in the OBH HQ screening room sixty years later yelling &#034;Hey Alan Ladd!Â  Move your stupid head!Â  That&#039;s the Lovejoy Apartments you&#039;re blocking!&#034;&lt;br /&gt;
 &lt;br /&gt;
-The values of its structure notwithstanding (it actually &lt;i&gt;does&lt;/i&gt; have three acts) this cinematic curiosity pops its head up, how, after sixty some-odd years (it has been dated to the Summer of &#039;48 with &lt;a href=&quot;https://losangelespast.blogspot.com/2011/09/drive-through-bunker-hill-1940s.html&quot; title=&quot;convinco&quot; target=&quot;_blank&quot;&gt;convincing authority&lt;/a&gt;).Â  Of course I thought it would be fun to link to a few of the OBH posts we&#039;d written, and make mention of just a few of the structures we failed to cover.
+The values of its structure notwithstanding (it actually &lt;i&gt;does&lt;/i&gt; have three acts) this cinematic curiosity pops its head up, how, after sixty some-odd years (it has been dated to the Summer of &#039;48 with &lt;a href=&quot;http://losangelespast.blogspot.com/2011/09/drive-through-bunker-hill-1940s.html&quot; title=&quot;convinco&quot; target=&quot;_blank&quot;&gt;convincing authority&lt;/a&gt;).Â  Of course I thought it would be fun to link to a few of the OBH posts we&#039;d written, and make mention of just a few of the structures we failed to cover.
 &lt;/p&gt;
 &lt;p&gt;
-We begin innocently enough, peering down Second over the railing above the tunnel.Â  The &lt;a href=&quot;https://digitallibrary.usc.edu/assetserver/controller/view/EXM-N-11985-004~1&quot; title=&quot;FashionLeague&quot; target=&quot;_blank&quot;&gt;Fashion League&lt;/a&gt; Bldg (nÃ©e the Union League, LA&#039;s arm of the Republican Party) and &lt;a href=&quot;https://you-are-here.com/downtown/second_street.html&quot; title=&quot;astor&quot; target=&quot;_blank&quot;&gt;Astor Hotel&lt;/a&gt; are at our left and right, in the distance, on Hill.Â  
+We begin innocently enough, peering down Second over the railing above the tunnel.Â  The &lt;a href=&quot;http://digitallibrary.usc.edu/assetserver/controller/view/EXM-N-11985-004~1&quot; title=&quot;FashionLeague&quot; target=&quot;_blank&quot;&gt;Fashion League&lt;/a&gt; Bldg (nÃ©e the Union League, LA&#039;s arm of the Republican Party) and &lt;a href=&quot;http://you-are-here.com/downtown/second_street.html&quot; title=&quot;astor&quot; target=&quot;_blank&quot;&gt;Astor Hotel&lt;/a&gt; are at our left and right, in the distance, on Hill.Â  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm7.static.flickr.com/6185/6132069370_d38858fe5d_z.jpg&quot; alt=&quot;abovehill&quot; height=&quot;429&quot; width=&quot;640&quot; /&gt;
+&lt;img src=&quot;http://farm7.static.flickr.com/6185/6132069370_d38858fe5d_z.jpg&quot; alt=&quot;abovehill&quot; height=&quot;429&quot; width=&quot;640&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-The &lt;a href=&quot;/hotelnorthern&quot; title=&quot;northern&quot; target=&quot;_blank&quot;&gt;Northern&lt;/a&gt; sits atop Clay, the &lt;a href=&quot;https://catalog.library.ca.gov/exlibris/aleph/a19_1/apache_media/S1B7J4Y88XXD3QPR4F81LJMUNURKH2.jpg&quot; title=&quot;claridge&quot; target=&quot;_blank&quot;&gt;Claridge&lt;/a&gt; above; at our immediate right is the &lt;a href=&quot;https://catalog.library.ca.gov/exlibris/aleph/a19_1/apache_media/2KVXATDS5A2LGJEP9JPNRCU5BK5F57.jpg&quot; title=&quot;MissionApts&quot; target=&quot;_blank&quot;&gt;Mission&lt;/a&gt;.Â  Then we begin to ascend -- glimpse the &lt;a href=&quot;/node/174&quot; title=&quot;arrrgh&quot; target=&quot;_blank&quot;&gt;Argyle&lt;/a&gt; down on Olive -- and turn to proceed down Grand.Â  Note the Moderne genius that is &lt;a href=&quot;/georgemann#comment-347&quot; title=&quot;144&quot; target=&quot;_blank&quot;&gt;144 S Grand&lt;/a&gt; hanging out with the &lt;a href=&quot;/richelieu&quot; title=&quot;richierich&quot; target=&quot;_blank&quot;&gt;Richelieu&lt;/a&gt; and &lt;a href=&quot;/burnmelroseburn&quot; title=&quot;mellymel&quot; target=&quot;_blank&quot;&gt;Melrose&lt;/a&gt; in the bg.Â 
+The &lt;a href=&quot;/hotelnorthern&quot; title=&quot;northern&quot; target=&quot;_blank&quot;&gt;Northern&lt;/a&gt; sits atop Clay, the &lt;a href=&quot;http://catalog.library.ca.gov/exlibris/aleph/a19_1/apache_media/S1B7J4Y88XXD3QPR4F81LJMUNURKH2.jpg&quot; title=&quot;claridge&quot; target=&quot;_blank&quot;&gt;Claridge&lt;/a&gt; above; at our immediate right is the &lt;a href=&quot;http://catalog.library.ca.gov/exlibris/aleph/a19_1/apache_media/2KVXATDS5A2LGJEP9JPNRCU5BK5F57.jpg&quot; title=&quot;MissionApts&quot; target=&quot;_blank&quot;&gt;Mission&lt;/a&gt;.Â  Then we begin to ascend -- glimpse the &lt;a href=&quot;/node/174&quot; title=&quot;arrrgh&quot; target=&quot;_blank&quot;&gt;Argyle&lt;/a&gt; down on Olive -- and turn to proceed down Grand.Â  Note the Moderne genius that is &lt;a href=&quot;/georgemann#comment-347&quot; title=&quot;144&quot; target=&quot;_blank&quot;&gt;144 S Grand&lt;/a&gt; hanging out with the &lt;a href=&quot;/richelieu&quot; title=&quot;richierich&quot; target=&quot;_blank&quot;&gt;Richelieu&lt;/a&gt; and &lt;a href=&quot;/burnmelroseburn&quot; title=&quot;mellymel&quot; target=&quot;_blank&quot;&gt;Melrose&lt;/a&gt; in the bg.Â 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm7.static.flickr.com/6084/6132070054_8bc3d19c62_z.jpg&quot; alt=&quot;dome&quot; height=&quot;430&quot; width=&quot;640&quot; /&gt; There&#039;s &lt;a href=&quot;/DomeWrapUp&quot; title=&quot;domey&quot; target=&quot;_blank&quot;&gt;the Dome&lt;/a&gt; at the corner of Second and Grand, and across the street, the &lt;a href=&quot;https://forum.skyscraperpage.com/showpost.php?p=4694870&#038;postcount=825&quot; title=&quot;frontenac&quot; target=&quot;_blank&quot;&gt;Frontenac&lt;/a&gt;.Â  Third and Grand harbor of course &lt;a href=&quot;/NugentNewGrand&quot; title=&quot;newgrand&quot; target=&quot;_blank&quot;&gt;the Nugent&lt;/a&gt; and the &lt;a href=&quot;/LoveandDeathattheLovejoy&quot; title=&quot;lovejoy&quot; target=&quot;_blank&quot;&gt;Lovejoy&lt;/a&gt;.Â  
+&lt;img src=&quot;http://farm7.static.flickr.com/6084/6132070054_8bc3d19c62_z.jpg&quot; alt=&quot;dome&quot; height=&quot;430&quot; width=&quot;640&quot; /&gt; There&#039;s &lt;a href=&quot;/DomeWrapUp&quot; title=&quot;domey&quot; target=&quot;_blank&quot;&gt;the Dome&lt;/a&gt; at the corner of Second and Grand, and across the street, the &lt;a href=&quot;http://forum.skyscraperpage.com/showpost.php?p=4694870&#038;postcount=825&quot; title=&quot;frontenac&quot; target=&quot;_blank&quot;&gt;Frontenac&lt;/a&gt;.Â  Third and Grand harbor of course &lt;a href=&quot;/NugentNewGrand&quot; title=&quot;newgrand&quot; target=&quot;_blank&quot;&gt;the Nugent&lt;/a&gt; and the &lt;a href=&quot;/LoveandDeathattheLovejoy&quot; title=&quot;lovejoy&quot; target=&quot;_blank&quot;&gt;Lovejoy&lt;/a&gt;.Â  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm7.static.flickr.com/6193/6131522161_e8c69a6ae0_z.jpg&quot; alt=&quot;nugentandlovejoy&quot; height=&quot;428&quot; width=&quot;640&quot; /&gt;
+&lt;img src=&quot;http://farm7.static.flickr.com/6193/6131522161_e8c69a6ae0_z.jpg&quot; alt=&quot;nugentandlovejoy&quot; height=&quot;428&quot; width=&quot;640&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-When you see &lt;a href=&quot;https://farm7.static.flickr.com/6197/6130873396_b619432099_z.jpg&quot; title=&quot;bilty&quot; target=&quot;_blank&quot;&gt;the Biltmore&lt;/a&gt; at about 1:35 -- 
+When you see &lt;a href=&quot;http://farm7.static.flickr.com/6197/6130873396_b619432099_z.jpg&quot; title=&quot;bilty&quot; target=&quot;_blank&quot;&gt;the Biltmore&lt;/a&gt; at about 1:35 -- 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm7.static.flickr.com/6083/6132070824_714b7ae6da_z.jpg&quot; alt=&quot;downgrand&quot; height=&quot;428&quot; width=&quot;640&quot; /&gt;
+&lt;img src=&quot;http://farm7.static.flickr.com/6083/6132070824_714b7ae6da_z.jpg&quot; alt=&quot;downgrand&quot; height=&quot;428&quot; width=&quot;640&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 -- the white building across the street from it is the Capitol Hotel, once site of the &lt;a href=&quot;/bryan_mansion&quot; title=&quot;bm&quot; target=&quot;_blank&quot;&gt;Bryan Mansion&lt;/a&gt;; to its immediate south, the service garage at Fourth and Grand that was once the site of the &lt;a href=&quot;/brunson_mansion&quot; title=&quot;brunson&quot; target=&quot;_blank&quot;&gt;Brunson Mansion&lt;/a&gt;.Â  &lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;https://farm7.static.flickr.com/6074/6132071152_9930abab64_z.jpg&quot; alt=&quot;zelda&quot; height=&quot;426&quot; width=&quot;640&quot; /&gt;Crossing Fourth and Grand, we pass by &lt;a href=&quot;/TheZelda&quot; title=&quot;Zeldahhh&quot; target=&quot;_blank&quot;&gt;the Zelda&lt;/a&gt;, the Granada, and just a wee bit of &lt;a href=&quot;/HollywoodComestoSherwood&quot; title=&quot;iSureWould&quot; target=&quot;_blank&quot;&gt;the Sherwood&lt;/a&gt; --&lt;br /&gt;
+&lt;img src=&quot;http://farm7.static.flickr.com/6074/6132071152_9930abab64_z.jpg&quot; alt=&quot;zelda&quot; height=&quot;426&quot; width=&quot;640&quot; /&gt;Crossing Fourth and Grand, we pass by &lt;a href=&quot;/TheZelda&quot; title=&quot;Zeldahhh&quot; target=&quot;_blank&quot;&gt;the Zelda&lt;/a&gt;, the Granada, and just a wee bit of &lt;a href=&quot;/HollywoodComestoSherwood&quot; title=&quot;iSureWould&quot; target=&quot;_blank&quot;&gt;the Sherwood&lt;/a&gt; --&lt;br /&gt;
 &lt;br /&gt;
 Then at about two minutes in, it&#039;s ka-bang, we&#039;re right back where we started, Second &#038; Olive.Â  Pointed toward the Mission, backing up the street toward Grand, just like a minute ago, though this time, we see some dishy dames strolling toward the aforementioned 144...
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm7.static.flickr.com/6195/6131524061_b209f510cc_z.jpg&quot; alt=&quot;144&quot; height=&quot;431&quot; width=&quot;640&quot; /&gt; 
+&lt;img src=&quot;http://farm7.static.flickr.com/6195/6131524061_b209f510cc_z.jpg&quot; alt=&quot;144&quot; height=&quot;431&quot; width=&quot;640&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 ...and then there&#039;s a rare shot of the Shell station across the street from the Dome:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm7.static.flickr.com/6184/6131524499_51b448d560_z.jpg&quot; alt=&quot;shellll&quot; height=&quot;426&quot; width=&quot;640&quot; /&gt;Criminally underphotographed because everyone&#039;s back was to it, shooting, as they were, the Dome (yeah, I&#039;m talking to you, Hylen.Â  You too, Reagh!)...this is roughly equivalent to why we have so few pictures of the Snow (all n sundry shooting the Richfield) or the Casa Alta (everbody capturing Angels Flight upper terminus).Â  Of course, who in 1948 would photograph a gas station?Â  More importantly, come 2011, who could care?Â  (Most saliently, how have I ever had a girlfriend?)Â  It is still the greatest capture ever, and if you disagree, you are a stupidy dumb stupidhead (a term I lifted from Pauline Kael).Â  But I digress.
+&lt;img src=&quot;http://farm7.static.flickr.com/6184/6131524499_51b448d560_z.jpg&quot; alt=&quot;shellll&quot; height=&quot;426&quot; width=&quot;640&quot; /&gt;Criminally underphotographed because everyone&#039;s back was to it, shooting, as they were, the Dome (yeah, I&#039;m talking to you, Hylen.Â  You too, Reagh!)...this is roughly equivalent to why we have so few pictures of the Snow (all n sundry shooting the Richfield) or the Casa Alta (everbody capturing Angels Flight upper terminus).Â  Of course, who in 1948 would photograph a gas station?Â  More importantly, come 2011, who could care?Â  (Most saliently, how have I ever had a girlfriend?)Â  It is still the greatest capture ever, and if you disagree, you are a stupidy dumb stupidhead (a term I lifted from Pauline Kael).Â  But I digress.
 &lt;/p&gt;
 &lt;p&gt;
 We go past The Judd at 344 and in the distance view the &lt;a href=&quot;/KelloggPalaceCasaAlta&quot; title=&quot;casaalta&quot; target=&quot;_blank&quot;&gt;Casa Alta&lt;/a&gt; at Third and Olive and the Mutual Garage at &lt;a href=&quot;/TruckAmok&quot; title=&quot;fourthandolive&quot; target=&quot;_blank&quot;&gt;Fourth and Olive&lt;/a&gt;:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm7.static.flickr.com/6209/6132073592_d26ae576a8_z.jpg&quot; alt=&quot;casaalta&quot; height=&quot;430&quot; width=&quot;640&quot; /&gt; Here, then is the Boyde right above the brand-spankin&#039;-new Telephone Building:&lt;img src=&quot;https://farm7.static.flickr.com/6084/6132073884_c5a36b8167_z.jpg&quot; alt=&quot;juddandstuff&quot; height=&quot;429&quot; width=&quot;640&quot; /&gt;
+&lt;img src=&quot;http://farm7.static.flickr.com/6209/6132073592_d26ae576a8_z.jpg&quot; alt=&quot;casaalta&quot; height=&quot;430&quot; width=&quot;640&quot; /&gt; Here, then is the Boyde right above the brand-spankin&#039;-new Telephone Building:&lt;img src=&quot;http://farm7.static.flickr.com/6084/6132073884_c5a36b8167_z.jpg&quot; alt=&quot;juddandstuff&quot; height=&quot;429&quot; width=&quot;640&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Which, like the Astor, you remember, way back at the beginning of this post?Â  Is still extant.Â  
@@ -100,24 +103,24 @@ At 3:35 we turn onto 5th St.Â  We view the back of the Biltmore Theatre, and s
 At 4:10 we turn up Flower.Â  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm7.static.flickr.com/6069/6131526003_fa76db6df4_z.jpg&quot; alt=&quot;upflower&quot; height=&quot;434&quot; width=&quot;640&quot; /&gt;
+&lt;img src=&quot;http://farm7.static.flickr.com/6069/6131526003_fa76db6df4_z.jpg&quot; alt=&quot;upflower&quot; height=&quot;434&quot; width=&quot;640&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-At 4:54 &lt;img src=&quot;https://farm7.static.flickr.com/6191/6131526341_428ca3e6c8_z.jpg&quot; alt=&quot;upit&quot; height=&quot;429&quot; width=&quot;640&quot; /&gt;
+At 4:54 &lt;img src=&quot;http://farm7.static.flickr.com/6191/6131526341_428ca3e6c8_z.jpg&quot; alt=&quot;upit&quot; height=&quot;429&quot; width=&quot;640&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-we cross Third with a &lt;i&gt;kathump&lt;/i&gt;, and thereafter get a sense of this being a &lt;i&gt;hill&lt;/i&gt;.Â  The Aida Apartments we remember as &lt;a href=&quot;/HotelRollin&quot; title=&quot;rollinrollinrollin&quot; target=&quot;_blank&quot;&gt;the Rollin&lt;/a&gt;.Â  A couple doors up from there, the &lt;a href=&quot;/StRegis&quot; title=&quot;sr&quot; target=&quot;_blank&quot;&gt;St Regis&lt;/a&gt; and &lt;a href=&quot;/TheMarcella&quot; title=&quot;marcyplayground&quot; target=&quot;_blank&quot;&gt;the Marcella&lt;/a&gt;.Â  The &lt;a href=&quot;/vanfleet&quot; title=&quot;vanfleeet&quot; target=&quot;_blank&quot;&gt;Van Fleet&lt;/a&gt; is on the other side of the street, as is &lt;a href=&quot;/TheSwitcheroo&quot; title=&quot;Stanley&quot; target=&quot;_blank&quot;&gt;the Stanley&lt;/a&gt;, &lt;img src=&quot;https://farm7.static.flickr.com/6185/6132074892_83c50497af_z.jpg&quot; alt=&quot;stanley&quot; height=&quot;431&quot; width=&quot;640&quot; /&gt;
+we cross Third with a &lt;i&gt;kathump&lt;/i&gt;, and thereafter get a sense of this being a &lt;i&gt;hill&lt;/i&gt;.Â  The Aida Apartments we remember as &lt;a href=&quot;/HotelRollin&quot; title=&quot;rollinrollinrollin&quot; target=&quot;_blank&quot;&gt;the Rollin&lt;/a&gt;.Â  A couple doors up from there, the &lt;a href=&quot;/StRegis&quot; title=&quot;sr&quot; target=&quot;_blank&quot;&gt;St Regis&lt;/a&gt; and &lt;a href=&quot;/TheMarcella&quot; title=&quot;marcyplayground&quot; target=&quot;_blank&quot;&gt;the Marcella&lt;/a&gt;.Â  The &lt;a href=&quot;/vanfleet&quot; title=&quot;vanfleeet&quot; target=&quot;_blank&quot;&gt;Van Fleet&lt;/a&gt; is on the other side of the street, as is &lt;a href=&quot;/TheSwitcheroo&quot; title=&quot;Stanley&quot; target=&quot;_blank&quot;&gt;the Stanley&lt;/a&gt;, &lt;img src=&quot;http://farm7.static.flickr.com/6185/6132074892_83c50497af_z.jpg&quot; alt=&quot;stanley&quot; height=&quot;431&quot; width=&quot;640&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-on the corner of Second.Â  Then we cruise up to First and idle a bit, and make the turn south onto First.Â  Of course, therefore, we go by our old friend &lt;a href=&quot;https://www.onbunkerhill.org/WalkerBunkerRanger&quot; title=&quot;101sflower&quot; target=&quot;_blank&quot;&gt;101-111 S Flower&lt;/a&gt;.Â  &lt;img src=&quot;https://farm7.static.flickr.com/6201/6132075586_ab440b7bbf_z.jpg&quot; alt=&quot;first&quot; height=&quot;429&quot; width=&quot;640&quot; /&gt;
+on the corner of Second.Â  Then we cruise up to First and idle a bit, and make the turn south onto First.Â  Of course, therefore, we go by our old friend &lt;a href=&quot;/WalkerBunkerRanger&quot; title=&quot;101sflower&quot; target=&quot;_blank&quot;&gt;101-111 S Flower&lt;/a&gt;.Â  &lt;img src=&quot;http://farm7.static.flickr.com/6201/6132075586_ab440b7bbf_z.jpg&quot; alt=&quot;first&quot; height=&quot;429&quot; width=&quot;640&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-We continue down First and about the last thing that happens is we pass through the intersection of First and Hope -- the multinamed &lt;a href=&quot;/taxonomy/term/284&quot; title=&quot;limabean&quot; target=&quot;_blank&quot;&gt;Rossmere/Lima/St James&lt;/a&gt; visible at left.Â  &lt;img src=&quot;https://farm7.static.flickr.com/6071/6132075968_c8ae61f507_z.jpg&quot; alt=&quot;rossmere&quot; height=&quot;432&quot; width=&quot;640&quot; /&gt;
+We continue down First and about the last thing that happens is we pass through the intersection of First and Hope -- the multinamed &lt;a href=&quot;/taxonomy/term/284&quot; title=&quot;limabean&quot; target=&quot;_blank&quot;&gt;Rossmere/Lima/St James&lt;/a&gt; visible at left.Â  &lt;img src=&quot;http://farm7.static.flickr.com/6071/6132075968_c8ae61f507_z.jpg&quot; alt=&quot;rossmere&quot; height=&quot;432&quot; width=&quot;640&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 And then...and then it&#039;s all over.Â  Then we play it again.&lt;br /&gt;
 &lt;br /&gt;
-Of course, there&#039;s other activity to be had...get on the &lt;i&gt;LA Noire&lt;/i&gt; free roam and just go &lt;i&gt;driving around&lt;/i&gt;.Â  Which roughly approximates this movie...right?Â  It&#039;s been two months since the last of the &lt;i&gt;LAN&lt;/i&gt; dlc; Nathan, you ask, aren&#039;t you hard at work producing the definitive wrap-up of this game?Â  I am.Â  It&#039;s in production.Â  But the Greatest Movie Ever has been distracting me.Â  (Well, that, and &lt;a href=&quot;https://ladailymirror.com/2011/09/08/mystery-film-of-los-angeles/&quot; title=&quot;this&quot; target=&quot;_blank&quot;&gt;this&lt;/a&gt;.) Â  But my &lt;i&gt;LA Noire&lt;/i&gt; &lt;a href=&quot;https://www.1947project.com/theArrival&quot; title=&quot;postmortem&quot; target=&quot;_blank&quot;&gt;postmortem&lt;/a&gt; is at present twenty thousand words long, and should I prune its vain and fantastical imaginations (prone as I am to what Bacon termed Distempers of Learning) it would be reduced to a mere twenty.Â 
+Of course, there&#039;s other activity to be had...get on the &lt;i&gt;LA Noire&lt;/i&gt; free roam and just go &lt;i&gt;driving around&lt;/i&gt;.Â  Which roughly approximates this movie...right?Â  It&#039;s been two months since the last of the &lt;i&gt;LAN&lt;/i&gt; dlc; Nathan, you ask, aren&#039;t you hard at work producing the definitive wrap-up of this game?Â  I am.Â  It&#039;s in production.Â  But the Greatest Movie Ever has been distracting me.Â  (Well, that, and &lt;a href=&quot;http://ladailymirror.com/2011/09/08/mystery-film-of-los-angeles/&quot; title=&quot;this&quot; target=&quot;_blank&quot;&gt;this&lt;/a&gt;.) Â  But my &lt;i&gt;LA Noire&lt;/i&gt; &lt;a href=&quot;http://www.1947project.com/theArrival&quot; title=&quot;postmortem&quot; target=&quot;_blank&quot;&gt;postmortem&lt;/a&gt; is at present twenty thousand words long, and should I prune its vain and fantastical imaginations (prone as I am to what Bacon termed Distempers of Learning) it would be reduced to a mere twenty.Â 
 &lt;/p&gt;
 &lt;p&gt;
 But before I go shear nineteen thousand words off of some post about &lt;i&gt;LA Noire&lt;/i&gt;, I&#039;m going to watch this video...just...one more time. Â  
@@ -128,48 +131,48 @@ Here at OBH HQ, there&#8217;s forever something clackety-clackin&#8217; on the o
 </p>
 <p>
 Don&#8217;t get me wrong:Â  I love violence and nudity, and that other nonsense they put in Vaster Achievements of Cinema, whatsitcalled, narrative, and this picture <i>still</i> achieves greatness after dispensing with all that stuff.Â  This is a mere piece of process-plate photography, footage shot so, whomever, Alan Ladd could lounge in some studio, well-lit and well-recorded, &quot;driving&quot; in a fake-o car and they&#8217;d throw this filmic business behind him, while we&#8217;re in the OBH HQ screening room sixty years later yelling &quot;Hey Alan Ladd!Â  Move your stupid head!Â  That&#8217;s the Lovejoy Apartments you&#8217;re blocking!&quot;</p>
-<p>The values of its structure notwithstanding (it actually <i>does</i> have three acts) this cinematic curiosity pops its head up, how, after sixty some-odd years (it has been dated to the Summer of &#8217;48 with <a href="https://losangelespast.blogspot.com/2011/09/drive-through-bunker-hill-1940s.html" title="convinco" target="_blank">convincing authority</a>).Â  Of course I thought it would be fun to link to a few of the OBH posts we&#8217;d written, and make mention of just a few of the structures we failed to cover.
+<p>The values of its structure notwithstanding (it actually <i>does</i> have three acts) this cinematic curiosity pops its head up, how, after sixty some-odd years (it has been dated to the Summer of &#8217;48 with <a href="http://losangelespast.blogspot.com/2011/09/drive-through-bunker-hill-1940s.html" title="convinco" target="_blank">convincing authority</a>).Â  Of course I thought it would be fun to link to a few of the OBH posts we&#8217;d written, and make mention of just a few of the structures we failed to cover.
 </p>
 <p>
-We begin innocently enough, peering down Second over the railing above the tunnel.Â  The <a href="https://digitallibrary.usc.edu/assetserver/controller/view/EXM-N-11985-004~1" title="FashionLeague" target="_blank">Fashion League</a> Bldg (nÃ©e the Union League, LA&#8217;s arm of the Republican Party) and <a href="https://you-are-here.com/downtown/second_street.html" title="astor" target="_blank">Astor Hotel</a> are at our left and right, in the distance, on Hill.Â 
+We begin innocently enough, peering down Second over the railing above the tunnel.Â  The <a href="http://digitallibrary.usc.edu/assetserver/controller/view/EXM-N-11985-004~1" title="FashionLeague" target="_blank">Fashion League</a> Bldg (nÃ©e the Union League, LA&#8217;s arm of the Republican Party) and <a href="http://you-are-here.com/downtown/second_street.html" title="astor" target="_blank">Astor Hotel</a> are at our left and right, in the distance, on Hill.Â 
 </p>
 <p>
-<img src="https://farm7.static.flickr.com/6185/6132069370_d38858fe5d_z.jpg" alt="abovehill" height="429" width="640" />
+<img src="http://farm7.static.flickr.com/6185/6132069370_d38858fe5d_z.jpg" alt="abovehill" height="429" width="640" />
 </p>
 <p>
-The <a href="/hotelnorthern" title="northern" target="_blank">Northern</a> sits atop Clay, the <a href="https://catalog.library.ca.gov/exlibris/aleph/a19_1/apache_media/S1B7J4Y88XXD3QPR4F81LJMUNURKH2.jpg" title="claridge" target="_blank">Claridge</a> above; at our immediate right is the <a href="https://catalog.library.ca.gov/exlibris/aleph/a19_1/apache_media/2KVXATDS5A2LGJEP9JPNRCU5BK5F57.jpg" title="MissionApts" target="_blank">Mission</a>.Â  Then we begin to ascend &#8212; glimpse the <a href="/node/174" title="arrrgh" target="_blank">Argyle</a> down on Olive &#8212; and turn to proceed down Grand.Â  Note the Moderne genius that is <a href="/georgemann#comment-347" title="144" target="_blank">144 S Grand</a> hanging out with the <a href="/richelieu" title="richierich" target="_blank">Richelieu</a> and <a href="/burnmelroseburn" title="mellymel" target="_blank">Melrose</a> in the bg.Â 
+The <a href="/hotelnorthern" title="northern" target="_blank">Northern</a> sits atop Clay, the <a href="http://catalog.library.ca.gov/exlibris/aleph/a19_1/apache_media/S1B7J4Y88XXD3QPR4F81LJMUNURKH2.jpg" title="claridge" target="_blank">Claridge</a> above; at our immediate right is the <a href="http://catalog.library.ca.gov/exlibris/aleph/a19_1/apache_media/2KVXATDS5A2LGJEP9JPNRCU5BK5F57.jpg" title="MissionApts" target="_blank">Mission</a>.Â  Then we begin to ascend &#8212; glimpse the <a href="/node/174" title="arrrgh" target="_blank">Argyle</a> down on Olive &#8212; and turn to proceed down Grand.Â  Note the Moderne genius that is <a href="/georgemann#comment-347" title="144" target="_blank">144 S Grand</a> hanging out with the <a href="/richelieu" title="richierich" target="_blank">Richelieu</a> and <a href="/burnmelroseburn" title="mellymel" target="_blank">Melrose</a> in the bg.Â 
 </p>
 <p>
-<img src="https://farm7.static.flickr.com/6084/6132070054_8bc3d19c62_z.jpg" alt="dome" height="430" width="640" /> There&#8217;s <a href="/DomeWrapUp" title="domey" target="_blank">the Dome</a> at the corner of Second and Grand, and across the street, the <a href="https://forum.skyscraperpage.com/showpost.php?p=4694870&amp;postcount=825" title="frontenac" target="_blank">Frontenac</a>.Â  Third and Grand harbor of course <a href="/NugentNewGrand" title="newgrand" target="_blank">the Nugent</a> and the <a href="/LoveandDeathattheLovejoy" title="lovejoy" target="_blank">Lovejoy</a>.Â 
+<img src="http://farm7.static.flickr.com/6084/6132070054_8bc3d19c62_z.jpg" alt="dome" height="430" width="640" /> There&#8217;s <a href="/DomeWrapUp" title="domey" target="_blank">the Dome</a> at the corner of Second and Grand, and across the street, the <a href="http://forum.skyscraperpage.com/showpost.php?p=4694870&amp;postcount=825" title="frontenac" target="_blank">Frontenac</a>.Â  Third and Grand harbor of course <a href="/NugentNewGrand" title="newgrand" target="_blank">the Nugent</a> and the <a href="/LoveandDeathattheLovejoy" title="lovejoy" target="_blank">Lovejoy</a>.Â 
 </p>
 <p>
-<img src="https://farm7.static.flickr.com/6193/6131522161_e8c69a6ae0_z.jpg" alt="nugentandlovejoy" height="428" width="640" />
+<img src="http://farm7.static.flickr.com/6193/6131522161_e8c69a6ae0_z.jpg" alt="nugentandlovejoy" height="428" width="640" />
 </p>
 <p>
-When you see <a href="https://farm7.static.flickr.com/6197/6130873396_b619432099_z.jpg" title="bilty" target="_blank">the Biltmore</a> at about 1:35 &#8212;
+When you see <a href="http://farm7.static.flickr.com/6197/6130873396_b619432099_z.jpg" title="bilty" target="_blank">the Biltmore</a> at about 1:35 &#8212;
 </p>
 <p>
-<img src="https://farm7.static.flickr.com/6083/6132070824_714b7ae6da_z.jpg" alt="downgrand" height="428" width="640" />
+<img src="http://farm7.static.flickr.com/6083/6132070824_714b7ae6da_z.jpg" alt="downgrand" height="428" width="640" />
 </p>
 <p>
 &#8212; the white building across the street from it is the Capitol Hotel, once site of the <a href="/bryan_mansion" title="bm" target="_blank">Bryan Mansion</a>; to its immediate south, the service garage at Fourth and Grand that was once the site of the <a href="/brunson_mansion" title="brunson" target="_blank">Brunson Mansion</a>.Â  </p>
-<p><img src="https://farm7.static.flickr.com/6074/6132071152_9930abab64_z.jpg" alt="zelda" height="426" width="640" />Crossing Fourth and Grand, we pass by <a href="/TheZelda" title="Zeldahhh" target="_blank">the Zelda</a>, the Granada, and just a wee bit of <a href="/HollywoodComestoSherwood" title="iSureWould" target="_blank">the Sherwood</a> &#8212;</p>
+<p><img src="http://farm7.static.flickr.com/6074/6132071152_9930abab64_z.jpg" alt="zelda" height="426" width="640" />Crossing Fourth and Grand, we pass by <a href="/TheZelda" title="Zeldahhh" target="_blank">the Zelda</a>, the Granada, and just a wee bit of <a href="/HollywoodComestoSherwood" title="iSureWould" target="_blank">the Sherwood</a> &#8212;</p>
 <p>Then at about two minutes in, it&#8217;s ka-bang, we&#8217;re right back where we started, Second &amp; Olive.Â  Pointed toward the Mission, backing up the street toward Grand, just like a minute ago, though this time, we see some dishy dames strolling toward the aforementioned 144&#8230;
 </p>
 <p>
-<img src="https://farm7.static.flickr.com/6195/6131524061_b209f510cc_z.jpg" alt="144" height="431" width="640" />
+<img src="http://farm7.static.flickr.com/6195/6131524061_b209f510cc_z.jpg" alt="144" height="431" width="640" />
 </p>
 <p>
 &#8230;and then there&#8217;s a rare shot of the Shell station across the street from the Dome:
 </p>
 <p>
-<img src="https://farm7.static.flickr.com/6184/6131524499_51b448d560_z.jpg" alt="shellll" height="426" width="640" />Criminally underphotographed because everyone&#8217;s back was to it, shooting, as they were, the Dome (yeah, I&#8217;m talking to you, Hylen.Â  You too, Reagh!)&#8230;this is roughly equivalent to why we have so few pictures of the Snow (all n sundry shooting the Richfield) or the Casa Alta (everbody capturing Angels Flight upper terminus).Â  Of course, who in 1948 would photograph a gas station?Â  More importantly, come 2011, who could care?Â  (Most saliently, how have I ever had a girlfriend?)Â  It is still the greatest capture ever, and if you disagree, you are a stupidy dumb stupidhead (a term I lifted from Pauline Kael).Â  But I digress.
+<img src="http://farm7.static.flickr.com/6184/6131524499_51b448d560_z.jpg" alt="shellll" height="426" width="640" />Criminally underphotographed because everyone&#8217;s back was to it, shooting, as they were, the Dome (yeah, I&#8217;m talking to you, Hylen.Â  You too, Reagh!)&#8230;this is roughly equivalent to why we have so few pictures of the Snow (all n sundry shooting the Richfield) or the Casa Alta (everbody capturing Angels Flight upper terminus).Â  Of course, who in 1948 would photograph a gas station?Â  More importantly, come 2011, who could care?Â  (Most saliently, how have I ever had a girlfriend?)Â  It is still the greatest capture ever, and if you disagree, you are a stupidy dumb stupidhead (a term I lifted from Pauline Kael).Â  But I digress.
 </p>
 <p>
 We go past The Judd at 344 and in the distance view the <a href="/KelloggPalaceCasaAlta" title="casaalta" target="_blank">Casa Alta</a> at Third and Olive and the Mutual Garage at <a href="/TruckAmok" title="fourthandolive" target="_blank">Fourth and Olive</a>:
 </p>
 <p>
-<img src="https://farm7.static.flickr.com/6209/6132073592_d26ae576a8_z.jpg" alt="casaalta" height="430" width="640" /> Here, then is the Boyde right above the brand-spankin&#8217;-new Telephone Building:<img src="https://farm7.static.flickr.com/6084/6132073884_c5a36b8167_z.jpg" alt="juddandstuff" height="429" width="640" />
+<img src="http://farm7.static.flickr.com/6209/6132073592_d26ae576a8_z.jpg" alt="casaalta" height="430" width="640" /> Here, then is the Boyde right above the brand-spankin&#8217;-new Telephone Building:<img src="http://farm7.static.flickr.com/6084/6132073884_c5a36b8167_z.jpg" alt="juddandstuff" height="429" width="640" />
 </p>
 <p>
 Which, like the Astor, you remember, way back at the beginning of this post?Â  Is still extant.Â 
@@ -179,23 +182,23 @@ At 3:35 we turn onto 5th St.Â  We view the back of the Biltmore Theatre, and s
 <p>At 4:10 we turn up Flower.Â 
 </p>
 <p>
-<img src="https://farm7.static.flickr.com/6069/6131526003_fa76db6df4_z.jpg" alt="upflower" height="434" width="640" />
+<img src="http://farm7.static.flickr.com/6069/6131526003_fa76db6df4_z.jpg" alt="upflower" height="434" width="640" />
 </p>
 <p>
-At 4:54 <img src="https://farm7.static.flickr.com/6191/6131526341_428ca3e6c8_z.jpg" alt="upit" height="429" width="640" />
+At 4:54 <img src="http://farm7.static.flickr.com/6191/6131526341_428ca3e6c8_z.jpg" alt="upit" height="429" width="640" />
 </p>
 <p>
-we cross Third with a <i>kathump</i>, and thereafter get a sense of this being a <i>hill</i>.Â  The Aida Apartments we remember as <a href="/HotelRollin" title="rollinrollinrollin" target="_blank">the Rollin</a>.Â  A couple doors up from there, the <a href="/StRegis" title="sr" target="_blank">St Regis</a> and <a href="/TheMarcella" title="marcyplayground" target="_blank">the Marcella</a>.Â  The <a href="/vanfleet" title="vanfleeet" target="_blank">Van Fleet</a> is on the other side of the street, as is <a href="/TheSwitcheroo" title="Stanley" target="_blank">the Stanley</a>, <img src="https://farm7.static.flickr.com/6185/6132074892_83c50497af_z.jpg" alt="stanley" height="431" width="640" />
+we cross Third with a <i>kathump</i>, and thereafter get a sense of this being a <i>hill</i>.Â  The Aida Apartments we remember as <a href="/HotelRollin" title="rollinrollinrollin" target="_blank">the Rollin</a>.Â  A couple doors up from there, the <a href="/StRegis" title="sr" target="_blank">St Regis</a> and <a href="/TheMarcella" title="marcyplayground" target="_blank">the Marcella</a>.Â  The <a href="/vanfleet" title="vanfleeet" target="_blank">Van Fleet</a> is on the other side of the street, as is <a href="/TheSwitcheroo" title="Stanley" target="_blank">the Stanley</a>, <img src="http://farm7.static.flickr.com/6185/6132074892_83c50497af_z.jpg" alt="stanley" height="431" width="640" />
 </p>
 <p>
-on the corner of Second.Â  Then we cruise up to First and idle a bit, and make the turn south onto First.Â  Of course, therefore, we go by our old friend <a href="https://www.onbunkerhill.org/WalkerBunkerRanger" title="101sflower" target="_blank">101-111 S Flower</a>.Â  <img src="https://farm7.static.flickr.com/6201/6132075586_ab440b7bbf_z.jpg" alt="first" height="429" width="640" />
+on the corner of Second.Â  Then we cruise up to First and idle a bit, and make the turn south onto First.Â  Of course, therefore, we go by our old friend <a href="/WalkerBunkerRanger" title="101sflower" target="_blank">101-111 S Flower</a>.Â  <img src="http://farm7.static.flickr.com/6201/6132075586_ab440b7bbf_z.jpg" alt="first" height="429" width="640" />
 </p>
 <p>
-We continue down First and about the last thing that happens is we pass through the intersection of First and Hope &#8212; the multinamed <a href="/taxonomy/term/284" title="limabean" target="_blank">Rossmere/Lima/St James</a> visible at left.Â  <img src="https://farm7.static.flickr.com/6071/6132075968_c8ae61f507_z.jpg" alt="rossmere" height="432" width="640" />
+We continue down First and about the last thing that happens is we pass through the intersection of First and Hope &#8212; the multinamed <a href="/taxonomy/term/284" title="limabean" target="_blank">Rossmere/Lima/St James</a> visible at left.Â  <img src="http://farm7.static.flickr.com/6071/6132075968_c8ae61f507_z.jpg" alt="rossmere" height="432" width="640" />
 </p>
 <p>
 And then&#8230;and then it&#8217;s all over.Â  Then we play it again.</p>
-<p>Of course, there&#8217;s other activity to be had&#8230;get on the <i>LA Noire</i> free roam and just go <i>driving around</i>.Â  Which roughly approximates this movie&#8230;right?Â  It&#8217;s been two months since the last of the <i>LAN</i> dlc; Nathan, you ask, aren&#8217;t you hard at work producing the definitive wrap-up of this game?Â  I am.Â  It&#8217;s in production.Â  But the Greatest Movie Ever has been distracting me.Â  (Well, that, and <a href="https://ladailymirror.com/2011/09/08/mystery-film-of-los-angeles/" title="this" target="_blank">this</a>.) Â  But my <i>LA Noire</i> <a href="https://www.1947project.com/theArrival" title="postmortem" target="_blank">postmortem</a> is at present twenty thousand words long, and should I prune its vain and fantastical imaginations (prone as I am to what Bacon termed Distempers of Learning) it would be reduced to a mere twenty.Â 
+<p>Of course, there&#8217;s other activity to be had&#8230;get on the <i>LA Noire</i> free roam and just go <i>driving around</i>.Â  Which roughly approximates this movie&#8230;right?Â  It&#8217;s been two months since the last of the <i>LAN</i> dlc; Nathan, you ask, aren&#8217;t you hard at work producing the definitive wrap-up of this game?Â  I am.Â  It&#8217;s in production.Â  But the Greatest Movie Ever has been distracting me.Â  (Well, that, and <a href="http://ladailymirror.com/2011/09/08/mystery-film-of-los-angeles/" title="this" target="_blank">this</a>.) Â  But my <i>LA Noire</i> <a href="http://www.1947project.com/theArrival" title="postmortem" target="_blank">postmortem</a> is at present twenty thousand words long, and should I prune its vain and fantastical imaginations (prone as I am to what Bacon termed Distempers of Learning) it would be reduced to a mere twenty.Â 
 </p>
 <p>
 But before I go shear nineteen thousand words off of some post about <i>LA Noire</i>, I&#8217;m going to watch this video&#8230;just&#8230;one more time. Â </p>
@@ -205,23 +208,23 @@ But before I go shear nineteen thousand words off of some post about <i>LA Noire
 		<item>
 		<title>
 		By: John Bengtson		</title>
-		<link>https://www.onbunkerhill.org/adrivethroughbunkerhill/#comment-355</link>
+		<link>/adrivethroughbunkerhill/#comment-355</link>
 
 		<dc:creator><![CDATA[John Bengtson]]></dc:creator>
 		<pubDate>Thu, 08 Sep 2011 23:32:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-355</guid>
 
-					<description><![CDATA[&lt;img src=&quot;/%3Ca%20mce_thref=&quot; title=&quot;Stan and Ollie and a Drive Through Bunker Hill by SilentEchoes57, on Flickr&quot; /&gt;&lt;img src=&quot;https://farm7.static.flickr.com/6202/6128834165_9dbec163a0.jpg&quot; alt=&quot;Stan and Ollie and a Drive Through Bunker Hill&quot; height=&quot;163&quot; width=&quot;500&quot; /&gt;
+					<description><![CDATA[&lt;img src=&quot;/%3Ca%20mce_thref=&quot; title=&quot;Stan and Ollie and a Drive Through Bunker Hill by SilentEchoes57, on Flickr&quot; /&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6202/6128834165_9dbec163a0.jpg&quot; alt=&quot;Stan and Ollie and a Drive Through Bunker Hill&quot; height=&quot;163&quot; width=&quot;500&quot; /&gt;
 &lt;p&gt;
 The footage not only provides a wonderful glimpse of post-WWII Bunker 
 Hill, now lost to civic redevelopment, but illuminates Los Angeles 
 during the silent film era as well.&lt;br /&gt;
 &lt;br /&gt;
-As I explain in my book &lt;a href=&quot;https://www.amazon.com/Silent-Visions-Discovering-Hollywood-Through/dp/1595800573/ref=sr_1_2?s=books&#038;ie=UTF8&#038;qid=1315549782&#038;sr=1-2&quot;&gt;Silent Visions&lt;/a&gt;, Harold Lloyd filmed scenes for 
+As I explain in my book &lt;a href=&quot;http://www.amazon.com/Silent-Visions-Discovering-Hollywood-Through/dp/1595800573/ref=sr_1_2?s=books&#038;ie=UTF8&#038;qid=1315549782&#038;sr=1-2&quot;&gt;Silent Visions&lt;/a&gt;, Harold Lloyd filmed scenes for 
 seven different movies at the intersection of 3rd and Grand, on Bunker 
 Hill, more scenes than at any other location in Los Angeles. It was a 
 popular place for Laurel and Hardy, and other Hal Roach Studio stars to 
-film as well. The Prelinger film drives twice by Lloydâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s intersection of
+film as well. The Prelinger film drives twice by Lloydâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s intersection of
 3rd and Grand, providing razor sharp images of where Lloyd and other 
 silent stars filmed.
 &lt;/p&gt;
@@ -229,19 +232,19 @@ silent stars filmed.
 You can see where several Roach silent comedies were filmed along the Prelinger film route on my blog below. 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&quot;https://silentlocations.wordpress.com/2011/09/09/stan-ollie-and-harold-a-drive-through-bunker-hill/&quot;&gt;https://SilentLocations.WordPress.com&lt;/a&gt;
+&lt;a href=&quot;http://silentlocations.wordpress.com/2011/09/09/stan-ollie-and-harold-a-drive-through-bunker-hill/&quot;&gt;http://SilentLocations.WordPress.com&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Here is a route driven during the stock footage.
 &lt;/p&gt;
-&lt;img src=&quot;/%3Ca%20mce_thref=&quot; title=&quot;Downtown 1934 n arrows text lr copy by SilentEchoes57, on Flickr&quot; /&gt;&lt;img src=&quot;https://farm7.static.flickr.com/6196/6130973495_0eb5c02592.jpg&quot; alt=&quot;Downtown 1934 n arrows text lr copy&quot; height=&quot;275&quot; width=&quot;500&quot; /&gt;
+&lt;img src=&quot;/%3Ca%20mce_thref=&quot; title=&quot;Downtown 1934 n arrows text lr copy by SilentEchoes57, on Flickr&quot; /&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6196/6130973495_0eb5c02592.jpg&quot; alt=&quot;Downtown 1934 n arrows text lr copy&quot; height=&quot;275&quot; width=&quot;500&quot; /&gt;
 ]]></description>
-			<content:encoded><![CDATA[<p><img src="/%3Ca%20mce_thref=" title="Stan and Ollie and a Drive Through Bunker Hill by SilentEchoes57, on Flickr" /><img src="https://farm7.static.flickr.com/6202/6128834165_9dbec163a0.jpg" alt="Stan and Ollie and a Drive Through Bunker Hill" height="163" width="500" /></p>
+			<content:encoded><![CDATA[<p><img src="/%3Ca%20mce_thref=" title="Stan and Ollie and a Drive Through Bunker Hill by SilentEchoes57, on Flickr" /><img src="http://farm7.static.flickr.com/6202/6128834165_9dbec163a0.jpg" alt="Stan and Ollie and a Drive Through Bunker Hill" height="163" width="500" /></p>
 <p>
 The footage not only provides a wonderful glimpse of post-WWII Bunker<br />
 Hill, now lost to civic redevelopment, but illuminates Los Angeles<br />
 during the silent film era as well.</p>
-<p>As I explain in my book <a href="https://www.amazon.com/Silent-Visions-Discovering-Hollywood-Through/dp/1595800573/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1315549782&amp;sr=1-2">Silent Visions</a>, Harold Lloyd filmed scenes for<br />
+<p>As I explain in my book <a href="http://www.amazon.com/Silent-Visions-Discovering-Hollywood-Through/dp/1595800573/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1315549782&amp;sr=1-2">Silent Visions</a>, Harold Lloyd filmed scenes for<br />
 seven different movies at the intersection of 3rd and Grand, on Bunker<br />
 Hill, more scenes than at any other location in Los Angeles. It was a<br />
 popular place for Laurel and Hardy, and other Hal Roach Studio stars to<br />
@@ -253,12 +256,12 @@ silent stars filmed.
 You can see where several Roach silent comedies were filmed along the Prelinger film route on my blog below.
 </p>
 <p>
-<a href="https://silentlocations.wordpress.com/2011/09/09/stan-ollie-and-harold-a-drive-through-bunker-hill/">https://SilentLocations.WordPress.com/</a>
+<a href="http://silentlocations.wordpress.com/2011/09/09/stan-ollie-and-harold-a-drive-through-bunker-hill/">http://SilentLocations.WordPress.com/</a>
 </p>
 <p>
 Here is a route driven during the stock footage.
 </p>
-<p><img src="/%3Ca%20mce_thref=" title="Downtown 1934 n arrows text lr copy by SilentEchoes57, on Flickr" /><img src="https://farm7.static.flickr.com/6196/6130973495_0eb5c02592.jpg" alt="Downtown 1934 n arrows text lr copy" height="275" width="500" /></p>
+<p><img src="/%3Ca%20mce_thref=" title="Downtown 1934 n arrows text lr copy by SilentEchoes57, on Flickr" /><img src="http://farm7.static.flickr.com/6196/6130973495_0eb5c02592.jpg" alt="Downtown 1934 n arrows text lr copy" height="275" width="500" /></p>
 ]]></content:encoded>
 		
 			</item>

@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
-	Comments on: Odd Incarnations:  The Bunker Hill of Towneâ€™s Ask the Dust	</title>
-	<atom:link href="https://www.onbunkerhill.org/askthedust/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/askthedust/</link>
+	Comments on: Odd Incarnations:  The Bunker Hill of Towne”™s Ask the Dust	</title>
+	<atom:link href="/askthedust/feed/" rel="self" type="application/rss+xml" />
+	<link>/askthedust/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 20:02:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: Castle dweller		</title>
-		<link>https://www.onbunkerhill.org/askthedust/#comment-140</link>
+		<link>/askthedust/#comment-140</link>
 
 		<dc:creator><![CDATA[Castle dweller]]></dc:creator>
 		<pubDate>Fri, 06 Nov 2009 00:09:28 +0000</pubDate>

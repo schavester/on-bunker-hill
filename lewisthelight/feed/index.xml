@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: Lewis the Light, accident preventer	</title>
-	<atom:link href="https://www.onbunkerhill.org/lewisthelight/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/lewisthelight/</link>
+	<atom:link href="/lewisthelight/feed/" rel="self" type="application/rss+xml" />
+	<link>/lewisthelight/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Fri, 14 Sep 2018 20:27:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: rss		</title>
-		<link>https://www.onbunkerhill.org/lewisthelight/#comment-22866</link>
+		<link>/lewisthelight/#comment-22866</link>
 
 		<dc:creator><![CDATA[rss]]></dc:creator>
 		<pubDate>Fri, 14 Sep 2018 20:27:15 +0000</pubDate>
 		<guid isPermaLink="false">#comment-22866</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/lewisthelight/#comment-22858&quot;&gt;Alan F. Jones&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/lewisthelight/#comment-22858&quot;&gt;Alan F. Jones&lt;/a&gt;.
 
 Hello Alan,
 
@@ -34,7 +37,7 @@ I&#039;m glad this odd character provided some insight for your researches. You 
 
 happy hunting,
 Kim]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/lewisthelight/#comment-22858">Alan F. Jones</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/lewisthelight/#comment-22858">Alan F. Jones</a>.</p>
 <p>Hello Alan,</p>
 <p>I&#8217;m glad this odd character provided some insight for your researches. You might search in the digitized Herald archives for more on Lewis the Light and the Ark, starting with <a href="https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&#038;d=LAH19071211.2.90.7&#038;srpos=1&#038;e=-------en--20-LAH-1--txt-txIN-%22lewis+the+light%22+%22the+ark%22-------1" target="_blank" rel="noopener nofollow">this</a> explicit mention. </p>
 <p>happy hunting,<br />
@@ -45,7 +48,7 @@ Kim</p>
 		<item>
 		<title>
 		By: Alan F. Jones		</title>
-		<link>https://www.onbunkerhill.org/lewisthelight/#comment-22858</link>
+		<link>/lewisthelight/#comment-22858</link>
 
 		<dc:creator><![CDATA[Alan F. Jones]]></dc:creator>
 		<pubDate>Fri, 14 Sep 2018 14:31:11 +0000</pubDate>

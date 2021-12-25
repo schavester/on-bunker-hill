@@ -1,35 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
-	Comments on: The Kellogg/Palace/Casa Altaâ€”317 South Olive	</title>
-	<atom:link href="https://www.onbunkerhill.org/kelloggpalacecasaalta/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/kelloggpalacecasaalta/</link>
+	Comments on: The Kellogg/Palace/Casa Alta–317 South Olive	</title>
+	<atom:link href="/kelloggpalacecasaalta/feed/" rel="self" type="application/rss+xml" />
+	<link>/kelloggpalacecasaalta/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 29 May 2016 16:14:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: Kim Cooper		</title>
-		<link>https://www.onbunkerhill.org/kelloggpalacecasaalta/#comment-2036</link>
+		<link>/kelloggpalacecasaalta/#comment-2036</link>
 
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 29 May 2016 16:14:28 +0000</pubDate>
 		<guid isPermaLink="false">#comment-2036</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/kelloggpalacecasaalta/#comment-2019&quot;&gt;Teresa Stennett&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/kelloggpalacecasaalta/#comment-2019&quot;&gt;Teresa Stennett&lt;/a&gt;.
 
 Teresa, you must have missed my response to your Facebook message. Now that we have your email we&#039;ll be in touch directly.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/kelloggpalacecasaalta/#comment-2019">Teresa Stennett</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/kelloggpalacecasaalta/#comment-2019">Teresa Stennett</a>.</p>
 <p>Teresa, you must have missed my response to your Facebook message. Now that we have your email we&#8217;ll be in touch directly.</p>
 ]]></content:encoded>
 		
@@ -37,7 +40,7 @@ Teresa, you must have missed my response to your Facebook message. Now that we h
 		<item>
 		<title>
 		By: Teresa Stennett		</title>
-		<link>https://www.onbunkerhill.org/kelloggpalacecasaalta/#comment-2019</link>
+		<link>/kelloggpalacecasaalta/#comment-2019</link>
 
 		<dc:creator><![CDATA[Teresa Stennett]]></dc:creator>
 		<pubDate>Fri, 27 May 2016 23:11:40 +0000</pubDate>
@@ -51,45 +54,45 @@ Teresa, you must have missed my response to your Facebook message. Now that we h
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/kelloggpalacecasaalta/#comment-96</link>
+		<link>/kelloggpalacecasaalta/#comment-96</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sun, 22 Feb 2009 15:39:50 +0000</pubDate>
 		<guid isPermaLink="false">#comment-96</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3011/3252900268_b4642fe4fe_o.gif&quot; alt=&quot;bunkeralta&quot; height=&quot;362&quot; width=&quot;326&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3011/3252900268_b4642fe4fe_o.gif&quot; alt=&quot;bunkeralta&quot; height=&quot;362&quot; width=&quot;326&quot; /&gt;&lt;br /&gt;
 What&#039;s remarkable about the image above is how fleeting this vista was (some number of years though it may have been, ca. 1964-67, 62-8 at the improbable outside, it&#039;s still blink of an eye in the Grand Scheme).  The Casa and Ems were never visible from Hill because of the Elks Lodge and other buildings along Olive.  
 &lt;/p&gt;
 &lt;p&gt;
 Which makes the image below all the more amazing (ok, some people have a low threshold for amazing), as it was shot &lt;i&gt;after&lt;/i&gt; the demolition of the Casa/Ems but &lt;i&gt;before&lt;/i&gt; the &#039;69 removal of Angels Flight.  And the &lt;a href=&quot;/TheMonarch&quot; title=&quot;uni&quot; target=&quot;_blank&quot;&gt;Union Bank&lt;/a&gt; peeking up is just too cool.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3652/3301038951_2ddb21f28c_o.gif&quot; alt=&quot;peekingup&quot; height=&quot;386&quot; width=&quot;575&quot; /&gt;Plus it&#039;s just a gorgeous photo.
+&lt;img src=&quot;http://farm4.static.flickr.com/3652/3301038951_2ddb21f28c_o.gif&quot; alt=&quot;peekingup&quot; height=&quot;386&quot; width=&quot;575&quot; /&gt;Plus it&#039;s just a gorgeous photo.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&quot;https://www.flickr.com/photos/metrolibraryarchive/sets/72157607914578732/&quot; title=&quot;mla&quot; target=&quot;_blank&quot;&gt;Metro Library&lt;/a&gt;. 
+&lt;a href=&quot;http://www.flickr.com/photos/metrolibraryarchive/sets/72157607914578732/&quot; title=&quot;mla&quot; target=&quot;_blank&quot;&gt;Metro Library&lt;/a&gt;. 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3011/3252900268_b4642fe4fe_o.gif" alt="bunkeralta" height="362" width="326" /><br />
+<img src="http://farm4.static.flickr.com/3011/3252900268_b4642fe4fe_o.gif" alt="bunkeralta" height="362" width="326" /><br />
 What&#8217;s remarkable about the image above is how fleeting this vista was (some number of years though it may have been, ca. 1964-67, 62-8 at the improbable outside, it&#8217;s still blink of an eye in the Grand Scheme).  The Casa and Ems were never visible from Hill because of the Elks Lodge and other buildings along Olive.
 </p>
 <p>
 Which makes the image below all the more amazing (ok, some people have a low threshold for amazing), as it was shot <i>after</i> the demolition of the Casa/Ems but <i>before</i> the &#8217;69 removal of Angels Flight.  And the <a href="/TheMonarch" title="uni" target="_blank">Union Bank</a> peeking up is just too cool.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3652/3301038951_2ddb21f28c_o.gif" alt="peekingup" height="386" width="575" />Plus it&#8217;s just a gorgeous photo.
+<img src="http://farm4.static.flickr.com/3652/3301038951_2ddb21f28c_o.gif" alt="peekingup" height="386" width="575" />Plus it&#8217;s just a gorgeous photo.
 </p>
 <p>
-<a href="https://www.flickr.com/photos/metrolibraryarchive/sets/72157607914578732/" title="mla" target="_blank">Metro Library</a>.</p>
+<a href="http://www.flickr.com/photos/metrolibraryarchive/sets/72157607914578732/" title="mla" target="_blank">Metro Library</a>.</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/kelloggpalacecasaalta/#comment-93</link>
+		<link>/kelloggpalacecasaalta/#comment-93</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sat, 21 Feb 2009 15:37:24 +0000</pubDate>
@@ -99,7 +102,7 @@ Which makes the image below all the more amazing (ok, some people have a low thr
 Seriously.  What?
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3410/3292797207_3a97dc68d3_o.gif&quot; alt=&quot;casamodel&quot; height=&quot;601&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3410/3292797207_3a97dc68d3_o.gif&quot; alt=&quot;casamodel&quot; height=&quot;601&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 The Anhawo Motels.  The Amnano.  Annawo Motels.  The Annand Motels, that is, the Anhand.  I mean Ahwawo.   
@@ -112,7 +115,7 @@ No variations of these words exist in any of the usual places.  And the word &lt
 Seriously.  What?
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3410/3292797207_3a97dc68d3_o.gif" alt="casamodel" height="601" width="575" />
+<img src="http://farm4.static.flickr.com/3410/3292797207_3a97dc68d3_o.gif" alt="casamodel" height="601" width="575" />
 </p>
 <p>
 The Anhawo Motels.  The Amnano.  Annawo Motels.  The Annand Motels, that is, the Anhand.  I mean Ahwawo.
@@ -125,15 +128,15 @@ No variations of these words exist in any of the usual places.  And the word <i>
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/kelloggpalacecasaalta/#comment-81</link>
+		<link>/kelloggpalacecasaalta/#comment-81</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Thu, 05 Feb 2009 18:17:49 +0000</pubDate>
 		<guid isPermaLink="false">#comment-81</guid>
 
-					<description><![CDATA[&lt;img src=&quot;https://farm4.static.flickr.com/3408/3257236332_8b011287df_o.gif&quot; alt=&quot;upandolive&quot; height=&quot;321&quot; width=&quot;497&quot; /&gt;
+					<description><![CDATA[&lt;img src=&quot;http://farm4.static.flickr.com/3408/3257236332_8b011287df_o.gif&quot; alt=&quot;upandolive&quot; height=&quot;321&quot; width=&quot;497&quot; /&gt;
 ]]></description>
-			<content:encoded><![CDATA[<p><img src="https://farm4.static.flickr.com/3408/3257236332_8b011287df_o.gif" alt="upandolive" height="321" width="497" /></p>
+			<content:encoded><![CDATA[<p><img src="http://farm4.static.flickr.com/3408/3257236332_8b011287df_o.gif" alt="upandolive" height="321" width="497" /></p>
 ]]></content:encoded>
 		
 			</item>

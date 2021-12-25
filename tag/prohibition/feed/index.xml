@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>prohibition &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/prohibition/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/prohibition/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:20:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>prohibition &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Don&#8217;t Drink and Drive</title>
-		<link>https://www.onbunkerhill.org/dontdrinkanddrive/</link>
-					<comments>https://www.onbunkerhill.org/dontdrinkanddrive/#respond</comments>
+		<link>/dontdrinkanddrive/</link>
+					<comments>/dontdrinkanddrive/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 04 Feb 2009 21:00:18 +0000</pubDate>
@@ -41,10 +44,10 @@
 		<category><![CDATA[suicide]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Â  Former saloon owner Joseph Gillek, 57, wasn&#8217;t a big fan of Prohibition, andÂ like many other Angelenos he simply ignored the law. He&#8217;d spent the evening ofÂ February 25, 1928, drinking &#8212; most likely in one of the dozens of blind pigs operating in the city during that time. With theÂ bootleg booze eroding his already dubious &#8230; <a href="https://www.onbunkerhill.org/dontdrinkanddrive/" class="more-link">Continue reading<span class="screen-reader-text"> "Don&#8217;t Drink and Drive"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" border="0" width="245" src="https://farm4.static.flickr.com/3500/3255089032_70df664f26_o.jpg" alt="dont drink" height="214" />Â </p>
+					<description><![CDATA[  Former saloon owner Joseph Gillek, 57, wasn&#8217;t a big fan of Prohibition, and like many other Angelenos he simply ignored the law. He&#8217;d spent the evening of February 25, 1928, drinking &#8212; most likely in one of the dozens of blind pigs operating in the city during that time. With the bootleg booze eroding his already dubious &#8230; <a href="/dontdrinkanddrive/" class="more-link">Continue reading<span class="screen-reader-text"> "Don&#8217;t Drink and Drive"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" border="0" width="245" src="http://farm4.static.flickr.com/3500/3255089032_70df664f26_o.jpg" alt="dont drink" height="214" /> </p>
 <p style="margin: 0in 0in 0pt" class="MsoNoSpacing">
-<span style="font-family: 'Times New Roman','serif'">Former saloon owner Joseph Gillek, 57, wasn&#8217;t a big fan of Prohibition, andÂ like many other Angelenos he simply ignored the law. He&#8217;d spent the evening ofÂ February 25, 1928, drinking &#8212; most likely in one of the dozens of blind pigs operating in the city during that time. With theÂ bootleg booze eroding his already dubious judgement, he compounded his unlawful behavior by getting behind the wheel of his car to drive himself home.</span>
+<span style="font-family: 'Times New Roman','serif'">Former saloon owner Joseph Gillek, 57, wasn&#8217;t a big fan of Prohibition, and like many other Angelenos he simply ignored the law. He&#8217;d spent the evening of February 25, 1928, drinking &#8212; most likely in one of the dozens of blind pigs operating in the city during that time. With the bootleg booze eroding his already dubious judgement, he compounded his unlawful behavior by getting behind the wheel of his car to drive himself home.</span>
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNoSpacing">
 &nbsp;
@@ -83,15 +86,15 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/dontdrinkanddrive/feed/</wfw:commentRss>
+					<wfw:commentRss>/dontdrinkanddrive/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Girl Who Knew the Numbers</title>
-		<link>https://www.onbunkerhill.org/shirleywinters/</link>
-					<comments>https://www.onbunkerhill.org/shirleywinters/#respond</comments>
+		<link>/shirleywinters/</link>
+					<comments>/shirleywinters/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 04 Sep 2008 20:51:31 +0000</pubDate>
@@ -106,23 +109,23 @@
 		<category><![CDATA[volstead act]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 220 South Grand Avenue Date: June 18, 1929 It is a thirsty Bunker Hill that laments the arrest of the bright and brainy Shirley Winters, 23-year-old resident of 220 South Grand, on suspicion of conspiracy to violate the Volstead Act. Shirley was popped in a South Hill Street hotel room after Georgia Street vice &#8230; <a href="https://www.onbunkerhill.org/shirleywinters/" class="more-link">Continue reading<span class="screen-reader-text"> "The Girl Who Knew the Numbers"</span></a>]]></description>
+					<description><![CDATA[Location: 220 South Grand Avenue Date: June 18, 1929 It is a thirsty Bunker Hill that laments the arrest of the bright and brainy Shirley Winters, 23-year-old resident of 220 South Grand, on suspicion of conspiracy to violate the Volstead Act. Shirley was popped in a South Hill Street hotel room after Georgia Street vice &#8230; <a href="/shirleywinters/" class="more-link">Continue reading<span class="screen-reader-text"> "The Girl Who Knew the Numbers"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 220 South Grand Avenue<br />
 Date: June 18, 1929</p>
 <p>It is a thirsty Bunker Hill that laments the arrest of the bright and brainy Shirley Winters, 23-year-old resident of 220 South Grand, on suspicion of conspiracy to violate the Volstead Act. </p>
 <p>Shirley was popped in a South Hill Street hotel room after Georgia Street vice squad Detective Lieutenants Shoemaker and Kearner overheard her take two telephone orders, one for two and another for three quarts of hooch. (In case you&#8217;re wondering, it&#8217;s $3.50 each for two quarts, and just $3 more for lucky number three.) </p>
-<p>Shirley was paid $50 a week, and not just for her lilting telephone voiceâ€”her specialty was keeping the day&#8217;s orders (including delivery addresses!) in her head until she could convey them to the bottling plant on West Seventh Street. She would have gotten away with it, too, but her boss got popped and spilled everything, and the cops have been picking off the little fish for weeks. Today they caught a live one, the gal with the million dollar hippocampus. She pled not guilty, and in November was sentenced along with other small fry in the gang toÂ  eleven months (suspended).</p>
+<p>Shirley was paid $50 a week, and not just for her lilting telephone voice–her specialty was keeping the day&#8217;s orders (including delivery addresses!) in her head until she could convey them to the bottling plant on West Seventh Street. She would have gotten away with it, too, but her boss got popped and spilled everything, and the cops have been picking off the little fish for weeks. Today they caught a live one, the gal with the million dollar hippocampus. She pled not guilty, and in November was sentenced along with other small fry in the gang to  eleven months (suspended).</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/shirleywinters/feed/</wfw:commentRss>
+					<wfw:commentRss>/shirleywinters/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>More of the Rossmere</title>
-		<link>https://www.onbunkerhill.org/morerossmere/</link>
-					<comments>https://www.onbunkerhill.org/morerossmere/#comments</comments>
+		<link>/morerossmere/</link>
+					<comments>/morerossmere/#comments</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 22 Jun 2008 17:56:11 +0000</pubDate>
@@ -136,18 +139,18 @@ Date: June 18, 1929</p>
 		<category><![CDATA[Rossmere Apartments]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[When last week you read about the Second Battle of Bunker Hill, did you really think that that was all that&#8217;d happened at the noble Rossmere? The Corinthian columns! Those dentils! Donâ€™t they just scream Dope Addict Goes Berserk? December 28, 1918. Juvenille officers were called to a vacant lot at First and Hope where &#8230; <a href="https://www.onbunkerhill.org/morerossmere/" class="more-link">Continue reading<span class="screen-reader-text"> "More of the Rossmere"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3133/2601518326_d41016dd10_o.gif" alt="TheRossmere" height="600" width="500" />When <a href="/SecondBattleofBunkerHill" title="SBBH" target="_blank">last week</a> you read about the Second Battle of Bunker Hill, did you really think that that was all that&#8217;d happened at the noble Rossmere?  The Corinthian columns!  Those dentils!  Donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t they just scream <i>Dope Addict Goes Berserk</i>?</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3183/2600688325_57be534115_o.jpg" alt="hottrannymess" align="right" height="108" width="239" /><b>December 28, 1918.</b>  Juvenille officers were called to a vacant lot at First and Hope where young toughs were blasting away at tin cans with their air rifles.  The two collared ringleaders were on their way to the station house when one of the youngsters tucked a lock of long hair under his capâ€¦he being Miss Juanita Stuart, fourteen, of the Rossmere.  She protested tearfully when her mother was instructed by officers to burn the costume of khaki trousers, flannel shirt and boyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s sweater, and to keep the young lady attired in feminine apparel only thereafter.</p>
-<p><b>July 1, 1927.</b>  William Barrett, Rossmerian, had been arrested at the hotel by officers on Volstead violations and entered into evidence was one large bottle of gin.  At Barrettâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s trial the prosecuting attorney sought to clinch a conviction by producing said bottle, but, like a reversed wedding at Cana, a police property room at LAPD will turn gin into water.  </p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3243/2601602853_ba0730a026_o.gif" alt="John2:1-11" height="113" width="400" /></p>
+					<description><![CDATA[When last week you read about the Second Battle of Bunker Hill, did you really think that that was all that&#8217;d happened at the noble Rossmere? The Corinthian columns! Those dentils! Don”™t they just scream Dope Addict Goes Berserk? December 28, 1918. Juvenille officers were called to a vacant lot at First and Hope where &#8230; <a href="/morerossmere/" class="more-link">Continue reading<span class="screen-reader-text"> "More of the Rossmere"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3133/2601518326_d41016dd10_o.gif" alt="TheRossmere" height="600" width="500" />When <a href="/SecondBattleofBunkerHill" title="SBBH" target="_blank">last week</a> you read about the Second Battle of Bunker Hill, did you really think that that was all that&#8217;d happened at the noble Rossmere?  The Corinthian columns!  Those dentils!  Don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t they just scream <i>Dope Addict Goes Berserk</i>?</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3183/2600688325_57be534115_o.jpg" alt="hottrannymess" align="right" height="108" width="239" /><b>December 28, 1918.</b>  Juvenille officers were called to a vacant lot at First and Hope where young toughs were blasting away at tin cans with their air rifles.  The two collared ringleaders were on their way to the station house when one of the youngsters tucked a lock of long hair under his cap”¦he being Miss Juanita Stuart, fourteen, of the Rossmere.  She protested tearfully when her mother was instructed by officers to burn the costume of khaki trousers, flannel shirt and boy”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s sweater, and to keep the young lady attired in feminine apparel only thereafter.</p>
+<p><b>July 1, 1927.</b>  William Barrett, Rossmerian, had been arrested at the hotel by officers on Volstead violations and entered into evidence was one large bottle of gin.  At Barrett”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s trial the prosecuting attorney sought to clinch a conviction by producing said bottle, but, like a reversed wedding at Cana, a police property room at LAPD will turn gin into water.  </p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3243/2601602853_ba0730a026_o.gif" alt="John2:1-11" height="113" width="400" /></p>
 <p>Barrett went back to the Rossmere a free man, thankful to the police for working a miracle.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3252/2600688383_c33607a8cb_o.jpg" alt="deriguer" align="left" height="114" width="256" /><b>September 23, 1949.</b>  Lloyd E. Bitters, 82, a former shoplifter by trade, decided on September 5 of this year to stop eating.  The fourteen-year resident of the Rossmere simply found life â€œno longer worth living,â€ which is reasonable enough (moreover recently-assassinated Gandhi had made fasting fashionable).  But Bitters was descended upon by members of the Community Chest and the Salvation Armyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Golden Agers Club, who bundled him up and trundled him off to General Hosptial for psychiatric examination.  </p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3019/2601517788_b2cff93a66_o.jpg" alt="theFall" align="right" height="108" width="241" /><b>September 5, 1951.</b>  Whereas the <a href="/node/134" title="Vanderbilt" target="_blank">Vanderbilt</a> had a habit of killing children, the Rossmere saved them.  Elena Bravo had warned her little Martha, seven, against playing on the third floor fire escape, but Martha didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t listen and tumbled off, only to be caught by Mrs. Max Casadosâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ground-floor clothesline.  The child suffered a compound arm fracture, a less lamentable situation than another hotel would have afforded.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3169/2601517612_c6097496d2_o.jpg" alt="atleastitwasntboosze" align="left" height="120" width="176" /><b>September 7, 1955.</b>  Fred H. Morales, 28, delivered a benediction of blood to six of his sleeping children.  And after his sprinkler-like artery-opening anointing act, he beat down a door and chased his wifeâ€”she carrying their nine-month-old babyâ€”and her parents into the street outside the Rossmere with a butcher knife.  When the cops finally arrived at First and Hope they found Morales inside, having slashed his throat with a razor blade.  He was taken to the prison ward at General Hospital.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3252/2600688383_c33607a8cb_o.jpg" alt="deriguer" align="left" height="114" width="256" /><b>September 23, 1949.</b>  Lloyd E. Bitters, 82, a former shoplifter by trade, decided on September 5 of this year to stop eating.  The fourteen-year resident of the Rossmere simply found life “no longer worth living,” which is reasonable enough (moreover recently-assassinated Gandhi had made fasting fashionable).  But Bitters was descended upon by members of the Community Chest and the Salvation Army”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Golden Agers Club, who bundled him up and trundled him off to General Hosptial for psychiatric examination.  </p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3019/2601517788_b2cff93a66_o.jpg" alt="theFall" align="right" height="108" width="241" /><b>September 5, 1951.</b>  Whereas the <a href="/node/134" title="Vanderbilt" target="_blank">Vanderbilt</a> had a habit of killing children, the Rossmere saved them.  Elena Bravo had warned her little Martha, seven, against playing on the third floor fire escape, but Martha didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t listen and tumbled off, only to be caught by Mrs. Max Casados”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ground-floor clothesline.  The child suffered a compound arm fracture, a less lamentable situation than another hotel would have afforded.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3169/2601517612_c6097496d2_o.jpg" alt="atleastitwasntboosze" align="left" height="120" width="176" /><b>September 7, 1955.</b>  Fred H. Morales, 28, delivered a benediction of blood to six of his sleeping children.  And after his sprinkler-like artery-opening anointing act, he beat down a door and chased his wife–she carrying their nine-month-old baby–and her parents into the street outside the Rossmere with a butcher knife.  When the cops finally arrived at First and Hope they found Morales inside, having slashed his throat with a razor blade.  He was taken to the prison ward at General Hospital.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/morerossmere/feed/</wfw:commentRss>
+					<wfw:commentRss>/morerossmere/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

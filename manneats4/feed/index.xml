@@ -1,30 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: From the George Mann Archives: Lost gems of the Sunset Strip	</title>
-	<atom:link href="https://www.onbunkerhill.org/manneats4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/manneats4/</link>
+	<atom:link href="/manneats4/feed/" rel="self" type="application/rss+xml" />
+	<link>/manneats4/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Fri, 28 Apr 2017 00:41:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Dec 2020 02:31:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
+		By: Jonathan Weiss		</title>
+		<link>/manneats4/#comment-115266</link>
+
+		<dc:creator><![CDATA[Jonathan Weiss]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 02:31:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1384#comment-115266</guid>
+
+					<description><![CDATA[Jack&#039;s was owned by &lt;a href=&quot;https://en.wikipedia.org/wiki/Jack_D._Crouch&quot; rel=&quot;nofollow ugc&quot;&gt;Jack D. Crouch - Wikipedia&lt;/a&gt;.
+
+&#160;]]></description>
+			<content:encoded><![CDATA[<p>Jack&#8217;s was owned by <a href="https://en.wikipedia.org/wiki/Jack_D._Crouch" rel="nofollow ugc">Jack D. Crouch &#8211; Wikipedia</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
 		By: Kim Cooper		</title>
-		<link>https://www.onbunkerhill.org/manneats4/#comment-11294</link>
+		<link>/manneats4/#comment-11294</link>
 
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 28 Apr 2017 00:41:21 +0000</pubDate>
-		<guid isPermaLink="false">https://www.onbunkerhill.org/?p=1384#comment-11294</guid>
+		<guid isPermaLink="false">/?p=1384#comment-11294</guid>
 
 					<description><![CDATA[What an interesting find! That half-rounded building shows its origins as a Simon&#039;s Drive-In. I&#039;m not good at dating cars, which might help in figuring out when this image was shot, but I believe the waitress neon shot by George Mann was on a much taller pole. So maybe both signs existed at the same time--but given the choice, who wouldn&#039;t shoot the waitress?]]></description>
 			<content:encoded><![CDATA[<p>What an interesting find! That half-rounded building shows its origins as a Simon&#8217;s Drive-In. I&#8217;m not good at dating cars, which might help in figuring out when this image was shot, but I believe the waitress neon shot by George Mann was on a much taller pole. So maybe both signs existed at the same time&#8211;but given the choice, who wouldn&#8217;t shoot the waitress?</p>
@@ -34,17 +54,17 @@
 		<item>
 		<title>
 		By: Martin Pal		</title>
-		<link>https://www.onbunkerhill.org/manneats4/#comment-11247</link>
+		<link>/manneats4/#comment-11247</link>
 
 		<dc:creator><![CDATA[Martin Pal]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2017 19:20:16 +0000</pubDate>
-		<guid isPermaLink="false">https://www.onbunkerhill.org/?p=1384#comment-11247</guid>
+		<guid isPermaLink="false">/?p=1384#comment-11247</guid>
 
 					<description><![CDATA[I have a question about the Jack&#039;s Hamburger sign...I found a photo of Jack&#039;s place on Sunset Blvd. and the neon sign out front isn&#039;t like the one you have posted for the location. Wondering if the sign was changed or from a different place?  Here&#039;s the link:
 
-https://media.gettyimages.com/photos/photo-of-hollywood-and-sunset-boulevard-and-50s-style-and-sunset-picture-id86238100]]></description>
+http://media.gettyimages.com/photos/photo-of-hollywood-and-sunset-boulevard-and-50s-style-and-sunset-picture-id86238100]]></description>
 			<content:encoded><![CDATA[<p>I have a question about the Jack&#8217;s Hamburger sign&#8230;I found a photo of Jack&#8217;s place on Sunset Blvd. and the neon sign out front isn&#8217;t like the one you have posted for the location. Wondering if the sign was changed or from a different place?  Here&#8217;s the link:</p>
-<p><a href="https://media.gettyimages.com/photos/photo-of-hollywood-and-sunset-boulevard-and-50s-style-and-sunset-picture-id86238100" rel="nofollow ugc">https://media.gettyimages.com/photos/photo-of-hollywood-and-sunset-boulevard-and-50s-style-and-sunset-picture-id86238100</a></p>
+<p><a href="http://media.gettyimages.com/photos/photo-of-hollywood-and-sunset-boulevard-and-50s-style-and-sunset-picture-id86238100" rel="nofollow ugc">http://media.gettyimages.com/photos/photo-of-hollywood-and-sunset-boulevard-and-50s-style-and-sunset-picture-id86238100</a></p>
 ]]></content:encoded>
 		
 			</item>

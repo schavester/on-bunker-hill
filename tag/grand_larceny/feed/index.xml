@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>grand_larceny &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/grand_larceny/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/grand_larceny/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:46:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>grand_larceny &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Fremont Hotel (Part 2) &#8211; 401 South Olive Street</title>
-		<link>https://www.onbunkerhill.org/fremont-2/</link>
-					<comments>https://www.onbunkerhill.org/fremont-2/#comments</comments>
+		<link>/fremont-2/</link>
+					<comments>/fremont-2/#comments</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 25 Aug 2008 16:57:07 +0000</pubDate>
@@ -43,25 +46,25 @@
 		<category><![CDATA[robbery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160; When we last discussed the Fremont Hotel, we took a look at the antics of some of the hotel&#8217;s residents over it&#8217;s five decade existence. This time around, the Fremont employees get to bask in the OnBunkerHill spotlight. First up is Harry Stewart, the Fremont bellboy who was arrested on grand larceny charges in &#8230; <a href="https://www.onbunkerhill.org/fremont-2/" class="more-link">Continue reading<span class="screen-reader-text"> "Fremont Hotel (Part 2) &#8211; 401 South Olive Street"</span></a>]]></description>
+					<description><![CDATA[&#160; When we last discussed the Fremont Hotel, we took a look at the antics of some of the hotel&#8217;s residents over it&#8217;s five decade existence. This time around, the Fremont employees get to bask in the OnBunkerHill spotlight. First up is Harry Stewart, the Fremont bellboy who was arrested on grand larceny charges in &#8230; <a href="/fremont-2/" class="more-link">Continue reading<span class="screen-reader-text"> "Fremont Hotel (Part 2) &#8211; 401 South Olive Street"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3200/2794874911_851d83597e.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3200/2794874911_851d83597e.jpg?v=0" width="400" />
 </div>
 <p>When we last discussed the Fremont Hotel, we took a look at the antics of some of the hotel&#8217;s residents over it&#8217;s five decade existence. This time around, the Fremont employees get to bask in the OnBunkerHill spotlight.<br id="f:cy" /></p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3081/2794874275_6a26bac0f1.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3081/2794874275_6a26bac0f1.jpg?v=0" width="400" />
 </div>
 <p><br id="f:cy0" /><br />
 First up is Harry Stewart, the Fremont bellboy who was arrested on grand larceny charges in 1903. Apparently Mr. Stewart supplemented his income by stealing valuables from the rooms of hotel guests. The jig was up when a valuable diamond pin was removed from the room of Owl Drug president D.W. Kirkland (<a href="/node/183">who would live out his days at the hotel</a>). While the jewel was not recovered from the bellboy&#8217;s living quarters, some other items were discovered, including a sock. For some reason, Stewart had also lifted the sock from Kirkland&#8217;s room and left behind its mate. The footwear was enough to implicate him in the crime and he served the next six months in jail. Upon release, the former Fremont bellboy just couldn&#8217;t give up his wicked, wicked ways and was immediately arrested again for stealing five bucks out of a purse.<br id="f:cy2" /></p>
 <p>Next is S.J. Messing, a clerk at the Fremont Hotel who was arrested in 1910 for embezzlement. It seems that Messing had had a business partnership in San Francisco the previous year and his partner, Frank Smith, felt he had been embezzled out of a whole $25. Mr. Smith felt so wronged by his former partner that he repeatedly had Messing arrested, hoping the charge would stick. The first arrest came when Messing was recovering from malaria in a Napa hospital and the second arrest occurred while he was enjoying a show at the Orpheum. The final time came when Messing was in his bed at the Fremont. He was taken out of the hotel all the while proclaiming his innocence and swore he would go back up to San Francisco to clear his good name. No word if they ever came to a settlement over the $25. <br id="lq3o" /></p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3243/2795721132_69b689114d.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3243/2795721132_69b689114d.jpg?v=0" width="400" />
 </div>
 <p><br id="lq3o0" /><br />
 In their defense, it&#8217;s probably hard for bellboys and clerks to behave when the management did not always set a good example. In 1913, proprietor Richard A. Von Falkenberg was accused of drastically raising the rent on a female tenant when she refused his unwelcome advances. Von Falkenberg proclaimed his innocence. Three months later, when the hotel was in, as the Los Angeles Times stated, &quot;a precarious financial position,&quot; Von Falkenberg and his wife mysteriously dissappeared. Turns out, he was just suffering from ill nerves and decided to rest up in Ventura without notifying anyone.  </p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3038/2794874873_7e3f6d50a9.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3038/2794874873_7e3f6d50a9.jpg?v=0" width="400" />
 </div>
 <p><br id="dxj10" /></p>
 <p>It is worth noting that just because someone was the owner of the Fremont, does not mean they were immune from the shadier goings on. In February of 1913, Fremont owner Mary Jauch (<a href="/node/98">former resident of the Rose Mansion</a>) reported $8,300 in jewels stolen from her room. The burgler had also entered the room of E.H. McElroy who caught the bandit red handed and the two scuffled until the theif got away. <br id="n0rf" /><br />
@@ -70,7 +73,7 @@ The antics of the Fremont Hotel abruptly came to an end in the mid-1950s as the 
 <p><i>Photo courtesy of the Los Angeles Public Library Photo Collection</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/fremont-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/fremont-2/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		

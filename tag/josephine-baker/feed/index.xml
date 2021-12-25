@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>josephine baker &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/josephine-baker/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/josephine-baker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 22:08:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>josephine baker &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>From the George Mann Archives: Josephine Baker live in Paris, 1931</title>
-		<link>https://www.onbunkerhill.org/baker/</link>
-					<comments>https://www.onbunkerhill.org/baker/#respond</comments>
+		<link>/baker/</link>
+					<comments>/baker/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 21 Aug 2012 16:10:52 +0000</pubDate>
@@ -38,15 +41,15 @@
 		<category><![CDATA[Kim]]></category>
 		<category><![CDATA[george mann]]></category>
 		<category><![CDATA[josephine baker]]></category>
-		<guid isPermaLink="false">https://www.onbunkerhill.org/?p=1373</guid>
+		<guid isPermaLink="false">/?p=1373</guid>
 
-					<description><![CDATA[Today On Bunker Hill is proud to present a bombshell from the archives of George Mann: never-before-seen footage of the legendary American dancer Josephine Baker on stage in Paris in 1931. This too-brief glimpse at the athletic and erotic antics of Miss Baker and company predate Mann&#8217;s astonishing color photographs of Bunker Hill by about &#8230; <a href="https://www.onbunkerhill.org/baker/" class="more-link">Continue reading<span class="screen-reader-text"> "From the George Mann Archives: Josephine Baker live in Paris, 1931"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Today On Bunker Hill is proud to present a bombshell from the archives of George Mann: <a href="https://www.youtube.com/watch?v=86HqDSY9l9A&amp;feature=youtu.be" target="_blank">never-before-seen </a>footage of the legendary American dancer Josephine Baker on stage in Paris in 1931. This too-brief glimpse at the athletic and erotic antics of Miss Baker and company predate Mann&#8217;s astonishing <a href="/georgemannshop" target="_blank">color photographs</a> of Bunker Hill by about thirty years.</p>
-<p>Like Miss Baker, George Mann was headlining in Paris in spring 1931, as one half of the dance team Barto &amp; Mann. His good friend <a href="https://www.artfinder.com/work/george-mann-and-friend-bob-vernon-drinking-beer-in-a-paris-cafe-/in/collection.george-mann-american-master/" target="_blank">Bob Vernon</a> was a lead dancer in Miss Baker&#8217;s revue at the Casino de Paris, and it was this close association that allowed George Mann to set his movie camera up just on the edge of the stage and capture a scene that is sure to captivate. It seems Miss Baker was a bit captivated, too, if the name &#8220;Mann&#8221; in quotes on her autographed photograph is anything to go by.</p>
-<p><a title="Josephine Baker photograph autographed to George Mann by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7698152074/"><img loading="lazy" src="https://farm8.staticflickr.com/7107/7698152074_207c16656b_z.jpg" alt="Josephine Baker photograph autographed to George Mann" width="547" height="640" /></a></p>
+					<description><![CDATA[Today On Bunker Hill is proud to present a bombshell from the archives of George Mann: never-before-seen footage of the legendary American dancer Josephine Baker on stage in Paris in 1931. This too-brief glimpse at the athletic and erotic antics of Miss Baker and company predate Mann&#8217;s astonishing color photographs of Bunker Hill by about &#8230; <a href="/baker/" class="more-link">Continue reading<span class="screen-reader-text"> "From the George Mann Archives: Josephine Baker live in Paris, 1931"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Today On Bunker Hill is proud to present a bombshell from the archives of George Mann: <a href="http://www.youtube.com/watch?v=86HqDSY9l9A&amp;feature=youtu.be" target="_blank">never-before-seen </a>footage of the legendary American dancer Josephine Baker on stage in Paris in 1931. This too-brief glimpse at the athletic and erotic antics of Miss Baker and company predate Mann&#8217;s astonishing <a href="/georgemannshop" target="_blank">color photographs</a> of Bunker Hill by about thirty years.</p>
+<p>Like Miss Baker, George Mann was headlining in Paris in spring 1931, as one half of the dance team Barto &amp; Mann. His good friend <a href="http://www.artfinder.com/work/george-mann-and-friend-bob-vernon-drinking-beer-in-a-paris-cafe-/in/collection.george-mann-american-master/" target="_blank">Bob Vernon</a> was a lead dancer in Miss Baker&#8217;s revue at the Casino de Paris, and it was this close association that allowed George Mann to set his movie camera up just on the edge of the stage and capture a scene that is sure to captivate. It seems Miss Baker was a bit captivated, too, if the name &#8220;Mann&#8221; in quotes on her autographed photograph is anything to go by.</p>
+<p><a title="Josephine Baker photograph autographed to George Mann by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7698152074/"><img loading="lazy" src="http://farm8.staticflickr.com/7107/7698152074_207c16656b_z.jpg" alt="Josephine Baker photograph autographed to George Mann" width="547" height="640" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/baker/feed/</wfw:commentRss>
+					<wfw:commentRss>/baker/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

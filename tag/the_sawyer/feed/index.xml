@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>The Sawyer &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/the_sawyer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/the_sawyer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 19:47:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>The Sawyer &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>All the More Mann</title>
-		<link>https://www.onbunkerhill.org/allthemoremann/</link>
-					<comments>https://www.onbunkerhill.org/allthemoremann/#comments</comments>
+		<link>/allthemoremann/</link>
+					<comments>/allthemoremann/#comments</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 07 Jun 2010 20:51:30 +0000</pubDate>
@@ -44,25 +47,25 @@
 		<category><![CDATA[The Sawyer]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Ahoy Hill hipster!Â  Itâ€™s been an exciting time here On Bunker Hill.Â  Through the grace of George Mannâ€™s family, the other day Kim posted twenty-one images of BH in living doomed color.Â  One of those featured the Sunshine Apts. with the Hill Crest looming oâ€™er; a few days later the esteemed Jim Dawson posted all &#8230; <a href="https://www.onbunkerhill.org/allthemoremann/" class="more-link">Continue reading<span class="screen-reader-text"> "All the More Mann"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Ahoy Hill hipster!<span>Â  </span>Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s been an exciting time here On Bunker Hill.<span>Â  </span>Through the grace of George Mannâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s family, the other day Kim posted twenty-one images of BH in living doomed color.<span>Â  </span>One of those featured the Sunshine Apts. with the Hill Crest looming oâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />er; a few days later the esteemed Jim Dawson posted all about the Sunshine, including a new Mann image that showcased a yearâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s worth of growth where the Hill Crest once stood.<span>Â  </span>And now, for your edification and delectation, <i>more</i><span style="font-style: normal">.</span></p>
+					<description><![CDATA[Ahoy Hill hipster!  It”™s been an exciting time here On Bunker Hill.  Through the grace of George Mann”™s family, the other day Kim posted twenty-one images of BH in living doomed color.  One of those featured the Sunshine Apts. with the Hill Crest looming o”™er; a few days later the esteemed Jim Dawson posted all &#8230; <a href="/allthemoremann/" class="more-link">Continue reading<span class="screen-reader-text"> "All the More Mann"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Ahoy Hill hipster!<span>  </span>It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s been an exciting time here On Bunker Hill.<span>  </span>Through the grace of George Mann”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s family, the other day Kim posted twenty-one images of BH in living doomed color.<span>  </span>One of those featured the Sunshine Apts. with the Hill Crest looming o”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />er; a few days later the esteemed Jim Dawson posted all about the Sunshine, including a new Mann image that showcased a year”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s worth of growth where the Hill Crest once stood.<span>  </span>And now, for your edification and delectation, <i>more</i><span style="font-style: normal">.</span></p>
 <p class="MsoNormal">
-<a href="https://farm5.static.flickr.com/4029/4676076185_2b8f3ff420.jpg"><img loading="lazy" src="https://farm5.static.flickr.com/4029/4676076185_2b8f3ff420.jpg" alt="bhtime" height="500" width="464" /></a>
+<a href="http://farm5.static.flickr.com/4029/4676076185_2b8f3ff420.jpg"><img loading="lazy" src="http://farm5.static.flickr.com/4029/4676076185_2b8f3ff420.jpg" alt="bhtime" height="500" width="464" /></a>
 </p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--><!--[endif]-->I begin my post as did Kim not with shots of Bunker Hill, but with a George Mann image nonetheless.Â  <span></span>This is the Sentous Block, designed in 1886 by R. J. Reeve; the same year Reeve designed the <a href="https://digitallibrary.usc.edu/assetserver/controller/view/search/CHS-8310" title="USHotel" target="_blank">U. S. Hotel</a> and the <a href="https://latimesblogs.latimes.com/thedailymirror/2008/07/spring-street-4.html" title="PhillipsBlock" target="_blank">Phillips Block</a>.
+<!--[if !supportEmptyParas]--><!--[endif]-->I begin my post as did Kim not with shots of Bunker Hill, but with a George Mann image nonetheless.  <span></span>This is the Sentous Block, designed in 1886 by R. J. Reeve; the same year Reeve designed the <a href="http://digitallibrary.usc.edu/assetserver/controller/view/search/CHS-8310" title="USHotel" target="_blank">U. S. Hotel</a> and the <a href="http://latimesblogs.latimes.com/thedailymirror/2008/07/spring-street-4.html" title="PhillipsBlock" target="_blank">Phillips Block</a>.
 </p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--><!--[endif]-->Louis Sentous was one of the great <a href="https://www.skyscrapercity.com/showthread.php?t=367672" title="FrenchPios" target="_blank">French pioneers</a> of Los Angeles whoâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d arrived penniless, panned for a little gold and became a successful cattle rancher, trading meat and dairy at the Plaza until he bought the nearby piece of property (bounded by Sunset, Spring, Main and Macy) that was to bear his name.<o:p></o:p>
+<!--[if !supportEmptyParas]--><!--[endif]-->Louis Sentous was one of the great <a href="http://www.skyscrapercity.com/showthread.php?t=367672" title="FrenchPios" target="_blank">French pioneers</a> of Los Angeles who”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d arrived penniless, panned for a little gold and became a successful cattle rancher, trading meat and dairy at the Plaza until he bought the nearby piece of property (bounded by Sunset, Spring, Main and Macy) that was to bear his name.<o:p></o:p>
 </p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--><!--[endif]-->The Sentous Block is best known around noirsville as where Mike Hammer cruises over to the Jalisco Hotel in <i>Kiss Me Deadly</i>; it also contained the Bamba Club, which doubles as the Round-Up in <i>Criss Cross</i>.<span>Â  </span>(Both on the Spring St. side of the Sentous; our image shows the Main St. side.)<span>Â  </span>For more than you would ever want to know about this, go <a href="https://forum.skyscraperpage.com/showthread.php?p=4852728" title="noirsville" target="_blank">here</a> <span></span>(seems like contributor Beaudry needs a girlfriend or something).
+<!--[if !supportEmptyParas]--><!--[endif]-->The Sentous Block is best known around noirsville as where Mike Hammer cruises over to the Jalisco Hotel in <i>Kiss Me Deadly</i>; it also contained the Bamba Club, which doubles as the Round-Up in <i>Criss Cross</i>.<span>  </span>(Both on the Spring St. side of the Sentous; our image shows the Main St. side.)<span>  </span>For more than you would ever want to know about this, go <a href="http://forum.skyscraperpage.com/showthread.php?p=4852728" title="noirsville" target="_blank">here</a> <span></span>(seems like contributor Beaudry needs a girlfriend or something).
 </p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--><!--[endif]-->Louis <a href="https://www.findagrave.com/cgi-bin/fg.cgi?page=pv&amp;GRid=17841055&amp;PIpi=5201605" title="CalvaryCemetery" target="_blank">lasted until 1911</a>;<span> </span>his building <a href="https://digitallibrary.usc.edu/search/controller/view/examiner-m3343.html?x=1275885166052" title="ChristineStrawberryGirl" target="_blank">til 1957</a>.<span>Â Â </span>
+<!--[if !supportEmptyParas]--><!--[endif]-->Louis <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=pv&amp;GRid=17841055&amp;PIpi=5201605" title="CalvaryCemetery" target="_blank">lasted until 1911</a>;<span> </span>his building <a href="http://digitallibrary.usc.edu/search/controller/view/examiner-m3343.html?x=1275885166052" title="ChristineStrawberryGirl" target="_blank">til 1957</a>.<span>  </span>
 </p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--><!--[endif]-->Just goes to show.<span>Â  </span>Not everything ornate that was torn down in the last fifty years was on Bunker Hill.<span>Â  </span>You owe it to yourself to learn the names and faces of the Amestoy Block.<span>Â  </span>The Bath Block.<span>Â  </span>The Gollmer Block.<span>Â  </span>The Wilson Block.<span>Â  </span>The Stimson Building.<span>Â  </span>The Westminster Hotel.<span>Â  </span>The Martz Flats.<span>Â  </span>Ad nauseum.
+<!--[if !supportEmptyParas]--><!--[endif]-->Just goes to show.<span>  </span>Not everything ornate that was torn down in the last fifty years was on Bunker Hill.<span>  </span>You owe it to yourself to learn the names and faces of the Amestoy Block.<span>  </span>The Bath Block.<span>  </span>The Gollmer Block.<span>  </span>The Wilson Block.<span>  </span>The Stimson Building.<span>  </span>The Westminster Hotel.<span>  </span>The Martz Flats.<span>  </span>Ad nauseum.
 </p>
 <p class="MsoNormal">
 But on to Bunker Hill!
@@ -71,18 +74,18 @@ But on to Bunker Hill!
 Ah, the Astoria.
 </p>
 <p class="MsoNormal">
-<a href="https://farm5.static.flickr.com/4065/4676076215_b9121b04fe.jpg"><img loading="lazy" src="https://farm5.static.flickr.com/4065/4676076215_b9121b04fe.jpg" alt="Astorian" height="500" width="442" /></a>
+<a href="http://farm5.static.flickr.com/4065/4676076215_b9121b04fe.jpg"><img loading="lazy" src="http://farm5.static.flickr.com/4065/4676076215_b9121b04fe.jpg" alt="Astorian" height="500" width="442" /></a>
 </p>
 <p class="MsoNormal">
-Nothing says deep arcaded entry and red-tiled bell tower like â€œAstoriaâ€.<span>Â  </span>Yes, one can not help but marvel at the incongruity of Bunker Hill naming systems.<span>Â  </span>I wrote earlier in OBH about the red-tiled onion domed <i>Minnewaska</i>, the fairly Franco-Renaissance <i>Sherwood</i>, and while it hasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t been explored yet, the decisively Mission-styled 1904 Mission Apartments at Second and Olive spent much of its young life known as, of course, Castle Craig.
+Nothing says deep arcaded entry and red-tiled bell tower like “Astoria”.<span>  </span>Yes, one can not help but marvel at the incongruity of Bunker Hill naming systems.<span>  </span>I wrote earlier in OBH about the red-tiled onion domed <i>Minnewaska</i>, the fairly Franco-Renaissance <i>Sherwood</i>, and while it hasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t been explored yet, the decisively Mission-styled 1904 Mission Apartments at Second and Olive spent much of its young life known as, of course, Castle Craig.
 </p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--><!--[endif]-->Astoria, the Greek word for quail, is also the part of Queens known for being full of Greeks.Â  <span></span>That notwithstanding, at the time of its construction, <i>Astoria</i><span style="font-style: normal"> connoted the Astoria, Queens that was then the â€œHollywood of the East.â€<span>Â  </span>Plus it had been named for John Jacob Astor.<span>Â  </span>All sorts of cachet.<span>Â  </span>Perhaps the developers thought that despite the arches and fauxdobe, the rather otherwise traditional use of the bay windows prevented naming the structure something vaguely Missiony like â€œRamona Hotelâ€ or â€œPortolÃ  Apts.</span><span style="font-style: normal">â€ </span>
+<!--[if !supportEmptyParas]--><!--[endif]-->Astoria, the Greek word for quail, is also the part of Queens known for being full of Greeks.  <span></span>That notwithstanding, at the time of its construction, <i>Astoria</i><span style="font-style: normal"> connoted the Astoria, Queens that was then the “Hollywood of the East.”<span>  </span>Plus it had been named for John Jacob Astor.<span>  </span>All sorts of cachet.<span>  </span>Perhaps the developers thought that despite the arches and fauxdobe, the rather otherwise traditional use of the bay windows prevented naming the structure something vaguely Missiony like “Ramona Hotel” or “PortolÃ  Apts.</span><span style="font-style: normal">” </span>
 </p>
-<p>In any event, of the Astoria much <a href="https://www.onbunkerhill.org/theAstoria" title="lifeanddeath" target="_blank">has been said</a>.Â <br />
+<p>In any event, of the Astoria much <a href="/theAstoria" title="lifeanddeath" target="_blank">has been said</a>. <br />
 <o:p></o:p></p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--><!--[endif]-->Next to the Astoria is the 1916 Blackstone Apartments, with the nice Beaux Arts garlands uponâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t.<span>Â  </span>Not a whole lot happened there, an ex-cop caught violating the Wright Act,<span> </span>and there were some lady bootleggers; while the Widows Protective League Los Angeles Branch Council met at the Blackstone, a widow took poison and offed herself there the very same year (1929); and Ross Page, younger brother of the widely-known <a href="https://www.insroland.org/farmerpage" title="FahmaPage" target="_blank">â€œFarmerâ€ Page</a>, was busted there by the vice squad while running two bridge games and a poker game in August of â€˜25.
+<!--[if !supportEmptyParas]--><!--[endif]-->Next to the Astoria is the 1916 Blackstone Apartments, with the nice Beaux Arts garlands upon”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t.<span>  </span>Not a whole lot happened there, an ex-cop caught violating the Wright Act,<span> </span>and there were some lady bootleggers; while the Widows Protective League Los Angeles Branch Council met at the Blackstone, a widow took poison and offed herself there the very same year (1929); and Ross Page, younger brother of the widely-known <a href="http://www.insroland.org/farmerpage" title="FahmaPage" target="_blank">“Farmer” Page</a>, was busted there by the vice squad while running two bridge games and a poker game in August of ”˜25.
 </p>
 <p class="MsoNormal">
 I will let Matt Weinstock of the <i>Times</i><span style="font-style: normal"> do the talking for me:</span>
@@ -90,19 +93,19 @@ I will let Matt Weinstock of the <i>Times</i><span style="font-style: normal"> d
 <div align="justify">
 </div>
 <p class="MsoNormal" align="justify">
-<!--[if !supportEmptyParas]--><!--[endif]--><i>That din emanating from Bunker Hill these days is the relentless pounding of the jackhammers tearing down the ancient Blackstone Apartments, 244 S Olive St., next door to the top of Angelâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight.</i>
+<!--[if !supportEmptyParas]--><!--[endif]--><i>That din emanating from Bunker Hill these days is the relentless pounding of the jackhammers tearing down the ancient Blackstone Apartments, 244 S Olive St., next door to the top of Angel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight.</i>
 </p>
 <div align="justify">
 </div>
 <p class="MsoNormal" align="justify">
-<i>Until the demolition crew went to work on it, the Blackstone was nine stories high, counting the floors from the back entrance in the alley, which was kept locked.<span>Â  </span>However, if you entered on Olive St., as most people did, you were on the third floor, and from there it was only a six story building.<span>Â  </span>I learned this many years ago in visiting a departed colleague, <a href="https://latimesblogs.latimes.com/thedailymirror/2010/04/matt-weinstock-april-25-1960.html" title="JFBA" target="_blank">J. Farrington Barrington Arrington</a>, who lived there.</i>
+<i>Until the demolition crew went to work on it, the Blackstone was nine stories high, counting the floors from the back entrance in the alley, which was kept locked.<span>  </span>However, if you entered on Olive St., as most people did, you were on the third floor, and from there it was only a six story building.<span>  </span>I learned this many years ago in visiting a departed colleague, <a href="http://latimesblogs.latimes.com/thedailymirror/2010/04/matt-weinstock-april-25-1960.html" title="JFBA" target="_blank">J. Farrington Barrington Arrington</a>, who lived there.</i>
 </p>
 <p class="MsoNormal" align="justify">
-<i>And so another quaint landmark passes and now, when I go into a building on what purports to be the main floor it will really be the main floor, not the third.<span>Â  </span>Progress marches on.<br />
+<i>And so another quaint landmark passes and now, when I go into a building on what purports to be the main floor it will really be the main floor, not the third.<span>  </span>Progress marches on.<br />
 </i>
 </p>
 <p class="MsoNormal">
-â€“ July 2, 1964
+”“ July 2, 1964
 </p>
 <p class="MsoNormal">
 <!--[if !supportEmptyParas]--><br />
@@ -114,60 +117,60 @@ The Sawyer Apts:<o:p></o:p>
 <p class="MsoNormal">
 <!--[if !supportEmptyParas]-->
 </p>
-<p><img loading="lazy" src="https://farm5.static.flickr.com/4043/4676076221_72b14166a6.jpg" alt="Sawyer" height="500" width="442" /> </p>
-<p>Not one of the gingerbreaded, parapeted wonders of the Hill.<span>Â  </span>So where was it?<span>Â  </span>327 South Hope, thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s where.<span>Â  </span>(God bless City Directories and old phone books.)<span>Â  </span>And bless George Mann for shooting something other than the Usual Suspects.<span>Â  </span>Sure, 327 is on <a href="https://content.cdlib.org/ark:/13030/hb0489n97n/?order=3&amp;brand=calisphere" title="DaMap" target="_blank">The Map</a>, but this is a color pic.<span>Â  </span>And yetâ€¦again, one always needs more; thereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s something about placing oneself in the landscape.<span>Â  </span>So, comparing maps, and building outlines, and digging through photo archivesâ€¦</p>
+<p><img loading="lazy" src="http://farm5.static.flickr.com/4043/4676076221_72b14166a6.jpg" alt="Sawyer" height="500" width="442" /> </p>
+<p>Not one of the gingerbreaded, parapeted wonders of the Hill.<span>  </span>So where was it?<span>  </span>327 South Hope, that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s where.<span>  </span>(God bless City Directories and old phone books.)<span>  </span>And bless George Mann for shooting something other than the Usual Suspects.<span>  </span>Sure, 327 is on <a href="http://content.cdlib.org/ark:/13030/hb0489n97n/?order=3&amp;brand=calisphere" title="DaMap" target="_blank">The Map</a>, but this is a color pic.<span>  </span>And yet”¦again, one always needs more; there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s something about placing oneself in the landscape.<span>  </span>So, comparing maps, and building outlines, and digging through photo archives”¦</p>
 <p class="MsoNormal">
-â€¦in this William Reagh photo, ca. 1955:<o:p></o:p>
+”¦in this William Reagh photo, ca. 1955:<o:p></o:p>
 </p>
-<p><img loading="lazy" src="https://farm5.static.flickr.com/4019/4680965038_c0e924c63e.jpg" alt="atHope" height="362" width="500" /></p>
+<p><img loading="lazy" src="http://farm5.static.flickr.com/4019/4680965038_c0e924c63e.jpg" alt="atHope" height="362" width="500" /></p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--> The tree in our color image is the tree dead center above, and the large building jutting out to the right of the frame (Richfield tower visible behind) from Hope and plunging down the hill toward Flower, thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Sawyer.<o:p></o:p>
+<!--[if !supportEmptyParas]--> The tree in our color image is the tree dead center above, and the large building jutting out to the right of the frame (Richfield tower visible behind) from Hope and plunging down the hill toward Flower, that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Sawyer.<o:p></o:p>
 </p>
 <p></p>
 <p class="MsoNormal">
-I want to stress again the wonder of finding the unexpected.<span>Â  </span>Mann shot what others did not.<span>Â  </span>After Angels Flight, arguably the most photographed structures on the Hill were <a href="/castle" title="Castle" target="_blank">the Castle</a> and <a href="/salt_box" title="daSB" target="_blank">the Salt Box</a>.<span>Â  </span>Which meant photographers turned their collective back on <i>this</i><span style="font-style: normal">:<o:p></o:p></span>
+I want to stress again the wonder of finding the unexpected.<span>  </span>Mann shot what others did not.<span>  </span>After Angels Flight, arguably the most photographed structures on the Hill were <a href="/castle" title="Castle" target="_blank">the Castle</a> and <a href="/salt_box" title="daSB" target="_blank">the Salt Box</a>.<span>  </span>Which meant photographers turned their collective back on <i>this</i><span style="font-style: normal">:<o:p></o:p></span>
 </p>
 <p class="MsoNormal">
-<img loading="lazy" src="https://farm5.static.flickr.com/4068/4676076227_eeb2a283f4.jpg" alt="SBH" height="500" width="432" /><br />
+<img loading="lazy" src="http://farm5.static.flickr.com/4068/4676076227_eeb2a283f4.jpg" alt="SBH" height="500" width="432" /><br />
 <o:p></o:p>
 </p>
 <p class="MsoNormal">
-We stand adjacent to a bit of spindlework at <a href="/333_BunkerHill" title="333" target="_blank">333 South Bunker Hill</a>, between, of course, the Salt Box behind our left shoulder and the Castle on the other side of 333.<span>Â  </span>Whitey there on the right with the dentils is 326 South Bunker Hill, but its real address is 325 South Grand, as this is the backside of the Kenneth Apts.<span>Â  </span>Its blue neighbor with the deep columned entry is 322/318; it had a non-conjoined counterpart of 319/323 at Grand and together they were known as the Alta Cresta.<span>Â  </span>Its beige neighbor to the north with the porch is 310 and thereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a small house behind it thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s either 306 or 302 South Bunker Hill.<o:p></o:p>
+We stand adjacent to a bit of spindlework at <a href="/333_BunkerHill" title="333" target="_blank">333 South Bunker Hill</a>, between, of course, the Salt Box behind our left shoulder and the Castle on the other side of 333.<span>  </span>Whitey there on the right with the dentils is 326 South Bunker Hill, but its real address is 325 South Grand, as this is the backside of the Kenneth Apts.<span>  </span>Its blue neighbor with the deep columned entry is 322/318; it had a non-conjoined counterpart of 319/323 at Grand and together they were known as the Alta Cresta.<span>  </span>Its beige neighbor to the north with the porch is 310 and there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a small house behind it that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s either 306 or 302 South Bunker Hill.<o:p></o:p>
 </p>
 <p class="MsoNormal">
-And then the white house with the cross-gabled red roof, thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 256 South Bunker Hill.<span>Â  </span>That one is extra cool because itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s where Liz the exotic dancer/modern painter/serial killer (Indus Arthur) lives in <a href="https://www.noiroftheweek.com/2006/01/angels-flight-1965.html" title="AaaaaangelsFlight" target="_blank"><i>Angelâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight</i></a>.<span>Â  </span>In fact, itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not two minutes into the movie when Liz commits a murder right on the <a href="https://helios.library.ca.gov/soca/hylen/2001-0763.jpg" title="benchesofdeath" target="_blank">benches above the Third St. tunnel</a>, and the landlady sticks her head out and screams!<span>Â  </span>To wit:<o:p></o:p>
+And then the white house with the cross-gabled red roof, that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 256 South Bunker Hill.<span>  </span>That one is extra cool because it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s where Liz the exotic dancer/modern painter/serial killer (Indus Arthur) lives in <a href="http://www.noiroftheweek.com/2006/01/angels-flight-1965.html" title="AaaaaangelsFlight" target="_blank"><i>Angel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight</i></a>.<span>  </span>In fact, it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not two minutes into the movie when Liz commits a murder right on the <a href="http://helios.library.ca.gov/soca/hylen/2001-0763.jpg" title="benchesofdeath" target="_blank">benches above the Third St. tunnel</a>, and the landlady sticks her head out and screams!<span>  </span>To wit:<o:p></o:p>
 </p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--><img loading="lazy" src="https://farm5.static.flickr.com/4007/4680159597_ae8f3f5fc4_o.jpg" alt="nosylandlady" height="386" width="500" /><br />
+<!--[if !supportEmptyParas]--><img loading="lazy" src="http://farm5.static.flickr.com/4007/4680159597_ae8f3f5fc4_o.jpg" alt="nosylandlady" height="386" width="500" /><br />
 <!--[endif]--><o:p></o:p>
 </p>
 <p class="MsoNormal">
 And the big brick building behind that is the backend of the <a href="/stottslanding" title="altosax" target="_blank">Alto Hotel</a>, 253 S. Grand.<o:p></o:p>
 </p>
 <p class="MsoNormal">
-And last but not leastâ€¦<o:p></o:p>
+And last but not least”¦<o:p></o:p>
 </p>
 <p class="MsoNormal">
 Mystery House!<o:p></o:p>
 </p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]-->Â <!--[endif]--><o:p></o:p>
+<!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p>
 </p>
 <p class="MsoNormal">
-<a href="https://farm5.static.flickr.com/4054/4676076237_c092100c7b.jpg"><img loading="lazy" src="https://farm5.static.flickr.com/4054/4676076237_c092100c7b.jpg" alt="mysteryhaus" height="500" width="429" /></a>
+<a href="http://farm5.static.flickr.com/4054/4676076237_c092100c7b.jpg"><img loading="lazy" src="http://farm5.static.flickr.com/4054/4676076237_c092100c7b.jpg" alt="mysteryhaus" height="500" width="429" /></a>
 </p>
 <p class="MsoNormal">
-<!--[if !supportEmptyParas]--><!--[endif]-->At least itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a mystery to me.<span>Â  </span>Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not within a gallon of Ethel of the DT, of that Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m pretty certain.<span>Â  </span>Mann shot all over, Point Loma, Catalinaâ€¦so hereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s this Victorian Exotic Revival thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s going for something Indo-Moorish, though what that is I canâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t say â€“ do you know?<span>Â  </span>Thereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s what appears to be a â€œ701â€ on her stairs.<span>Â  </span>OBH readers are the best and the brightest:<span>Â  </span>whence came this sweetheart and whither did she go?
+<!--[if !supportEmptyParas]--><!--[endif]-->At least it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a mystery to me.<span>  </span>It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not within a gallon of Ethel of the DT, of that I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m pretty certain.<span>  </span>Mann shot all over, Point Loma, Catalina”¦so here”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s this Victorian Exotic Revival that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s going for something Indo-Moorish, though what that is I can”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t say ”“ do you know?<span>  </span>There”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s what appears to be a “701” on her stairs.<span>  </span>OBH readers are the best and the brightest:<span>  </span>whence came this sweetheart and whither did she go?
 </p>
 <p class="MsoNormal">
 <i>William Reagh photo courtesy California State Library Digital Archives </i>
 </p>
-<p><i>Thanks to George Mann&#8217;s son Brad Smith, and daughter-in-law Dianne Woods, for allowing us to reprint these copyrighted photographs and tell George&#8217;s story. To see George&#8217;s photos of theater marquees, visit <a href="https://www.flickr.com/photos/brad_smith" target="_blank">https://www.flickr.com/photos/brad_smith</a></i> </p>
-<p><i>For a representative selection of photographs from his archive, or to license images for reproduction or other use, see <a href="https://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/" target="_blank">https://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/</a><br />
+<p><i>Thanks to George Mann&#8217;s son Brad Smith, and daughter-in-law Dianne Woods, for allowing us to reprint these copyrighted photographs and tell George&#8217;s story. To see George&#8217;s photos of theater marquees, visit <a href="http://www.flickr.com/photos/brad_smith" target="_blank">http://www.flickr.com/photos/brad_smith</a></i> </p>
+<p><i>For a representative selection of photographs from his archive, or to license images for reproduction or other use, see <a href="http://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/" target="_blank">http://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/</a><br />
 </i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/allthemoremann/feed/</wfw:commentRss>
+					<wfw:commentRss>/allthemoremann/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

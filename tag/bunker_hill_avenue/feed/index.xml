@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Bunker Hill Avenue &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/bunker_hill_avenue/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/bunker_hill_avenue/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:46:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>Bunker Hill Avenue &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Le Miserable</title>
-		<link>https://www.onbunkerhill.org/jeanvaljeanofspam/</link>
-					<comments>https://www.onbunkerhill.org/jeanvaljeanofspam/#comments</comments>
+		<link>/jeanvaljeanofspam/</link>
+					<comments>/jeanvaljeanofspam/#comments</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 30 Nov 2008 13:10:22 +0000</pubDate>
@@ -44,15 +47,15 @@
 		<category><![CDATA[robbery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Joe Chavez was busted down on Bunker Hill. â€™Twas late in the Decembertime (the holiday season, for the Love of Mary), and Joe, 50, hungry, hunkered down in his pad at 221 South Bunker Hill, went and thought, Iâ€™m going to go liberate a little something from a nearby market to ease my gnawing gut. &#8230; <a href="https://www.onbunkerhill.org/jeanvaljeanofspam/" class="more-link">Continue reading<span class="screen-reader-text"> "Le Miserable"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3158/3069206376_d84baa2486_o.gif" alt="221SB" height="433" width="492" /></p>
-<p>Joe Chavez was busted down on Bunker Hill. â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />Twas late in the Decembertime (the <i>holiday season</i>, for the Love of Mary), and Joe, 50, hungry, hunkered down in his pad at 221 South Bunker Hill, went and thought, <i>Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m going to go liberate a little something from a nearby market to ease my gnawing gut.  Whatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the worst that could happen?</i></p>
+					<description><![CDATA[Joe Chavez was busted down on Bunker Hill. ”™Twas late in the Decembertime (the holiday season, for the Love of Mary), and Joe, 50, hungry, hunkered down in his pad at 221 South Bunker Hill, went and thought, I”™m going to go liberate a little something from a nearby market to ease my gnawing gut. &#8230; <a href="/jeanvaljeanofspam/" class="more-link">Continue reading<span class="screen-reader-text"> "Le Miserable"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3158/3069206376_d84baa2486_o.gif" alt="221SB" height="433" width="492" /></p>
+<p>Joe Chavez was busted down on Bunker Hill. ”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />Twas late in the Decembertime (the <i>holiday season</i>, for the Love of Mary), and Joe, 50, hungry, hunkered down in his pad at 221 South Bunker Hill, went and thought, <i>I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m going to go liberate a little something from a nearby market to ease my gnawing gut.  What”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the worst that could happen?</i></p>
 <p>
-<img loading="lazy" src="https://farm4.static.flickr.com/3008/3069206420_5c190a1324_o.gif" alt="hungrymandinner" height="123" width="503" /></p>
-<p>December 29, 1954.  Joe exits 221, heads down to a small grocery at 108 South Broadway.  Unfortunately for Joe, somebody called in his little lift, a 484, as a 64 (thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a petty theft blossomed into an armed robbery to the KMA367).  So the coppers arrived a-blazing, but store owner Carl Johnson, 28, already had things handled.  Johnson, evidently an ex-footballer, hit Chavezâ€”ham neatly tucked under one armâ€”with a flying tackle.  </p>
+<img loading="lazy" src="http://farm4.static.flickr.com/3008/3069206420_5c190a1324_o.gif" alt="hungrymandinner" height="123" width="503" /></p>
+<p>December 29, 1954.  Joe exits 221, heads down to a small grocery at 108 South Broadway.  Unfortunately for Joe, somebody called in his little lift, a 484, as a 64 (that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a petty theft blossomed into an armed robbery to the KMA367).  So the coppers arrived a-blazing, but store owner Carl Johnson, 28, already had things handled.  Johnson, evidently an ex-footballer, hit Chavez–ham neatly tucked under one arm–with a flying tackle.  </p>
 <p>Joe rang in the New Year at City Jail, after a trip to Georgia Street Receiving; his tackle resulted in a broken nose.</p>
 <p>So what do we know of 221 South Bunker Hill?  That it appeared between the 1888 and 1894 Sanborn maps.  That it changed comparatively little between 1894 and 1955:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3181/3069206480_13182f260a_o.gif" alt="1894sbm" align="left" height="230" width="260" /><img loading="lazy" src="https://farm4.static.flickr.com/3165/3069206548_133ab8e16e_o.gif" alt="1955sbm" align="right" height="228" width="250" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3181/3069206480_13182f260a_o.gif" alt="1894sbm" align="left" height="230" width="260" /><img loading="lazy" src="http://farm4.static.flickr.com/3165/3069206548_133ab8e16e_o.gif" alt="1955sbm" align="right" height="228" width="250" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -62,27 +65,27 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>221 was photographed as having a wall in front in the mid-1950s:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3165/3068370567_c6e36d6e69_o.gif" alt="221wwall" height="417" width="468" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3165/3068370567_c6e36d6e69_o.gif" alt="221wwall" height="417" width="468" /></p>
 <p>Which it lost in favor of this lacework-laden thicket theme:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3004/3068370423_e99f0fb7b4_o.gif" alt="tangle" align="middle" height="333" width="333" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3199/3071219121_bc0f036fc9_o.gif" alt="GC221" align="left" height="309" width="314" />About which Bunker Hill photographer Arnold Hylen described as â€œa touch of old New Orleans along the sidewalk.â€  Heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s right not only about that wrought iron, which lends a decided Royal Street flourish.  This is a shockingly New Orleans house in general.  Granted, the steep cross gables are more Gothic Revival than archetypal Crescent City, but this style of roof treatment is seen frequently in New Orleans.  The two-tiered porch with full-length windows are a Gulf Coast hallmark.  Doubly remarkable is that this house, with its gingerbread at the upper gallery, choice of board over shingle, and single light in the center gableâ€”evocative of the Creole cottageâ€”was constructed contemporary to New Orleansâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s residential blanketing via the shotgun house (the four-bay arrangement of this home mirroring the double shotgun, though the door placement lends and air of the famous New Orleans centerhall villa).  Granted, itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a little out of place <i>here</i>; those tall windows are intended to dispel mugginess, hardly a chief concern in the realm of Ask the Dust.  Nevertheless, this wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t a celebratory tribute to quaint olde New Orleansâ€”it was built by and for Victorians.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3004/3068370423_e99f0fb7b4_o.gif" alt="tangle" align="middle" height="333" width="333" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3199/3071219121_bc0f036fc9_o.gif" alt="GC221" align="left" height="309" width="314" />About which Bunker Hill photographer Arnold Hylen described as “a touch of old New Orleans along the sidewalk.”  He”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s right not only about that wrought iron, which lends a decided Royal Street flourish.  This is a shockingly New Orleans house in general.  Granted, the steep cross gables are more Gothic Revival than archetypal Crescent City, but this style of roof treatment is seen frequently in New Orleans.  The two-tiered porch with full-length windows are a Gulf Coast hallmark.  Doubly remarkable is that this house, with its gingerbread at the upper gallery, choice of board over shingle, and single light in the center gable–evocative of the Creole cottage–was constructed contemporary to New Orleans”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s residential blanketing via the shotgun house (the four-bay arrangement of this home mirroring the double shotgun, though the door placement lends and air of the famous New Orleans centerhall villa).  Granted, it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a little out of place <i>here</i>; those tall windows are intended to dispel mugginess, hardly a chief concern in the realm of Ask the Dust.  Nevertheless, this wasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t a celebratory tribute to quaint olde New Orleans–it was built by and for Victorians.</p>
 <p>Sad to think that as Disney was building his homage to all things bayou down in Anaheim, this little piece of oddball Angelenism was ground up for landfill.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3174/3071877048_5d527f2ab0_o.gif" alt="rotiron" align="right" height="255" width="300" /></p>
-<p><i>Color image by Walker Evans, <a href="https://www.metmuseum.org/works_of_art/collection_database/objectview.aspx?page=51&amp;sort=3&amp;sortdir=asc&amp;keyword=&amp;fp=51&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=190037903&amp;vT=1" title="WalkerLAPhotographer" target="_blank">shot in October 1962</a> for the </i><i>Life magazine piece â€œ<a href="https://images.google.com/images?&amp;hl=en&amp;safe=off&amp;q=%22doomed+architecture%22+source:life&amp;&amp;sa=N&amp;start=0&amp;ndsp=20" title="July63" target="_blank">Doomedâ€¦It Must Be Saved</a>â€ published July 15, 1963.</i></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3174/3071877048_5d527f2ab0_o.gif" alt="rotiron" align="right" height="255" width="300" /></p>
+<p><i>Color image by Walker Evans, <a href="http://www.metmuseum.org/works_of_art/collection_database/objectview.aspx?page=51&amp;sort=3&amp;sortdir=asc&amp;keyword=&amp;fp=51&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=190037903&amp;vT=1" title="WalkerLAPhotographer" target="_blank">shot in October 1962</a> for the </i><i>Life magazine piece “<a href="http://images.google.com/images?&amp;hl=en&amp;safe=off&amp;q=%22doomed+architecture%22+source:life&amp;&amp;sa=N&amp;start=0&amp;ndsp=20" title="July63" target="_blank">Doomed”¦It Must Be Saved</a>” published July 15, 1963.</i></p>
 <p><i>B/W image courtesy Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles </i></p>
 <p><i>Image at right, </i><i>courtesy Arnold Hylen Collection, California History Section, California State Library </i></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/jeanvaljeanofspam/feed/</wfw:commentRss>
+					<wfw:commentRss>/jeanvaljeanofspam/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lady McDonald Residence &#8211; 321 South Bunker Hill Avenue</title>
-		<link>https://www.onbunkerhill.org/lady_mcdonald_residence/</link>
-					<comments>https://www.onbunkerhill.org/lady_mcdonald_residence/#comments</comments>
+		<link>/lady_mcdonald_residence/</link>
+					<comments>/lady_mcdonald_residence/#comments</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 03 Nov 2008 22:06:46 +0000</pubDate>
@@ -93,57 +96,57 @@
 		<category><![CDATA[Bunker Hill Avenue]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The 300 block of South Bunker Hill Avenue was supposedly one of the most picturesque in the neighborhood, if not the city. We have already taken a look at the mansions located at 315, 325, 333, and 339 South Bunker Hill Avenue. Now we are going to find out a little about the house with &#8230; <a href="https://www.onbunkerhill.org/lady_mcdonald_residence/" class="more-link">Continue reading<span class="screen-reader-text"> "Lady McDonald Residence &#8211; 321 South Bunker Hill Avenue"</span></a>]]></description>
+					<description><![CDATA[The 300 block of South Bunker Hill Avenue was supposedly one of the most picturesque in the neighborhood, if not the city. We have already taken a look at the mansions located at 315, 325, 333, and 339 South Bunker Hill Avenue. Now we are going to find out a little about the house with &#8230; <a href="/lady_mcdonald_residence/" class="more-link">Continue reading<span class="screen-reader-text"> "Lady McDonald Residence &#8211; 321 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3240/3001261713_b4f9f43195.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3240/3001261713_b4f9f43195.jpg?v=0" width="400" />
 </div>
 <p>The 300 block of South Bunker Hill Avenue was supposedly one of the most picturesque in the neighborhood, if not the city. We have already taken a look at the mansions located at <a href="/foss_heindel" title="Foss/Heindel Residence">315</a>, <a href="/castle" title="The Castle">325</a>, <a href="/333_BunkerHill" title="333 South Bunker Hill Avenue">333</a>, and <a href="/salt_box" title="The Salt Box">339</a> South Bunker Hill Avenue. Now we are going to find out a little about the house with the address 321, also known as the Lady McDonald residence.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3188/3001261787_bc0d920945.jpg?v=0" height="400" />
+<img src="http://farm4.static.flickr.com/3188/3001261787_bc0d920945.jpg?v=0" height="400" />
 </div>
 <p>
-Numerous structures on the 300 block of South Bunker Hill Avenue were constructed in 1888, which may or may not be when the McDonald residence was erected. The Sanborn Fire Insurance map from 1888 (shown below) does not identify the home as â€œbeing constructed,â€ yet it is a mere shadow of the elaborate structure pictured on the 1894 Sanborn map (also pictured below). Please note the existence of a luxurious outhouse on the property in 1888, which by 1894 has been replaced or converted (yuck) into a guest house.</p>
+Numerous structures on the 300 block of South Bunker Hill Avenue were constructed in 1888, which may or may not be when the McDonald residence was erected. The Sanborn Fire Insurance map from 1888 (shown below) does not identify the home as “being constructed,” yet it is a mere shadow of the elaborate structure pictured on the 1894 Sanborn map (also pictured below). Please note the existence of a luxurious outhouse on the property in 1888, which by 1894 has been replaced or converted (yuck) into a guest house.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3200/3002098738_125543a3ac.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3200/3002098738_125543a3ac.jpg?v=0" width="400" />
 </div>
 <div style="text-align: center">
 <i>1888 Sanborn Fire Insurance Map</i> 
 </div>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2227/3002098988_7dd5e98fda.jpg?v=0" width="400" />
+<img src="http://farm3.static.flickr.com/2227/3002098988_7dd5e98fda.jpg?v=0" width="400" />
 </div>
 <div style="text-align: center">
 <i>1894 Sanborn Fire Insurance Map <br />
 </i>
 </div>
 <p>
-Even though neighborhood locals referred to the house for decade as the â€œLady McDonald Residence,â€ the earliest known owner of the property was a fellow named George Ordway, whose wife served on the board of the local Y.W.C.A., and frequently entertained guests at the house. In 1892, Ordway sold the house for $10,000 to the woman who would become the mansion&#8217;s namesake.</p>
+Even though neighborhood locals referred to the house for decade as the “Lady McDonald Residence,” the earliest known owner of the property was a fellow named George Ordway, whose wife served on the board of the local Y.W.C.A., and frequently entertained guests at the house. In 1892, Ordway sold the house for $10,000 to the woman who would become the mansion&#8217;s namesake.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3289/3002098360_1071df74a1.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3289/3002098360_1071df74a1.jpg?v=0" width="400" />
 </div>
-<p>Lady McDonald was born in Canada in 1816, and in those days was known as Frances Mitchell, daughter of a London District Court judge, and niece of noted Canadian, <a href="https://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5817&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Egerton Ryerson</a>. In 1838, she married the unfortunately named <a href="https://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5140&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Donald McDonald</a>, who was actively involved in Canadian politics and served many years as a senator. McDonald was also a shrewd investor who amassed a fortune, mainly in real estate, and he, Frances, and their fourteen children lived at the center of Toronto society in a twenty-six room mansion. Mr. McDonald died in 1879, and Frances decided to relocate with a couple of children to Los Angeles. It is unclear if being the wife of a deceased Canadian senator whose assets include a Kansas cattle ranch is qualification for a title of nobility, but when the widow McDonald rolled into town, residents always referred to her as â€œLadyâ€ with a capital L.</p>
+<p>Lady McDonald was born in Canada in 1816, and in those days was known as Frances Mitchell, daughter of a London District Court judge, and niece of noted Canadian, <a href="http://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5817&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Egerton Ryerson</a>. In 1838, she married the unfortunately named <a href="http://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=5140&amp;interval=20&amp;&amp;PHPSESSID=i4oot15pgrdpju5bbtqn50gul3">Donald McDonald</a>, who was actively involved in Canadian politics and served many years as a senator. McDonald was also a shrewd investor who amassed a fortune, mainly in real estate, and he, Frances, and their fourteen children lived at the center of Toronto society in a twenty-six room mansion. Mr. McDonald died in 1879, and Frances decided to relocate with a couple of children to Los Angeles. It is unclear if being the wife of a deceased Canadian senator whose assets include a Kansas cattle ranch is qualification for a title of nobility, but when the widow McDonald rolled into town, residents always referred to her as “Lady” with a capital L.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3072/3002098250_710e1e742f.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3072/3002098250_710e1e742f.jpg?v=0" width="400" />
 </div>
-<p>Lady McDonald resided at the mansion with various children, grandchildren, and servants for around twenty years and lived to be nearly 100. Following the departure of the McDonalds, the inevitable happened to house at 321, and it was divided up to accommodate multiple residents. Many tenants would come and go for the next five decades, including<a href="https://www.richmondartmuseum.org/permanent_collection/girardin_wild_violets.html"> Frank J. Giradin</a>, a landscape impressionist who not only lived in the mansion, but used it as his art studio and held a showing of his work at 321 South Bunker Hill in 1924.</p>
+<p>Lady McDonald resided at the mansion with various children, grandchildren, and servants for around twenty years and lived to be nearly 100. Following the departure of the McDonalds, the inevitable happened to house at 321, and it was divided up to accommodate multiple residents. Many tenants would come and go for the next five decades, including<a href="http://www.richmondartmuseum.org/permanent_collection/girardin_wild_violets.html"> Frank J. Giradin</a>, a landscape impressionist who not only lived in the mansion, but used it as his art studio and held a showing of his work at 321 South Bunker Hill in 1924.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3222/3001261751_6c6695b14a.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3222/3001261751_6c6695b14a.jpg?v=0" width="400" />
 </div>
 <p>
-Unlike many structures on Bunker Hill, which fell into stark disrepair as the years went by, this residence seems to have been well taken care of and was noted as being in â€œgoodâ€ condition when a WPA census was taken in 1939. By the 1960s, the condition of the property was of little consequence because the neighborhood&#8217;s days were numbered. Before the decade was over, the residences of Bunker Hill were no more, including the former home of Lady Frances McDonald. </p>
+Unlike many structures on Bunker Hill, which fell into stark disrepair as the years went by, this residence seems to have been well taken care of and was noted as being in “good” condition when a WPA census was taken in 1939. By the 1960s, the condition of the property was of little consequence because the neighborhood&#8217;s days were numbered. Before the decade was over, the residences of Bunker Hill were no more, including the former home of Lady Frances McDonald. </p>
 <p><i>All photos courtesy of the Los Angeles Public Library Photo Collection.</i></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/lady_mcdonald_residence/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>/lady_mcdonald_residence/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Residence &#8211; 333 South Bunker Hill Avenue</title>
-		<link>https://www.onbunkerhill.org/333_bunkerhill/</link>
-					<comments>https://www.onbunkerhill.org/333_bunkerhill/#respond</comments>
+		<link>/333_bunkerhill/</link>
+					<comments>/333_bunkerhill/#respond</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 20 Oct 2008 21:08:34 +0000</pubDate>
@@ -154,38 +157,38 @@ Unlike many structures on Bunker Hill, which fell into stark disrepair as the ye
 		<category><![CDATA[thorpe]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Of all the dearly departed Bunker Hill mansions, the Castle and Salt Box are probably the best known. The two houses which resided at 325 &#38; 339 South Bunker Hill Avenue were spared the wrecking ball, declared Historic Cultural Monuments, and posed for numerous photos before being moved to Heritage Square (and were subsequently burned &#8230; <a href="https://www.onbunkerhill.org/333_bunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Residence &#8211; 333 South Bunker Hill Avenue"</span></a>]]></description>
+					<description><![CDATA[Of all the dearly departed Bunker Hill mansions, the Castle and Salt Box are probably the best known. The two houses which resided at 325 &#38; 339 South Bunker Hill Avenue were spared the wrecking ball, declared Historic Cultural Monuments, and posed for numerous photos before being moved to Heritage Square (and were subsequently burned &#8230; <a href="/333_bunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Residence &#8211; 333 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3066/2959918891_1d316db4a8.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3066/2959918891_1d316db4a8.jpg?v=0" width="400" />
 </div>
 <p>Of all the dearly departed Bunker Hill mansions, the <a href="/castle">Castle</a> and <a href="/salt_box">Salt Box</a> are probably the best known. The two houses which resided at 325 &amp; 339 South Bunker Hill Avenue were spared the wrecking ball, declared Historic Cultural Monuments, and posed for numerous photos before being moved to Heritage Square (and were subsequently burned to the ground by vandals). Rarely mentioned is the house that stood between its two more famous neighbors at 333 South Bunker Hill Avenue.</p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3169/2960761280_db4ee4fd8d.jpg?v=0" height="500" width="390" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3169/2960761280_db4ee4fd8d.jpg?v=0" height="500" width="390" />
 </div>
 <p>
-As <a href="/salt_box">discussed previously,</a> the Castle, Salt Box, and 333 S. Bunker Hill were possibly all built in 1888 by Rueben M. Baker who lived in the Castle and either sold or leased the other two structures. The mansion had various occupants until it was purchased by Spencer Roan Thorpe in 1901.Â  </p>
+As <a href="/salt_box">discussed previously,</a> the Castle, Salt Box, and 333 S. Bunker Hill were possibly all built in 1888 by Rueben M. Baker who lived in the Castle and either sold or leased the other two structures. The mansion had various occupants until it was purchased by Spencer Roan Thorpe in 1901.  </p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3034/2960761770_39f96fa023.jpg?v=0" height="500" width="223" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3034/2960761770_39f96fa023.jpg?v=0" height="500" width="223" />
 </div>
 <p>
 Thorpe was a Kentucky native and descendent of Patrick Henry which gained him easy admission into the Sons of the Revolution and Colonial Wars. He served as a Confederate captain during the Civil War and was wounded three times before being captured by the Yanks and imprisoned on Johnson&#8217;s Island. Thorpe survived the War and made his fortune as a lawyer in Louisiana before making his way to Los Angeles in 1883. He purchased plots of land throughout the city, as well as a 150 acre walnut orchard in Ventura County. Thorpe also reportedly started the first settlement in what became the city of Gardena. He also served two terms on the Board of Police Commissioners of Los Angeles. When he moved into 333 South Bunker Hill Avenue, Thorpe was accompanied by his wife, Helena, and their five children. </p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3253/2960761018_5955947af8.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3253/2960761018_5955947af8.jpg?v=0" width="400" />
 </div>
 <p>
 Helena Thorpe hosted many social events at the Bunker Hill home, including a wedding breakfast for her daughter following early morning nuptials at St. Vibiana&#8217;s Cathedral in May 1905. Close friends and family would be reunited a mere four months later for Spencer Thorpe&#8217;s funeral.</p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3135/2960762126_a87722ce9e.jpg?v=0" height="292" width="348" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3135/2960762126_a87722ce9e.jpg?v=0" height="292" width="348" />
 </div>
 <p>
 On the morning of September 2, 1905, Thorpe left one of his ranch homes to travel out to Simi Valley and Moorpark. When his horse and carriage returned home alone, search parties were sent out and Thorpe&#8217;s body was found on the side of a road. There were no signs of foul play and it was presumed that he died of heart failure. His body was brought back to the Bunker Hill family residence and a small service was held at St. Vibiana&#8217;s. The surviving members of the Thorpe family lived in the Bunker Hill house for another year before selling it to an H.N. Green for $20,000 (a little under half a million in today&#8217;s dollars).</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3061/2960762494_d7c49f3586.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3061/2960762494_d7c49f3586.jpg?v=0" width="400" />
 </div>
 <p>
-Like many of the homes on the Hill, the house was soon divided, and accommodated three households. By 1920, the mansion had been further divided into twelve residences, most of which were occupied by single boarders in single rooms. 333 South Bunker Hill Avenue saw some action in 1917 when Olive H. Faulk fell out of her second story window. Moments before her plunge, she had been cutting ham when her abusive husband, Irvin, pushed her into a corner and ordered her to pack her trunk and move. Apparently, he did not mean it, for when Olive tried to walk out the door, he locked and blocked it. Olive opted for the window, survived the fall, and filed for divorce. The L.A. Times astutely observed that the incident â€œended their conjugal relations.â€ </p>
+Like many of the homes on the Hill, the house was soon divided, and accommodated three households. By 1920, the mansion had been further divided into twelve residences, most of which were occupied by single boarders in single rooms. 333 South Bunker Hill Avenue saw some action in 1917 when Olive H. Faulk fell out of her second story window. Moments before her plunge, she had been cutting ham when her abusive husband, Irvin, pushed her into a corner and ordered her to pack her trunk and move. Apparently, he did not mean it, for when Olive tried to walk out the door, he locked and blocked it. Olive opted for the window, survived the fall, and filed for divorce. The L.A. Times astutely observed that the incident “ended their conjugal relations.” </p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3139/2959918959_288be4895c.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3139/2959918959_288be4895c.jpg?v=0" width="400" />
 </div>
 <div align="center">
 <i>Stuck in the middle&#8230;333 with the Salt Box to the left and the Castle to the right</i>
@@ -194,15 +197,15 @@ Like many of the homes on the Hill, the house was soon divided, and accommodated
 <p><i>Photos courtesy of the Los Angeles Public Library Photo Collection and the California State Library</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/333_bunkerhill/feed/</wfw:commentRss>
+					<wfw:commentRss>/333_bunkerhill/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bow, Wow, WOW!</title>
-		<link>https://www.onbunkerhill.org/pompeythehero/</link>
-					<comments>https://www.onbunkerhill.org/pompeythehero/#comments</comments>
+		<link>/pompeythehero/</link>
+					<comments>/pompeythehero/#comments</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 08 Oct 2008 12:37:35 +0000</pubDate>
@@ -215,9 +218,9 @@ Like many of the homes on the Hill, the house was soon divided, and accommodated
 		<category><![CDATA[WWI]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160; December 2, 1923 133 South Bunker Hill Â  Move over Rin-Tin-Tin, thereâ€™s a new wonder dog in town, and his name is Pompey. Â  We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million â€“ and they know how to use them all. Â With that &#8230; <a href="https://www.onbunkerhill.org/pompeythehero/" class="more-link">Continue reading<span class="screen-reader-text"> "Bow, Wow, WOW!"</span></a>]]></description>
+					<description><![CDATA[&#160; December 2, 1923 133 South Bunker Hill   Move over Rin-Tin-Tin, there”™s a new wonder dog in town, and his name is Pompey.   We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million ”“ and they know how to use them all.  With that &#8230; <a href="/pompeythehero/" class="more-link">Continue reading<span class="screen-reader-text"> "Bow, Wow, WOW!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="middle" width="420" src="https://farm4.static.flickr.com/3145/2925216714_a43a9860a4.jpg" alt="pompey headline" height="102" />
+<img loading="lazy" border="0" align="middle" width="420" src="http://farm4.static.flickr.com/3145/2925216714_a43a9860a4.jpg" alt="pompey headline" height="102" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -229,28 +232,28 @@ December 2, 1923
 133 South <st1:place w:st="on">Bunker Hill</st1:place>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<st1:place w:st="on"></st1:place>Â 
+<st1:place w:st="on"></st1:place> 
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<st1:place w:st="on"></st1:place>Move over Rin-Tin-Tin, thereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a new wonder dog in town, and his name is Pompey.
+<st1:place w:st="on"></st1:place>Move over Rin-Tin-Tin, there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a new wonder dog in town, and his name is Pompey.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Â <!--break-->
+ <!--break-->
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="left" width="229" src="https://farm4.static.flickr.com/3287/2925216696_eebc532a64.jpg" alt="pompey" height="500" />We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million â€“ and they know how to use them all. <span>Â </span>With that kind of super hero sniff power, it was no surprise when a German Shepherd named Pompey caught the aroma of gas fumes, desperation, and imminent death in the air. The surprise was that he was galvanized into action.
-</p>
-<p style="margin: 0pt" class="MsoNormal">
-&nbsp;
-</p>
-<p style="margin: 0pt" class="MsoNormal">
-Pompey and his mistress, Mrs. Mitalzo, were out for a stroll on <st1:street w:st="on"><st1:address w:st="on">South Bunker Hill Avenue</st1:address></st1:street>. The dog became increasingly agitated as they drew nearer to a rooming house just up the block. A few doors away from the building, Pompey began to growl. When his hair stood up on end,Â Mrs. MitalzoÂ bent over to try to soothe him. She had relaxed her grip on Pompeyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s leash for only a moment, and it was then that Pompey broke free. He ran up the steps of the building, and into the apartment of Mr. William A. Stark.
+<img loading="lazy" border="0" align="left" width="229" src="http://farm4.static.flickr.com/3287/2925216696_eebc532a64.jpg" alt="pompey" height="500" />We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million ”“ and they know how to use them all. <span> </span>With that kind of super hero sniff power, it was no surprise when a German Shepherd named Pompey caught the aroma of gas fumes, desperation, and imminent death in the air. The surprise was that he was galvanized into action.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-The 24 year old Stark had just been discharged from his job as an elevator operator at a downtown hotel. Management had told him that he was through because he didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t close the elevator doors properly. The despondent man had taken several newspapers and fashioned them into a long cone. He placed the small end of the improvised suicide device over a gas jet in his room, and he placed the large end over his face. Stark then turned on the gas and lay down to die.
+Pompey and his mistress, Mrs. Mitalzo, were out for a stroll on <st1:street w:st="on"><st1:address w:st="on">South Bunker Hill Avenue</st1:address></st1:street>. The dog became increasingly agitated as they drew nearer to a rooming house just up the block. A few doors away from the building, Pompey began to growl. When his hair stood up on end, Mrs. Mitalzo bent over to try to soothe him. She had relaxed her grip on Pompey”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s leash for only a moment, and it was then that Pompey broke free. He ran up the steps of the building, and into the apartment of Mr. William A. Stark.
+</p>
+<p style="margin: 0pt" class="MsoNormal">
+&nbsp;
+</p>
+<p style="margin: 0pt" class="MsoNormal">
+The 24 year old Stark had just been discharged from his job as an elevator operator at a downtown hotel. Management had told him that he was through because he didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t close the elevator doors properly. The despondent man had taken several newspapers and fashioned them into a long cone. He placed the small end of the improvised suicide device over a gas jet in his room, and he placed the large end over his face. Stark then turned on the gas and lay down to die.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -268,19 +271,19 @@ Police were summoned and Stark was taken to the <st1:place w:st="on"><st1:placen
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Pompey vanished from the pages of the Los Angeles Times after his brief moment in the limelight, but his famed counterpart, Rin-Tin-Tin, was just beginning his film career in 1923.<img loading="lazy" border="0" align="right" width="330" src="https://farm4.static.flickr.com/3069/2924364067_e0750ee01b_o.jpg" alt="rintyradio" height="269" />
+Pompey vanished from the pages of the Los Angeles Times after his brief moment in the limelight, but his famed counterpart, Rin-Tin-Tin, was just beginning his film career in 1923.<img loading="lazy" border="0" align="right" width="330" src="http://farm4.static.flickr.com/3069/2924364067_e0750ee01b_o.jpg" alt="rintyradio" height="269" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Rin-Tin-Tin was only five days old when he was rescued from a bombed out kennel in <st1:country-region w:st="on"><st1:place w:st="on">France</st1:place></st1:country-region>. WWI was drawing to a close when a <st1:country-region w:st="on"><st1:place w:st="on">U.S.</st1:place></st1:country-region> solider, Lee Duncan, spotted the kennel and decided to investigate. He saved two of the puppies and brought them home with him to <st1:city w:st="on"><st1:place w:st="on">Los Angeles</st1:place></st1:city>.Â 
+Rin-Tin-Tin was only five days old when he was rescued from a bombed out kennel in <st1:country-region w:st="on"><st1:place w:st="on">France</st1:place></st1:country-region>. WWI was drawing to a close when a <st1:country-region w:st="on"><st1:place w:st="on">U.S.</st1:place></st1:country-region> solider, Lee Duncan, spotted the kennel and decided to investigate. He saved two of the puppies and brought them home with him to <st1:city w:st="on"><st1:place w:st="on">Los Angeles</st1:place></st1:city>. 
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Rin-Tin-Tin (aka Rinty) was seen performing in a local dog show by movie producer Charles Jones â€“ and a star was born. Rinty worked hard and would often relax by listening to the radio.
+Rin-Tin-Tin (aka Rinty) was seen performing in a local dog show by movie producer Charles Jones ”“ and a star was born. Rinty worked hard and would often relax by listening to the radio.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -310,15 +313,15 @@ His career lasted for over a decade and eventually earned him a star on the Holl
 &nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/pompeythehero/feed/</wfw:commentRss>
+					<wfw:commentRss>/pompeythehero/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Castle &#8211; 325 S. Bunker Hill Avenue</title>
-		<link>https://www.onbunkerhill.org/castle/</link>
-					<comments>https://www.onbunkerhill.org/castle/#comments</comments>
+		<link>/castle/</link>
+					<comments>/castle/#comments</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 24 Mar 2008 20:49:20 +0000</pubDate>
@@ -331,42 +334,42 @@ His career lasted for over a decade and eventually earned him a star on the Holl
 		<category><![CDATA[Donegan]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The most haunting image of old Bunker Hill&#8217;s final days depicts a fenced off Victorian mansion awaiting its doom with â€œprogressâ€ looming in the background in the form of the Downtown&#8217;s first skyscraper, the Union Bank Building. The residence, affectionately known for years as â€œthe Castleâ€ and located at 325 S. Bunker Hill Avenue, was &#8230; <a href="https://www.onbunkerhill.org/castle/" class="more-link">Continue reading<span class="screen-reader-text"> "The Castle &#8211; 325 S. Bunker Hill Avenue"</span></a>]]></description>
+					<description><![CDATA[The most haunting image of old Bunker Hill&#8217;s final days depicts a fenced off Victorian mansion awaiting its doom with “progress” looming in the background in the form of the Downtown&#8217;s first skyscraper, the Union Bank Building. The residence, affectionately known for years as “the Castle” and located at 325 S. Bunker Hill Avenue, was &#8230; <a href="/castle/" class="more-link">Continue reading<span class="screen-reader-text"> "The Castle &#8211; 325 S. Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3257/2360238918_f4f46d5acc.jpg?v=0" alt="Photo Courtesy of the Los Angeles Public Library Photo Collection" hspace="5" vspace="5" width="400" />
+<img src="http://farm4.static.flickr.com/3257/2360238918_f4f46d5acc.jpg?v=0" alt="Photo Courtesy of the Los Angeles Public Library Photo Collection" hspace="5" vspace="5" width="400" />
 </div>
-<p>The most haunting image of old Bunker Hill&#8217;s final days depicts a fenced off Victorian mansion awaiting its doom with â€œprogressâ€ looming in the background in the form of the Downtown&#8217;s first skyscraper, the Union Bank Building. The residence, affectionately known for years as â€œthe Castleâ€ and located at 325 S. Bunker Hill Avenue, was one of two residences on the Hill to escape the wrecking ball, only to meet an even more tragic end.<br />
+<p>The most haunting image of old Bunker Hill&#8217;s final days depicts a fenced off Victorian mansion awaiting its doom with “progress” looming in the background in the form of the Downtown&#8217;s first skyscraper, the Union Bank Building. The residence, affectionately known for years as “the Castle” and located at 325 S. Bunker Hill Avenue, was one of two residences on the Hill to escape the wrecking ball, only to meet an even more tragic end.<br />
 </p>
 <p>Located on Lot 16, Block L of the Mott Tract, early owners of the property were tee-totaling Los Angeles pioneer Virginia Davis and her husband John W., who sold the land for $450 to G.D. Witherell in March of 1882.  It has long been believed that the Castle was built around this time, but an 1888 Sanborn Fire Insurance Map reveals the structure as being constructed. In 1887 the property changed hands again, so it probably was capitalist Reuben M. Baker who built the large Victorian structure that would be a mainstay on Bunker Hill for over 70 years.</p>
-<p><img src="https://farm4.static.flickr.com/3262/2360379900_71abe6405b.jpg?v=0" width="300" /><img src="https://farm3.static.flickr.com/2353/2359544361_99e5ec078b.jpg?v=0" width="300" /></p>
+<p><img src="http://farm4.static.flickr.com/3262/2360379900_71abe6405b.jpg?v=0" width="300" /><img src="http://farm3.static.flickr.com/2353/2359544361_99e5ec078b.jpg?v=0" width="300" /></p>
 <p>Designed in the Queen Anne style, the residence had 20 rooms, both a marble and a tile fireplace, and a three story staircase winding up the center of the house. Two of the mansion&#8217;s most recognizable features were the stained-glass front door and an overhang on the north side for carriages to pass through to the rear of the property. The curved Mansard roof on the tower and the triangular crown of a front balcony were removed after sustaining damage in the 1933 Long Beach earthquake. The original address of the home was actually 225 S. Bunker Hill Avenue until an ordinance, passed in December 1889, changed street numbering throughout the City, much to the irritation of many an Angeleno.</p>
-<p>In March of 1894, grading contractor Daniel F. Donegan purchased the property for $10,500 and moved in with his wife Helen and four children. Though the family lived there for less than ten years, the name Donegan became the one most associated with the house and it has long been believed that the clan were the ones who nicknamed the mansion â€œthe Castle.â€ A piece of neighborhood lore involved Donegan attempting to clear a nearby rat infested property by offering local children 25 cents for each cat brought to him, to be used as four footed exterminators. Residents were soon irked when their feline pets began to disappear.  By 1902, the Donegans had moved, and new owner Colton Russell soon converted the mansion into a boarding house, a role the Castle would play for the next six decades.</p>
+<p>In March of 1894, grading contractor Daniel F. Donegan purchased the property for $10,500 and moved in with his wife Helen and four children. Though the family lived there for less than ten years, the name Donegan became the one most associated with the house and it has long been believed that the clan were the ones who nicknamed the mansion “the Castle.” A piece of neighborhood lore involved Donegan attempting to clear a nearby rat infested property by offering local children 25 cents for each cat brought to him, to be used as four footed exterminators. Residents were soon irked when their feline pets began to disappear.  By 1902, the Donegans had moved, and new owner Colton Russell soon converted the mansion into a boarding house, a role the Castle would play for the next six decades.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2364/2359403983_2f0f0367d1_m.jpg" alt="The Castle in Better Days" width="300" />
+<img src="http://farm3.static.flickr.com/2364/2359403983_2f0f0367d1_m.jpg" alt="The Castle in Better Days" width="300" />
 </div>
 <p>During its 60-plus year tenure as a multi-unit residence, the Castle would play host to all walks of life of  the City of Angeles. Salesmen, doctors, waiters, elevator operators, miners, firemen, tailors, printers, hotel food checkers (well maybe just one of those), and many others called the Castle home at some point in their lives. When the WPA conducted a census of the area in 1939, 325 S. Bunker Hill Avenue was comprised of fifteen separate units, including a small guest house, built in 1927. The landlord&#8217;s family resided in  four rooms while the rest of the tenants occupied single rooms and shared six toilets. The majority of the occupants were single, white and over 65 years of age. Rent ranged from $10 to $15 a month and occupancy at the Castle was anywhere from six months to eight years. </p>
 <p>What the 1939 census failed to mention, however, was the Castle&#8217;s resident ghost.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2165/2359561405_a656eda74a.jpg?v=0" width="300" />
+<img src="http://farm3.static.flickr.com/2165/2359561405_a656eda74a.jpg?v=0" width="300" />
 </div>
-<p>The spook who haunted the Castle could possibly have been a former resident who met their ultimate doom in the mansion. In 1914 Hazel Harding, a 28 year old former school teacher with a history of mental problems, lit herself on fire and jumped out a second story window. She survived the fall, but succumbed to her burns. In December 1928, 66 year Charles Merrifeld shot himself to death with a revolver in one of the rooms. Merrifeld, who committed suicide to escape the effects of poor health, had been the Castle&#8217;s landlord with his wife Bertha since 1919. The Widow Merrifeld would continue to oversee, what she advertised as, the Castle Rooms for an additional eight years following her husband&#8217;s death. According to residents interviewed for a 1965 Herald Examiner piece, for years the ghost contented himself with one type of action; â€œEverytime one of the sculptured wooden decorations falls off the wall, Mr. Spook catches it before it can shatter on the ground and deposits it neatly and safely on the front porch. So the crash doesn&#8217;t wake up the tenants.â€ Perhaps Mr. Merrifeld wasn&#8217;t quite ready to give up his duties as landlord.</p>
+<p>The spook who haunted the Castle could possibly have been a former resident who met their ultimate doom in the mansion. In 1914 Hazel Harding, a 28 year old former school teacher with a history of mental problems, lit herself on fire and jumped out a second story window. She survived the fall, but succumbed to her burns. In December 1928, 66 year Charles Merrifeld shot himself to death with a revolver in one of the rooms. Merrifeld, who committed suicide to escape the effects of poor health, had been the Castle&#8217;s landlord with his wife Bertha since 1919. The Widow Merrifeld would continue to oversee, what she advertised as, the Castle Rooms for an additional eight years following her husband&#8217;s death. According to residents interviewed for a 1965 Herald Examiner piece, for years the ghost contented himself with one type of action; “Everytime one of the sculptured wooden decorations falls off the wall, Mr. Spook catches it before it can shatter on the ground and deposits it neatly and safely on the front porch. So the crash doesn&#8217;t wake up the tenants.” Perhaps Mr. Merrifeld wasn&#8217;t quite ready to give up his duties as landlord.</p>
 <p>&nbsp;</p>
 <div style="text-align: center" align="center">
-<img src="https://farm3.static.flickr.com/2315/2359404089_bdd05f1e06_m.jpg" alt="The Castle &amp; Salt Box Prepare to Move" width="300" />
+<img src="http://farm3.static.flickr.com/2315/2359404089_bdd05f1e06_m.jpg" alt="The Castle &amp; Salt Box Prepare to Move" width="300" />
 </div>
 <p>In 1955, the Community Redevelopment Agency (CRA) announced its plans to overhaul Bunker Hill, and by 1968 the only residences of the bygone era that remained were the Castle and the Salt Box, located at 339 S. Bunker Hill. Both structures were set to be demolished on October 1st of that year, but were saved in the eleventh hour when the Recreation and Parks Commission voted to let the homes  reside on city owned land at Homer and Ave 43 in Highland Park. Additionally, the Department of Public Works agreed to move the structures to their new home which would become known as Heritage Square. For the Cultural Heritage Commission, the decision came after a six year battle to save the structures. Once moved, the CHC would then face the task of raising enough money to restore the age-worn buildings.</p>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2290/2359417215_95ea02f2f1_m.jpg" alt="L.A. Times Headline" width="300" />
+<img src="http://farm3.static.flickr.com/2290/2359417215_95ea02f2f1_m.jpg" alt="L.A. Times Headline" width="300" />
 </div>
 <p>
 The Castle and Salt Box were relocated to their new home in March 1969 using $33,000 appropriated by the City Council and $10,000 from the CRA. Almost immediately the structures were invaded by vandals. On October 9, 1969 both houses were set on fire. Within minutes, the lone survivors of Bunker Hill&#8217;s Victorian era were gone forever.</p>
 <p><i>All photos courtesy of the Los Angeles Public Library Photo Collection</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/castle/feed/</wfw:commentRss>
-			<slash:comments>10</slash:comments>
+					<wfw:commentRss>/castle/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
 		
 		
 			</item>

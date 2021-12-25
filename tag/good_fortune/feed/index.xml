@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>good fortune &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/good_fortune/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/good_fortune/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 21:48:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>good fortune &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Gregory Perez survives construction collapse, 1915</title>
-		<link>https://www.onbunkerhill.org/gregoryperez/</link>
-					<comments>https://www.onbunkerhill.org/gregoryperez/#respond</comments>
+		<link>/gregoryperez/</link>
+					<comments>/gregoryperez/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 22 Mar 2008 12:31:08 +0000</pubDate>
@@ -42,13 +45,13 @@
 		<category><![CDATA[good fortune]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: Cinnabar Street between First and Second Streets Date: March 19, 1915 Construction worker Gregory Perez narrowly escaped death when the dirt walls of the apartment house basement he was excavating for contractor Philip Younger collapsed on top of him. Trapped beneath tons of dirt, he was protected by a network of collapsed wooden banks &#8230; <a href="https://www.onbunkerhill.org/gregoryperez/" class="more-link">Continue reading<span class="screen-reader-text"> "Gregory Perez survives construction collapse, 1915"</span></a>]]></description>
+					<description><![CDATA[Location: Cinnabar Street between First and Second Streets Date: March 19, 1915 Construction worker Gregory Perez narrowly escaped death when the dirt walls of the apartment house basement he was excavating for contractor Philip Younger collapsed on top of him. Trapped beneath tons of dirt, he was protected by a network of collapsed wooden banks &#8230; <a href="/gregoryperez/" class="more-link">Continue reading<span class="screen-reader-text"> "Gregory Perez survives construction collapse, 1915"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: Cinnabar Street between First and Second Streets<br />
 Date: March 19, 1915</p>
 <p>Construction worker Gregory Perez narrowly escaped death when the dirt walls of the apartment house basement he was excavating for contractor Philip Younger collapsed on top of him. Trapped beneath tons of dirt, he was protected by a network of collapsed wooden banks which came to a point above him. His frantic colleagues were able to introduce a sharp stick through the soil, letting sufficient air in that Perez was able to offer encouraging commentary during the struggle to free him, and after four hours he emerged, grateful and uninjured, into the light of day</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/gregoryperez/feed/</wfw:commentRss>
+					<wfw:commentRss>/gregoryperez/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

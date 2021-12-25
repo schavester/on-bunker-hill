@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: Of Munsters and Bunker Hill	</title>
-	<atom:link href="https://www.onbunkerhill.org/munstersofbunkerhill/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/munstersofbunkerhill/</link>
+	<atom:link href="/munstersofbunkerhill/feed/" rel="self" type="application/rss+xml" />
+	<link>/munstersofbunkerhill/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Thu, 05 Sep 2019 04:23:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: TherealRn0		</title>
-		<link>https://www.onbunkerhill.org/munstersofbunkerhill/#comment-22377</link>
+		<link>/munstersofbunkerhill/#comment-22377</link>
 
 		<dc:creator><![CDATA[TherealRn0]]></dc:creator>
 		<pubDate>Sun, 26 Aug 2018 11:08:23 +0000</pubDate>
@@ -34,36 +37,36 @@
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/munstersofbunkerhill/#comment-106</link>
+		<link>/munstersofbunkerhill/#comment-106</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Thu, 05 Mar 2009 21:11:54 +0000</pubDate>
 		<guid isPermaLink="false">#comment-106</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/munstersofbunkerhill/#comment-103&quot;&gt;My house not my house.&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/munstersofbunkerhill/#comment-103&quot;&gt;My house not my house.&lt;/a&gt;.
 
 &lt;p&gt;
 &lt;br /&gt;
 I was hoping Tara Reid would actually be in the new Munsters, she some sort of creature half-Marilyn in her blonditude and half-Herman in having been cobbled together in strange and terrible laboratories.  &lt;br /&gt;
 &lt;br /&gt;
-The honor, by the way, of the new Munsters goes to the Wayansâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />.  Would I kid about such a thing? 
+The honor, by the way, of the new Munsters goes to the Wayansâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />.  Would I kid about such a thing? 
 &lt;/p&gt;
 &lt;div align=&quot;justify&quot;&gt;
-&lt;i&gt;â€œIf we do anything, maybe weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll do a cameo, but weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re not gonna make The Munsters black all of a sudden,â€ Wayans laughed. â€œTheyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re gonna be green, white people just like they were in the TV show. Their characters are still who they were in the â€˜50s. Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s just in modern day.â€&lt;/i&gt;&lt;br /&gt;
+&lt;i&gt;â€œIf we do anything, maybe weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll do a cameo, but weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re not gonna make The Munsters black all of a sudden,â€ Wayans laughed. â€œTheyâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re gonna be green, white people just like they were in the TV show. Their characters are still who they were in the â€˜50s. Itâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s just in modern day.â€&lt;/i&gt;&lt;br /&gt;
 &lt;/div&gt;
 &lt;p&gt;
 &lt;br /&gt;
 First of all, glad to know the Munsters were from the 50s.  Is Wayans referring to the gothic horror of Elizabeth Gaskell?  Secondly, I never really felt the warmth of all this â€œpost-racial America&#034; business until I was hit with the green, white people concept.  &lt;br /&gt;
 &lt;br /&gt;
-I think because the Musters are so â€œweirdâ€ theyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll move into a â€œloftâ€ and their wacky uncle (a walk on by Marilyn Manson!  Relevant!) will visit and stuff.  In a Very Special Episode, theyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll tackle Zero Sum Gain economic theory (with a walk on by Sean Penn!  Relevant!).&lt;br /&gt;
+I think because the Musters are so â€œweirdâ€ theyâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll move into a â€œloftâ€ and their wacky uncle (a walk on by Marilyn Manson!  Relevant!) will visit and stuff.  In a Very Special Episode, theyâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll tackle Zero Sum Gain economic theory (with a walk on by Sean Penn!  Relevant!).&lt;br /&gt;
 &lt;br /&gt;
-If they do keep the Munster manse, it will need not just a grand room, but a &lt;i&gt;great&lt;/i&gt; room.  And more closets!  Lots of closets!  And a marble kitchen, and lots of diamond-encrusted Lucite furniture.  And marble walls!  Which can then be sprayed with an ocean of faux-marble paint.  Solid gold fixtures!  Flatscreens in every bathroom!  And everything has to be child-proofed!  Think of the children!!!  Geez, youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d think Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been doing this for years.  This is going to be the greatest entablature-and-frieze-coated Tuscan palace on the block.  I mean, if the bungalow next door could be transformed into a mansarded Regency in the 50s (the 1950s), why not?
+If they do keep the Munster manse, it will need not just a grand room, but a &lt;i&gt;great&lt;/i&gt; room.  And more closets!  Lots of closets!  And a marble kitchen, and lots of diamond-encrusted Lucite furniture.  And marble walls!  Which can then be sprayed with an ocean of faux-marble paint.  Solid gold fixtures!  Flatscreens in every bathroom!  And everything has to be child-proofed!  Think of the children!!!  Geez, youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d think Iâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been doing this for years.  This is going to be the greatest entablature-and-frieze-coated Tuscan palace on the block.  I mean, if the bungalow next door could be transformed into a mansarded Regency in the 50s (the 1950s), why not?
 &lt;/p&gt;
 &lt;p&gt;
 But I digress.  What were you saying about Rachel Leigh Cook? 
 &lt;/p&gt;
 ]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/munstersofbunkerhill/#comment-103">My house not my house.</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/munstersofbunkerhill/#comment-103">My house not my house.</a>.</p>
 <p>
 <br />
 I was hoping Tara Reid would actually be in the new Munsters, she some sort of creature half-Marilyn in her blonditude and half-Herman in having been cobbled together in strange and terrible laboratories.  </p>
@@ -86,7 +89,7 @@ But I digress.  What were you saying about Rachel Leigh Cook?</p>
 		<item>
 		<title>
 		By: My house not my house.		</title>
-		<link>https://www.onbunkerhill.org/munstersofbunkerhill/#comment-103</link>
+		<link>/munstersofbunkerhill/#comment-103</link>
 
 		<dc:creator><![CDATA[My house not my house.]]></dc:creator>
 		<pubDate>Mon, 02 Mar 2009 14:22:00 +0000</pubDate>
@@ -107,7 +110,7 @@ Yes!</p>
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/munstersofbunkerhill/#comment-101</link>
+		<link>/munstersofbunkerhill/#comment-101</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Mon, 02 Mar 2009 13:10:00 +0000</pubDate>
@@ -116,7 +119,7 @@ Yes!</p>
 					<description><![CDATA[&lt;p&gt;
 There is no lower order of architectural history than the â€œhey, look how much this thing looks like that thingâ€ school.  So, with total absence of paper trail or smoking gun, and utterly devoid of legitimate social context, &lt;i&gt;hey, look how much this thing looks like that thing!&lt;/i&gt;&lt;br /&gt;
 &lt;br /&gt;
-I was taking my weekly dose of &lt;a href=&quot;https://bigorangelandmarks.blogspot.com/&quot; title=&quot;DaBigOrange&quot; target=&quot;_blank&quot;&gt;Big Orange&lt;/a&gt;, and dang if Everett Hallâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1887 &lt;a href=&quot;https://bigorangelandmarks.blogspot.com/2009/02/no-216-hall-residence.html&quot; title=&quot;ghostsinthehall&quot; target=&quot;_blank&quot;&gt;place down on Douglas&lt;/a&gt; didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t remind me of something.  I thought it bore a seeming semblance to 1964 Colonial Street, aka 1313 Mockingbird Lane.  Whether its designers in 1950 were cruising around for inspiration and found themselves in front of the House of Hall weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll never know.  (Is every post some meticulously researched essay on which quarry produced the dressed ashlar for the Floodat Hotel?  It is not.)
+I was taking my weekly dose of &lt;a href=&quot;http://bigorangelandmarks.blogspot.com/&quot; title=&quot;DaBigOrange&quot; target=&quot;_blank&quot;&gt;Big Orange&lt;/a&gt;, and dang if Everett Hallâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1887 &lt;a href=&quot;http://bigorangelandmarks.blogspot.com/2009/02/no-216-hall-residence.html&quot; title=&quot;ghostsinthehall&quot; target=&quot;_blank&quot;&gt;place down on Douglas&lt;/a&gt; didnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t remind me of something.  I thought it bore a seeming semblance to 1964 Colonial Street, aka 1313 Mockingbird Lane.  Whether its designers in 1950 were cruising around for inspiration and found themselves in front of the House of Hall weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll never know.  (Is every post some meticulously researched essay on which quarry produced the dressed ashlar for the Floodat Hotel?  It is not.)
 &lt;/p&gt;
 &lt;p&gt;
 &lt;i&gt;Los Angeles, 1950.  Joe and Bob cruise the city, Hall Residence in the near distance. &lt;/i&gt;
@@ -130,7 +133,7 @@ Bob:  That&#039;s good, pull over a sec.  &lt;i&gt;&lt;/i&gt;
 &lt;i&gt;Bob sketches on a cocktail napkin.&lt;/i&gt;&lt;br /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3584/3322117038_7f2c2be0e8_o.gif&quot; alt=&quot;HouseOfHall&quot; height=&quot;351&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3584/3322117038_7f2c2be0e8_o.gif&quot; alt=&quot;HouseOfHall&quot; height=&quot;351&quot; width=&quot;300&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;i&gt;Later that day, in the office.  Bob holds up a blueprint.&lt;/i&gt; 
@@ -142,41 +145,41 @@ Bob:  How&#039;s this?
 Joe:  Swell.  Who lives in these things, anyway? 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3547/3322118212_202be478ca_o.gif&quot; alt=&quot;GAOTU&quot; height=&quot;304&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3547/3322118212_202be478ca_o.gif&quot; alt=&quot;GAOTU&quot; height=&quot;304&quot; width=&quot;300&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3593/3321287553_ffda73f8bc_o.gif&quot; alt=&quot;Hall70s&quot; height=&quot;383&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3593/3321287553_ffda73f8bc_o.gif&quot; alt=&quot;Hall70s&quot; height=&quot;383&quot; width=&quot;300&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3651/3322118618_ec50e41d87_o.gif&quot; alt=&quot;ookyookyooky&quot; height=&quot;291&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3651/3322118618_ec50e41d87_o.gif&quot; alt=&quot;ookyookyooky&quot; height=&quot;291&quot; width=&quot;300&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-As long as Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m irresponsibly positing wildly improbable scenarios, weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll let this one play out to its logical conclusion:&lt;br /&gt;
+As long as Iâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m irresponsibly positing wildly improbable scenarios, weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll let this one play out to its logical conclusion:&lt;br /&gt;
 &lt;br /&gt;
 Bob:  Hey Joe, you want I should Empire-up this tower or oriel window it?&lt;br /&gt;
 &lt;i&gt;&lt;br /&gt;
 A woman steps from the shadows.&lt;/i&gt;
 &lt;/p&gt;
 &lt;p&gt;
-Ella Raines:  Kefauver told me you mugsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d come here.  But youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re not leaving.  Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re taking the big dirt nap but plenty.  Think youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re so smart, with your asymmetrical facades.  Now hand over those blueprints.&lt;br /&gt;
+Ella Raines:  Kefauver told me you mugsâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d come here.  But youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re not leaving.  Youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re taking the big dirt nap but plenty.  Think youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re so smart, with your asymmetrical facades.  Now hand over those blueprints.&lt;br /&gt;
 &lt;br /&gt;
-Bob:  Put down the gun, Ella.  These plans are part of a brave new age.  The Larkinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s going down and thereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s nothing you and your whole banking cabal can do about itâ€”tell Fuchs and Hubbard I said so.&lt;br /&gt;
+Bob:  Put down the gun, Ella.  These plans are part of a brave new age.  The Larkinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s going down and thereâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s nothing you and your whole banking cabal can do about itâ€”tell Fuchs and Hubbard I said so.&lt;br /&gt;
 &lt;br /&gt;
-Joe:  And that goes double, sister.  Mac is gonna make Korea glow like a Telechron and if Temple thinks she can retire, tell her weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve got another agent in the fieldâ€¦and itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s been you all along!&lt;br /&gt;
+Joe:  And that goes double, sister.  Mac is gonna make Korea glow like a Telechron and if Temple thinks she can retire, tell her weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve got another agent in the fieldâ€¦and itâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s been you all along!&lt;br /&gt;
 &lt;br /&gt;
 &lt;i&gt;The poison starts working on Ella.  She teeters, drops the gun.&lt;br /&gt;
 &lt;/i&gt;
 &lt;/p&gt;
 &lt;p&gt;
-Bob:  Sorry, kid.  Theseâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re Bill Goetzâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> plans now, and with these babies that baboon of his Hoover will be about as necessary as fretwork spandrels on an Eames outhouse.&lt;br /&gt;
+Bob:  Sorry, kid.  Theseâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re Bill Goetzâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> plans now, and with these babies that baboon of his Hoover will be about as necessary as fretwork spandrels on an Eames outhouse.&lt;br /&gt;
 &lt;br /&gt;
-Ella:  Mad!  Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re allâ€¦mad.&lt;br /&gt;
+Ella:  Mad!  Youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re allâ€¦mad.&lt;br /&gt;
 &lt;br /&gt;
-Joe:  Getting dark, ainâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t it.  And donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t worry about &lt;i&gt;Fighting Coast Guard&lt;/i&gt;.  We had Wild Bill make us up a new one of you.&lt;br /&gt;
+Joe:  Getting dark, ainâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t it.  And donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t worry about &lt;i&gt;Fighting Coast Guard&lt;/i&gt;.  We had Wild Bill make us up a new one of you.&lt;br /&gt;
 &lt;br /&gt;
 &lt;i&gt;Ella sinks to the floor.  Bob picks up the phone, dials two numbers.&lt;/i&gt;&lt;br /&gt;
 &lt;br /&gt;
-Bob:  Sesnon?  Weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve completed our end.  Hidden in the blueprints for those who have the knowledge.  Orwell, Grinius, Jolson, Ransom Olds, all dead, dead as the electric car, the Dulles Boys saw to that.  Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re the new Weishaupt.  Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve got enough fuel now for a thousand slave worlds.  Novo ordo Bunker Hill.&lt;br /&gt;
+Bob:  Sesnon?  Weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve completed our end.  Hidden in the blueprints for those who have the knowledge.  Orwell, Grinius, Jolson, Ransom Olds, all dead, dead as the electric car, the Dulles Boys saw to that.  Youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re the new Weishaupt.  Youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve got enough fuel now for a thousand slave worlds.  Novo ordo Bunker Hill.&lt;br /&gt;
 &lt;br /&gt;
 &lt;i&gt;Bob hangs up the phone.  They speak to each other.&lt;/i&gt;&lt;br /&gt;
 &lt;br /&gt;
@@ -185,11 +188,11 @@ Joe and Bob:   What have we done?&lt;br /&gt;
 &lt;i&gt;Fade to black.&lt;/i&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3639/3322117284_fb53ba25a7_o.gif&quot; alt=&quot;locus&quot; height=&quot;302&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3639/3322117284_fb53ba25a7_o.gif&quot; alt=&quot;locus&quot; height=&quot;302&quot; width=&quot;300&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;i&gt;
-Images, &lt;a href=&quot;https://bigorangelandmarks.blogspot.com/2009/02/no-216-hall-residence.html&quot; title=&quot;BOLandofthedead&quot; target=&quot;_blank&quot;&gt;BOL&lt;/a&gt; and the &lt;a href=&quot;https://www.flickr.com/photos/universalstonecutter/sets/72157608815810477/&quot; title=&quot;universalstonecutter&quot; target=&quot;_blank&quot;&gt;universalstonecutter&#039;s Munster set&lt;/a&gt;.&lt;/i&gt;
+Images, &lt;a href=&quot;http://bigorangelandmarks.blogspot.com/2009/02/no-216-hall-residence.html&quot; title=&quot;BOLandofthedead&quot; target=&quot;_blank&quot;&gt;BOL&lt;/a&gt; and the &lt;a href=&quot;http://www.flickr.com/photos/universalstonecutter/sets/72157608815810477/&quot; title=&quot;universalstonecutter&quot; target=&quot;_blank&quot;&gt;universalstonecutter&#039;s Munster set&lt;/a&gt;.&lt;/i&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
@@ -197,7 +200,7 @@ Images, &lt;a href=&quot;https://bigorangelandmarks.blogspot.com/2009/02/no-216-
 ]]></description>
 			<content:encoded><![CDATA[<p>
 There is no lower order of architectural history than the â€œhey, look how much this thing looks like that thingâ€ school.  So, with total absence of paper trail or smoking gun, and utterly devoid of legitimate social context, <i>hey, look how much this thing looks like that thing!</i></p>
-<p>I was taking my weekly dose of <a href="https://bigorangelandmarks.blogspot.com/" title="DaBigOrange" target="_blank">Big Orange</a>, and dang if Everett Hallâ€™s 1887 <a href="https://bigorangelandmarks.blogspot.com/2009/02/no-216-hall-residence.html" title="ghostsinthehall" target="_blank">place down on Douglas</a> didnâ€™t remind me of something.  I thought it bore a seeming semblance to 1964 Colonial Street, aka 1313 Mockingbird Lane.  Whether its designers in 1950 were cruising around for inspiration and found themselves in front of the House of Hall weâ€™ll never know.  (Is every post some meticulously researched essay on which quarry produced the dressed ashlar for the Floodat Hotel?  It is not.)
+<p>I was taking my weekly dose of <a href="http://bigorangelandmarks.blogspot.com/" title="DaBigOrange" target="_blank">Big Orange</a>, and dang if Everett Hallâ€™s 1887 <a href="http://bigorangelandmarks.blogspot.com/2009/02/no-216-hall-residence.html" title="ghostsinthehall" target="_blank">place down on Douglas</a> didnâ€™t remind me of something.  I thought it bore a seeming semblance to 1964 Colonial Street, aka 1313 Mockingbird Lane.  Whether its designers in 1950 were cruising around for inspiration and found themselves in front of the House of Hall weâ€™ll never know.  (Is every post some meticulously researched essay on which quarry produced the dressed ashlar for the Floodat Hotel?  It is not.)
 </p>
 <p>
 <i>Los Angeles, 1950.  Joe and Bob cruise the city, Hall Residence in the near distance. </i>
@@ -210,7 +213,7 @@ Joe:  Hey Bob, lookit that oneâ€”</p>
 <i>Bob sketches on a cocktail napkin.</i>
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3584/3322117038_7f2c2be0e8_o.gif" alt="HouseOfHall" height="351" width="300" />
+<img src="http://farm4.static.flickr.com/3584/3322117038_7f2c2be0e8_o.gif" alt="HouseOfHall" height="351" width="300" />
 </p>
 <p>
 <i>Later that day, in the office.  Bob holds up a blueprint.</i>
@@ -222,13 +225,13 @@ Bob:  How&#8217;s this?
 Joe:  Swell.  Who lives in these things, anyway?
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3547/3322118212_202be478ca_o.gif" alt="GAOTU" height="304" width="300" />
+<img src="http://farm4.static.flickr.com/3547/3322118212_202be478ca_o.gif" alt="GAOTU" height="304" width="300" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3593/3321287553_ffda73f8bc_o.gif" alt="Hall70s" height="383" width="300" />
+<img src="http://farm4.static.flickr.com/3593/3321287553_ffda73f8bc_o.gif" alt="Hall70s" height="383" width="300" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3651/3322118618_ec50e41d87_o.gif" alt="ookyookyooky" height="291" width="300" />
+<img src="http://farm4.static.flickr.com/3651/3322118618_ec50e41d87_o.gif" alt="ookyookyooky" height="291" width="300" />
 </p>
 <p>
 As long as Iâ€™m irresponsibly positing wildly improbable scenarios, weâ€™ll let this one play out to its logical conclusion:</p>
@@ -254,11 +257,11 @@ Bob:  Sorry, kid.  Theseâ€™re Bill Goetzâ€™ plans now, and with these 
 <p><i>Fade to black.</i>
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3639/3322117284_fb53ba25a7_o.gif" alt="locus" height="302" width="300" />
+<img src="http://farm4.static.flickr.com/3639/3322117284_fb53ba25a7_o.gif" alt="locus" height="302" width="300" />
 </p>
 <p>
 <i><br />
-Images, <a href="https://bigorangelandmarks.blogspot.com/2009/02/no-216-hall-residence.html" title="BOLandofthedead" target="_blank">BOL</a> and the <a href="https://www.flickr.com/photos/universalstonecutter/sets/72157608815810477/" title="universalstonecutter" target="_blank">universalstonecutter&#8217;s Munster set</a>.</i>
+Images, <a href="http://bigorangelandmarks.blogspot.com/2009/02/no-216-hall-residence.html" title="BOLandofthedead" target="_blank">BOL</a> and the <a href="http://www.flickr.com/photos/universalstonecutter/sets/72157608815810477/" title="universalstonecutter" target="_blank">universalstonecutter&#8217;s Munster set</a>.</i>
 </p>
 <p>
 &nbsp;</p>
@@ -268,43 +271,43 @@ Images, <a href="https://bigorangelandmarks.blogspot.com/2009/02/no-216-hall-res
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/munstersofbunkerhill/#comment-73</link>
+		<link>/munstersofbunkerhill/#comment-73</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sun, 25 Jan 2009 16:04:08 +0000</pubDate>
 		<guid isPermaLink="false">#comment-73</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3467/3227044374_e22ff9eff4_o.gif&quot; alt=&quot;1313&quot; height=&quot;392&quot; width=&quot;346&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3467/3227044374_e22ff9eff4_o.gif&quot; alt=&quot;1313&quot; height=&quot;392&quot; width=&quot;346&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Damn, that&#039;s a good-looking house.  
 &lt;/p&gt;
 &lt;p&gt;
-Imagine if one Hill structure had been allowed to &lt;a href=&quot;https://www.flickr.com/photos/9716802@N02/3108023407/&quot; title=&quot;survivor&quot; target=&quot;_blank&quot;&gt;survive&lt;/a&gt;.  Even if it had had some sort of &lt;a href=&quot;https://www.flickr.com/photos/luxvesperis/2173964871/&quot; title=&quot;damnhousewives&quot; target=&quot;_blank&quot;&gt;remuddling&lt;/a&gt;.
+Imagine if one Hill structure had been allowed to &lt;a href=&quot;http://www.flickr.com/photos/9716802@N02/3108023407/&quot; title=&quot;survivor&quot; target=&quot;_blank&quot;&gt;survive&lt;/a&gt;.  Even if it had had some sort of &lt;a href=&quot;http://www.flickr.com/photos/luxvesperis/2173964871/&quot; title=&quot;damnhousewives&quot; target=&quot;_blank&quot;&gt;remuddling&lt;/a&gt;.
 &lt;/p&gt;
 &lt;p&gt;
-Amazing &lt;a href=&quot;https://www.flickr.com/photos/universalstonecutter/3204566055/sizes/l/&quot; title=&quot;kellerhouse&quot; target=&quot;_blank&quot;&gt;construction&lt;/a&gt; image, and &lt;a href=&quot;https://www.flickr.com/photos/universalstonecutter/sets/72157608815810477/&quot; title=&quot;endlessjoy&quot; target=&quot;_blank&quot;&gt;the breathtaking motherlode&lt;/a&gt;. 
+Amazing &lt;a href=&quot;http://www.flickr.com/photos/universalstonecutter/3204566055/sizes/l/&quot; title=&quot;kellerhouse&quot; target=&quot;_blank&quot;&gt;construction&lt;/a&gt; image, and &lt;a href=&quot;http://www.flickr.com/photos/universalstonecutter/sets/72157608815810477/&quot; title=&quot;endlessjoy&quot; target=&quot;_blank&quot;&gt;the breathtaking motherlode&lt;/a&gt;. 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3517/3226323509_fe58213448_o.gif&quot; alt=&quot;MunsterHouse&quot; height=&quot;363&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3517/3226323509_fe58213448_o.gif&quot; alt=&quot;MunsterHouse&quot; height=&quot;363&quot; width=&quot;575&quot; /&gt;
 &lt;br /&gt;
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3467/3227044374_e22ff9eff4_o.gif" alt="1313" height="392" width="346" />
+<img src="http://farm4.static.flickr.com/3467/3227044374_e22ff9eff4_o.gif" alt="1313" height="392" width="346" />
 </p>
 <p>
 Damn, that&#8217;s a good-looking house.
 </p>
 <p>
-Imagine if one Hill structure had been allowed to <a href="https://www.flickr.com/photos/9716802@N02/3108023407/" title="survivor" target="_blank">survive</a>.  Even if it had had some sort of <a href="https://www.flickr.com/photos/luxvesperis/2173964871/" title="damnhousewives" target="_blank">remuddling</a>.
+Imagine if one Hill structure had been allowed to <a href="http://www.flickr.com/photos/9716802@N02/3108023407/" title="survivor" target="_blank">survive</a>.  Even if it had had some sort of <a href="http://www.flickr.com/photos/luxvesperis/2173964871/" title="damnhousewives" target="_blank">remuddling</a>.
 </p>
 <p>
-Amazing <a href="https://www.flickr.com/photos/universalstonecutter/3204566055/sizes/l/" title="kellerhouse" target="_blank">construction</a> image, and <a href="https://www.flickr.com/photos/universalstonecutter/sets/72157608815810477/" title="endlessjoy" target="_blank">the breathtaking motherlode</a>.
+Amazing <a href="http://www.flickr.com/photos/universalstonecutter/3204566055/sizes/l/" title="kellerhouse" target="_blank">construction</a> image, and <a href="http://www.flickr.com/photos/universalstonecutter/sets/72157608815810477/" title="endlessjoy" target="_blank">the breathtaking motherlode</a>.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3517/3226323509_fe58213448_o.gif" alt="MunsterHouse" height="363" width="575" /><br />
+<img src="http://farm4.static.flickr.com/3517/3226323509_fe58213448_o.gif" alt="MunsterHouse" height="363" width="575" /><br />
 </p>
 ]]></content:encoded>
 		
@@ -312,21 +315,21 @@ Amazing <a href="https://www.flickr.com/photos/universalstonecutter/3204566055/s
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/munstersofbunkerhill/#comment-35</link>
+		<link>/munstersofbunkerhill/#comment-35</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sat, 11 Oct 2008 00:55:06 +0000</pubDate>
 		<guid isPermaLink="false">#comment-35</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3156/2930177203_b7ca9d2114_o.gif&quot; alt=&quot;downonadams&quot; height=&quot;467&quot; width=&quot;364&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3156/2930177203_b7ca9d2114_o.gif&quot; alt=&quot;downonadams&quot; height=&quot;467&quot; width=&quot;364&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3156/2930177203_b7ca9d2114_o.gif" alt="downonadams" height="467" width="364" />
+<img src="http://farm4.static.flickr.com/3156/2930177203_b7ca9d2114_o.gif" alt="downonadams" height="467" width="364" />
 </p>
 <p>
 &nbsp;</p>

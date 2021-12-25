@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>nick harris detective agency &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/nick_harris_detective_agency/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/nick_harris_detective_agency/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 21:47:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>nick harris detective agency &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Red Light Raid</title>
-		<link>https://www.onbunkerhill.org/redlightraid/</link>
-					<comments>https://www.onbunkerhill.org/redlightraid/#respond</comments>
+		<link>/redlightraid/</link>
+					<comments>/redlightraid/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 09:46:28 +0000</pubDate>
@@ -44,7 +47,7 @@
 		<category><![CDATA[vice]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 310 Clay Street Date: June 15, 1915 The Redlight Abatement Act is now law, and the first establishment to be entered by crowbar, ax and the strong arms of police and DA&#8217;s men was the Hotel Clayton, formerly the Lorraine. The authorities interrupted a gay midnight dinner party and made prisoners of all 25 &#8230; <a href="https://www.onbunkerhill.org/redlightraid/" class="more-link">Continue reading<span class="screen-reader-text"> "Red Light Raid"</span></a>]]></description>
+					<description><![CDATA[Location: 310 Clay Street Date: June 15, 1915 The Redlight Abatement Act is now law, and the first establishment to be entered by crowbar, ax and the strong arms of police and DA&#8217;s men was the Hotel Clayton, formerly the Lorraine. The authorities interrupted a gay midnight dinner party and made prisoners of all 25 &#8230; <a href="/redlightraid/" class="more-link">Continue reading<span class="screen-reader-text"> "Red Light Raid"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 310 Clay Street<br />
 Date: June 15, 1915</p>
 <p>The Redlight Abatement Act is now law, and the first establishment to be entered by crowbar, ax and the strong arms of police and DA&#8217;s men was the Hotel Clayton, formerly the Lorraine. The authorities interrupted a gay midnight dinner party and made prisoners of all 25 inside, including some panic-stricken ladies who begged to be turned loose as their husbands didn&#8217;t know they were out. In all, 17 men and 8 women were seized.</p>
@@ -53,7 +56,7 @@ Date: June 15, 1915</p>
 <p>When the place was called the Lorraine it was site of the murder of the notorious Nellie Buck, Hite&#8217;s shooting of his wife and several suicides, and seems to still be a place of notable ill favor.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/redlightraid/feed/</wfw:commentRss>
+					<wfw:commentRss>/redlightraid/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

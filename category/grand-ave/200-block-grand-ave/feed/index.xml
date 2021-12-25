@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>200 Block Grand Ave &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/category/grand-ave/200-block-grand-ave/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/category/grand-ave/200-block-grand-ave/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Thu, 05 Sep 2019 04:23:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>200 Block Grand Ave &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Poor Choice</title>
-		<link>https://www.onbunkerhill.org/poorchoiceatthecarleton/</link>
-					<comments>https://www.onbunkerhill.org/poorchoiceatthecarleton/#comments</comments>
+		<link>/poorchoiceatthecarleton/</link>
+					<comments>/poorchoiceatthecarleton/#comments</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Thu, 15 Jan 2009 19:08:57 +0000</pubDate>
@@ -43,37 +46,37 @@
 		<category><![CDATA[Sheriff]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The Holy Trinity of Noir: the Tough Hood, the Tougher Cop, and the Dame. The Dameâ€”in peril, and perilous to know. Tonightâ€™s tale takes this Trinitarian shape, but contains, oddly, but two players. Our first adherent is Mr. X., aka Tough Hood. He heard the clip-clop of heels reverberate throught the misty night air of &#8230; <a href="https://www.onbunkerhill.org/poorchoiceatthecarleton/" class="more-link">Continue reading<span class="screen-reader-text"> "A Poor Choice"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>The Holy Trinity of Noir:  the Tough Hood, the Tougher Cop, and the Dame.  The Dameâ€”in peril, and perilous to know.</p>
-<p>Tonightâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s tale takes this Trinitarian shape, but contains, oddly, but two players.</p>
-<p>Our first adherent is Mr. X., aka Tough Hood.  He heard the clip-clop of heels reverberate throught the misty night air of February 7, 1944.  He followed his preyâ€”the Dame, in peril, to her pad, and once she was inside, he attacked!<br />
-<img loading="lazy" src="https://farm4.static.flickr.com/3418/3199752825_8f6407d351_o.gif" alt="madbadanddangeroustoknow" height="72" width="288" /><br />
+					<description><![CDATA[The Holy Trinity of Noir: the Tough Hood, the Tougher Cop, and the Dame. The Dame–in peril, and perilous to know. Tonight”™s tale takes this Trinitarian shape, but contains, oddly, but two players. Our first adherent is Mr. X., aka Tough Hood. He heard the clip-clop of heels reverberate throught the misty night air of &#8230; <a href="/poorchoiceatthecarleton/" class="more-link">Continue reading<span class="screen-reader-text"> "A Poor Choice"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The Holy Trinity of Noir:  the Tough Hood, the Tougher Cop, and the Dame.  The Dame–in peril, and perilous to know.</p>
+<p>Tonight”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s tale takes this Trinitarian shape, but contains, oddly, but two players.</p>
+<p>Our first adherent is Mr. X., aka Tough Hood.  He heard the clip-clop of heels reverberate throught the misty night air of February 7, 1944.  He followed his prey–the Dame, in peril, to her pad, and once she was inside, he attacked!<br />
+<img loading="lazy" src="http://farm4.static.flickr.com/3418/3199752825_8f6407d351_o.gif" alt="madbadanddangeroustoknow" height="72" width="288" /><br />
 Unfortunately for Tough Hood, Dame in peril, true to form, was perilous to know.  She was playing double duty as Tougher Cop.  Tough Hood had unwittingly attacked Miss Margaret Maguire, a deputy sheriff.  Mr. X ended up with only a purse strap, and a heart pumping blood and terror; Maguire chased him all the way out of the neighborhood.</p>
 <p>Maguire lived at the Carleton (across the street from the <a href="/st_angelo" title="angieayangie" target="_blank">St. Angelo</a>).</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3300/3200599100_8b4b20099d_o.gif" alt="nojokesaboutyourdoorman" height="546" width="575" /></p>
-<p>With a nod to its severe symmetry, Corinthian columns, and pointy pediment, Hill chronicler Hylen made sure to photograph Carleton&#8217;s backside as to juxtapose Neoclassical majesty with good old American tenement living:<img loading="lazy" src="https://farm4.static.flickr.com/3347/3199753363_89b469c94a_o.gif" alt="boweryboyz" height="484" width="575" /><br />
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3300/3200599100_8b4b20099d_o.gif" alt="nojokesaboutyourdoorman" height="546" width="575" /></p>
+<p>With a nod to its severe symmetry, Corinthian columns, and pointy pediment, Hill chronicler Hylen made sure to photograph Carleton&#8217;s backside as to juxtapose Neoclassical majesty with good old American tenement living:<img loading="lazy" src="http://farm4.static.flickr.com/3347/3199753363_89b469c94a_o.gif" alt="boweryboyz" height="484" width="575" /><br />
 Some quick views of the east side of the 200 block of North Grand:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3493/3199824761_4478b3a6b6_o.gif" alt="fromthebe1909" align="left" height="211" width="327" />At left, from the Birdseye, the block in 1909; itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a bustling part of the world.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3493/3199824761_4478b3a6b6_o.gif" alt="fromthebe1909" align="left" height="211" width="327" />At left, from the Birdseye, the block in 1909; it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a bustling part of the world.</p>
 <p>Below, the Sanborn Map, 1906.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3097/3200599620_5a6ce7b48a_o.gif" alt="block06" height="570" width="417" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3097/3200599620_5a6ce7b48a_o.gif" alt="block06" height="570" width="417" /></p>
 <p>In 1950, most of the block was gone.  Only the Carleton, and a paltry few other structures, remain:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3112/3200599586_2b32c2571e_o.gif" alt="block50" height="565" width="417" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3112/3200599586_2b32c2571e_o.gif" alt="block50" height="565" width="417" /></p>
 <p>&nbsp;</p>
-<p>By 1952, theyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d broken ground on the <a href="https://www.you-are-here.com/los_angeles/hall_of.html" title="HOA" target="_blank">Hall of Administration</a>.  So the 1953 Sanborn Map would have nothing to show for the Carleton&#8217;s time on Earth.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3381/3199753443_b06d662662_o.gif" alt="block1953" height="560" width="417" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3100/3199753739_f6741ede51_o.gif" alt="carletontoday" height="271" width="575" /></p>
+<p>By 1952, they”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d broken ground on the <a href="http://www.you-are-here.com/los_angeles/hall_of.html" title="HOA" target="_blank">Hall of Administration</a>.  So the 1953 Sanborn Map would have nothing to show for the Carleton&#8217;s time on Earth.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3381/3199753443_b06d662662_o.gif" alt="block1953" height="560" width="417" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3100/3199753739_f6741ede51_o.gif" alt="carletontoday" height="271" width="575" /></p>
 <p><i>Carleton Apartments images courtesy Arnold Hylen Collection, California History Section, California State Library</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/poorchoiceatthecarleton/feed/</wfw:commentRss>
+					<wfw:commentRss>/poorchoiceatthecarleton/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Musical Cure and the Dead Girl &#8211; 240 South Grand</title>
-		<link>https://www.onbunkerhill.org/emmcurative/</link>
-					<comments>https://www.onbunkerhill.org/emmcurative/#respond</comments>
+		<link>/emmcurative/</link>
+					<comments>/emmcurative/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 31 Oct 2008 09:16:46 +0000</pubDate>
@@ -89,25 +92,25 @@ Some quick views of the east side of the 200 block of North Grand:</p>
 		<category><![CDATA[san diego]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 240 South Grand Avenue Date: September 14, 1904 For about a year, from summer 1902 to spring 1903, Broadway strollers might hear exquisite sounds of healing emerging from the windows at 529 South Broadway, where the &#34;skilled physicians&#34; of The E. M. M. Curative Company practiced their pseudoscientific arts with electrical devices, x-rays, and &#8230; <a href="https://www.onbunkerhill.org/emmcurative/" class="more-link">Continue reading<span class="screen-reader-text"> "The Musical Cure and the Dead Girl &#8211; 240 South Grand"</span></a>]]></description>
+					<description><![CDATA[Location: 240 South Grand Avenue Date: September 14, 1904 For about a year, from summer 1902 to spring 1903, Broadway strollers might hear exquisite sounds of healing emerging from the windows at 529 South Broadway, where the &#34;skilled physicians&#34; of The E. M. M. Curative Company practiced their pseudoscientific arts with electrical devices, x-rays, and &#8230; <a href="/emmcurative/" class="more-link">Continue reading<span class="screen-reader-text"> "The Musical Cure and the Dead Girl &#8211; 240 South Grand"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 240 South Grand Avenue<br />
 Date: September 14, 1904</p>
-<p>For about a year, from summer 1902 to spring 1903, Broadway strollers might hear exquisite sounds of healing emerging from the windows at 529 South Broadway, where the &quot;skilled physicians&quot; of The E. M. M. Curative Company practiced their pseudoscientific arts with electrical devices, x-rays, and gizmos that gave off heat, light, musical waves and faradic emanations (gals, you may be familiar with these last if you own a <a href="https://www.amazon.com/exec/obidos/ASIN/B000K8ALI8/ref=nosim/bubblegumbook">portable massage unit</a>). </p>
-<p><img src="https://farm4.static.flickr.com/3137/2988607499_e843db52b5.jpg" /></p>
-<p>Standing for Electro Musical Magneto, and using a unique <a href="https://www.google.com/patents?id=P09hAAAAEBAJ&amp;pg=PA2&amp;lpg=PA2&amp;dq=%22e.+m.+m.+curative%22&amp;source=bl&amp;ots=U7gXmha_LR&amp;sig=lNXQzOsNp1N9wC9TOW1V7Hf0MXU&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result ">patented device</a> created by Henry Fleetwood, this interesting agency regrettably failed to leave any evidence of customers satisfied or otherwise. Incorporated in March 1902 with $200,000 in capital stock, the company was run by Fleetwood, D.W. Stewart, Herbert M. Pomeroy, lon [sic] L. Clark and Walter Rose.</p>
+<p>For about a year, from summer 1902 to spring 1903, Broadway strollers might hear exquisite sounds of healing emerging from the windows at 529 South Broadway, where the &quot;skilled physicians&quot; of The E. M. M. Curative Company practiced their pseudoscientific arts with electrical devices, x-rays, and gizmos that gave off heat, light, musical waves and faradic emanations (gals, you may be familiar with these last if you own a <a href="http://www.amazon.com/exec/obidos/ASIN/B000K8ALI8/ref=nosim/bubblegumbook">portable massage unit</a>). </p>
+<p><img src="http://farm4.static.flickr.com/3137/2988607499_e843db52b5.jpg" /></p>
+<p>Standing for Electro Musical Magneto, and using a unique <a href="http://www.google.com/patents?id=P09hAAAAEBAJ&amp;pg=PA2&amp;lpg=PA2&amp;dq=%22e.+m.+m.+curative%22&amp;source=bl&amp;ots=U7gXmha_LR&amp;sig=lNXQzOsNp1N9wC9TOW1V7Hf0MXU&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result ">patented device</a> created by Henry Fleetwood, this interesting agency regrettably failed to leave any evidence of customers satisfied or otherwise. Incorporated in March 1902 with $200,000 in capital stock, the company was run by Fleetwood, D.W. Stewart, Herbert M. Pomeroy, lon [sic] L. Clark and Walter Rose.</p>
 <p>It was a partnership quickly marred by tragedy, with treasurer and medical director Pomeroy, 38 and a drug addict, committing suicide by morphine in July 1902, out of an overwhelming urge to flee the world of the living and be with his dead mother again. Pomeroy, of 950 West Washington Street, left a note to his partner and personal attorney Rose asking him to cover up the cause of death and to be kind to the wife and babe he left behind. Rose and Pomeroy&#8217;s personal physician O.D. (you can&#8217;t make these names up) Fitzgerald tried to honor Pomeroy&#8217;s wishes, but in stealing the body away to a private mortuary before the authorities were called so incensed Coroner Holland that he had the contents of the suicide note released to the press.</p>
 <p>We next hear of the practitioners of Fleetwood&#8217;s methods on September 14, 1904, when young Frederick B. West, a physician who was formerly a prominent fixture at The E. M. M. Curative Company before relocating to San Diego, was arrested at his sister&#8217;s home 240 South Grand Avenue on a murder charge relating to the death of Isabella Camello, 19. The girl was alleged to have gone to West in San Diego to procure an illegal operation, the incompetent performance of which resulted in her death. West insisted that while he had treated the girl for a stomach ailment, perhaps with a vibrating wand that gave off flashes of light and musical tones, he had not performed an abortion. The case was not reported on further, leaving us just the briefest glimpse of the world of quack medicine in Edwardian L.A.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/emmcurative/feed/</wfw:commentRss>
+					<wfw:commentRss>/emmcurative/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>The Nugent/New Grand Hotel â€“ 257 South Grand</title>
-		<link>https://www.onbunkerhill.org/nugentnewgrand/</link>
-					<comments>https://www.onbunkerhill.org/nugentnewgrand/#comments</comments>
+		<title>The Nugent/New Grand Hotel ”“ 257 South Grand</title>
+		<link>/nugentnewgrand/</link>
+					<comments>/nugentnewgrand/#comments</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 12 Oct 2008 01:28:01 +0000</pubDate>
@@ -119,20 +122,20 @@ Date: September 14, 1904</p>
 		<category><![CDATA[trains]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[One cannot help but be enamored of the Nugent. Maybe itâ€™s the big spooky tower. Maybe itâ€™s the Nugentâ€™s corner site at Third Street and Grand Avenue&#8230;3rd &#38; Grand just purrs off the tongue, which only seems to further imbue that location with the status as Ground Zero, Bunker Hill. But truth be told, the &#8230; <a href="https://www.onbunkerhill.org/nugentnewgrand/" class="more-link">Continue reading<span class="screen-reader-text"> "The Nugent/New Grand Hotel â€“ 257 South Grand"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3292/2933671648_183d3186cb_o.gif" alt="TheNuge" height="483" width="333" />One cannot help but be enamored of the Nugent.  Maybe itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the big spooky tower.  Maybe itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Nugentâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s corner site at Third Street and Grand Avenue&#8230;<i>3rd &amp; Grand</i> just purrs off the tongue, which only seems to further imbue that location with the status as Ground Zero, Bunker Hill.   </p>
-<p>But truth be told, the Nugent was never a hotbed of vice, should you be perusing our <i>OBH</i> blog to sate your currish needs.  Heck, a 1905 article about the original <a href="https://books.google.com/books?hl=en&amp;id=8h7yZGEsFmEC&amp;dq=%22white+ribboners%22&amp;printsec=frontcover&amp;source=web&amp;ots=wdr3H-8lms&amp;sig=YlZoLUpeet5PPn2U7PqJKgoolfU&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result#PPA2,M1" title="WCTYou" target="_blank">White Ribboners</a> who fought demon drink back in the early â€˜70s mentions that crusading Quaker Josephine Marlatt chose the newly-opened Nugent as her home.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3143/2932814257_055afd7e9a_o.gif" alt="thatlllearnher" align="right" height="51" width="252" />The Nugentâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s most notable resident was a Southern Pacific brakeman by the name of Walter J. Dean.  It was March 10, 1935, and Dean was busy plying his honest trade out in Pomona at a railroad right of way while a train crew was switching freight cars in the local yards.  Then some woman, as high and as mighty as they come, decided to drive her automobile across said railroad right of way; this enraged Dean, who pitched his lantern through her car windshield.  Unfortunately the woman was Mrs. Lois Browning, wife of Desk Sergeant Browning of the local police force, which might give some insight into her high-and-mightiness.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3140/2933670098_53815f6f17_o.gif" alt="1940" align="left" height="38" width="325" />And so, while Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d like to say that every resident was a pill-pushing pedophilic grave-robbing ghoul (or at least youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d like to read such), weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll just have to content ourselves with pretty pictures.  I must admit, my inclusion of the Nugent (which became the New Grand some time in the 1940s, to be pulled down in the mid-1960s by the CRA, naturally, <i>ad victoriam</i>) is due in larg<img loading="lazy" src="https://farm4.static.flickr.com/3171/2932814347_9e7d6d3f3c_o.gif" alt="1961" align="right" height="41" width="344" />e part to the wonderful color image I am fortunate enough to here include.</p>
+					<description><![CDATA[One cannot help but be enamored of the Nugent. Maybe it”™s the big spooky tower. Maybe it”™s the Nugent”™s corner site at Third Street and Grand Avenue&#8230;3rd &#38; Grand just purrs off the tongue, which only seems to further imbue that location with the status as Ground Zero, Bunker Hill. But truth be told, the &#8230; <a href="/nugentnewgrand/" class="more-link">Continue reading<span class="screen-reader-text"> "The Nugent/New Grand Hotel ”“ 257 South Grand"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3292/2933671648_183d3186cb_o.gif" alt="TheNuge" height="483" width="333" />One cannot help but be enamored of the Nugent.  Maybe it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the big spooky tower.  Maybe it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Nugent”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s corner site at Third Street and Grand Avenue&#8230;<i>3rd &amp; Grand</i> just purrs off the tongue, which only seems to further imbue that location with the status as Ground Zero, Bunker Hill.   </p>
+<p>But truth be told, the Nugent was never a hotbed of vice, should you be perusing our <i>OBH</i> blog to sate your currish needs.  Heck, a 1905 article about the original <a href="http://books.google.com/books?hl=en&amp;id=8h7yZGEsFmEC&amp;dq=%22white+ribboners%22&amp;printsec=frontcover&amp;source=web&amp;ots=wdr3H-8lms&amp;sig=YlZoLUpeet5PPn2U7PqJKgoolfU&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result#PPA2,M1" title="WCTYou" target="_blank">White Ribboners</a> who fought demon drink back in the early ”˜70s mentions that crusading Quaker Josephine Marlatt chose the newly-opened Nugent as her home.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3143/2932814257_055afd7e9a_o.gif" alt="thatlllearnher" align="right" height="51" width="252" />The Nugent”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s most notable resident was a Southern Pacific brakeman by the name of Walter J. Dean.  It was March 10, 1935, and Dean was busy plying his honest trade out in Pomona at a railroad right of way while a train crew was switching freight cars in the local yards.  Then some woman, as high and as mighty as they come, decided to drive her automobile across said railroad right of way; this enraged Dean, who pitched his lantern through her car windshield.  Unfortunately the woman was Mrs. Lois Browning, wife of Desk Sergeant Browning of the local police force, which might give some insight into her high-and-mightiness.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3140/2933670098_53815f6f17_o.gif" alt="1940" align="left" height="38" width="325" />And so, while I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d like to say that every resident was a pill-pushing pedophilic grave-robbing ghoul (or at least you”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d like to read such), we”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll just have to content ourselves with pretty pictures.  I must admit, my inclusion of the Nugent (which became the New Grand some time in the 1940s, to be pulled down in the mid-1960s by the CRA, naturally, <i>ad victoriam</i>) is due in larg<img loading="lazy" src="http://farm4.static.flickr.com/3171/2932814347_9e7d6d3f3c_o.gif" alt="1961" align="right" height="41" width="344" />e part to the wonderful color image I am fortunate enough to here include.</p>
 <p>&nbsp;</p>
 <p>August, 1903:<br />
-<img loading="lazy" src="https://farm4.static.flickr.com/3215/2932814229_74272a59c8_o.gif" alt="nuge1903" height="68" width="375" /></p>
+<img loading="lazy" src="http://farm4.static.flickr.com/3215/2932814229_74272a59c8_o.gif" alt="nuge1903" height="68" width="375" /></p>
 <p>Sanborn, 1906:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3007/2933804006_92f69ec395_o.gif" alt="sanborn06" height="336" width="375" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3007/2933804006_92f69ec395_o.gif" alt="sanborn06" height="336" width="375" /></p>
 <p>Sanborn, 1950:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3055/2933804052_a51178c2e0_o.gif" alt="notbornofwoman50" height="291" width="375" /></p>
-<p>(If you really must read of murder most foul, note the <a href="https://www.onbunkerhill.org/stottslanding" title="altosex" target="_blank">Alto</a> [at 253] having been built just the other side of the New Grand.)</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3218/2932815721_c56c724c15_o.gif" alt="entrancegrand" align="left" height="489" width="300" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3055/2933804052_a51178c2e0_o.gif" alt="notbornofwoman50" height="291" width="375" /></p>
+<p>(If you really must read of murder most foul, note the <a href="/stottslanding" title="altosex" target="_blank">Alto</a> [at 253] having been built just the other side of the New Grand.)</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3218/2932815721_c56c724c15_o.gif" alt="entrancegrand" align="left" height="489" width="300" /></p>
 <p>&nbsp;</p>
 <p>Bunker Hill had, without question, the highest per-block concentration of Corinthian capitals in Los Angeles.</p>
 <p>&nbsp;</p>
@@ -145,30 +148,30 @@ Date: September 14, 1904</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3288/2932814595_ff506d4b3d_o.gif" alt="delikorner" height="449" width="575" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3281/2933670532_e3a659fa8e_o.gif" alt="kookooretch" height="463" width="575" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3288/2932814595_ff506d4b3d_o.gif" alt="delikorner" height="449" width="575" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3281/2933670532_e3a659fa8e_o.gif" alt="kookooretch" height="463" width="575" /></p>
 <p>The deli has become a KooKooRoo.  I had half a mind to march in there and say <i>yeah, gimme a couple of your LandjÃ¤ger, and a Csabai KolbÃ¡sz, and a half pound of something Italian, Sopressata maybe, sliced thick, and something Jewish for the wife, say a pound of brisket, then let me have a fist-sized thing of herring, in brine not cream, and a pickled egg to go</i> but of course like the rest of Bunker Hill, there was no-one there.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3273/2932815559_d00d495be7_o.gif" alt="upgrand" height="442" width="575" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3218/2932815337_1607934b16_o.gif" alt="upitnow" height="431" width="575" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3072/2932816017_138bb94d1a_o.gif" alt="holeinone" align="right" height="373" width="333" /></p>
-<p>With the New Grand gone, the 1970s and 80s thrilled to this hole in the ground.  (Here, we are facing the other way down Grand from the image above.)  At left, the 1982 Skidmore, Owings &amp; Merrill Crocker Tower II and at right, the 1973 AC Martin Security Pacific National Bank Plaza tower, butting up against Third (the road in the foreground would becomeÂ   Thaddeus Kosciusko).Â  Then West-LA Nadel Architects (who are at present in charge of designing two thirty-story towers at Third &amp; Beaudry) showed up in 1988 and said <i>here</i>:</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3273/2932815559_d00d495be7_o.gif" alt="upgrand" height="442" width="575" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3218/2932815337_1607934b16_o.gif" alt="upitnow" height="431" width="575" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3072/2932816017_138bb94d1a_o.gif" alt="holeinone" align="right" height="373" width="333" /></p>
+<p>With the New Grand gone, the 1970s and 80s thrilled to this hole in the ground.  (Here, we are facing the other way down Grand from the image above.)  At left, the 1982 Skidmore, Owings &amp; Merrill Crocker Tower II and at right, the 1973 AC Martin Security Pacific National Bank Plaza tower, butting up against Third (the road in the foreground would become   Thaddeus Kosciusko).  Then West-LA Nadel Architects (who are at present in charge of designing two thirty-story towers at Third &amp; Beaudry) showed up in 1988 and said <i>here</i>:</p>
 <p>&nbsp;</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3246/2933670944_34ee58ae0c_o.gif" alt="beingbilt" align="left" height="385" width="300" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3246/2933670944_34ee58ae0c_o.gif" alt="beingbilt" align="left" height="385" width="300" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>And in went the <a href="https://www.apartmentratings.com/rate/CA-Los-Angeles-Grand-Promenade-Tower.html" title="dagyo" target="_blank">Grand Promenade Towers</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>And in went the <a href="http://www.apartmentratings.com/rate/CA-Los-Angeles-Grand-Promenade-Tower.html" title="dagyo" target="_blank">Grand Promenade Towers</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>But thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not why weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re here.  Not really. As I alluded to earlier, this post is really all about the Nugent/New Grand, 1952â€”<i>in color</i>:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3287/2933670014_6c68a1507e_o.gif" alt="theNewGrandinLivingBloodColor" height="827" width="575" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3173/2932816341_8743a25b7f_o.gif" alt="todayisnow" align="right" height="367" width="275" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>But that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not why we”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re here.  Not really. As I alluded to earlier, this post is really all about the Nugent/New Grand, 1952–<i>in color</i>:</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3287/2933670014_6c68a1507e_o.gif" alt="theNewGrandinLivingBloodColor" height="827" width="575" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3173/2932816341_8743a25b7f_o.gif" alt="todayisnow" align="right" height="367" width="275" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -181,19 +184,19 @@ Date: September 14, 1904</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><i>Images 1 &amp; 2, Arnold Hylen Collection, California History Section, California State Library; Images 3 &amp; 4, William Reagh Collection, California History Section, California State Library; Images 5 &amp; 6, California State Library; color image of the New Grand, <a href="https://webapp1.dlib.indiana.edu/cushman/index.jsp" title="CushmanCollection" target="_blank">Charles W. Cushman Photograph Collection</a>. </i></p>
-<p>(The <a href="https://www.libraries.iub.edu/index.php?pageId=93" title="IUArch" target="_blank">IU Archives</a> were very kind in granting us permission to publish their images here on <i>On Bunker Hill</i>.  You are advised to go to the Cushman temple and worship accordingly.  Exempli&#8230;<a href="https://webapp1.dlib.indiana.edu/cushman/results/detail.do?query=752.13&amp;page=1&amp;pagesize=20&amp;display=thumbcap&amp;action=search&amp;pnum=P05734" title="main52" target="_blank">South Main</a> on a Sunday&#8230;<a href="https://webapp1.dlib.indiana.edu/cushman/results/detail.do?query=752.16&amp;page=1&amp;pagesize=20&amp;display=thumbcap&amp;action=search&amp;pnum=P05737" title="notpeeingdown" target="_blank">peering down Harlem Place</a> at City Hall&#8230;a <a href="https://webapp1.dlib.indiana.edu/cushman/results/detail.do?query=752.17&amp;page=1&amp;pagesize=20&amp;display=thumbcap&amp;action=search&amp;pnum=P05738" title="Bway100" target="_blank">length of Broadway</a>, including the <a href="https://video.google.com/videoplay?docid=-5425728076345113485" title="MOH" target="_blank">Mason Opera House</a>, before it was wiped out by a 1957 parking garage [which itself was recently razed]&#8230;and the corner of <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=St+Paul+Avenue+%26+Wilshire+Blvd,+Los+Angeles,+CA+90017&amp;sll=34.052126,-118.262007&amp;sspn=0.008658,0.013497&amp;ie=UTF8&amp;ll=34.056037,-118.261192&amp;spn=0.008658,0.013497&amp;t=h&amp;z=16&amp;layer=c&amp;cbll=34.051726,-118.262006&amp;panoid=Zf4Htjeb32dXFw_JMF1HPw&amp;cbp=1,39.08556088805608,,0,5" title="sameoldsameold" target="_blank">Wilshire and St. Paul</a>, <a href="https://webapp1.dlib.indiana.edu/cushman/results/detail.do?query=752.19&amp;page=1&amp;pagesize=20&amp;display=thumbcap&amp;action=search&amp;pnum=P05740" title="nope" target="_blank">hardly changed</a> a bit.)</p>
+<p><i>Images 1 &amp; 2, Arnold Hylen Collection, California History Section, California State Library; Images 3 &amp; 4, William Reagh Collection, California History Section, California State Library; Images 5 &amp; 6, California State Library; color image of the New Grand, <a href="http://webapp1.dlib.indiana.edu/cushman/index.jsp" title="CushmanCollection" target="_blank">Charles W. Cushman Photograph Collection</a>. </i></p>
+<p>(The <a href="http://www.libraries.iub.edu/index.php?pageId=93" title="IUArch" target="_blank">IU Archives</a> were very kind in granting us permission to publish their images here on <i>On Bunker Hill</i>.  You are advised to go to the Cushman temple and worship accordingly.  Exempli&#8230;<a href="http://webapp1.dlib.indiana.edu/cushman/results/detail.do?query=752.13&amp;page=1&amp;pagesize=20&amp;display=thumbcap&amp;action=search&amp;pnum=P05734" title="main52" target="_blank">South Main</a> on a Sunday&#8230;<a href="http://webapp1.dlib.indiana.edu/cushman/results/detail.do?query=752.16&amp;page=1&amp;pagesize=20&amp;display=thumbcap&amp;action=search&amp;pnum=P05737" title="notpeeingdown" target="_blank">peering down Harlem Place</a> at City Hall&#8230;a <a href="http://webapp1.dlib.indiana.edu/cushman/results/detail.do?query=752.17&amp;page=1&amp;pagesize=20&amp;display=thumbcap&amp;action=search&amp;pnum=P05738" title="Bway100" target="_blank">length of Broadway</a>, including the <a href="http://video.google.com/videoplay?docid=-5425728076345113485" title="MOH" target="_blank">Mason Opera House</a>, before it was wiped out by a 1957 parking garage [which itself was recently razed]&#8230;and the corner of <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=St+Paul+Avenue+%26+Wilshire+Blvd,+Los+Angeles,+CA+90017&amp;sll=34.052126,-118.262007&amp;sspn=0.008658,0.013497&amp;ie=UTF8&amp;ll=34.056037,-118.261192&amp;spn=0.008658,0.013497&amp;t=h&amp;z=16&amp;layer=c&amp;cbll=34.051726,-118.262006&amp;panoid=Zf4Htjeb32dXFw_JMF1HPw&amp;cbp=1,39.08556088805608,,0,5" title="sameoldsameold" target="_blank">Wilshire and St. Paul</a>, <a href="http://webapp1.dlib.indiana.edu/cushman/results/detail.do?query=752.19&amp;page=1&amp;pagesize=20&amp;display=thumbcap&amp;action=search&amp;pnum=P05740" title="nope" target="_blank">hardly changed</a> a bit.)</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/nugentnewgrand/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
+					<wfw:commentRss>/nugentnewgrand/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Of Munsters and Bunker Hill</title>
-		<link>https://www.onbunkerhill.org/munstersofbunkerhill/</link>
-					<comments>https://www.onbunkerhill.org/munstersofbunkerhill/#comments</comments>
+		<link>/munstersofbunkerhill/</link>
+					<comments>/munstersofbunkerhill/#comments</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 27 Sep 2008 22:59:42 +0000</pubDate>
@@ -207,41 +210,41 @@ Date: September 14, 1904</p>
 		<category><![CDATA[television]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[They were eastern European immigrants, utterly integrated into the ways of American society. They were doting, loving parents; rarely does television depict such a highly functional family. They were the Munsters, and they existed to teach us valuable, eternal lessons: build hot rods out of hearses and caskets. Let your home be overrun by the &#8230; <a href="https://www.onbunkerhill.org/munstersofbunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Of Munsters and Bunker Hill"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3076/2893499723_9b26dc3ceb_o.gif" alt="1313" width="300" height="227" />They were eastern European immigrants, utterly integrated into the ways of American society. They were doting, loving parents; rarely does television depict such a highly functional family. They were the Munsters, and they existed to teach us valuable, eternal lessons: build hot rods out of hearses and caskets. Let your home be overrun by the <a title="DoTheRingo" href="https://www.youtube.com/watch?v=0-015FRQzMA" target="_blank" rel="noopener">Standells</a> and their beatnik <a title="FerusGallery64" href="https://www.youtube.com/watch?v=-MHiPrVfdgM" target="_blank" rel="noopener">buddies</a>. And see that your house is the biggest and spookiest on the block.</p>
-<p>Aside from these eternal lessons, the Munsters also represented something particular to their timeâ€”to be exact, Sept.â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />64-May â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />66. (No, Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m not talking about that despite their status as affable, upstanding citizens, the average American really didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t want to live next door to someone whose skin was a <i>different color</i>.) For our purposes I want to look at another member of the Munster clan, the house itself: 1313 Mockingbird Lane.<br />
-<img loading="lazy" src="https://farm4.static.flickr.com/3133/2893499679_b037385c45_o.gif" alt="MunsterPcard" width="355" height="550" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3115/2894340956_3815b99529_o.gif" alt="lightningflash" width="350" height="262" align="right" />The Munster manse is important to our topic at hand because it represents the attitude toward Victorian architecture at the time the CRA was in its wholesale frenzy of demolition: in a world blooming with Cliff May and Eichler knock-offs, <a title="not1164" href="https://www.1164.com/munsters/1965/index.html" target="_blank" rel="noopener">1313</a> was an ungainly, awkward embarrassment. It was, to many, nothing if not downright frightening. And those who would live in such a place? They must be odd in the extreme. Beyond curious. Again, frightening: those who dare knock on that door usually end up vaulting themselves over the gate and running down the street in terror. Besides having skin of a different color (in this case, green), the dwellers therein are, in fact, <i>monsters</i>.</p>
-<p>The Addams Family also had a big creepy house, though it was more a museum (as noted in theme song, of course) than mired in decrepitude. If the Addams examination of landed gentryâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s eccentricities has any bearing on Bunker Hill, it is only in illuminating the Bunker Hill of yoreâ€”therein lies no bearing on the Bunker Hill of 1965. (Interestingly, the shot of the Addams house in the first episode was filmed down at <a href="https://21chesterplace.com/">21 Chester Place</a> [and is now, sadly, demolished].)</p>
+					<description><![CDATA[They were eastern European immigrants, utterly integrated into the ways of American society. They were doting, loving parents; rarely does television depict such a highly functional family. They were the Munsters, and they existed to teach us valuable, eternal lessons: build hot rods out of hearses and caskets. Let your home be overrun by the &#8230; <a href="/munstersofbunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Of Munsters and Bunker Hill"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3076/2893499723_9b26dc3ceb_o.gif" alt="1313" width="300" height="227" />They were eastern European immigrants, utterly integrated into the ways of American society. They were doting, loving parents; rarely does television depict such a highly functional family. They were the Munsters, and they existed to teach us valuable, eternal lessons: build hot rods out of hearses and caskets. Let your home be overrun by the <a title="DoTheRingo" href="http://www.youtube.com/watch?v=0-015FRQzMA" target="_blank" rel="noopener">Standells</a> and their beatnik <a title="FerusGallery64" href="http://www.youtube.com/watch?v=-MHiPrVfdgM" target="_blank" rel="noopener">buddies</a>. And see that your house is the biggest and spookiest on the block.</p>
+<p>Aside from these eternal lessons, the Munsters also represented something particular to their time–to be exact, Sept.”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />64-May ”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />66. (No, I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m not talking about that despite their status as affable, upstanding citizens, the average American really didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t want to live next door to someone whose skin was a <i>different color</i>.) For our purposes I want to look at another member of the Munster clan, the house itself: 1313 Mockingbird Lane.<br />
+<img loading="lazy" src="http://farm4.static.flickr.com/3133/2893499679_b037385c45_o.gif" alt="MunsterPcard" width="355" height="550" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3115/2894340956_3815b99529_o.gif" alt="lightningflash" width="350" height="262" align="right" />The Munster manse is important to our topic at hand because it represents the attitude toward Victorian architecture at the time the CRA was in its wholesale frenzy of demolition: in a world blooming with Cliff May and Eichler knock-offs, <a title="not1164" href="http://www.1164.com/munsters/1965/index.html" target="_blank" rel="noopener">1313</a> was an ungainly, awkward embarrassment. It was, to many, nothing if not downright frightening. And those who would live in such a place? They must be odd in the extreme. Beyond curious. Again, frightening: those who dare knock on that door usually end up vaulting themselves over the gate and running down the street in terror. Besides having skin of a different color (in this case, green), the dwellers therein are, in fact, <i>monsters</i>.</p>
+<p>The Addams Family also had a big creepy house, though it was more a museum (as noted in theme song, of course) than mired in decrepitude. If the Addams examination of landed gentry”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s eccentricities has any bearing on Bunker Hill, it is only in illuminating the Bunker Hill of yore–therein lies no bearing on the Bunker Hill of 1965. (Interestingly, the shot of the Addams house in the first episode was filmed down at <a href="https://21chesterplace.com/">21 Chester Place</a> [and is now, sadly, demolished].)</p>
 <p>The house at Chester Place, and its matte-painted addition:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3081/2894254538_aac920d695_o.gif" alt="HousedAddams" width="350" height="262" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3128/2894257182_0b9988ca0c_o.gif" alt="theeasywaytoaddon" width="350" height="276" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3163/2894257336_b947b38d98_o.gif" alt="001CemeteryRidge" width="350" height="262" align="left" />Nevertheless, while one could view Gomez as a demented Doheny, or a cracked Crocker, perhaps because (Charles) Addamsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s work is so associated with the New Yorker, thereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s something rather <i>East Coast</i> about the Addamses. After all, the Italianate Addams place was modeled after a house from Chasâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s New Jersey boyhood, or a building at U-Penn, depending on whom you ask.</p>
-<p>Thereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s something uniquely Angeleno about the Munstersâ€”when you take the <a title="MunsterKoach" href="https://www.youtube.com/watch?v=EboexI0JbiQ" target="_blank" rel="noopener">Koach</a> out to <a title="MHDS" href="https://www.youtube.com/watch?v=IMLZNwezGFY&amp;feature=related" target="_blank" rel="noopener">Mockingbird Heights drag strip</a>, you can smell the Pomona. The Munsters went to <a title="SomethingLovable" href="https://www.youtube.com/watch?v=giEvrdTr_NY&amp;feature=related" target="_blank" rel="noopener">Marineland</a>. Herman hung with Dodger manager <a title="Durocher" href="https://www.conelrad.com/mutatedtelevision/hermanmunster.php" target="_blank" rel="noopener">Leo Durocher</a>.<br />
-<img loading="lazy" src="https://farm4.static.flickr.com/3246/2894341448_2cf12176e9_o.gif" alt="TheGreatTour" width="575" height="365" /><br />
-1313 was every bit Bunker Hillâ€”dig the deep central Gothic-arched porch, the extensive use of shabby shingle, the patterned chimney. The asymmetrical double porches and widowâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s walk are a nice touch. Its most notable feature might be the spook-faced gable. And inside; no well-intentioned postwar updates thereâ€”all spindlework and heavy drapes and art-glass lamps. The crumbling stone gates, the overgrowthâ€¦this was disrepair in all its Gesamkunstwerkiness. The gag, of course, was that 1313 was the one and only of its kind on the block. The standout. The sore thumb. Bunker Hill was a <i>nest</i> of these things.</p>
-<p>Making matters worse, a Munster stood for something. A Munster stood for his home, protecting it with his or her life (undead though they may be). In â€œMunster on the Move,â€ (Season 1, Episode 27, airdate March 25, 1965) Herman gets a promotion at the parlor whereby the family must sell the house and move to Buffalo. Grandpa inadvertently sells to a wrecking company; when the Munsters find out the houseâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s fate, they put the good of the house before their own self-interest. When the bulldozers show up, the family is out front, cannons packed with Grandmaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s best silver. The head of the wrecking crew shakes his head in disgust, but not disbelief; says it reminds him of the little old ladies who threw themselves in front of the bulldozers when they were tearing down their homes for the freeway system. â€œLook Jack, I bought this place to wreck it and put in a parking lot. Now move it, because weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re coming through.â€ After the wreckers see that Herman can swing a wrecking ball around, they turn tail and flee.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3081/2894254538_aac920d695_o.gif" alt="HousedAddams" width="350" height="262" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3128/2894257182_0b9988ca0c_o.gif" alt="theeasywaytoaddon" width="350" height="276" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3163/2894257336_b947b38d98_o.gif" alt="001CemeteryRidge" width="350" height="262" align="left" />Nevertheless, while one could view Gomez as a demented Doheny, or a cracked Crocker, perhaps because (Charles) Addams”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s work is so associated with the New Yorker, there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s something rather <i>East Coast</i> about the Addamses. After all, the Italianate Addams place was modeled after a house from Chas”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s New Jersey boyhood, or a building at U-Penn, depending on whom you ask.</p>
+<p>There”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s something uniquely Angeleno about the Munsters–when you take the <a title="MunsterKoach" href="http://www.youtube.com/watch?v=EboexI0JbiQ" target="_blank" rel="noopener">Koach</a> out to <a title="MHDS" href="http://www.youtube.com/watch?v=IMLZNwezGFY&amp;feature=related" target="_blank" rel="noopener">Mockingbird Heights drag strip</a>, you can smell the Pomona. The Munsters went to <a title="SomethingLovable" href="http://www.youtube.com/watch?v=giEvrdTr_NY&amp;feature=related" target="_blank" rel="noopener">Marineland</a>. Herman hung with Dodger manager <a title="Durocher" href="http://www.conelrad.com/mutatedtelevision/hermanmunster.php" target="_blank" rel="noopener">Leo Durocher</a>.<br />
+<img loading="lazy" src="http://farm4.static.flickr.com/3246/2894341448_2cf12176e9_o.gif" alt="TheGreatTour" width="575" height="365" /><br />
+1313 was every bit Bunker Hill–dig the deep central Gothic-arched porch, the extensive use of shabby shingle, the patterned chimney. The asymmetrical double porches and widow”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s walk are a nice touch. Its most notable feature might be the spook-faced gable. And inside; no well-intentioned postwar updates there–all spindlework and heavy drapes and art-glass lamps. The crumbling stone gates, the overgrowth”¦this was disrepair in all its Gesamkunstwerkiness. The gag, of course, was that 1313 was the one and only of its kind on the block. The standout. The sore thumb. Bunker Hill was a <i>nest</i> of these things.</p>
+<p>Making matters worse, a Munster stood for something. A Munster stood for his home, protecting it with his or her life (undead though they may be). In “Munster on the Move,” (Season 1, Episode 27, airdate March 25, 1965) Herman gets a promotion at the parlor whereby the family must sell the house and move to Buffalo. Grandpa inadvertently sells to a wrecking company; when the Munsters find out the house”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s fate, they put the good of the house before their own self-interest. When the bulldozers show up, the family is out front, cannons packed with Grandma”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s best silver. The head of the wrecking crew shakes his head in disgust, but not disbelief; says it reminds him of the little old ladies who threw themselves in front of the bulldozers when they were tearing down their homes for the freeway system. “Look Jack, I bought this place to wreck it and put in a parking lot. Now move it, because we”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re coming through.” After the wreckers see that Herman can swing a wrecking ball around, they turn tail and flee.</p>
 <p>Wreckers arrive:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3205/2894340874_a58a2b0457_o.gif" alt="TheArrival" width="575" height="433" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3205/2894340874_a58a2b0457_o.gif" alt="TheArrival" width="575" height="433" /></p>
 <p>Herman reasons with them to great effect:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3268/2893500167_f9a7560e14_o.gif" alt="ManOfReason" width="575" height="444" /></p>
-<p>Bunker Hill had its <a title="HermansLegacy" href="https://www.onbunkerhill.org/duelingbabcocks" target="_blank" rel="noopener">Frank Babcock</a>, but even he was no Herman Munster.</p>
-<p>One last thing. In â€œHerman Munster, Shutterbug,â€ (Season 2, Episode 4, October 7, 1965) Herman inadvertently snaps a photo of two bandits running out of the Mockingbird Heights Bank. And where do these bank-robbing low-lifes lay low? We see in an establishing shot that theyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re staying at â€œThe Grandâ€â€”</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3085/2894257628_a4326d8f51_o.gif" alt="Munsterwaska" width="575" height="453" /></p>
-<p>â€”which we of course we know as none other than <a title="Munsterwaska" href="https://www.onbunkerhill.org/taxonomy/term/26" target="_blank" rel="noopener">the Dome</a>.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3278/2894256998_79166f47f8_o.gif" alt="DomeoftheRock" width="444" height="265" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3268/2893500167_f9a7560e14_o.gif" alt="ManOfReason" width="575" height="444" /></p>
+<p>Bunker Hill had its <a title="HermansLegacy" href="/duelingbabcocks" target="_blank" rel="noopener">Frank Babcock</a>, but even he was no Herman Munster.</p>
+<p>One last thing. In “Herman Munster, Shutterbug,” (Season 2, Episode 4, October 7, 1965) Herman inadvertently snaps a photo of two bandits running out of the Mockingbird Heights Bank. And where do these bank-robbing low-lifes lay low? We see in an establishing shot that they”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re staying at “The Grand”–</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3085/2894257628_a4326d8f51_o.gif" alt="Munsterwaska" width="575" height="453" /></p>
+<p>–which we of course we know as none other than <a title="Munsterwaska" href="/taxonomy/term/26" target="_blank" rel="noopener">the Dome</a>.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3278/2894256998_79166f47f8_o.gif" alt="DomeoftheRock" width="444" height="265" /></p>
 <p><i>Dome Image, </i><i>Arnold Hylen Collection, California History Section, California State Library; postcards, author; everything else courtesy the beneficent glow of the CRT</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/munstersofbunkerhill/feed/</wfw:commentRss>
+					<wfw:commentRss>/munstersofbunkerhill/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>CRA Relocation Offices &#8211; 232 South Grand Avenue</title>
-		<link>https://www.onbunkerhill.org/cra_relocation_offices/</link>
-					<comments>https://www.onbunkerhill.org/cra_relocation_offices/#respond</comments>
+		<link>/cra_relocation_offices/</link>
+					<comments>/cra_relocation_offices/#respond</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 08 Sep 2008 21:41:32 +0000</pubDate>
@@ -252,49 +255,49 @@ Date: September 14, 1904</p>
 		<category><![CDATA[grand]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[By the spring of 1968 only three of the great mansions on Bunker Hill were still standing. The Castle (325 South Bunker Hill Ave) and Salt Box (339 South Bunker Hill Ave) were soon to be moved to their new home, Heritage Square in Highland Park (and subsequently burned down by vandals).Â  The days were &#8230; <a href="https://www.onbunkerhill.org/cra_relocation_offices/" class="more-link">Continue reading<span class="screen-reader-text"> "CRA Relocation Offices &#8211; 232 South Grand Avenue"</span></a>]]></description>
+					<description><![CDATA[By the spring of 1968 only three of the great mansions on Bunker Hill were still standing. The Castle (325 South Bunker Hill Ave) and Salt Box (339 South Bunker Hill Ave) were soon to be moved to their new home, Heritage Square in Highland Park (and subsequently burned down by vandals).  The days were &#8230; <a href="/cra_relocation_offices/" class="more-link">Continue reading<span class="screen-reader-text"> "CRA Relocation Offices &#8211; 232 South Grand Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3062/2842275404_c00e07ef9f.jpg?v=0" height="387" width="500" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3062/2842275404_c00e07ef9f.jpg?v=0" height="387" width="500" />
 </div>
-<p>By the spring of 1968 only three of the great mansions on Bunker Hill were still standing. <a href="/castle">The Castle</a> (325 South Bunker Hill Ave) and Salt Box (339 South Bunker Hill Ave) were soon to be moved to their new home, Heritage Square in Highland Park (and subsequently burned down by vandals).Â  The days were definitely numbered for the Victorian beauty at 232 South Grand Avenue and smaller house behind it whose address was 232 Â½.Â  The only reason the residences on Grand Avenue stood as long as they did is because the Community Redevelopment Agency (CRA) made the front house the location of their Bunker Hill Relocation Project Office. Once the residents had been removed from the neighborhood and the CRA no longer had a use for the mansion, it too was removed.</p>
+<p>By the spring of 1968 only three of the great mansions on Bunker Hill were still standing. <a href="/castle">The Castle</a> (325 South Bunker Hill Ave) and Salt Box (339 South Bunker Hill Ave) were soon to be moved to their new home, Heritage Square in Highland Park (and subsequently burned down by vandals).  The days were definitely numbered for the Victorian beauty at 232 South Grand Avenue and smaller house behind it whose address was 232 ½.  The only reason the residences on Grand Avenue stood as long as they did is because the Community Redevelopment Agency (CRA) made the front house the location of their Bunker Hill Relocation Project Office. Once the residents had been removed from the neighborhood and the CRA no longer had a use for the mansion, it too was removed.</p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3164/2841440063_6534231c13.jpg?v=0" height="400" width="492" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3164/2841440063_6534231c13.jpg?v=0" height="400" width="492" />
 </div>
 <p>
-The mansion at 232 South Grand Avenue and its backyard neighbor at 232 Â½ were built in 1894 by Bernard Sens, a German immigrant who came to Los Angeles and set up shop as a tailor on Broadway. He had initially been residing a couple of doors down at 224 S. Grand, but apparently needed a more suitable dwelling for his wife, four sons, and six daughters. He held onto his former residence and began renting out its rooms, and presumably did the same thing with the house at 232 Â½. Â </p>
+The mansion at 232 South Grand Avenue and its backyard neighbor at 232 ½ were built in 1894 by Bernard Sens, a German immigrant who came to Los Angeles and set up shop as a tailor on Broadway. He had initially been residing a couple of doors down at 224 S. Grand, but apparently needed a more suitable dwelling for his wife, four sons, and six daughters. He held onto his former residence and began renting out its rooms, and presumably did the same thing with the house at 232 ½.  </p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3014/2841440455_cea31b65e4.jpg?v=0" height="378" width="409" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3014/2841440455_cea31b65e4.jpg?v=0" height="378" width="409" />
 </div>
 <p>
 Sens was a well respected tailor about town and had provided the city&#8217;s police force with their uniforms. The business was a family one, with the Sens sons contributing at one point or another. Matriarch Kate and her daughters received mention in the society pages and the Sens were a typical Bunker Hill family of the Victorian era. Bernard passes away in 1903 and his widow and their daughter Emma resided in the mansion until Kate&#8217;s death around 1923.</p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3258/2841440133_3c247ffe8b.jpg?v=0" height="400" width="276" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3258/2841440133_3c247ffe8b.jpg?v=0" height="400" width="276" />
 </div>
 <p>
 Like most of the other neighborhood mansions, in the mid-1920s, 232 S. Grand Ave became a boarding house. Unlike many of the Victorians that were divided into numerous single room residences, the division of the former Sens home provided lodging for only four separate households. Around 1928, Dr. James Green, his wife Elizabeth, their three daughters, and two grandchildren moved in and had enough room for the doctor to also set up his practice. </p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3187/2842275958_cbfcd553a0.jpg?v=0" height="109" width="500" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3187/2842275958_cbfcd553a0.jpg?v=0" height="109" width="500" />
 </div>
 <p>
 Dr. Green, who had been born in England and spent time in Colorado before moving west, would serve Bunker Hill residents as their physician for nearly thirty years. Dr. Green seemed to have done a fine job taking care of his patients, with the exception of sixty-five year old Theresa Dawson who, while under the doctor&#8217;s care, strangled herself with her own bandages at her home down the street. By 1939, the mansion had once again become a single family home with the Greens as its sole tenants. The doctor was paying a whopping $100 a month (around $1,200 in today&#8217;s dollars) to live in and run his business out of the ten room mansion. Dr. Green lived and worked on Bunker Hill until his death in 1956. His wife, Elizabeth, continued living on Grand until her death a few years later. </p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3265/2841440111_055e8419ca.jpg?v=0" height="398" width="500" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3265/2841440111_055e8419ca.jpg?v=0" height="398" width="500" />
 </div>
 <p>
-Since the house was not inhabited by numerous boarders, it proved to be an ideal place for the CRA to set up its relocation headquarters in 1963. It was here that Bunker Hill residents, some of who had lived in the neighborhood for decades, received their walking papers. When the dirty work was completed in 1968, the houses at 232 and 232 Â½ South Grand Avenue went the way of the rest of the grand mansions of Bunker Hill.</p>
+Since the house was not inhabited by numerous boarders, it proved to be an ideal place for the CRA to set up its relocation headquarters in 1963. It was here that Bunker Hill residents, some of who had lived in the neighborhood for decades, received their walking papers. When the dirty work was completed in 1968, the houses at 232 and 232 ½ South Grand Avenue went the way of the rest of the grand mansions of Bunker Hill.</p>
 <p>&nbsp;</p>
 <p><i>Photos courtesy of the Los Angeles Public Library Photo Collection</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/cra_relocation_offices/feed/</wfw:commentRss>
+					<wfw:commentRss>/cra_relocation_offices/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Girl Who Knew the Numbers</title>
-		<link>https://www.onbunkerhill.org/shirleywinters/</link>
-					<comments>https://www.onbunkerhill.org/shirleywinters/#respond</comments>
+		<link>/shirleywinters/</link>
+					<comments>/shirleywinters/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 04 Sep 2008 20:51:31 +0000</pubDate>
@@ -309,23 +312,23 @@ Since the house was not inhabited by numerous boarders, it proved to be an ideal
 		<category><![CDATA[volstead act]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 220 South Grand Avenue Date: June 18, 1929 It is a thirsty Bunker Hill that laments the arrest of the bright and brainy Shirley Winters, 23-year-old resident of 220 South Grand, on suspicion of conspiracy to violate the Volstead Act. Shirley was popped in a South Hill Street hotel room after Georgia Street vice &#8230; <a href="https://www.onbunkerhill.org/shirleywinters/" class="more-link">Continue reading<span class="screen-reader-text"> "The Girl Who Knew the Numbers"</span></a>]]></description>
+					<description><![CDATA[Location: 220 South Grand Avenue Date: June 18, 1929 It is a thirsty Bunker Hill that laments the arrest of the bright and brainy Shirley Winters, 23-year-old resident of 220 South Grand, on suspicion of conspiracy to violate the Volstead Act. Shirley was popped in a South Hill Street hotel room after Georgia Street vice &#8230; <a href="/shirleywinters/" class="more-link">Continue reading<span class="screen-reader-text"> "The Girl Who Knew the Numbers"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 220 South Grand Avenue<br />
 Date: June 18, 1929</p>
 <p>It is a thirsty Bunker Hill that laments the arrest of the bright and brainy Shirley Winters, 23-year-old resident of 220 South Grand, on suspicion of conspiracy to violate the Volstead Act. </p>
 <p>Shirley was popped in a South Hill Street hotel room after Georgia Street vice squad Detective Lieutenants Shoemaker and Kearner overheard her take two telephone orders, one for two and another for three quarts of hooch. (In case you&#8217;re wondering, it&#8217;s $3.50 each for two quarts, and just $3 more for lucky number three.) </p>
-<p>Shirley was paid $50 a week, and not just for her lilting telephone voiceâ€”her specialty was keeping the day&#8217;s orders (including delivery addresses!) in her head until she could convey them to the bottling plant on West Seventh Street. She would have gotten away with it, too, but her boss got popped and spilled everything, and the cops have been picking off the little fish for weeks. Today they caught a live one, the gal with the million dollar hippocampus. She pled not guilty, and in November was sentenced along with other small fry in the gang toÂ  eleven months (suspended).</p>
+<p>Shirley was paid $50 a week, and not just for her lilting telephone voice–her specialty was keeping the day&#8217;s orders (including delivery addresses!) in her head until she could convey them to the bottling plant on West Seventh Street. She would have gotten away with it, too, but her boss got popped and spilled everything, and the cops have been picking off the little fish for weeks. Today they caught a live one, the gal with the million dollar hippocampus. She pled not guilty, and in November was sentenced along with other small fry in the gang to  eleven months (suspended).</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/shirleywinters/feed/</wfw:commentRss>
+					<wfw:commentRss>/shirleywinters/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bunker Hill Tackles L.A.&#8217;s Traffic Problem</title>
-		<link>https://www.onbunkerhill.org/solved/</link>
-					<comments>https://www.onbunkerhill.org/solved/#comments</comments>
+		<link>/solved/</link>
+					<comments>/solved/#comments</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 26 Aug 2008 21:15:41 +0000</pubDate>
@@ -336,8 +339,8 @@ Date: June 18, 1929</p>
 		<category><![CDATA[traffic congestion]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[In January 1924, inventor Raymond Ragsdell of 202 South Grand wrote a letter to the Los Angeles Traffic Commission about his idea for a collapsible car that would fold down to the size of a go-cart. &#34;With an automobile of this type it will be possible to park millions of cars where we are now &#8230; <a href="https://www.onbunkerhill.org/solved/" class="more-link">Continue reading<span class="screen-reader-text"> "Bunker Hill Tackles L.A.&#8217;s Traffic Problem"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3203/2799453236_6a9fd0ef5e_o.jpg" alt="auto" align="left" height="325" width="452" /></p>
+					<description><![CDATA[In January 1924, inventor Raymond Ragsdell of 202 South Grand wrote a letter to the Los Angeles Traffic Commission about his idea for a collapsible car that would fold down to the size of a go-cart. &#34;With an automobile of this type it will be possible to park millions of cars where we are now &#8230; <a href="/solved/" class="more-link">Continue reading<span class="screen-reader-text"> "Bunker Hill Tackles L.A.&#8217;s Traffic Problem"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3203/2799453236_6a9fd0ef5e_o.jpg" alt="auto" align="left" height="325" width="452" /></p>
 <p>In January 1924, inventor Raymond Ragsdell of 202 South Grand wrote a letter to the Los Angeles Traffic Commission about his idea for a collapsible car that would fold down to the size of a go-cart.  &quot;With an automobile of this type it will be possible to park millions of cars where we are now able to park but a few hundred.&quot;</p>
 <p>At around the same time, Eugene Egbert Dobbs of 303 South Hope Street wrote a letter of his own, proposing that all automobiles and street cars be barred from the downtown area (he laid out Sunset, Pico, Los Angeles, and Figueroa as the perimeter).  In the letter he stated, &quot;The only objection to this plan would come from those who are too lazy to walk.  Now, our modern race is unhealthy due to lack of exercise. This barring of all transportation in the downtown district would force Los Angeles people to exercise, whether they wanted to or not, and thus, increase the length of life of the average citizen.&quot;</p>
 <p>Sure, Bunker Hill residents may have had a vested interest in the issue, but in fact, the Traffic Commission received hundreds of ideas for congestion relief that month from people all over the city.  Were they an invested citizenry?  Untapped urban planners?  The ancestors of the City Council that would ban fast food franchises in South Los Angeles over 80 years later?</p>
@@ -351,15 +354,15 @@ Date: June 18, 1929</p>
 <p>Within a year, a new traffic plan was underway, and the city grid began to look a great deal more like it does today, but it does my Metro-riding heart good to know that even in 1924, someone was looking out for the walking man.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/solved/feed/</wfw:commentRss>
+					<wfw:commentRss>/solved/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Pensioner Showgirls of Melrose</title>
-		<link>https://www.onbunkerhill.org/node161/</link>
-					<comments>https://www.onbunkerhill.org/node161/#respond</comments>
+		<link>/node161/</link>
+					<comments>/node161/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 22 Jul 2008 16:08:48 +0000</pubDate>
@@ -371,24 +374,24 @@ Date: June 18, 1929</p>
 		<category><![CDATA[singers]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[By 1952, most of the lovely Melrose Hotel&#8217;s 200 occupants were elderly pensioners &#8212; elderly pensioners with exciting, glamorous, Auntie Mame-esque pasts. First there&#8217;s the Melrose Hotel&#8217;s parttime switchboard operator, Anna Pearce, a former singer on the Considine vaudeville circuit around the turn of the century. The hotel is also home to Juliet de Grazi, &#8230; <a href="https://www.onbunkerhill.org/node161/" class="more-link">Continue reading<span class="screen-reader-text"> "The Pensioner Showgirls of Melrose"</span></a>]]></description>
+					<description><![CDATA[By 1952, most of the lovely Melrose Hotel&#8217;s 200 occupants were elderly pensioners &#8212; elderly pensioners with exciting, glamorous, Auntie Mame-esque pasts. First there&#8217;s the Melrose Hotel&#8217;s parttime switchboard operator, Anna Pearce, a former singer on the Considine vaudeville circuit around the turn of the century. The hotel is also home to Juliet de Grazi, &#8230; <a href="/node161/" class="more-link">Continue reading<span class="screen-reader-text"> "The Pensioner Showgirls of Melrose"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>By 1952, most of the lovely Melrose Hotel&#8217;s 200 occupants were elderly pensioners &#8212; elderly pensioners with exciting, glamorous, Auntie Mame-esque pasts.</p>
 <p>First there&#8217;s the Melrose Hotel&#8217;s parttime switchboard operator, Anna Pearce, a former singer on the Considine vaudeville circuit around the turn of the century.</p>
 <p>The hotel is also home to Juliet de Grazi, a Swahili-speaking Austrian-born soprano who toured with a Belgian opera company through the cities of East Africa.  In 1952, de Grazi was simply passing<br />
 through the Melrose.  She had recently won a large settlement in an automobile accident, and was planning to return to East Africa where her husband was buried.</p>
-<p>And Beulah Monroe was a fixture on the local theatre scene, making her debut in Oscar Wilde&#8217;s <i>The Ideal Husband</i> in 1919, opposite <a href="https://en.wikipedia.org/wiki/Edward_Everett_Horton" title="norton" target="_blank">Edward Everett Horton</a>.  She appeared frequently at the Little Theatre at Figueroa and Pico, and also acted with Florence Roberts, <a href="https://en.wikipedia.org/wiki/Wallace_Beery" title="beery" target="_blank">Wallace Beery</a>, and Neely Edwards during her career.</p>
+<p>And Beulah Monroe was a fixture on the local theatre scene, making her debut in Oscar Wilde&#8217;s <i>The Ideal Husband</i> in 1919, opposite <a href="http://en.wikipedia.org/wiki/Edward_Everett_Horton" title="norton" target="_blank">Edward Everett Horton</a>.  She appeared frequently at the Little Theatre at Figueroa and Pico, and also acted with Florence Roberts, <a href="http://en.wikipedia.org/wiki/Wallace_Beery" title="beery" target="_blank">Wallace Beery</a>, and Neely Edwards during her career.</p>
 <p>For more on <a href="/burnmelroseburn" title="melrose" target="_blank">the Melrose</a> and <a href="/girlswannahavefun" title="girls">its exciting inhabitants</a>, take a look at what Joan and Nathan have had to say about mysterious fires, rowdy teen girls, and the tragic march of progress.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/node161/feed/</wfw:commentRss>
+					<wfw:commentRss>/node161/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Dome Wrap-Up</title>
-		<link>https://www.onbunkerhill.org/domewrapup/</link>
-					<comments>https://www.onbunkerhill.org/domewrapup/#comments</comments>
+		<link>/domewrapup/</link>
+					<comments>/domewrapup/#comments</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 05 Jul 2008 14:22:16 +0000</pubDate>
@@ -404,35 +407,35 @@ through the Melrose.  She had recently won a large settlement in an automobile a
 		<category><![CDATA[theft]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[After our initial report on The Dome, we promised thereâ€™d be more, and there wasâ€”the Little BGirl Who Could, a couple of jumpers, a self-slashing Simons pilferer, even the owner of the Dome itself, who Fought the Power like an Eisenhower-era Radio Raheem, rolling his Grafanola down Grandâ€¦ â€¦so now itâ€™s time to sew things &#8230; <a href="https://www.onbunkerhill.org/domewrapup/" class="more-link">Continue reading<span class="screen-reader-text"> "Dome Wrap-Up"</span></a>]]></description>
+					<description><![CDATA[After our initial report on The Dome, we promised there”™d be more, and there was–the Little BGirl Who Could, a couple of jumpers, a self-slashing Simons pilferer, even the owner of the Dome itself, who Fought the Power like an Eisenhower-era Radio Raheem, rolling his Grafanola down Grand”¦ ”¦so now it”™s time to sew things &#8230; <a href="/domewrapup/" class="more-link">Continue reading<span class="screen-reader-text"> "Dome Wrap-Up"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>
-<img loading="lazy" src="https://farm4.static.flickr.com/3127/2639345153_b9cdda411d_o.gif" alt="DomeupGrand" height="555" width="386" />After our initial report on <a href="/theDome" title="theDome" target="_blank">The Dome</a>, we promised thereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d be more, and there wasâ€”the <a href="/DomeDenizenSmith" title="DomeSmith" target="_blank">Little BGirl Who Could</a>, a <a href="/sickmanjumps" title="sickojump" target="_blank">couple</a> of <a href="/palominojumps" title="jumpingpalomino" target="_blank">jumpers</a>,  a self-slashing <a href="/DomeiteBrannon" title="BrannonSimons" target="_blank">Simons pilferer</a>, even the <a href="/duelingbabcocks" title="RadioFrank" target="_blank">owner of the Dome itself</a>, who Fought the Power like an Eisenhower-era Radio Raheem, rolling his Grafanola down Grandâ€¦</p>
-<p>â€¦so now itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s time to sew things up, recounting a collection of other Dome-flavored contretemps:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3188/2639344771_89d3266cbc_o.gif" alt="CookFight" align="left" height="172" width="227" /><b><br />
-April 7, 1940</b>.  Mike Scaiola, 29, and Rocco Spagnuolo, 35, both cooks, were roomies at the Dome. Over what they argued in their Domeroom is lost to time; all thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s known is what Scaiola later told the copsâ€”during a scuffle he saw the .32 automatic protruding from Spagnuoloâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s shirt and attempted to wrest it from him.  Oldest story in the world:  accidental discharge, someone takes one in the chest, and Spagnuoloâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s DOA at Georgia Street Receiving.  </p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3032/2640171664_4b3a38e1ba_o.gif" alt="jackiejailed" align="right" height="180" width="216" /><b><br />
+<img loading="lazy" src="http://farm4.static.flickr.com/3127/2639345153_b9cdda411d_o.gif" alt="DomeupGrand" height="555" width="386" />After our initial report on <a href="/theDome" title="theDome" target="_blank">The Dome</a>, we promised there”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d be more, and there was–the <a href="/DomeDenizenSmith" title="DomeSmith" target="_blank">Little BGirl Who Could</a>, a <a href="/sickmanjumps" title="sickojump" target="_blank">couple</a> of <a href="/palominojumps" title="jumpingpalomino" target="_blank">jumpers</a>,  a self-slashing <a href="/DomeiteBrannon" title="BrannonSimons" target="_blank">Simons pilferer</a>, even the <a href="/duelingbabcocks" title="RadioFrank" target="_blank">owner of the Dome itself</a>, who Fought the Power like an Eisenhower-era Radio Raheem, rolling his Grafanola down Grand”¦</p>
+<p>”¦so now it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s time to sew things up, recounting a collection of other Dome-flavored contretemps:</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3188/2639344771_89d3266cbc_o.gif" alt="CookFight" align="left" height="172" width="227" /><b><br />
+April 7, 1940</b>.  Mike Scaiola, 29, and Rocco Spagnuolo, 35, both cooks, were roomies at the Dome. Over what they argued in their Domeroom is lost to time; all that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s known is what Scaiola later told the cops–during a scuffle he saw the .32 automatic protruding from Spagnuolo”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s shirt and attempted to wrest it from him.  Oldest story in the world:  accidental discharge, someone takes one in the chest, and Spagnuolo”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s DOA at Georgia Street Receiving.  </p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3032/2640171664_4b3a38e1ba_o.gif" alt="jackiejailed" align="right" height="180" width="216" /><b><br />
 September 18, 1941</b>.  Mrs. Cleo (Jackie) Wooten, 19, was a plucky gal, but take this as a warning:  having pluck in spades gets the FBI involved.  Cleo was visiting friends in Cunningham, Kan. for some time and was there driving the car owned by Eddie Palzo of that city.  He had no objection to her driving the car around Cunningham, but swore out a felony complaint when the Dome resident decided to Dome home.  She was picked up at Third and Figueroa when an officer noticed the license on his stolen car list. </p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3058/2639476665_d10268e4e7_o.gif" alt="JoeSlasher" align="left" height="199" width="217" /><b><br />
-July 4, 1942</b>.  The character of Dome resident Joe Barron, 28, cook (another cook?  Too many cooks really do spoil the pot), did not reflect well on the Domeâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s nobility.  He was strolling down Fifth Street and passed between one William O. Smith, 37, and Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 21 year-old wife Dorothy when he elected to make an off-color remark to the wife.  That didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t go over well with Mr. Smith, a recent transplant from Arkansas, who slashed Barronâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s throat, severing an artery.  Luckily, Dorothy instructed William to press his thumb on the artery to stanch the flow of blood, and they hauled Barron into a room at 107 E. Fifth until medical aid could be summoned.  Barron survived, we trust, wiser and more gentelmanly.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3058/2639476665_d10268e4e7_o.gif" alt="JoeSlasher" align="left" height="199" width="217" /><b><br />
+July 4, 1942</b>.  The character of Dome resident Joe Barron, 28, cook (another cook?  Too many cooks really do spoil the pot), did not reflect well on the Dome”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s nobility.  He was strolling down Fifth Street and passed between one William O. Smith, 37, and Smith”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 21 year-old wife Dorothy when he elected to make an off-color remark to the wife.  That didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t go over well with Mr. Smith, a recent transplant from Arkansas, who slashed Barron”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s throat, severing an artery.  Luckily, Dorothy instructed William to press his thumb on the artery to stanch the flow of blood, and they hauled Barron into a room at 107 E. Fifth until medical aid could be summoned.  Barron survived, we trust, wiser and more gentelmanly.</p>
 <p>
-<img loading="lazy" src="https://farm4.static.flickr.com/3095/2639344229_08665c444d_o.gif" alt="LeonasPurse" align="right" height="102" width="172" /><b><br />
-December 21, 1942</b>.  Mrs. Leona Smith was followed home from a cafÃ© last November 7, only to have her purse snatchedâ€”a purse containing $1600 in cash and checks and $4800 worth of jewelry ($6400=$89,216 USD2007).  After a month of searching by cops based on Leonaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s description of the man and his car, they finally popped Clifford Allen Payne, 32, at the Dome.  He took them to the 3500 block of Helms in Culver where he dug up a glass jar containing the checks and jewelry.  The real mystery is what she was doing with that sort of booty in her purse.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3259/2640171574_f87b21c32f_o.gif" alt="afbarshoot" align="left" height="62" width="204" /><b>March 11, 1961</b>.  Alfred Carrillo, 33, was a Dome resident in good standing who had the bad luck to be sitting in a bar at 301 South Hill Street one early Friday morning.  Victor F. Jimenez, 26, unemployed truck driver, shot Alfred and then drove off, later to be arrested at his home.  (The bar at 301 South Hill, by the way, was the bar at the base of Angels Flightâ€”seen here with Lon Chaney Jr. in the 1956 outing <a href="https://www.archive.org/details/indestructible_man" title="IM" target="_blank"><i>Indestructible Man</i></a><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3027/2640171926_952f4761cd_o.gif" alt="chaneywalks" height="293" width="400" /></p>
+<img loading="lazy" src="http://farm4.static.flickr.com/3095/2639344229_08665c444d_o.gif" alt="LeonasPurse" align="right" height="102" width="172" /><b><br />
+December 21, 1942</b>.  Mrs. Leona Smith was followed home from a cafÃ© last November 7, only to have her purse snatched–a purse containing $1600 in cash and checks and $4800 worth of jewelry ($6400=$89,216 USD2007).  After a month of searching by cops based on Leona”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s description of the man and his car, they finally popped Clifford Allen Payne, 32, at the Dome.  He took them to the 3500 block of Helms in Culver where he dug up a glass jar containing the checks and jewelry.  The real mystery is what she was doing with that sort of booty in her purse.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3259/2640171574_f87b21c32f_o.gif" alt="afbarshoot" align="left" height="62" width="204" /><b>March 11, 1961</b>.  Alfred Carrillo, 33, was a Dome resident in good standing who had the bad luck to be sitting in a bar at 301 South Hill Street one early Friday morning.  Victor F. Jimenez, 26, unemployed truck driver, shot Alfred and then drove off, later to be arrested at his home.  (The bar at 301 South Hill, by the way, was the bar at the base of Angels Flight–seen here with Lon Chaney Jr. in the 1956 outing <a href="http://www.archive.org/details/indestructible_man" title="IM" target="_blank"><i>Indestructible Man</i></a><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3027/2640171926_952f4761cd_o.gif" alt="chaneywalks" height="293" width="400" /></p>
 <p>
-Thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s what we have for now.  Canâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t promise itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the last of it, as tales and details may still bubble up from the cracked core of time.  What about you?  Remember your great aunt Nell?  The one you socked away at Shady Pines?  (The rest home, not the cemetery.)   She may harbor descriptions of devious Dome debauchery from back in the day.  Go find out before you have to shift Shady Pines.</p>
+That”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s what we have for now.  Can”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t promise it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the last of it, as tales and details may still bubble up from the cracked core of time.  What about you?  Remember your great aunt Nell?  The one you socked away at Shady Pines?  (The rest home, not the cemetery.)   She may harbor descriptions of devious Dome debauchery from back in the day.  Go find out before you have to shift Shady Pines.</p>
 <p><i>Photograph courtesy the Arnold Hylen Collection, California History Section, California State Library</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/domewrapup/feed/</wfw:commentRss>
+					<wfw:commentRss>/domewrapup/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Girls Just Wanna Have Fun</title>
-		<link>https://www.onbunkerhill.org/girlswannahavefun/</link>
-					<comments>https://www.onbunkerhill.org/girlswannahavefun/#respond</comments>
+		<link>/girlswannahavefun/</link>
+					<comments>/girlswannahavefun/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Thu, 03 Jul 2008 12:58:11 +0000</pubDate>
@@ -444,23 +447,23 @@ Thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt=
 		<category><![CDATA[Salvation Army]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Hotel MelroseÂ  July 16, 1895 Miss Bertha Fisher, aged 14, had looked forward to dressing in the latest fashions and attending parties with her friends. Unfortunately for Bertha, her parents had other plans for her future. As strict Salvationists, they thought that she was old enough to don a Salvation Army uniform (which was definitely &#8230; <a href="https://www.onbunkerhill.org/girlswannahavefun/" class="more-link">Continue reading<span class="screen-reader-text"> "Girls Just Wanna Have Fun"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span style="font-size: 11pt; font-family: Arial">Hotel Melrose<span>Â </span><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><br />
+					<description><![CDATA[Hotel Melrose  July 16, 1895 Miss Bertha Fisher, aged 14, had looked forward to dressing in the latest fashions and attending parties with her friends. Unfortunately for Bertha, her parents had other plans for her future. As strict Salvationists, they thought that she was old enough to don a Salvation Army uniform (which was definitely &#8230; <a href="/girlswannahavefun/" class="more-link">Continue reading<span class="screen-reader-text"> "Girls Just Wanna Have Fun"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span style="font-size: 11pt; font-family: Arial">Hotel Melrose<span> </span><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><br />
 July 16, 1895</span><span style="font-size: 11pt; font-family: Arial"><br />
-</span><span style="font-size: 11pt; font-family: Arial"><img loading="lazy" border="0" width="286" src="https://farm4.static.flickr.com/3022/2633584927_6af00361e8_o.jpg" alt="Bertha headline" height="97" /><br />
-Miss Bertha Fisher, aged 14, had looked forward to dressing in the latest fashions and attending parties with her friends. Unfortunately for Bertha, her parents had other plans for her future. As strict Salvationists, they thought that she was old enough to don a Salvation Army uniform (which was definitely not Berthaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s notion of a fashion forward frock) and begin trolling the streets of <st1:city w:st="on"><st1:place w:st="on">Los Angeles</st1:place></st1:city> for souls in peril. Bertha preferred saving dance cards, party invitations, and lovely corsages to saving souls, so she ran away with a young man named Mr. White.<!--break--></span><span style="font-size: 11pt; font-family: Arial"> </span><span style="font-size: 11pt; font-family: Arial"></p>
-<p>Frantic over Berthaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s escapade, the distraught Fishers spent hours haunting the local police station hoping for news of their wayward daughter. Police were on the lookout for the reluctant missionary, but Mrs. Fisher became antsy and enlisted the aid of another Salvationist to help her comb the city for the missing girl.<o:p></o:p></span> <br />
+</span><span style="font-size: 11pt; font-family: Arial"><img loading="lazy" border="0" width="286" src="http://farm4.static.flickr.com/3022/2633584927_6af00361e8_o.jpg" alt="Bertha headline" height="97" /><br />
+Miss Bertha Fisher, aged 14, had looked forward to dressing in the latest fashions and attending parties with her friends. Unfortunately for Bertha, her parents had other plans for her future. As strict Salvationists, they thought that she was old enough to don a Salvation Army uniform (which was definitely not Bertha”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s notion of a fashion forward frock) and begin trolling the streets of <st1:city w:st="on"><st1:place w:st="on">Los Angeles</st1:place></st1:city> for souls in peril. Bertha preferred saving dance cards, party invitations, and lovely corsages to saving souls, so she ran away with a young man named Mr. White.<!--break--></span><span style="font-size: 11pt; font-family: Arial"> </span><span style="font-size: 11pt; font-family: Arial"></p>
+<p>Frantic over Bertha”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s escapade, the distraught Fishers spent hours haunting the local police station hoping for news of their wayward daughter. Police were on the lookout for the reluctant missionary, but Mrs. Fisher became antsy and enlisted the aid of another Salvationist to help her comb the city for the missing girl.<o:p></o:p></span> <br />
 <span style="font-size: 11pt; font-family: Arial"><br />
-After Bertha had been gone for nearly two days, Mrs. Fisher and her fellow soldier in Godâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s army got a tip.<span>Â  </span>The two dashed to the cop shop where they breathlessly announced to the assembled officers that they â€œknew where she was atâ€.<span>Â  </span>The women had found out that Bertha and Mr. White were occupying room 28 at the Melrose Hotel, and asked Officer Richardson to accompany them to the suspected love nest.<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p>Â </o:p></span></p>
-<p><span style="font-size: 11pt; font-family: Arial">The landlady at the Melrose Hotel told Officer Richardson that the young man had engaged a room for his sister, and because sheâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d had no reason to doubt his veracity, sheâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d rented it to him. <span>Â </span>Mrs. Fisher was doubtless relieved when the landlady went on to say that even though White had rented a room for Bertha, he had never shared it with her.</span> <img loading="lazy" border="0" width="500" src="https://farm4.static.flickr.com/3137/2633778861_0cfddae700.jpg" alt="Hotel Melrose" height="366" /></p>
-<p><span style="font-size: 11pt; font-family: Arial">To avoid arrest Bertha reluctantly went home with her mother, but itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s unlikely that their difference of opinion was settled that day. Bertha was heard to remark, â€œIâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d rather go to the Reform School than stay at home if I have to become a Salvation Army lassieâ€.</span></p>
-<p><span style="font-size: 11pt; font-family: Arial"></span><img loading="lazy" border="0" width="240" src="https://farm4.static.flickr.com/3157/2634405858_0937a9a2e4_m.jpg" alt="Salvation Army lassies" height="233" />Â </p>
-<p><span style="font-size: 11pt; font-family: Arial"></span><span style="font-size: 11pt; font-family: Arial">Bertha may have won the battle with her parents, because this item appeared in the Los Angeles Times on March 7, 1897:<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p>Â </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span>Â <span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span>Â </p>
-<p>Â <img loading="lazy" border="0" width="494" src="https://farm4.static.flickr.com/3027/2633819137_61acc727e0.jpg" alt="society header" height="208" /> <img loading="lazy" border="0" width="264" src="https://farm4.static.flickr.com/3006/2633819043_2b735231b6_o.jpg" alt="Bertha party" height="150" /></p>
-<p><span style="font-size: 11pt; font-family: Arial">Party on, Bertha.<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p>Â </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p>Â </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p>Â </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p>Â </o:p></span></p>
+After Bertha had been gone for nearly two days, Mrs. Fisher and her fellow soldier in God”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s army got a tip.<span>  </span>The two dashed to the cop shop where they breathlessly announced to the assembled officers that they “knew where she was at”.<span>  </span>The women had found out that Bertha and Mr. White were occupying room 28 at the Melrose Hotel, and asked Officer Richardson to accompany them to the suspected love nest.<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span></p>
+<p><span style="font-size: 11pt; font-family: Arial">The landlady at the Melrose Hotel told Officer Richardson that the young man had engaged a room for his sister, and because she”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d had no reason to doubt his veracity, she”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d rented it to him. <span> </span>Mrs. Fisher was doubtless relieved when the landlady went on to say that even though White had rented a room for Bertha, he had never shared it with her.</span> <img loading="lazy" border="0" width="500" src="http://farm4.static.flickr.com/3137/2633778861_0cfddae700.jpg" alt="Hotel Melrose" height="366" /></p>
+<p><span style="font-size: 11pt; font-family: Arial">To avoid arrest Bertha reluctantly went home with her mother, but it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s unlikely that their difference of opinion was settled that day. Bertha was heard to remark, “I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d rather go to the Reform School than stay at home if I have to become a Salvation Army lassie”.</span></p>
+<p><span style="font-size: 11pt; font-family: Arial"></span><img loading="lazy" border="0" width="240" src="http://farm4.static.flickr.com/3157/2634405858_0937a9a2e4_m.jpg" alt="Salvation Army lassies" height="233" /> </p>
+<p><span style="font-size: 11pt; font-family: Arial"></span><span style="font-size: 11pt; font-family: Arial">Bertha may have won the battle with her parents, because this item appeared in the Los Angeles Times on March 7, 1897:<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span> <span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span> </p>
+<p> <img loading="lazy" border="0" width="494" src="http://farm4.static.flickr.com/3027/2633819137_61acc727e0.jpg" alt="society header" height="208" /> <img loading="lazy" border="0" width="264" src="http://farm4.static.flickr.com/3006/2633819043_2b735231b6_o.jpg" alt="Bertha party" height="150" /></p>
+<p><span style="font-size: 11pt; font-family: Arial">Party on, Bertha.<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/girlswannahavefun/feed/</wfw:commentRss>
+					<wfw:commentRss>/girlswannahavefun/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

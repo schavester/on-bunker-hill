@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>marines &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/marines/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/marines/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 22:09:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>marines &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Last Shore Leave</title>
-		<link>https://www.onbunkerhill.org/lastshoreleave/</link>
-					<comments>https://www.onbunkerhill.org/lastshoreleave/#respond</comments>
+		<link>/lastshoreleave/</link>
+					<comments>/lastshoreleave/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 08 May 2008 09:50:40 +0000</pubDate>
@@ -44,17 +47,17 @@
 		<category><![CDATA[shooting]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 350 Clay Street Date: June 3, 1946 In the not-quite-twelve hours since John M. Kelly was discharged from the Marine Corps, he somehow took up with Henry Ehlert, 44, and Dwight C. Lester, 23, of this address and John Graham, 43, a Naval chief petty officer stationed in San Diego. Kelly&#8217;s first night as &#8230; <a href="https://www.onbunkerhill.org/lastshoreleave/" class="more-link">Continue reading<span class="screen-reader-text"> "Last Shore Leave"</span></a>]]></description>
+					<description><![CDATA[Location: 350 Clay Street Date: June 3, 1946 In the not-quite-twelve hours since John M. Kelly was discharged from the Marine Corps, he somehow took up with Henry Ehlert, 44, and Dwight C. Lester, 23, of this address and John Graham, 43, a Naval chief petty officer stationed in San Diego. Kelly&#8217;s first night as &#8230; <a href="/lastshoreleave/" class="more-link">Continue reading<span class="screen-reader-text"> "Last Shore Leave"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 350 Clay Street<br />
 Date: June 3, 1946</p>
 <p>In the not-quite-twelve hours since John M. Kelly was discharged from the Marine Corps, he somehow took up with Henry Ehlert, 44, and Dwight C. Lester, 23, of this address and John Graham, 43, a Naval chief petty officer stationed in San Diego.</p>
 <p>Kelly&#8217;s first night as a civilian was a notable one: he and his pals drew the attention of Traffic Officer F.J. Rees, investigating reports of a holdup in an alley between Main and Spring, and when Kelly made a funny move when ordered to put &#8217;em up, Rees shot half his face off.</p>
 <p>Kelly survived long enough to be booked on robbery charges in the prison ward of General Hospital, while his pals cooled their heels in County Jail. But the lack of any follow up to this story makes one wonder if Rees had an itchy finger, and the arrests were meant to cover up an accidental shooting of an innocent man. </p>
 <p>The previous November 10, hapless Dwight C. Lester, then residing at 300 S. Olive Street, somehow lost his footing, fell under the up-bound Angels Flight car and was dragged about 60 feet before engineer Elmer Miller heard him hollering and braked. He escaped with friction burns and lacerations. Below, a photograph of his rescue.<br />
-<img src="https://farm4.static.flickr.com/3080/2476490680_f931b62532_o.png" /></p>
+<img src="http://farm4.static.flickr.com/3080/2476490680_f931b62532_o.png" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/lastshoreleave/feed/</wfw:commentRss>
+					<wfw:commentRss>/lastshoreleave/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

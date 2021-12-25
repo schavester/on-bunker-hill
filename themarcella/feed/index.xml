@@ -1,26 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
-	Comments on: The Marcella â€” 223 South Flower Street	</title>
-	<atom:link href="https://www.onbunkerhill.org/themarcella/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/themarcella/</link>
+	Comments on: The Marcella – 223 South Flower Street	</title>
+	<atom:link href="/themarcella/feed/" rel="self" type="application/rss+xml" />
+	<link>/themarcella/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 20:05:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Nov 2020 08:59:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
+		By: Interior		</title>
+		<link>/themarcella/#comment-109540</link>
+
+		<dc:creator><![CDATA[Interior]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2020 08:59:53 +0000</pubDate>
+		<guid isPermaLink="false">#comment-109540</guid>
+
+					<description><![CDATA[I have realized some new items from your web site about computers. Another thing I have always thought is that computer systems have become a product that each house must have for many people reasons. They offer convenient ways in which to organize households, pay bills, go shopping, study, tune in to music and in some cases watch tv series. An innovative way to complete every one of these tasks is with a computer. These personal computers are portable ones, small, robust and portable.]]></description>
+			<content:encoded><![CDATA[<p>I have realized some new items from your web site about computers. Another thing I have always thought is that computer systems have become a product that each house must have for many people reasons. They offer convenient ways in which to organize households, pay bills, go shopping, study, tune in to music and in some cases watch tv series. An innovative way to complete every one of these tasks is with a computer. These personal computers are portable ones, small, robust and portable.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/themarcella/#comment-18</link>
+		<link>/themarcella/#comment-18</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Fri, 15 Aug 2008 14:41:00 +0000</pubDate>
@@ -30,38 +47,38 @@
 The Marcella, right center:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3203/2765571611_f86bf693d3_o.gif&quot; alt=&quot;MarcBack&quot; height=&quot;464&quot; width=&quot;469&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3203/2765571611_f86bf693d3_o.gif&quot; alt=&quot;MarcBack&quot; height=&quot;464&quot; width=&quot;469&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Looking south, 1936 (&lt;i&gt;USC Digital Archives&lt;/i&gt;).  Skinny building to the east of Marcella is the Winton Apts at 219 S Flower; bottom left is 208 S Figueroa (seen below, &lt;i&gt;Cal State Library, William Reagh&lt;/i&gt;).  The big building at top is the Stanley, southeast corner Second and Flower.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3182/2766568538_6fd97f50c3_o.gif&quot; alt=&quot;208sfig&quot; height=&quot;452&quot; width=&quot;575&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3182/2766568538_6fd97f50c3_o.gif&quot; alt=&quot;208sfig&quot; height=&quot;452&quot; width=&quot;575&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3053/2765714815_4e0162ff38_o.gif&quot; alt=&quot;asdasdf&quot; height=&quot;351&quot; width=&quot;407&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3053/2765714815_4e0162ff38_o.gif&quot; alt=&quot;asdasdf&quot; height=&quot;351&quot; width=&quot;407&quot; /&gt; 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
 The Marcella, right center:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3203/2765571611_f86bf693d3_o.gif" alt="MarcBack" height="464" width="469" />
+<img src="http://farm4.static.flickr.com/3203/2765571611_f86bf693d3_o.gif" alt="MarcBack" height="464" width="469" />
 </p>
 <p>
 Looking south, 1936 (<i>USC Digital Archives</i>).  Skinny building to the east of Marcella is the Winton Apts at 219 S Flower; bottom left is 208 S Figueroa (seen below, <i>Cal State Library, William Reagh</i>).  The big building at top is the Stanley, southeast corner Second and Flower.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3182/2766568538_6fd97f50c3_o.gif" alt="208sfig" height="452" width="575" />
+<img src="http://farm4.static.flickr.com/3182/2766568538_6fd97f50c3_o.gif" alt="208sfig" height="452" width="575" />
 </p>
 <p>
 &nbsp;
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3053/2765714815_4e0162ff38_o.gif" alt="asdasdf" height="351" width="407" /></p>
+<img src="http://farm4.static.flickr.com/3053/2765714815_4e0162ff38_o.gif" alt="asdasdf" height="351" width="407" /></p>
 ]]></content:encoded>
 		
 			</item>

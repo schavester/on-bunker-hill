@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>automobile &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/automobile/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/automobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 21:48:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>automobile &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Going With The Flow</title>
-		<link>https://www.onbunkerhill.org/goingwiththeflow/</link>
-					<comments>https://www.onbunkerhill.org/goingwiththeflow/#respond</comments>
+		<link>/goingwiththeflow/</link>
+					<comments>/goingwiththeflow/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 04 Apr 2008 10:48:42 +0000</pubDate>
@@ -43,21 +46,21 @@
 		<category><![CDATA[trolley]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: August 24, 1937 Traffic expert Edmund C. Easton of this address spoke today before the Police Commission. Based on his fifteen years of study of automotive congestion in Los Angeles and other large cities, Easton advised the following measures for easing gridlock: street clearance through adequate design, regulation &#8230; <a href="https://www.onbunkerhill.org/goingwiththeflow/" class="more-link">Continue reading<span class="screen-reader-text"> "Going With The Flow"</span></a>]]></description>
+					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: August 24, 1937 Traffic expert Edmund C. Easton of this address spoke today before the Police Commission. Based on his fifteen years of study of automotive congestion in Los Angeles and other large cities, Easton advised the following measures for easing gridlock: street clearance through adequate design, regulation &#8230; <a href="/goingwiththeflow/" class="more-link">Continue reading<span class="screen-reader-text"> "Going With The Flow"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 255 South Bunker Hill Avenue<br />
 Date: August 24, 1937</p>
 <p>Traffic expert Edmund C. Easton of this address spoke today before the Police Commission. Based on his fifteen years of study of automotive congestion in Los Angeles and other large cities, Easton advised the following measures for easing gridlock: street clearance through adequate design, regulation and police enforcement, trolleys given right-of-way, one-way streets, and controlling both jaywalking and automobiles &quot;shooting&quot; into cross-sections. The Chief is considering his suggestions, and we are certain that by 1940, traffic jams will be but a distant memory to our burg.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/goingwiththeflow/feed/</wfw:commentRss>
+					<wfw:commentRss>/goingwiththeflow/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Stroll Cut Short</title>
-		<link>https://www.onbunkerhill.org/strollcutshort/</link>
-					<comments>https://www.onbunkerhill.org/strollcutshort/#respond</comments>
+		<link>/strollcutshort/</link>
+					<comments>/strollcutshort/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 04 Apr 2008 10:44:40 +0000</pubDate>
@@ -71,21 +74,21 @@ Date: August 24, 1937</p>
 		<category><![CDATA[shooting]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: January 22, 1918 Herbert Maas, 19, resident of the Alta Vista at 255 South Bunker Hill Avenue, was strolling with Alice Averill of 332 South Bunker Hill near Fifth and Fremont Streets when they were accosted by a four bandits who pulled up beside them in a car. &#8230; <a href="https://www.onbunkerhill.org/strollcutshort/" class="more-link">Continue reading<span class="screen-reader-text"> "A Stroll Cut Short"</span></a>]]></description>
+					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: January 22, 1918 Herbert Maas, 19, resident of the Alta Vista at 255 South Bunker Hill Avenue, was strolling with Alice Averill of 332 South Bunker Hill near Fifth and Fremont Streets when they were accosted by a four bandits who pulled up beside them in a car. &#8230; <a href="/strollcutshort/" class="more-link">Continue reading<span class="screen-reader-text"> "A Stroll Cut Short"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 255 South Bunker Hill Avenue<br />
 Date: January 22, 1918</p>
 <p>Herbert Maas, 19, resident of the Alta Vista at 255 South Bunker Hill Avenue, was strolling with Alice Averill of 332 South Bunker Hill near Fifth and Fremont Streets when they were accosted by a four bandits who pulled up beside them in a car. Two of the men jumped out and grabbed Herbert, hustling him into the back seat. Then they drove away, leaving Miss Averill on the sidewalk. Near Orange and Figueroa the crooks relieved Herbert at gunpoint of $15, a gold watch and a stickpin. He must have been anticipating they&#8217;d soon release him when the man on his left, shaking from nervousness, suddenly fired his weapon. The bullet went through Herbert&#8217;s back, and next thing he knew, he&#8217;d been shoved onto the street in front of 1127 Orange Street. The wounded man made it into the Baltic Apartments, where he found aid and was taken to the Receiving Hospital, where he was listed in serious condition with a bullet through his lumbar region possibly nicking his peritoneum. A search was on for the highwayman, but there was no further news published about Herbert&#8217;s condition or any arrests. Ten years later, an Alice Averill was appearing around town as a chorus girl, in &quot;Topsy and Eva&quot; (a part she repeated on Broadway) and &quot;A Connecticut Yankee.&quot;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/strollcutshort/feed/</wfw:commentRss>
+					<wfw:commentRss>/strollcutshort/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Driving Angels Flight</title>
-		<link>https://www.onbunkerhill.org/drivingangelsflight/</link>
-					<comments>https://www.onbunkerhill.org/drivingangelsflight/#respond</comments>
+		<link>/drivingangelsflight/</link>
+					<comments>/drivingangelsflight/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 28 Mar 2008 18:15:43 +0000</pubDate>
@@ -98,13 +101,13 @@ Date: January 22, 1918</p>
 		<category><![CDATA[theft]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 300 Block Hill Street Date: September 1, 1934 We cannot know how many times mechanic Herbert Stockwell gazed from his window at 316 Clay Street over the steps adjoining the Angels Flight Railway and dreamed, but this was the night he partook of some liquid courage and attempted to drive down the steps. He &#8230; <a href="https://www.onbunkerhill.org/drivingangelsflight/" class="more-link">Continue reading<span class="screen-reader-text"> "Driving Angels Flight"</span></a>]]></description>
+					<description><![CDATA[Location: 300 Block Hill Street Date: September 1, 1934 We cannot know how many times mechanic Herbert Stockwell gazed from his window at 316 Clay Street over the steps adjoining the Angels Flight Railway and dreamed, but this was the night he partook of some liquid courage and attempted to drive down the steps. He &#8230; <a href="/drivingangelsflight/" class="more-link">Continue reading<span class="screen-reader-text"> "Driving Angels Flight"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 300 Block Hill Street <br />
 Date: September 1, 1934</p>
 <p>We cannot know how many times mechanic Herbert Stockwell gazed from his window at 316 Clay Street over the steps adjoining the Angels Flight Railway and dreamed, but this was the night he partook of some liquid courage and attempted to drive down the steps. He crashed about 50 feet shy of Hill Street, knocking his teeth out and bloodying his nose, and was discovered wandering confusedly by Officer Hull. Hull took him to Georgia Street police station, where Stockwell was charged with grand theft auto and drunk driving. The wrecked car belonged to Doris George, wife of a physician in the Black Building at Fourth and Hill.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/drivingangelsflight/feed/</wfw:commentRss>
+					<wfw:commentRss>/drivingangelsflight/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

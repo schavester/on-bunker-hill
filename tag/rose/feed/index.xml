@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>rose &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/rose/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/rose/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:46:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>rose &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Rose Mansion &#8211; 400 South Grand Avenue</title>
-		<link>https://www.onbunkerhill.org/rose_mansion/</link>
-					<comments>https://www.onbunkerhill.org/rose_mansion/#comments</comments>
+		<link>/rose_mansion/</link>
+					<comments>/rose_mansion/#comments</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Mon, 21 Apr 2008 20:10:06 +0000</pubDate>
@@ -45,11 +48,11 @@
 		<category><![CDATA[suicide]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Old Bunker Hill can evoke images of Victorian grander and prosperity, as well as faded glory and great loss. While many associate the history of Bunker Hill with the buildings that once decorated the landscape, the riches to rags stories of the neighborhood also belong to many of its inhabitants. The Rose Mansion at Fourth &#8230; <a href="https://www.onbunkerhill.org/rose_mansion/" class="more-link">Continue reading<span class="screen-reader-text"> "Rose Mansion &#8211; 400 South Grand Avenue"</span></a>]]></description>
+					<description><![CDATA[Old Bunker Hill can evoke images of Victorian grander and prosperity, as well as faded glory and great loss. While many associate the history of Bunker Hill with the buildings that once decorated the landscape, the riches to rags stories of the neighborhood also belong to many of its inhabitants. The Rose Mansion at Fourth &#8230; <a href="/rose_mansion/" class="more-link">Continue reading<span class="screen-reader-text"> "Rose Mansion &#8211; 400 South Grand Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
 </div>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3133/2432306519_211c095fa0.jpg?v=0" alt="Rose Mansion" width="400" />
+<img src="http://farm4.static.flickr.com/3133/2432306519_211c095fa0.jpg?v=0" alt="Rose Mansion" width="400" />
 </div>
 <div style="text-align: center">
 </div>
@@ -58,40 +61,40 @@
 </div>
 <p>Leonard John Rose (L.J.), was a native of Bavaria who immigrated to New Orleans when he was twelve. He received  an education in Illinois and engaged in early business ventures in Iowa before organizing a party, including his wife Amanda and two children, to travel to California in 1857. After crossing the Colorado River, the group was attacked by a Native American tribe, incurring losses of life and supplies. Rose and his family survived and temporarily settled in New Mexico. The family made it to California in 1860 and established themselves in the San Gabriel Valley.</p>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2034/2433120872_868fa12885.jpg?v=0" alt="Sunny Slope Ranch " width="400" />
+<img src="http://farm3.static.flickr.com/2034/2433120872_868fa12885.jpg?v=0" alt="Sunny Slope Ranch " width="400" />
 </div>
 <div style="text-align: center">
 <i>Sunny Slope Ranch</i> 
 </div>
 <p>Sunny Slope was the name of the renowned ranch Rose acquired shortly after arriving in Southern California. Located in what is now the eastern end of Pasadena, the 1,900 acre property contained countess lemon, orange and olive trees, but became famous for its vineyards.  Vines were imported from Spain, Italy and Peru, and the wine and brandy generated from Sunny Slope made L.J. Rose a household name and a very wealthy man. He also found success as a breeder with a horse ranch named Rosemead (where the city of the same name now stands), and eventually became a State Senator.</p>
 <div align="center">
-<img src="https://farm3.static.flickr.com/2182/2432306211_dc8f2eced8_m.jpg" alt="Rose Mansion" width="300" />
+<img src="http://farm3.static.flickr.com/2182/2432306211_dc8f2eced8_m.jpg" alt="Rose Mansion" width="300" />
 </div>
 <p>In 1887, the somewhat secluded neighborhood of Bunker Hill attracted Rose, and he purchased land at the corner of Fourth and Grand (then called Charity) to build a palatial home for his family that now included nine children. Construction on the house was such a massive undertaking that a scathing editorial appeared in the Los Angeles Times criticizing the builders for piling up so much lumber in the streets that carriages could not pass through.</p>
-<p>Designed by architects Curlett &amp; Eissen at a cost of around $50,000 and completed in 1888, the Rose Mansion was a gleaming gem among the jewels of Bunker Hill. The L.A. Times ran a piece dedicated solely to the stained glass widows, designed by Rose&#8217;s son <a href="https://www.guyrose.com/" title="Guy Rose Art" target="_blank">Guy</a>, who would become a respected Impressionist painter. The Los Angeles Evening Express was so impressed with the stately structure that an extensive article appeared in 1890 describing the interior whose â€œfirst and second floors are finished in hard woods and the third in white cedar.â€ The dining room had a â€œheavily paneled ceilingâ€ and a bay window with an â€œelaborately carved arch of oak supported by dragons.â€ A â€œheavily carved giant staircaseâ€ ran through the house and frescoes by [Attilio] Moretti of San Francisco adorned the ceilings. The home also included a plush library and music room, but the most talked about part of the house was the wine cellar where Rose stored an impressive selection of wines and spirits. On the outside, the most distinct feature of the property was the granite retaining wall surrounding the house with polished steps leading up to the entry.</p>
+<p>Designed by architects Curlett &amp; Eissen at a cost of around $50,000 and completed in 1888, the Rose Mansion was a gleaming gem among the jewels of Bunker Hill. The L.A. Times ran a piece dedicated solely to the stained glass widows, designed by Rose&#8217;s son <a href="http://www.guyrose.com/" title="Guy Rose Art" target="_blank">Guy</a>, who would become a respected Impressionist painter. The Los Angeles Evening Express was so impressed with the stately structure that an extensive article appeared in 1890 describing the interior whose “first and second floors are finished in hard woods and the third in white cedar.” The dining room had a “heavily paneled ceiling” and a bay window with an “elaborately carved arch of oak supported by dragons.” A “heavily carved giant staircase” ran through the house and frescoes by [Attilio] Moretti of San Francisco adorned the ceilings. The home also included a plush library and music room, but the most talked about part of the house was the wine cellar where Rose stored an impressive selection of wines and spirits. On the outside, the most distinct feature of the property was the granite retaining wall surrounding the house with polished steps leading up to the entry.</p>
 <div align="center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3277/2432306327_47e380398a.jpg?v=0" alt="Headline" height="122" width="226" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3277/2432306327_47e380398a.jpg?v=0" alt="Headline" height="122" width="226" />
 </div>
 <p>Despite his tremendous success, by 1899 bad investments had left Rose deeply in debt with properties so heavily mortgaged that selling them would have been fruitless. On May 17, a despondent Rose told his wife he was going to Ventura on business and would be returning the next day. Instead, he returned to Los Angeles that night and drafted a suicide note addressed to the his wife at the Mansion, and mailed it. At 10 o&#8217;clock the next morning, Mrs. Rose received the letter with Rose stating financial ruin as the reason for taking his own life. He continued the letter by bidding an affectionate farewell to his family.</p>
 <p>Also included was a postscript stating that his body could be found in the backyard of the Mansion.</p>
-<p>Family present at the time â€œwere too overwhelmed with apprehension to go to the yard to see whether his dead body was really there.â€ Mrs. Rose&#8217;s son-in-law was summoned from his office Downtown and upon arrival found â€œhis father-in-law lying face downward in a little hollow at the rear of the lot. His head reclined on his hat, and in one hand was clasped a bunch of carnations.â€ Miraculously, Rose was still alive and was taken to a hospital where his stomach was pumped to remove the 65 morphine pills he had swallowed. Despite the efforts to save his life, too much of the drug had been absorbed into his system and Leonard John Rose died at the age of 72. The official cause of death was morphine poisoning.</p>
+<p>Family present at the time “were too overwhelmed with apprehension to go to the yard to see whether his dead body was really there.” Mrs. Rose&#8217;s son-in-law was summoned from his office Downtown and upon arrival found “his father-in-law lying face downward in a little hollow at the rear of the lot. His head reclined on his hat, and in one hand was clasped a bunch of carnations.” Miraculously, Rose was still alive and was taken to a hospital where his stomach was pumped to remove the 65 morphine pills he had swallowed. Despite the efforts to save his life, too much of the drug had been absorbed into his system and Leonard John Rose died at the age of 72. The official cause of death was morphine poisoning.</p>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2211/2433237872_471a1b7d75.jpg?v=0" alt="Headline" width="300" />
+<img src="http://farm3.static.flickr.com/2211/2433237872_471a1b7d75.jpg?v=0" alt="Headline" width="300" />
 </div>
 <p>
-L.J. Rose was heavily eulogized by the county he had called home for nearly 40 years and the â€œcourageous pioneerâ€ was laid to rest in Evergreen Cemetery. In the meantime, his wife Amanda was left with a ruined empire and the Mansion was soon lost to foreclosure. After a mere 11 years, the Roses no longer reigned over the house at Fourth and Grand.</p>
+L.J. Rose was heavily eulogized by the county he had called home for nearly 40 years and the “courageous pioneer” was laid to rest in Evergreen Cemetery. In the meantime, his wife Amanda was left with a ruined empire and the Mansion was soon lost to foreclosure. After a mere 11 years, the Roses no longer reigned over the house at Fourth and Grand.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3140/2433120606_11a81164a9.jpg?v=0" alt="Rose Mansion" width="400" />
+<img src="http://farm4.static.flickr.com/3140/2433120606_11a81164a9.jpg?v=0" alt="Rose Mansion" width="400" />
 </div>
 <div style="text-align: center">
 <i>Rose Mansion (lower right side)</i>
 </div>
-<p>The Rose Mansion was briefly occupied by real estate investor Albert W. McCready. In 1903 the residence was purchased by Colonel Albert B. Hotchkiss, creator and editor of the local publication Public Economy, with his wife Mary. <a href="https://maps.google.com/maps?hl=en&amp;client=firefox-a&amp;ie=UTF-8&amp;q=%22hotchkiss+park%22&amp;near=Santa+Monica,+CA&amp;fb=1&amp;cid=34006532,-118484103,11423716760271147898&amp;li=lmd&amp;z=14&amp;t=m" title="Hotchkiss Park" target="_blank">Mrs. Hotchkiss</a> , one of the few women in early Los Angeles to make a name for herself in real estate. A colorful character, Mary Hotchkiss at one time owned a large chunk of Main Street and was once accused of abducting a neighbor&#8217;s parrot named â€œDude.â€ Colonel Hotchkiss  died of natural causes inside the mansion and Mary wasted no time in landing husband #3, Dr. J.T. Jauch.</p>
+<p>The Rose Mansion was briefly occupied by real estate investor Albert W. McCready. In 1903 the residence was purchased by Colonel Albert B. Hotchkiss, creator and editor of the local publication Public Economy, with his wife Mary. <a href="http://maps.google.com/maps?hl=en&amp;client=firefox-a&amp;ie=UTF-8&amp;q=%22hotchkiss+park%22&amp;near=Santa+Monica,+CA&amp;fb=1&amp;cid=34006532,-118484103,11423716760271147898&amp;li=lmd&amp;z=14&amp;t=m" title="Hotchkiss Park" target="_blank">Mrs. Hotchkiss</a> , one of the few women in early Los Angeles to make a name for herself in real estate. A colorful character, Mary Hotchkiss at one time owned a large chunk of Main Street and was once accused of abducting a neighbor&#8217;s parrot named “Dude.” Colonel Hotchkiss  died of natural causes inside the mansion and Mary wasted no time in landing husband #3, Dr. J.T. Jauch.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3023/2433181218_c2b9b35756.jpg?v=0" alt="SERA Headine" width="400" />
+<img src="http://farm4.static.flickr.com/3023/2433181218_c2b9b35756.jpg?v=0" alt="SERA Headine" width="400" />
 </div>
 <p>The Jauches resided at the former Rose Mansion until 1928, when they took up permanent residence at the Fremont Hotel on Fourth and Olive, which Mary owned. The building appears to have remained vacant and in 1935 the State Emergency Relief Administration (SERA) proposed using the residence to house transients. The Health Commission turned this idea down.</p>
-<p><img src="https://farm4.static.flickr.com/3173/2433198762_c8db5a34f4.jpg?v=0" alt="Sanborn Map 1906" border="2" width="300" />     <img loading="lazy" src="https://farm3.static.flickr.com/2191/2433198808_22aeeef6b9.jpg?v=0" alt="Sanborn Map 1950" border="2" height="197" width="252" /></p>
+<p><img src="http://farm4.static.flickr.com/3173/2433198762_c8db5a34f4.jpg?v=0" alt="Sanborn Map 1906" border="2" width="300" />     <img loading="lazy" src="http://farm3.static.flickr.com/2191/2433198808_22aeeef6b9.jpg?v=0" alt="Sanborn Map 1950" border="2" height="197" width="252" /></p>
 <div align="center">
 <i>Sanborn Maps in 1906 and 1950</i><i></i>
 </div>
@@ -99,7 +102,7 @@ L.J. Rose was heavily eulogized by the county he had called home for nearly 40 y
 <p><i>All</i> <i>photos courtesy of the Los Angeles Public Library Photo Collection</i></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/rose_mansion/feed/</wfw:commentRss>
+					<wfw:commentRss>/rose_mansion/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

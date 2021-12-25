@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>accidental death &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/accidental_death/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/accidental_death/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:42:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>accidental death &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>He Rode Into the Sunset</title>
-		<link>https://www.onbunkerhill.org/johnbyrne/</link>
-					<comments>https://www.onbunkerhill.org/johnbyrne/#respond</comments>
+		<link>/johnbyrne/</link>
+					<comments>/johnbyrne/#comments</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 18 Nov 2008 21:32:33 +0000</pubDate>
@@ -42,22 +45,22 @@
 		<category><![CDATA[suicide]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[February 14, 1924 62-year-old John Byrne, a character actor who typically played the role of the grizzled old sourdough in films, was found dead in his room at 509 Temple Street, a boarding house.Â  Police investigating the room found that a tube that connected the gas to a small heater had been pulled, or accidentally &#8230; <a href="https://www.onbunkerhill.org/johnbyrne/" class="more-link">Continue reading<span class="screen-reader-text"> "He Rode Into the Sunset"</span></a>]]></description>
+					<description><![CDATA[February 14, 1924 62-year-old John Byrne, a character actor who typically played the role of the grizzled old sourdough in films, was found dead in his room at 509 Temple Street, a boarding house.  Police investigating the room found that a tube that connected the gas to a small heater had been pulled, or accidentally &#8230; <a href="/johnbyrne/" class="more-link">Continue reading<span class="screen-reader-text"> "He Rode Into the Sunset"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>February 14, 1924</p>
-<p>62-year-old John Byrne, a character actor who typically played the role of the grizzled old sourdough in films, was found dead in his room at 509 Temple Street, a boarding house.Â  Police investigating the room found that a tube that connected the gas to a small heater had been pulled, or accidentally kicked, loose.</p>
+<p>62-year-old John Byrne, a character actor who typically played the role of the grizzled old sourdough in films, was found dead in his room at 509 Temple Street, a boarding house.  Police investigating the room found that a tube that connected the gas to a small heater had been pulled, or accidentally kicked, loose.</p>
 <p>It was unclear whether Byrne, whose real name was John McGuire, had intended to die.</p>
-<p>There was no suicide note, and it appeared that at his time of death, Byrne had been reading a western story in a popular magazine.Â  The magazine was opened to page 41, the last page of the story, and the last line read, &quot;And so, with the same old cheery smile on his sun-cracked lips, Sagebrush Jim came to the end of the trail.&quot;</p>
+<p>There was no suicide note, and it appeared that at his time of death, Byrne had been reading a western story in a popular magazine.  The magazine was opened to page 41, the last page of the story, and the last line read, &quot;And so, with the same old cheery smile on his sun-cracked lips, Sagebrush Jim came to the end of the trail.&quot;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/johnbyrne/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>/johnbyrne/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Women and Whisky</title>
-		<link>https://www.onbunkerhill.org/barfight/</link>
-					<comments>https://www.onbunkerhill.org/barfight/#respond</comments>
+		<link>/barfight/</link>
+					<comments>/barfight/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 23 Sep 2008 21:20:40 +0000</pubDate>
@@ -68,21 +71,21 @@
 		<category><![CDATA[bar fights]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The scene was a bar at 822 West Third Street, the players, a group of hard-drinking Bunker Hill regulars, but the story would turn tragic on July 22, 1956. Harold J. McAnally of 230 South Flower (the Van Fleet Apartments) tried to buy a drink for a woman in the bar, when he was pushed &#8230; <a href="https://www.onbunkerhill.org/barfight/" class="more-link">Continue reading<span class="screen-reader-text"> "Women and Whisky"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3240/2884345292_ab09d4f656.jpg" alt="barfight" align="left" width="288" height="500" />The scene was a bar at 822 West Third Street, the players, a group of hard-drinking Bunker Hill regulars, but the story would turn tragic on July 22, 1956.</p>
-<p>Harold J. McAnally of 230 South Flower (the <a href="/vanfleet" title="vanfleet" target="_blank">Van Fleet Apartments</a>) tried to buy a drink for a woman in the bar, when he was pushed from his barstool by a jealous rival.Â  McAnally fell, cracking his head on the bar&#8217;s concrete floor and fracturing his skull.Â  As you can see in the picture here, though McAnally is lying prone on the ground, no one seems to be all that concerned.Â  Perhaps the regulars were callous, or didn&#8217;t care for him, but it&#8217;s also possible that McAnally was already dead, and nothing was left to be done.</p>
-<p>He arrived DOA at the Georgia Receiving Hospital, and shortly thereafter, Frank Swope, 33, turned himself in to the police, confessing that he was the one who had shoved McAnally at the bar.Â  Swope hadn&#8217;t meant to hurt him; he was just angry about McAnally&#8217;s flirtation.</p>
+					<description><![CDATA[The scene was a bar at 822 West Third Street, the players, a group of hard-drinking Bunker Hill regulars, but the story would turn tragic on July 22, 1956. Harold J. McAnally of 230 South Flower (the Van Fleet Apartments) tried to buy a drink for a woman in the bar, when he was pushed &#8230; <a href="/barfight/" class="more-link">Continue reading<span class="screen-reader-text"> "Women and Whisky"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3240/2884345292_ab09d4f656.jpg" alt="barfight" align="left" width="288" height="500" />The scene was a bar at 822 West Third Street, the players, a group of hard-drinking Bunker Hill regulars, but the story would turn tragic on July 22, 1956.</p>
+<p>Harold J. McAnally of 230 South Flower (the <a href="/vanfleet" title="vanfleet" target="_blank">Van Fleet Apartments</a>) tried to buy a drink for a woman in the bar, when he was pushed from his barstool by a jealous rival.  McAnally fell, cracking his head on the bar&#8217;s concrete floor and fracturing his skull.  As you can see in the picture here, though McAnally is lying prone on the ground, no one seems to be all that concerned.  Perhaps the regulars were callous, or didn&#8217;t care for him, but it&#8217;s also possible that McAnally was already dead, and nothing was left to be done.</p>
+<p>He arrived DOA at the Georgia Receiving Hospital, and shortly thereafter, Frank Swope, 33, turned himself in to the police, confessing that he was the one who had shoved McAnally at the bar.  Swope hadn&#8217;t meant to hurt him; he was just angry about McAnally&#8217;s flirtation.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/barfight/feed/</wfw:commentRss>
+					<wfw:commentRss>/barfight/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Death At the Imperial Hotel:  350 South Figueroa</title>
-		<link>https://www.onbunkerhill.org/death-at-the-imperial-hotel-350-south-figueroa/</link>
-					<comments>https://www.onbunkerhill.org/death-at-the-imperial-hotel-350-south-figueroa/#respond</comments>
+		<link>/death-at-the-imperial-hotel-350-south-figueroa/</link>
+					<comments>/death-at-the-imperial-hotel-350-south-figueroa/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 10 Jun 2008 21:47:04 +0000</pubDate>
@@ -93,16 +96,16 @@
 		<category><![CDATA[exterminators]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[November 16, 1931 This morning, Gene Bowman, 15, and his brother Earl, 22, decided to sleep late after their mother departed for work. In the apartment directly beneath them, R.V. Darby, the Mayor of Inglewood, president of the Federated Church Brotherhoods of Los Angeles, and owner of Kilz Exterminator Company was conducting a routine fumigation &#8230; <a href="https://www.onbunkerhill.org/death-at-the-imperial-hotel-350-south-figueroa/" class="more-link">Continue reading<span class="screen-reader-text"> "Death At the Imperial Hotel:  350 South Figueroa"</span></a>]]></description>
+					<description><![CDATA[November 16, 1931 This morning, Gene Bowman, 15, and his brother Earl, 22, decided to sleep late after their mother departed for work. In the apartment directly beneath them, R.V. Darby, the Mayor of Inglewood, president of the Federated Church Brotherhoods of Los Angeles, and owner of Kilz Exterminator Company was conducting a routine fumigation &#8230; <a href="/death-at-the-imperial-hotel-350-south-figueroa/" class="more-link">Continue reading<span class="screen-reader-text"> "Death At the Imperial Hotel:  350 South Figueroa"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>November 16, 1931</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3162/2566942918_c1339abfb3_m.jpg" alt="imperialhotel" align="left" height="240" width="226" /><img loading="lazy" src="https://farm3.static.flickr.com/2166/2566119095_2e21daee0d.jpg" alt="bowmans" align="right" height="500" width="118" />This morning, Gene Bowman, 15, and his brother Earl, 22, decided to sleep late after their mother departed for work.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3162/2566942918_c1339abfb3_m.jpg" alt="imperialhotel" align="left" height="240" width="226" /><img loading="lazy" src="http://farm3.static.flickr.com/2166/2566119095_2e21daee0d.jpg" alt="bowmans" align="right" height="500" width="118" />This morning, Gene Bowman, 15, and his brother Earl, 22, decided to sleep late after their mother departed for work.</p>
 <p>In the apartment directly beneath them, R.V. Darby, the Mayor of Inglewood, president of the Federated Church Brotherhoods of Los Angeles, and owner of Kilz Exterminator Company was conducting a routine fumigation for bed bugs.</p>
-<p>As always, he had notified the Health Department, and given written and verbal notice to all occupants of the building, asking them to leave their rooms and open the windows.Â  And as always, he was using cyanide gas.</p>
-<p>While Darby worked, unbeknownst to him, deadly gas was seeping up into the Bowman&#8217;s apartment through a small hole in the floor around a steam pipe.Â  Both brothers were asphyxiated while they slept.</p>
-<p>Darby&#8217;s license was temporarily suspended while a manslaughter complaint was brought before a grand jury to determine whether the Bowmans&#8217; deaths were caused by negligence on Darby&#8217;s part.Â  More than twenty witnesses testified, and on December 1, Darby was exonerated, the jury stating that the deaths were a tragic accident, but that Darby had taken all possible precautions.</p>
+<p>As always, he had notified the Health Department, and given written and verbal notice to all occupants of the building, asking them to leave their rooms and open the windows.  And as always, he was using cyanide gas.</p>
+<p>While Darby worked, unbeknownst to him, deadly gas was seeping up into the Bowman&#8217;s apartment through a small hole in the floor around a steam pipe.  Both brothers were asphyxiated while they slept.</p>
+<p>Darby&#8217;s license was temporarily suspended while a manslaughter complaint was brought before a grand jury to determine whether the Bowmans&#8217; deaths were caused by negligence on Darby&#8217;s part.  More than twenty witnesses testified, and on December 1, Darby was exonerated, the jury stating that the deaths were a tragic accident, but that Darby had taken all possible precautions.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/death-at-the-imperial-hotel-350-south-figueroa/feed/</wfw:commentRss>
+					<wfw:commentRss>/death-at-the-imperial-hotel-350-south-figueroa/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

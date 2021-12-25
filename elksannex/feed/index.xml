@@ -1,70 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: The Elks and Their Annex	</title>
-	<atom:link href="https://www.onbunkerhill.org/elksannex/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/elksannex/</link>
+	<atom:link href="/elksannex/feed/" rel="self" type="application/rss+xml" />
+	<link>/elksannex/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 20:12:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/elksannex/#comment-51</link>
+		<link>/elksannex/#comment-51</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sat, 29 Nov 2008 23:58:38 +0000</pubDate>
 		<guid isPermaLink="false">#comment-51</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3193/3069440801_8114b5731b_o.gif&quot; alt=&quot;takingastroll&quot; height=&quot;475&quot; width=&quot;492&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3193/3069440801_8114b5731b_o.gif&quot; alt=&quot;takingastroll&quot; height=&quot;475&quot; width=&quot;492&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-That this woman returns from her milliner is evident, but where sheâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s off to is a mystery.  Marching up the 300 block of Olive (she nears the top of Angels Flight, and the 1923 La Loma Apts at 251 looms in the distance), if sheâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s planning on a stop at the Royal Clubâ€”to go wherever it is the â€œladies handâ€ therein pointsâ€”sheâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s in for a rude awakening:
+That this woman returns from her milliner is evident, but where sheâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s off to is a mystery.  Marching up the 300 block of Olive (she nears the top of Angels Flight, and the 1923 La Loma Apts at 251 looms in the distance), if sheâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s planning on a stop at the Royal Clubâ€”to go wherever it is the â€œladies handâ€ therein pointsâ€”sheâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s in for a rude awakening:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3001/3070277754_97da75c63a_o.gif&quot; alt=&quot;rudeawakening&quot; height=&quot;474&quot; width=&quot;489&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3001/3070277754_97da75c63a_o.gif&quot; alt=&quot;rudeawakening&quot; height=&quot;474&quot; width=&quot;489&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&quot;https://www.metmuseum.org/works_of_art/collection_database/objectview.aspx?page=51&#038;sort=3&#038;sortdir=asc&#038;keyword=&#038;fp=51&#038;dd1=0&#038;dd2=0&#038;vw=1&#038;collID=0&#038;OID=190037903&#038;vT=1&quot; title=&quot;WE&quot; target=&quot;_blank&quot;&gt;Walker Evans&lt;/a&gt; captured these in 1962 while shooting for his &lt;a href=&quot;https://images.google.com/images?q=%22doomed+architecture%22+source%3Alife&quot; title=&quot;dooooooomed&quot; target=&quot;_blank&quot;&gt;â€œDoomedâ€¦It Must Be Savedâ€&lt;/a&gt; piece published in &lt;i&gt;Life&lt;/i&gt; magazine July 5, 1963.   
+&lt;a href=&quot;http://www.metmuseum.org/works_of_art/collection_database/objectview.aspx?page=51&#038;sort=3&#038;sortdir=asc&#038;keyword=&#038;fp=51&#038;dd1=0&#038;dd2=0&#038;vw=1&#038;collID=0&#038;OID=190037903&#038;vT=1&quot; title=&quot;WE&quot; target=&quot;_blank&quot;&gt;Walker Evans&lt;/a&gt; captured these in 1962 while shooting for his &lt;a href=&quot;http://images.google.com/images?q=%22doomed+architecture%22+source%3Alife&quot; title=&quot;dooooooomed&quot; target=&quot;_blank&quot;&gt;â€œDoomedâ€¦It Must Be Savedâ€&lt;/a&gt; piece published in &lt;i&gt;Life&lt;/i&gt; magazine July 5, 1963.   
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3288/3069440135_f64debf0cd_o.gif&quot; alt=&quot;towardDT&quot; height=&quot;471&quot; width=&quot;489&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3288/3069440135_f64debf0cd_o.gif&quot; alt=&quot;towardDT&quot; height=&quot;471&quot; width=&quot;489&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-(Note the &lt;a href=&quot;https://www.you-are-here.com/los_angeles/mirror.html&quot; title=&quot;MB&quot; target=&quot;_blank&quot;&gt;Mirror Bldng&lt;/a&gt; and &lt;a href=&quot;https://www.you-are-here.com/broadway/metropolitan_water.html&quot; title=&quot;EdisonMetWat&quot; target=&quot;_blank&quot;&gt;Metropolitan Water&lt;/a&gt; tower in the bg.)
+(Note the &lt;a href=&quot;http://www.you-are-here.com/los_angeles/mirror.html&quot; title=&quot;MB&quot; target=&quot;_blank&quot;&gt;Mirror Bldng&lt;/a&gt; and &lt;a href=&quot;http://www.you-are-here.com/broadway/metropolitan_water.html&quot; title=&quot;EdisonMetWat&quot; target=&quot;_blank&quot;&gt;Metropolitan Water&lt;/a&gt; tower in the bg.)
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3193/3069440801_8114b5731b_o.gif" alt="takingastroll" height="475" width="492" />
+<img src="http://farm4.static.flickr.com/3193/3069440801_8114b5731b_o.gif" alt="takingastroll" height="475" width="492" />
 </p>
 <p>
 That this woman returns from her milliner is evident, but where sheâ€™s off to is a mystery.  Marching up the 300 block of Olive (she nears the top of Angels Flight, and the 1923 La Loma Apts at 251 looms in the distance), if sheâ€™s planning on a stop at the Royal Clubâ€”to go wherever it is the â€œladies handâ€ therein pointsâ€”sheâ€™s in for a rude awakening:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3001/3070277754_97da75c63a_o.gif" alt="rudeawakening" height="474" width="489" />
+<img src="http://farm4.static.flickr.com/3001/3070277754_97da75c63a_o.gif" alt="rudeawakening" height="474" width="489" />
 </p>
 <p>
-<a href="https://www.metmuseum.org/works_of_art/collection_database/objectview.aspx?page=51&amp;sort=3&amp;sortdir=asc&amp;keyword=&amp;fp=51&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=190037903&amp;vT=1" title="WE" target="_blank">Walker Evans</a> captured these in 1962 while shooting for his <a href="https://images.google.com/images?q=%22doomed+architecture%22+source%3Alife" title="dooooooomed" target="_blank">â€œDoomedâ€¦It Must Be Savedâ€</a> piece published in <i>Life</i> magazine July 5, 1963.
+<a href="http://www.metmuseum.org/works_of_art/collection_database/objectview.aspx?page=51&amp;sort=3&amp;sortdir=asc&amp;keyword=&amp;fp=51&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=190037903&amp;vT=1" title="WE" target="_blank">Walker Evans</a> captured these in 1962 while shooting for his <a href="http://images.google.com/images?q=%22doomed+architecture%22+source%3Alife" title="dooooooomed" target="_blank">â€œDoomedâ€¦It Must Be Savedâ€</a> piece published in <i>Life</i> magazine July 5, 1963.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3288/3069440135_f64debf0cd_o.gif" alt="towardDT" height="471" width="489" />
+<img src="http://farm4.static.flickr.com/3288/3069440135_f64debf0cd_o.gif" alt="towardDT" height="471" width="489" />
 </p>
 <p>
-(Note the <a href="https://www.you-are-here.com/los_angeles/mirror.html" title="MB" target="_blank">Mirror Bldng</a> and <a href="https://www.you-are-here.com/broadway/metropolitan_water.html" title="EdisonMetWat" target="_blank">Metropolitan Water</a> tower in the bg.)
+(Note the <a href="http://www.you-are-here.com/los_angeles/mirror.html" title="MB" target="_blank">Mirror Bldng</a> and <a href="http://www.you-are-here.com/broadway/metropolitan_water.html" title="EdisonMetWat" target="_blank">Metropolitan Water</a> tower in the bg.)
 </p>
 <p>
 &nbsp;</p>

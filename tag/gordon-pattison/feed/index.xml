@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>gordon pattison &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/gordon-pattison/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/gordon-pattison/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Tue, 14 Jun 2016 16:45:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>gordon pattison &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>An Evening at Angels Flight</title>
-		<link>https://www.onbunkerhill.org/an-evening-at-angels-flight/</link>
-					<comments>https://www.onbunkerhill.org/an-evening-at-angels-flight/#comments</comments>
+		<link>/an-evening-at-angels-flight/</link>
+					<comments>/an-evening-at-angels-flight/#comments</comments>
 		
 		<dc:creator><![CDATA[Gordon Pattison]]></dc:creator>
 		<pubDate>Mon, 06 Jun 2016 23:16:33 +0000</pubDate>
@@ -45,19 +48,19 @@
 		<category><![CDATA[hcm]]></category>
 		<category><![CDATA[historic preservation]]></category>
 		<category><![CDATA[redevelopment]]></category>
-		<guid isPermaLink="false">https://www.onbunkerhill.org/?p=1687</guid>
+		<guid isPermaLink="false">/?p=1687</guid>
 
-					<description><![CDATA[Last evening, we met on Bunker Hill, old friends coming together for an old friend, Angels Flight. As the sun set, the orange and black station house along with the cars, Olivet and Sinai, were bathed in its soft, orange glow. As the evening darkened, Angels Flightâ€™s arches and cars were lit by the low &#8230; <a href="https://www.onbunkerhill.org/an-evening-at-angels-flight/" class="more-link">Continue reading<span class="screen-reader-text"> "An Evening at Angels Flight"</span></a>]]></description>
-										<content:encoded><![CDATA[<figure id="attachment_1697" aria-describedby="caption-attachment-1697" style="width: 225px" class="wp-caption alignleft"><a href="https://www.onbunkerhill.org/wp-content/uploads/2016/06/IMG_20160605_192344.jpg"><img loading="lazy" class="wp-image-1697 size-medium" src="https://www.onbunkerhill.org/wp-content/uploads/2016/06/IMG_20160605_192344-225x300.jpg" alt="At the golden hour, Gordon Pattison gazes into the Angels Flight station house " width="225" height="300" srcset="https://www.onbunkerhill.org/wp-content/uploads/2016/06/IMG_20160605_192344-225x300.jpg 225w, https://www.onbunkerhill.org/wp-content/uploads/2016/06/IMG_20160605_192344-768x1024.jpg 768w" sizes="(max-width: 225px) 85vw, 225px" /></a><figcaption id="caption-attachment-1697" class="wp-caption-text">At the golden hour, Gordon Pattison gazes into the Angels Flight station house</figcaption></figure>
-<p>Last evening, we met on Bunker Hill, old friends coming together for an old friend, Angels Flight. As the sun set, the orange and black station house along with the cars, Olivet and Sinai, were bathed in its soft, orange glow. As the evening darkened, Angels Flightâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s arches and cars were lit by the low amber light of dozens of incandescent bulbs. It was a magical time, and for a moment, I was transported back to the time when <a href="https://www.lavatransforms.org/2013/06/15/gordon-pattison-presents-old-bunker-hill-one-familys-perspective-at-the-lava-sunday-salon-may-2013/" target="_blank">I lived on Bunker Hill</a> in its old Victorian neighborhood in the 1940â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s â€“ 1960â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s. That neighborhood has been gone for more than 50 years now, and Angels Flight is all we have to remind us of it.</p>
-<p>As I looked out over the city from the top of Angels Flight, the twinkling lights of Grand Central Market came on, beckoning to us longingly. The Market stays open until 10:00 pm now, and it was filled with people enjoying its attractions. I thought, how nice it would be to board Angels Flight to go down there as I did years ago, have a bite to eat and join the people who lookedÂ to be having such a good time. They seemed miles away, though, at the bottom of long, daunting flights of stairs. Thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s exactly why Col. Eddy built Angels Flight 115 years ago, to join Bunker Hill and Downtown. What foresight! What a wonderful service to fill a civic need! And for decades, Angels Flight filled that need happily, faithfully, asking for little in return.</p>
-<p>But sadly, Angels Flight is not running. For two years now, Angels Flight has sat quietly, waiting patiently for LosÂ Angeles to come back to it. While Angelenos go busily about their lives, Angels Flight sits forlorn and vulnerable, largely ignored by the community it once served and we hope will serve again.</p>
-<figure id="attachment_1698" aria-describedby="caption-attachment-1698" style="width: 225px" class="wp-caption alignright"><a href="https://www.onbunkerhill.org/wp-content/uploads/2016/06/IMG_20160605_182540.jpg"><img loading="lazy" class="size-medium wp-image-1698" src="https://www.onbunkerhill.org/wp-content/uploads/2016/06/IMG_20160605_182540-225x300.jpg" alt="Richard Schave and Gordon Pattison scrub graffiti off Olivet" width="225" height="300" srcset="https://www.onbunkerhill.org/wp-content/uploads/2016/06/IMG_20160605_182540-225x300.jpg 225w, https://www.onbunkerhill.org/wp-content/uploads/2016/06/IMG_20160605_182540-768x1024.jpg 768w" sizes="(max-width: 225px) 85vw, 225px" /></a><figcaption id="caption-attachment-1698" class="wp-caption-text">Richard Schave and Gordon Pattison scrub graffiti off Olivet</figcaption></figure>
-<p>Angels Flight is not a nostalgic anachronism. It was and remains an important civic asset. Not just for its historicÂ significance, but as an important piece of public transportation, carrying people from the heights of Bunker Hill to greater Downtown and back again.</p>
-<p>When we came together at Angels Flight last evening, we came to pay attention to an old friend and to bear witness to its plight. We cleaned away graffiti that had thoughtlessly desecrated it. We had a <a href="https://esotouric.com/angelsflight3d/" target="_blank">3-D scan</a> done on Angels Flight so that anyone can board it online and take a vicarious ride. Angels Flight has served our city well and can again. But it needs our <a href="https://www.change.org/p/eric-garcetti-mayor-of-los-angeles-save-angels-flight" target="_blank">support</a> and loving attention, or one day we will drive by and wonder why itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not there anymore. Then all we will have are photographs and memories. Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a lot more fun to actually ride it.</p>
+					<description><![CDATA[Last evening, we met on Bunker Hill, old friends coming together for an old friend, Angels Flight. As the sun set, the orange and black station house along with the cars, Olivet and Sinai, were bathed in its soft, orange glow. As the evening darkened, Angels Flight”™s arches and cars were lit by the low &#8230; <a href="/an-evening-at-angels-flight/" class="more-link">Continue reading<span class="screen-reader-text"> "An Evening at Angels Flight"</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1697" aria-describedby="caption-attachment-1697" style="width: 225px" class="wp-caption alignleft"><a href="/wp-content/uploads/2016/06/IMG_20160605_192344.jpg"><img loading="lazy" class="wp-image-1697 size-medium" src="/wp-content/uploads/2016/06/IMG_20160605_192344-225x300.jpg" alt="At the golden hour, Gordon Pattison gazes into the Angels Flight station house " width="225" height="300" srcset="/wp-content/uploads/2016/06/IMG_20160605_192344-225x300.jpg 225w, /wp-content/uploads/2016/06/IMG_20160605_192344-768x1024.jpg 768w" sizes="(max-width: 225px) 85vw, 225px" /></a><figcaption id="caption-attachment-1697" class="wp-caption-text">At the golden hour, Gordon Pattison gazes into the Angels Flight station house</figcaption></figure>
+<p>Last evening, we met on Bunker Hill, old friends coming together for an old friend, Angels Flight. As the sun set, the orange and black station house along with the cars, Olivet and Sinai, were bathed in its soft, orange glow. As the evening darkened, Angels Flight”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s arches and cars were lit by the low amber light of dozens of incandescent bulbs. It was a magical time, and for a moment, I was transported back to the time when <a href="http://www.lavatransforms.org/2013/06/15/gordon-pattison-presents-old-bunker-hill-one-familys-perspective-at-the-lava-sunday-salon-may-2013/" target="_blank">I lived on Bunker Hill</a> in its old Victorian neighborhood in the 1940”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s ”“ 1960”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s. That neighborhood has been gone for more than 50 years now, and Angels Flight is all we have to remind us of it.</p>
+<p>As I looked out over the city from the top of Angels Flight, the twinkling lights of Grand Central Market came on, beckoning to us longingly. The Market stays open until 10:00 pm now, and it was filled with people enjoying its attractions. I thought, how nice it would be to board Angels Flight to go down there as I did years ago, have a bite to eat and join the people who looked to be having such a good time. They seemed miles away, though, at the bottom of long, daunting flights of stairs. That”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s exactly why Col. Eddy built Angels Flight 115 years ago, to join Bunker Hill and Downtown. What foresight! What a wonderful service to fill a civic need! And for decades, Angels Flight filled that need happily, faithfully, asking for little in return.</p>
+<p>But sadly, Angels Flight is not running. For two years now, Angels Flight has sat quietly, waiting patiently for Los Angeles to come back to it. While Angelenos go busily about their lives, Angels Flight sits forlorn and vulnerable, largely ignored by the community it once served and we hope will serve again.</p>
+<figure id="attachment_1698" aria-describedby="caption-attachment-1698" style="width: 225px" class="wp-caption alignright"><a href="/wp-content/uploads/2016/06/IMG_20160605_182540.jpg"><img loading="lazy" class="size-medium wp-image-1698" src="/wp-content/uploads/2016/06/IMG_20160605_182540-225x300.jpg" alt="Richard Schave and Gordon Pattison scrub graffiti off Olivet" width="225" height="300" srcset="/wp-content/uploads/2016/06/IMG_20160605_182540-225x300.jpg 225w, /wp-content/uploads/2016/06/IMG_20160605_182540-768x1024.jpg 768w" sizes="(max-width: 225px) 85vw, 225px" /></a><figcaption id="caption-attachment-1698" class="wp-caption-text">Richard Schave and Gordon Pattison scrub graffiti off Olivet</figcaption></figure>
+<p>Angels Flight is not a nostalgic anachronism. It was and remains an important civic asset. Not just for its historic significance, but as an important piece of public transportation, carrying people from the heights of Bunker Hill to greater Downtown and back again.</p>
+<p>When we came together at Angels Flight last evening, we came to pay attention to an old friend and to bear witness to its plight. We cleaned away graffiti that had thoughtlessly desecrated it. We had a <a href="https://esotouric.com/angelsflight3d/" target="_blank">3-D scan</a> done on Angels Flight so that anyone can board it online and take a vicarious ride. Angels Flight has served our city well and can again. But it needs our <a href="https://www.change.org/p/eric-garcetti-mayor-of-los-angeles-save-angels-flight" target="_blank">support</a> and loving attention, or one day we will drive by and wonder why it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not there anymore. Then all we will have are photographs and memories. It”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a lot more fun to actually ride it.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/an-evening-at-angels-flight/feed/</wfw:commentRss>
+					<wfw:commentRss>/an-evening-at-angels-flight/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

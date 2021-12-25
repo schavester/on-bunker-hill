@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>film noir &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/film_noir/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/film_noir/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Tue, 03 Nov 2015 19:40:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>film noir &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Sunshine and Noir</title>
-		<link>https://www.onbunkerhill.org/sunshineapartments/</link>
-					<comments>https://www.onbunkerhill.org/sunshineapartments/#comments</comments>
+		<link>/sunshineapartments/</link>
+					<comments>/sunshineapartments/#comments</comments>
 		
 		<dc:creator><![CDATA[JimDawson]]></dc:creator>
 		<pubDate>Sat, 05 Jun 2010 02:15:41 +0000</pubDate>
@@ -42,25 +45,16 @@
 		<category><![CDATA[Third Street]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The recent release of George Mannâ€™s 50-year-old color photographs to this site is one of the most remarkable troves of Bunker Hill ephemera weâ€™ve seen in decades. The accompanying photo, for instance, shows just how dilapidated the neighborhood around Angels Flight on Third Street had become by November 1962, when Mann made his final pilgrimage &#8230; <a href="https://www.onbunkerhill.org/sunshineapartments/" class="more-link">Continue reading<span class="screen-reader-text"> "Sunshine and Noir"</span></a>]]></description>
+					<description><![CDATA[The recent release of George Mann”™s 50-year-old color photographs to this site is one of the most remarkable troves of Bunker Hill ephemera we”™ve seen in decades. The accompanying photo, for instance, shows just how dilapidated the neighborhood around Angels Flight on Third Street had become by November 1962, when Mann made his final pilgrimage &#8230; <a href="/sunshineapartments/" class="more-link">Continue reading<span class="screen-reader-text"> "Sunshine and Noir"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0in 0in 0pt" class="MsoNormal">
-<span></span><img src="https://farm2.static.flickr.com/1307/4671226855_617b577ff7.jpg" />
+<span></span><img src="http://farm2.static.flickr.com/1307/4671226855_617b577ff7.jpg" />
 </p>
-<p>The recent release of <a target="_blank" href="/georgemann">George Mannâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 50-year-old color photographs</a> to this site is one of the most remarkable troves of <st1:place w:st="on">Bunker Hill</st1:place> ephemera weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve seen in decades. The accompanying photo, for instance, shows just how dilapidated the neighborhood around Angels Flight on <st1:street w:st="on"><st1:address w:st="on">Third Street</st1:address></st1:street> had become by November 1962, when Mann made his final pilgrimage to the doomed neighborhood. The wrecking ball has already claimed the Hill Crest Hotel at the top of the hill on <st1:street w:st="on"><st1:address w:st="on">Olive Street</st1:address></st1:street>, and the <a target="_blank" href="/theAstoria">Astoria Hotel</a> is a hulking shell of a firetrap just waiting for a match. Standing near the center of the photo is the Sunshine Apartments, looking empty and haunted, but who knows whether a few derelict souls are still inside, refusing to leave until the bulldozers come growling down the hillside?</p>
+<p>The recent release of <a target="_blank" href="/georgemann">George Mann”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 50-year-old color photographs</a> to this site is one of the most remarkable troves of <st1:place w:st="on">Bunker Hill</st1:place> ephemera we”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve seen in decades. The accompanying photo, for instance, shows just how dilapidated the neighborhood around Angels Flight on <st1:street w:st="on"><st1:address w:st="on">Third Street</st1:address></st1:street> had become by November 1962, when Mann made his final pilgrimage to the doomed neighborhood. The wrecking ball has already claimed the Hill Crest Hotel at the top of the hill on <st1:street w:st="on"><st1:address w:st="on">Olive Street</st1:address></st1:street>, and the <a target="_blank" href="/theAstoria">Astoria Hotel</a> is a hulking shell of a firetrap just waiting for a match. Standing near the center of the photo is the Sunshine Apartments, looking empty and haunted, but who knows whether a few derelict souls are still inside, refusing to leave until the bulldozers come growling down the hillside?</p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-Bunker Hillâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Sunshine Apartments at <st1:street w:st="on"><st1:address w:st="on">421 West Third Street</st1:address></st1:street> has been gone now for over forty-five years, but itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s still one of the most familiar unknown houses in <st1:place w:st="on"><st1:city w:st="on">Los Angeles</st1:city></st1:place>. Perched on a ten-feet-high retaining wall above a narrow alley called <st1:street w:st="on"><st1:address w:st="on">Clay Street</st1:address></st1:street>, it sprawled halfway up a steep hill adjacent to a stairway, its only access, opposite Angels Flight. The Sunshine was the sort of multilevel dwelling that novelist John Fante described in <a target="_blank" href="/AsktheDust"><i>Ask the Dust</i></a> (1939): â€œIt was built on a hillside in reverse, there on the crest of Bunker Hill, built against the decline of the hill, so that the main floor was on the level with the street but the tenth floor was downstairs ten levels.â€ The only difference is that the Sunshine was only four stories tall and its front, not its sides, conformed to <st1:street w:st="on"><st1:address w:st="on">Third Street</st1:address></st1:street>â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s slant, so that the first floor was only half as wide as the second floor.
-</p>
-<p style="margin: 0in 0in 0pt" class="MsoNormal">
-<span></span>
-</p>
-<p style="margin: 0in 0in 0pt" class="MsoNormal">
-&nbsp;
-</p>
-<p style="margin: 0in 0in 0pt" class="MsoNormal">
-Constructed on vacant property around 1905 to accommodate downtown Los Angelesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s growing need for cheap housing, the Sunshine looked like a huge clapboard farmhouse, with a stack of three unadorned verandas and a couple of Queen Anne touches around the front entrance, which was on the third floor. Midwestern migrants probably found the place comfortably familiar. Inside, a labyrinth of odd-angled hallways, step-downs and staircases connected the Sunshineâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s many small apartments.
+Bunker Hill”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Sunshine Apartments at <st1:street w:st="on"><st1:address w:st="on">421 West Third Street</st1:address></st1:street> has been gone now for over forty-five years, but it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s still one of the most familiar unknown houses in <st1:place w:st="on"><st1:city w:st="on">Los Angeles</st1:city></st1:place>. Perched on a ten-feet-high retaining wall above a narrow alley called <st1:street w:st="on"><st1:address w:st="on">Clay Street</st1:address></st1:street>, it sprawled halfway up a steep hill adjacent to a stairway, its only access, opposite Angels Flight. The Sunshine was the sort of multilevel dwelling that novelist John Fante described in <a target="_blank" href="/AsktheDust"><i>Ask the Dust</i></a> (1939): “It was built on a hillside in reverse, there on the crest of Bunker Hill, built against the decline of the hill, so that the main floor was on the level with the street but the tenth floor was downstairs ten levels.” The only difference is that the Sunshine was only four stories tall and its front, not its sides, conformed to <st1:street w:st="on"><st1:address w:st="on">Third Street</st1:address></st1:street>”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s slant, so that the first floor was only half as wide as the second floor.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
@@ -69,7 +63,7 @@ Constructed on vacant property around 1905 to accommodate downtown Los Angelesâ
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-Though it made its film debut as one of Angels Flightâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s neighbors in a 1920 comedy called <a target="_blank" href="https://www.imdb.com/title/tt0245699/"><i>All Jazzed Up</i></a>, the Sunshine didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t get its first close-up until 1932, when director James Whale cast it as the home of two downtown working girls (Mae Clark and Una Merkel) in <a target="_blank" href="https://www.imdb.com/title/tt0023055/"><i>The Impatient Maiden</i></a>, his follow-up to <i>Frankenstein</i>. Because sound cameras in those days were large and unwieldy, he used a smaller silent camera to shoot the movieâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s opening scene on the <st1:street w:st="on"><st1:address w:st="on">Third Street</st1:address></st1:street> steps, as the actresses came out of the Sunshine Apartments and walked up the concrete steps to the Angels Flight station on <st1:street w:st="on"><st1:address w:st="on">Olive Street</st1:address></st1:street>. (The dialogue and traffic sounds were dubbed in later.) Whale shot another scene on the front steps near <st1:street w:st="on"><st1:address w:st="on">Clay Street</st1:address></st1:street> and in the rear of the apartments, where a second set of concrete stairs from Clay to Olive ran between the Sunshine and the much larger Astoria Hotel.
+Constructed on vacant property around 1905 to accommodate downtown Los Angeles”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s growing need for cheap housing, the Sunshine looked like a huge clapboard farmhouse, with a stack of three unadorned verandas and a couple of Queen Anne touches around the front entrance, which was on the third floor. Midwestern migrants probably found the place comfortably familiar. Inside, a labyrinth of odd-angled hallways, step-downs and staircases connected the Sunshine”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s many small apartments.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
@@ -78,7 +72,7 @@ Though it made its film debut as one of Angels Flightâ€<img src="https://s.w.
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-But what turned the Sunshine Apartments into a fairly steady (if nameless) character actor was <i>film noir</i>, the mostly post-World War II crime genre that, in its focus on documentary realism, introduced the use of smaller, combat-tested cameras and gritty urban locations to Hollywood cinema. And sinceâ€”by the mid-1940sâ€”<st1:place w:st="on">Bunker Hill</st1:place> was a run-down neighborhood of crumbling Victorian mansions, rambling flophouses, and mean, vertiginous streets, it became the perfect setting for <i>film noir</i>â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s fascination with the dark side of American prosperity. Despite the Sunshine Apartmentsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sunny moniker and relative youth (less than fifty years old), it did a great job portraying a shabby boarding house for desperate and worn-down people.
+Though it made its film debut as one of Angels Flight”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s neighbors in a 1920 comedy called <a target="_blank" href="http://www.imdb.com/title/tt0245699/"><i>All Jazzed Up</i></a>, the Sunshine didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t get its first close-up until 1932, when director James Whale cast it as the home of two downtown working girls (Mae Clark and Una Merkel) in <a target="_blank" href="http://www.imdb.com/title/tt0023055/"><i>The Impatient Maiden</i></a>, his follow-up to <i>Frankenstein</i>. Because sound cameras in those days were large and unwieldy, he used a smaller silent camera to shoot the movie”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s opening scene on the <st1:street w:st="on"><st1:address w:st="on">Third Street</st1:address></st1:street> steps, as the actresses came out of the Sunshine Apartments and walked up the concrete steps to the Angels Flight station on <st1:street w:st="on"><st1:address w:st="on">Olive Street</st1:address></st1:street>. (The dialogue and traffic sounds were dubbed in later.) Whale shot another scene on the front steps near <st1:street w:st="on"><st1:address w:st="on">Clay Street</st1:address></st1:street> and in the rear of the apartments, where a second set of concrete stairs from Clay to Olive ran between the Sunshine and the much larger Astoria Hotel.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
@@ -87,13 +81,7 @@ But what turned the Sunshine Apartments into a fairly steady (if nameless) chara
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-In <st1:city w:st="on"><st1:place w:st="on">Paramount</st1:place></st1:city>â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <i><a target="_blank" href="https://www.imdb.com/title/tt0040643/">Night Has a Thousand Eyes</a> </i>(1948), the Sunshine offered low-rent anonymity to a con man (Edward G. Robinson) hiding from his past. Director John Farrow pointedly established its location with an amazing 180-degree shotâ€”taken from Clay Streetâ€”that followed one of the Angels Flight cars up from Hill Street, and panned across the top of the hill to catch Robinsonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s character hurrying down the concrete steps and up onto the third-floor porch and into the boarding houseâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s front door. Another shot showed John Lund and Gail Russell approaching the Sunshineâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s wooden porch steps from below.
-</p>
-<p style="margin: 0in 0in 0pt" class="MsoNormal">
-&nbsp;
-</p>
-<p style="margin: 0in 0in 0pt" class="MsoNormal">
-<span></span>That same year, in Universal Picturesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a target="_blank" href="https://www.imdb.com/title/tt0041268/"><i>Criss Cross</i></a>, director Robert Siodmak used the Sunshine as a rendezvous spot for criminals plotting an armored car robbery. Whereas the protagonistsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> apartments in the earlier films were obviously studio creations, some of <i>Criss Cross</i>â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s seedy flophouse interiors were shot on location. Granted, a couple of shots that showed either Burt Lancaster or Yvonne DeCarlo standing next to a bay window, with the Angels Flight trolleys moving in the background distance, were done on a sound stage. The footage of the incline railway cars passing each other above Clay Street was taken from the Sunshine (most likely from the third-floor porch, judging from the angle), but the building itself didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t have any bay windows facing Angels Flight, so the scenes had to have been process shots. On the other hand, the maze of dingy hallwaysâ€”whose atmosphere one character mockingly dismissed as â€œPicturesque, ainâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t it?â€â€”most likely belonged to the Sunshine Apartments.
+But what turned the Sunshine Apartments into a fairly steady (if nameless) character actor was <i>film noir</i>, the mostly post-World War II crime genre that, in its focus on documentary realism, introduced the use of smaller, combat-tested cameras and gritty urban locations to Hollywood cinema. And since–by the mid-1940s–<st1:place w:st="on">Bunker Hill</st1:place> was a run-down neighborhood of crumbling Victorian mansions, rambling flophouses, and mean, vertiginous streets, it became the perfect setting for <i>film noir</i>”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s fascination with the dark side of American prosperity. Despite the Sunshine Apartments”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sunny moniker and relative youth (less than fifty years old), it did a great job portraying a shabby boarding house for desperate and worn-down people.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
@@ -102,7 +90,13 @@ In <st1:city w:st="on"><st1:place w:st="on">Paramount</st1:place></st1:city>â�
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-In another <st1:place w:st="on">Paramount</st1:place> film, <a target="_blank" href="https://www.imdb.com/title/tt0045267/"><i>Turning Point</i></a> (1952), as crusading reporter William Holden and gal pal Alexis Smith ride up Angels Flight, the camera riding with them turns to look across to the Sunshine, where a witness is hiding. But when they walk down the steps from the funicularâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Olive Street station toward the house, they have to duck into a doorway of a nearby building to avoid several thugs standing guard on the Sunshineâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s porch.
+In <st1:city w:st="on"><st1:place w:st="on">Paramount</st1:place></st1:city>”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <i><a target="_blank" href="http://www.imdb.com/title/tt0040643/">Night Has a Thousand Eyes</a> </i>(1948), the Sunshine offered low-rent anonymity to a con man (Edward G. Robinson) hiding from his past. Director John Farrow pointedly established its location with an amazing 180-degree shot–taken from Clay Street–that followed one of the Angels Flight cars up from Hill Street, and panned across the top of the hill to catch Robinson”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s character hurrying down the concrete steps and up onto the third-floor porch and into the boarding house”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s front door. Another shot showed John Lund and Gail Russell approaching the Sunshine”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s wooden porch steps from below.
+</p>
+<p style="margin: 0in 0in 0pt" class="MsoNormal">
+&nbsp;
+</p>
+<p style="margin: 0in 0in 0pt" class="MsoNormal">
+<span></span>That same year, in Universal Pictures”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a target="_blank" href="http://www.imdb.com/title/tt0041268/"><i>Criss Cross</i></a>, director Robert Siodmak used the Sunshine as a rendezvous spot for criminals plotting an armored car robbery. Whereas the protagonists”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> apartments in the earlier films were obviously studio creations, some of <i>Criss Cross</i>”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s seedy flophouse interiors were shot on location. Granted, a couple of shots that showed either Burt Lancaster or Yvonne DeCarlo standing next to a bay window, with the Angels Flight trolleys moving in the background distance, were done on a sound stage. The footage of the incline railway cars passing each other above Clay Street was taken from the Sunshine (most likely from the third-floor porch, judging from the angle), but the building itself didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t have any bay windows facing Angels Flight, so the scenes had to have been process shots. On the other hand, the maze of dingy hallways–whose atmosphere one character mockingly dismissed as “Picturesque, ain”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t it?”–most likely belonged to the Sunshine Apartments.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
@@ -111,7 +105,7 @@ In another <st1:place w:st="on">Paramount</st1:place> film, <a target="_blank" h
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-In the low-budget <a target="_blank" href="https://www.imdb.com/title/tt0316601/"><i>Angelâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight</i></a> (1965), among the last of Bunker Hillâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <i>noirs</i>, Indus Arthur played a stripper and â€œ<st1:place w:st="on">Bunker Hill</st1:place> serial killerâ€ avenging an early rape by slashing the throats of men who put the moves on her. The scene of that rape, we eventually discover, had been at her one-time home in the Sunshine Apartments.
+In another <st1:place w:st="on">Paramount</st1:place> film, <a target="_blank" href="http://www.imdb.com/title/tt0045267/"><i>Turning Point</i></a> (1952), as crusading reporter William Holden and gal pal Alexis Smith ride up Angels Flight, the camera riding with them turns to look across to the Sunshine, where a witness is hiding. But when they walk down the steps from the funicular”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Olive Street station toward the house, they have to duck into a doorway of a nearby building to avoid several thugs standing guard on the Sunshine”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s porch.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
@@ -120,7 +114,7 @@ In the low-budget <a target="_blank" href="https://www.imdb.com/title/tt0316601/
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-The building also showed up briefly in <a target="_blank" href="https://www.imdb.com/title/tt0041088/"><i>Act of Violence</i></a> (MGM, 1949), Joseph Loseyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a target="_blank" href="https://www.imdb.com/title/tt0043766/"><i>M</i></a> (<st1:city w:st="on"><st1:place w:st="on">Columbia</st1:place></st1:city>, 1951), and the cheap Lon Chaney Jr. horror film <a target="_blank" href="https://www.imdb.com/title/tt0049363/"><i>The Indestructible Man</i></a> (1956), among others. Documentary filmmaker Edmund Penney introduced his lyrical fifteen-minute film, <i>Angelâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight Railway</i> (shot in the early 1960s andÂ again inÂ 1969; released in 1997) by looking across <st1:street w:st="on"><st1:address w:st="on">Third Street</st1:address></st1:street> through the ornate woodwork of the Sunshineâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s doorway.
+In the low-budget <a target="_blank" href="http://www.imdb.com/title/tt0316601/"><i>Angel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight</i></a> (1965), among the last of Bunker Hill”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <i>noirs</i>, Indus Arthur played a stripper and “<st1:place w:st="on">Bunker Hill</st1:place> serial killer” avenging an early rape by slashing the throats of men who put the moves on her. The scene of that rape, we eventually discover, had been at her one-time home in the Sunshine Apartments.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
@@ -129,7 +123,7 @@ The building also showed up briefly in <a target="_blank" href="https://www.imdb
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-The Sunshine Apartments finally had its appointment with the bulldozer around 1965, after <st1:city w:st="on"><st1:place w:st="on">Los Angeles</st1:place></st1:city>â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Community Redevelopment Agency had already torn down many of the other buildings around it. By the time the CRA carted away Angels Flight and the last two surviving houses on <st1:street w:st="on"><st1:address w:st="on">Bunker Hill Avenue</st1:address></st1:street> four years later, the nearly century-old neighborhood of <st1:place w:st="on">Bunker Hill</st1:place> had ceased to exist.
+The building also showed up briefly in <a target="_blank" href="http://www.imdb.com/title/tt0041088/"><i>Act of Violence</i></a> (MGM, 1949), Joseph Losey”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a target="_blank" href="http://www.imdb.com/title/tt0043766/"><i>M</i></a> (<st1:city w:st="on"><st1:place w:st="on">Columbia</st1:place></st1:city>, 1951), and the cheap Lon Chaney Jr. horror film <a target="_blank" href="http://www.imdb.com/title/tt0049363/"><i>The Indestructible Man</i></a> (1956), among others. Documentary filmmaker Edmund Penney introduced his lyrical fifteen-minute film, <i>Angel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight Railway</i> (shot in the early 1960s and again in 1969; released in 1997) by looking across <st1:street w:st="on"><st1:address w:st="on">Third Street</st1:address></st1:street> through the ornate woodwork of the Sunshine”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s doorway.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
@@ -138,7 +132,7 @@ The Sunshine Apartments finally had its appointment with the bulldozer around 19
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-Yet today the Sunshine Apartments survives in old movies, in countless photo- and postcard-tableaux of Angels Flight, and as the most prominent background featureâ€”painted greenâ€”in Millard Sheetsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> vibrant 1931 oil painting, <i>Angelâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight</i>, which is not only one of the most famous works on permanent display at the Los Angeles County Museum of Art, but also the logo of the OnBunkerHill.org website.
+The Sunshine Apartments finally had its appointment with the bulldozer around 1965, after <st1:city w:st="on"><st1:place w:st="on">Los Angeles</st1:place></st1:city>”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Community Redevelopment Agency had already torn down many of the other buildings around it. By the time the CRA carted away Angels Flight and the last two surviving houses on <st1:street w:st="on"><st1:address w:st="on">Bunker Hill Avenue</st1:address></st1:street> four years later, the nearly century-old neighborhood of <st1:place w:st="on">Bunker Hill</st1:place> had ceased to exist.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <span></span>
@@ -147,25 +141,34 @@ Yet today the Sunshine Apartments survives in old movies, in countless photo- an
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-I welcome any further information you may have about the Sunshine Apartments, or any corrections to this blog entry. Even better, Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d love to hear from someone who actually lived or spent time there.
+Yet today the Sunshine Apartments survives in old movies, in countless photo- and postcard-tableaux of Angels Flight, and as the most prominent background feature–painted green–in Millard Sheets”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> vibrant 1931 oil painting, <i>Angel”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Flight</i>, which is not only one of the most famous works on permanent display at the Los Angeles County Museum of Art, but also the logo of the OnBunkerHill.org website.
+</p>
+<p style="margin: 0in 0in 0pt" class="MsoNormal">
+<span></span>
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
-<span></span>For more photos of the Sunshine Apartments, check out <a href="https://www.americanfilmnoir.com/page18.html"><u><span style="color: #0000ff">www.americanfilmnoir.com/page18.html</span></u></a> and <a href="https://www.forum.skyscraperpage.com/showthread.php?p=4855115"><u><span style="color: #0000ff">www.forum.skyscraperpage.com/showthread.php?p=4855115</span></u></a>.
+I welcome any further information you may have about the Sunshine Apartments, or any corrections to this blog entry. Even better, I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d love to hear from someone who actually lived or spent time there.
+</p>
+<p style="margin: 0in 0in 0pt" class="MsoNormal">
+&nbsp;
+</p>
+<p style="margin: 0in 0in 0pt" class="MsoNormal">
+<span></span>For more photos of the Sunshine Apartments, check out <a href="http://www.americanfilmnoir.com/page18.html"><u><span style="color: #0000ff">www.americanfilmnoir.com/page18.html</span></u></a> and <a href="http://www.forum.skyscraperpage.com/showthread.php?p=4855115"><u><span style="color: #0000ff">www.forum.skyscraperpage.com/showthread.php?p=4855115</span></u></a>.
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0in 0in 0pt" class="MsoNormal">
 <i>Thanks to George Mann&#8217;s son Brad Smith, and daughter-in-law Dianne Woods, for allowing us to reprint his copyrighted photograph. </p>
-<p>For a representative selection of photographs from his archive, or to license images for reproduction or other use, see <a target="_blank" href="https://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/">https://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/</a></i>
+<p>For a representative selection of photographs from his archive, or to license images for reproduction or other use, see <a target="_blank" href="http://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/">http://www.akg-images.co.uk/_customer/london/mailout/1004/georgemann/</a></i>
 </p>
 <p><o:p></o:p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/sunshineapartments/feed/</wfw:commentRss>
+					<wfw:commentRss>/sunshineapartments/feed/</wfw:commentRss>
 			<slash:comments>7</slash:comments>
 		
 		

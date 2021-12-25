@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>drunk &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/drunk/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/drunk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 21:47:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>drunk &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Wayward Lad</title>
-		<link>https://www.onbunkerhill.org/awaywardlad/</link>
-					<comments>https://www.onbunkerhill.org/awaywardlad/#respond</comments>
+		<link>/awaywardlad/</link>
+					<comments>/awaywardlad/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 17 Apr 2008 21:39:24 +0000</pubDate>
@@ -41,13 +44,13 @@
 		<category><![CDATA[drunk]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 4th and Olive Date: April 6, 1898 When the first reports came in about the 14-year-old boy lying drunk and insensible on the streets of Bunker Hill, he was over on Clay Street. But by the time Officer Broadhead went out to have a look, some boys had dragged him to a vacant lot &#8230; <a href="https://www.onbunkerhill.org/awaywardlad/" class="more-link">Continue reading<span class="screen-reader-text"> "A Wayward Lad"</span></a>]]></description>
+					<description><![CDATA[Location: 4th and Olive Date: April 6, 1898 When the first reports came in about the 14-year-old boy lying drunk and insensible on the streets of Bunker Hill, he was over on Clay Street. But by the time Officer Broadhead went out to have a look, some boys had dragged him to a vacant lot &#8230; <a href="/awaywardlad/" class="more-link">Continue reading<span class="screen-reader-text"> "A Wayward Lad"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 4th and Olive<br />
 Date: April 6, 1898</p>
 <p>When the first reports came in about the 14-year-old boy lying drunk and insensible on the streets of Bunker Hill, he was over on Clay Street. But by the time Officer Broadhead went out to have a look, some boys had dragged him to a vacant lot near 4th and Olive, and it was from here that he was taken to receiving hospital. Once conscious, he proved stubbornly unwilling or unable to identify himself, answering &quot;I don&#8217;t know&quot; to all questions. He did, however, admit to attending the Olive Street School, and it is hoped someone will come forward soon to take this lost lad home.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/awaywardlad/feed/</wfw:commentRss>
+					<wfw:commentRss>/awaywardlad/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

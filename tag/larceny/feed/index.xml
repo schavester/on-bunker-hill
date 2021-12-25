@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>larceny &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/larceny/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/larceny/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:20:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>larceny &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bad, Bad Edna Brown</title>
-		<link>https://www.onbunkerhill.org/badednabrown/</link>
-					<comments>https://www.onbunkerhill.org/badednabrown/#respond</comments>
+		<link>/badednabrown/</link>
+					<comments>/badednabrown/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 23 Apr 2008 15:05:25 +0000</pubDate>
@@ -43,25 +46,25 @@
 		<category><![CDATA[larceny]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Â  124 Bunker Hill Avenue December 6, 1922Â  &#160; Edna Brown, aka Edna Chaplin, aka Mabel Austin, seemed like such a nice girl. Sure, sheâ€™d been busted by Detective Sergeants Bartley and Allen for stealing $100Â ($1,271.00 current USD) from O. Johnsonâ€™s apartment at 124 South Bunker Hill Avenue, but Edna did the right thing and &#8230; <a href="https://www.onbunkerhill.org/badednabrown/" class="more-link">Continue reading<span class="screen-reader-text"> "Bad, Bad Edna Brown"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><o:p>Â </o:p> <img loading="lazy" border="0" width="262" src="https://farm4.static.flickr.com/3240/2431643724_3abe98ec28_o.jpg" alt="edna brown headline" height="212" /></p>
+					<description><![CDATA[  124 Bunker Hill Avenue December 6, 1922  &#160; Edna Brown, aka Edna Chaplin, aka Mabel Austin, seemed like such a nice girl. Sure, she”™d been busted by Detective Sergeants Bartley and Allen for stealing $100 ($1,271.00 current USD) from O. Johnson”™s apartment at 124 South Bunker Hill Avenue, but Edna did the right thing and &#8230; <a href="/badednabrown/" class="more-link">Continue reading<span class="screen-reader-text"> "Bad, Bad Edna Brown"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><o:p> </o:p> <img loading="lazy" border="0" width="262" src="http://farm4.static.flickr.com/3240/2431643724_3abe98ec28_o.jpg" alt="edna brown headline" height="212" /></p>
 <p style="margin: 0pt" class="MsoNormal">
 <st1:street w:st="on"><st1:address w:st="on">124 Bunker Hill Avenue</st1:address></st1:street>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-December 6, 1922Â 
+December 6, 1922 
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Edna Brown, aka Edna Chaplin, aka Mabel Austin, seemed like such a nice girl. Sure, sheâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been busted by Detective Sergeants Bartley and Allen for stealing $100<span style="font-size: 12pt; font-family: 'Times New Roman'"><span>Â </span>($1,271.00 current USD)</span> from O. Johnsonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s apartment at 124 South Bunker Hill Avenue, but Edna did the right thing and confessed to the crime, resulting in her being charged with grand theft and larceny.
+Edna Brown, aka Edna Chaplin, aka Mabel Austin, seemed like such a nice girl. Sure, she”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been busted by Detective Sergeants Bartley and Allen for stealing $100<span style="font-size: 12pt; font-family: 'Times New Roman'"><span> </span>($1,271.00 current USD)</span> from O. Johnson”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s apartment at 124 South Bunker Hill Avenue, but Edna did the right thing and confessed to the crime, resulting in her being charged with grand theft and larceny.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-When she appeared in Judge Hinshawâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s court for her arraignment, she burst into tears and appeared to be so genuinely remorseful that Guy Eddy, an attorney who was present on another matter, came to her defense and made a motion to dismiss the case. Judge Hinshaw was also moved by the girlâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s tears, and since Deputy District Attorney Orme made no objections, Edna walked.
+When she appeared in Judge Hinshaw”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s court for her arraignment, she burst into tears and appeared to be so genuinely remorseful that Guy Eddy, an attorney who was present on another matter, came to her defense and made a motion to dismiss the case. Judge Hinshaw was also moved by the girl”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s tears, and since Deputy District Attorney Orme made no objections, Edna walked.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -73,16 +76,16 @@ Apparently none of the well meaning men in the courtroom ever thought to questio
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-A few days following Ednaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s day in court, Detective Sergeants Bartley and Allen were on the trail of a girl who had been accused by J.S. Purdy of using his name to pass bad checks. Purdy told the cops he suspected a girl named Edna. When he was shown a photo of Edna Brown, he immediately identified her as the forger.Â 
+A few days following Edna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s day in court, Detective Sergeants Bartley and Allen were on the trail of a girl who had been accused by J.S. Purdy of using his name to pass bad checks. Purdy told the cops he suspected a girl named Edna. When he was shown a photo of Edna Brown, he immediately identified her as the forger. 
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Note to Guy Eddy, Esq., Deputy District Attorney Orme, and Judge Hinshaw â€“ no good deed goes unpunished.</p>
+Note to Guy Eddy, Esq., Deputy District Attorney Orme, and Judge Hinshaw ”“ no good deed goes unpunished.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/badednabrown/feed/</wfw:commentRss>
+					<wfw:commentRss>/badednabrown/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>mysticism &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/mysticism/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/mysticism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:46:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>mysticism &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Foss/Heindel Residence &#8211; 315 South Bunker Hill Avenue</title>
-		<link>https://www.onbunkerhill.org/foss_heindel/</link>
-					<comments>https://www.onbunkerhill.org/foss_heindel/#respond</comments>
+		<link>/foss_heindel/</link>
+					<comments>/foss_heindel/#respond</comments>
 		
 		<dc:creator><![CDATA[Christina Rice]]></dc:creator>
 		<pubDate>Tue, 12 Aug 2008 08:13:46 +0000</pubDate>
@@ -41,34 +44,34 @@
 		<category><![CDATA[mysticism]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160; The house that stood at 315 South Bunker Hill for 80 or so years came to be known as the Foss/Heindel Residence. The Foss family possibly constructed the home, and they did operate it as a boarding house for decades, so it&#8217;s fitting that the structure bears this name in the unofficial annals of &#8230; <a href="https://www.onbunkerhill.org/foss_heindel/" class="more-link">Continue reading<span class="screen-reader-text"> "Foss/Heindel Residence &#8211; 315 South Bunker Hill Avenue"</span></a>]]></description>
+					<description><![CDATA[&#160; The house that stood at 315 South Bunker Hill for 80 or so years came to be known as the Foss/Heindel Residence. The Foss family possibly constructed the home, and they did operate it as a boarding house for decades, so it&#8217;s fitting that the structure bears this name in the unofficial annals of &#8230; <a href="/foss_heindel/" class="more-link">Continue reading<span class="screen-reader-text"> "Foss/Heindel Residence &#8211; 315 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <div style="text-align: center">
-<img src="https://helios.library.ca.gov/soca/reagh/1990-0884.jpg" width="500" />
+<img src="http://helios.library.ca.gov/soca/reagh/1990-0884.jpg" width="500" />
 </div>
 <p>The house that stood at 315 South Bunker Hill for 80 or so years came to be known as the Foss/Heindel Residence. The Foss family possibly constructed the home, and they did operate it as a boarding house for decades, so it&#8217;s fitting that the structure bears this name in the unofficial annals of Bunker Hill history. Max Heindel, on the other hand, lived at 315 South Bunker Hill for a relatively short period of time, but his legacy as an occultist/mystic/astrologer proves that one did not have to reside on Bunker Hill for long in order to make a lasting mark on the neighborhood.<!--break--></p>
 <p>In 1939 when the WPA conducted a census of the neighborhood, the owner of the house at 315 S. Bunker Hill Avenue was recorded as having lived there for 54 years. If the census is accurate, then the Foss family were the ones who added the unique structure to the emerging area. William and Anna Foss were German immigrants who had relocated to California from Ohio in the 1880s so an ailing William could take advantage of the State&#8217;s medicinal weather. Their home, constructed around 1885 was modest in comparison to a lot of the other mansions that were going up on the Hill during the boom period.   </p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3199/2757137426_da338ed278.jpg?v=0" width="408" height="500" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3199/2757137426_da338ed278.jpg?v=0" width="408" height="500" />
 </div>
 <p>
 It does not appear that the Foss family enjoyed financial stability. In 1892 Mr. &amp; Mrs. Joseph Rubo utilized the residence for their school of voice and culture, and starting in 1894, two years before William Foss&#8217; death, the family home officially became a boarding house.  It would serve in this capacity for the next 70 years. In 1910, Anna Foss was 83 years old, still renting out rooms in her home, and her daughters Augusta and Anna, both in their 40s, were still living with her. However, Augusta&#8217;s days on Bunker Hill were numbered because she was about to be swept off her feet by one of their tenants who called himself Max Heindel.</p>
 <div style="text-align: center">
-<img src="https://upload.wikimedia.org/wikipedia/en/0/0a/Max_Heindel.jpg" />
+<img src="http://upload.wikimedia.org/wikipedia/en/0/0a/Max_Heindel.jpg" />
 </div>
 <p>
-â€œMax Heindelâ€ was actually the pen name of Carl Louis Von Grasshoff, a native of  Denmark, born in 1865, with  royal German blood running through his veins. Von Grasshoff was a child when his father died, and he was raised in genteel poverty, meaning the family was broke but kept up appearances as Danish nobility. Von Grasshoff rejected the â€œnoble lifeâ€ when he was 16 and trained to become a steam ship engineer, eventually becoming a Chief Engineer for the famed Cunard line. By 1905, ill health and personal sorrows, including a difficult marriage, had cause Von Grasshoff, now going by the name Max Heindel, to go on a spiritual journey. He became interested in metaphysics, joined the Theosophical Society, shared his insights as a lecturer, and made his way to Los Angeles. </p>
-<p>It is unclear exactly when Max Heindel first met Augusta Foss, but in 1910 he was a lodger at the Bunker Hill residence, which was the same year he married Augusta. She shared a lot of Heindel&#8217;s interests and turned him on to astrology. Another dominating passion in Heindel&#8217;s life was ignited during a visit to Germany where he studied under the Brothers of the Ancient Order of the Rosicrucians. Max and Augusta left Bunker Hill and relocated to Oceanside to start their <a href="https://www.rosicrucian.com/" target="_blank">Rosicrucian Fellowship</a> which promoted Christian mysticism. The couple built a temple on Mount Ecclesia, which is now listed on the National Register of Historic places, and Heidel wrote numerous books about Rosicrucian beliefs. Max lived until 1919 and Augusta carried on his work until her own death 30 years later. </p>
+“Max Heindel” was actually the pen name of Carl Louis Von Grasshoff, a native of  Denmark, born in 1865, with  royal German blood running through his veins. Von Grasshoff was a child when his father died, and he was raised in genteel poverty, meaning the family was broke but kept up appearances as Danish nobility. Von Grasshoff rejected the “noble life” when he was 16 and trained to become a steam ship engineer, eventually becoming a Chief Engineer for the famed Cunard line. By 1905, ill health and personal sorrows, including a difficult marriage, had cause Von Grasshoff, now going by the name Max Heindel, to go on a spiritual journey. He became interested in metaphysics, joined the Theosophical Society, shared his insights as a lecturer, and made his way to Los Angeles. </p>
+<p>It is unclear exactly when Max Heindel first met Augusta Foss, but in 1910 he was a lodger at the Bunker Hill residence, which was the same year he married Augusta. She shared a lot of Heindel&#8217;s interests and turned him on to astrology. Another dominating passion in Heindel&#8217;s life was ignited during a visit to Germany where he studied under the Brothers of the Ancient Order of the Rosicrucians. Max and Augusta left Bunker Hill and relocated to Oceanside to start their <a href="http://www.rosicrucian.com/" target="_blank">Rosicrucian Fellowship</a> which promoted Christian mysticism. The couple built a temple on Mount Ecclesia, which is now listed on the National Register of Historic places, and Heidel wrote numerous books about Rosicrucian beliefs. Max lived until 1919 and Augusta carried on his work until her own death 30 years later. </p>
 <div style="text-align: center">
-<img src="https://helios.library.ca.gov/soca/hylen/2001-0764.jpg" width="500" />
+<img src="http://helios.library.ca.gov/soca/hylen/2001-0764.jpg" width="500" />
 </div>
 <p>
 Back on Bunker Hill, Augusta&#8217;s sister, Anna, took over as owner of the family boarding house when the elder Anna Foss passed on. She played landlady to the seven unit building at least through the 1940s, and the house at 315 South Bunker Hill continued to house tenants until the 1960s. It was one of the homes that was captured through the camera lens of Arnold Hylen and the paint brush of Leo Politi among others who paid artistic homage to Bunker Hill in its final years. The Foss/Heindel house was demolished by 1967, along with most of the neighborhood.</p>
 <p><i>Images courtesy of the Los Angeles Public Library Photo Collection, California State Library Photo Collection, and Wikipedia</i><b><span style="font-size: xx-small; font-family: Times New Roman; color: #ffffff"><span class="Helvetica8"></span></span></b></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/foss_heindel/feed/</wfw:commentRss>
+					<wfw:commentRss>/foss_heindel/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

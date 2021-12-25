@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>car crash &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/car_crash/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/car_crash/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 19:57:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>car crash &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Truck Amok</title>
-		<link>https://www.onbunkerhill.org/truckamok/</link>
-					<comments>https://www.onbunkerhill.org/truckamok/#comments</comments>
+		<link>/truckamok/</link>
+					<comments>/truckamok/#comments</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 20 Dec 2008 18:44:25 +0000</pubDate>
@@ -43,25 +46,25 @@
 		<category><![CDATA[Olive Street]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[When it rains, it pours. Which is probably a good thing, since rain will put out all that pesky fire. Corner of Fourth and Olive, August 29, 1962. Van R. Alexanian, 23, was loading a barrel of rubbish into the scoop on the front of his trash-truck when the parking brake gave way. The truck &#8230; <a href="https://www.onbunkerhill.org/truckamok/" class="more-link">Continue reading<span class="screen-reader-text"> "Truck Amok"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3294/3123246837_2401fd7105_o.gif" alt="rubbishamok" align="left" height="186" width="208" />When it rains, it pours.  Which is probably a good thing, since rain will put out all that pesky <i>fire</i>.</p>
+					<description><![CDATA[When it rains, it pours. Which is probably a good thing, since rain will put out all that pesky fire. Corner of Fourth and Olive, August 29, 1962. Van R. Alexanian, 23, was loading a barrel of rubbish into the scoop on the front of his trash-truck when the parking brake gave way. The truck &#8230; <a href="/truckamok/" class="more-link">Continue reading<span class="screen-reader-text"> "Truck Amok"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3294/3123246837_2401fd7105_o.gif" alt="rubbishamok" align="left" height="186" width="208" />When it rains, it pours.  Which is probably a good thing, since rain will put out all that pesky <i>fire</i>.</p>
 <p>Corner of Fourth and Olive, August 29, 1962.</p>
 <p>Van R. Alexanian, 23, was loading a barrel of rubbish into the scoop on the front of his trash-truck when the parking brake gave way.  The truck ran into an electrical pole, and the live wire caught the truck debris on fire.  The pole then fell onto a Mrs. Helen Stairs, 50.</p>
 <p>The flaming truck went on to take out a traffic signal and a lamp post before crashing into a garage.  This much was fortunate; the garage attendant was equipped with a fire extinguisher.</p>
 <p>
-<img loading="lazy" src="https://farm4.static.flickr.com/3208/3123247073_bf3c843002_o.gif" alt="loadingemup" height="611" width="400" /></p>
+<img loading="lazy" src="http://farm4.static.flickr.com/3208/3123247073_bf3c843002_o.gif" alt="loadingemup" height="611" width="400" /></p>
 <p>
 Officer L. S. Rasic commented that had the truck continued through the intersection, it would have crashed into eight cars waiting for the signal to change.</p>
 <p>The question remains as to what garage the garbage truck plowed into, as there were in fact three at Olive and Fourth:  the 1923 Mutual Garage at the NE corner, the 1919 Hotel Clark/Center Garage at the SE corner, and the 1923 Savoy Garage at the SW corner.  Here&#8217;s a picture of all three, 1966:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3210/3123341473_1bbabf222c_o.gif" alt="4tholivegarages" height="390" width="575" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3088/3123413591_7fc74517dd_o.gif" alt="1outof3" align="right" height="164" width="251" />Remarkably, the Savoy still stands.  The 600-car Mutual at left in the image above is now the foundation for <a href="https://www.you-are-here.com/los_angeles/californiaplaza.html" title="CP2" target="_blank">Cal Plaza Two</a>.  The Hotel Clark Garage, center (along with that tall white building, ironically named the <a href="https://jpg1.lapl.org/pics26/00032547.jpg" title="larryjew" target="_blank">Black Building</a>) is still an empty lot, site of what was to be <a href="https://www.thefreelibrary.com/Confusion+greets+Three+Cal+Plaza+default+notice,+some+see+union+tie-a013927656" title="C3PO" target="_blank">Cal Plaza Three</a>.  (The parking lot at foreground right was the former site of the <a href="/taxonomy/term/372" title="TheFreeMonte" target="_blank">Fremont</a>.)</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3210/3123341473_1bbabf222c_o.gif" alt="4tholivegarages" height="390" width="575" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3088/3123413591_7fc74517dd_o.gif" alt="1outof3" align="right" height="164" width="251" />Remarkably, the Savoy still stands.  The 600-car Mutual at left in the image above is now the foundation for <a href="http://www.you-are-here.com/los_angeles/californiaplaza.html" title="CP2" target="_blank">Cal Plaza Two</a>.  The Hotel Clark Garage, center (along with that tall white building, ironically named the <a href="http://jpg1.lapl.org/pics26/00032547.jpg" title="larryjew" target="_blank">Black Building</a>) is still an empty lot, site of what was to be <a href="http://www.thefreelibrary.com/Confusion+greets+Three+Cal+Plaza+default+notice,+some+see+union+tie-a013927656" title="C3PO" target="_blank">Cal Plaza Three</a>.  (The parking lot at foreground right was the former site of the <a href="/taxonomy/term/372" title="TheFreeMonte" target="_blank">Fremont</a>.)</p>
 <p>&nbsp;</p>
-<p>Should you wish to learn more about garages, please do so <a href="https://blogdowntown.com/2006/05/2233-what-is-downtowns-oldest-parking-garage" title="hereIsay" target="_blank">here</a>.</p>
+<p>Should you wish to learn more about garages, please do so <a href="http://blogdowntown.com/2006/05/2233-what-is-downtowns-oldest-parking-garage" title="hereIsay" target="_blank">here</a>.</p>
 <p><i>Garage pic, William Reagh, Los Angeles Public Library </i></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/truckamok/feed/</wfw:commentRss>
+					<wfw:commentRss>/truckamok/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

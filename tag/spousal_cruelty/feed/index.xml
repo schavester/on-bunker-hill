@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>spousal cruelty &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/spousal_cruelty/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/spousal_cruelty/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 22:03:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>spousal cruelty &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mrs. Kent&#8217;s Complaint</title>
-		<link>https://www.onbunkerhill.org/kentcase/</link>
-					<comments>https://www.onbunkerhill.org/kentcase/#respond</comments>
+		<link>/kentcase/</link>
+					<comments>/kentcase/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 24 May 2008 15:50:09 +0000</pubDate>
@@ -42,14 +45,14 @@
 		<category><![CDATA[union]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 330 South Flower Street Date: January 26, 1907 Baby stealing? That, and spousal cruelty, are the charges leveled against labor organizer Edward W. Kent, arrested while in the act of packing to flee Los Angeles. His wife, residing at this address, says she has been confined to her bed for months, and a week &#8230; <a href="https://www.onbunkerhill.org/kentcase/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Kent&#8217;s Complaint"</span></a>]]></description>
+					<description><![CDATA[Location: 330 South Flower Street Date: January 26, 1907 Baby stealing? That, and spousal cruelty, are the charges leveled against labor organizer Edward W. Kent, arrested while in the act of packing to flee Los Angeles. His wife, residing at this address, says she has been confined to her bed for months, and a week &#8230; <a href="/kentcase/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Kent&#8217;s Complaint"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 330 South Flower Street<br />
 Date: January 26, 1907</p>
-<p><img src="https://farm4.static.flickr.com/3292/2514399159_efd38e744f_o.png" /></p>
+<p><img src="http://farm4.static.flickr.com/3292/2514399159_efd38e744f_o.png" /></p>
 <p>Baby stealing? That, and spousal cruelty, are the charges leveled against labor organizer Edward W. Kent, arrested while in the act of packing to flee Los Angeles. His wife, residing at this address, says she has been confined to her bed for months, and a week ago Kent gave their son to a Mrs. F. Borgel, who came to Mrs. Kent&#8217;s bed and tore the babe from her arms. It was at this point that the mother filed charges. She claims that her husband, a member of the Musicians Union and one-time candidate for San Francisco Supervisor, had become unkind to her around the time she learned that his reputation in their former home, Chicago, was less than pristine. He had hit her, pulled her hair and ears, made fiendish faces and screamed that he hoped she would die until she checked into a sanitarium on Hill Street. It was at which point her son was taken. An investigation is being opened, and when Mrs. Kent is well enough to appear in court, charges may be pursued against her husband at her discretion. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/kentcase/feed/</wfw:commentRss>
+					<wfw:commentRss>/kentcase/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,37 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
-	Comments on: Sons of the Revolutionâ€”437 South Hope	</title>
-	<atom:link href="https://www.onbunkerhill.org/sonsoftherevolution/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/sonsoftherevolution/</link>
+	Comments on: Sons of the Revolution–437 South Hope	</title>
+	<atom:link href="/sonsoftherevolution/feed/" rel="self" type="application/rss+xml" />
+	<link>/sonsoftherevolution/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Wed, 24 Feb 2016 19:53:30 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Jan 2021 11:15:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
+		By: Bryanna Byse		</title>
+		<link>/sonsoftherevolution/#comment-122875</link>
+
+		<dc:creator><![CDATA[Bryanna Byse]]></dc:creator>
+		<pubDate>Fri, 08 Jan 2021 11:15:56 +0000</pubDate>
+		<guid isPermaLink="false">#comment-122875</guid>
+
+					<description><![CDATA[I&#039;m spinfile-names.dat (random-18-31) from columnspinfile-address_data.dat-3, columnspinfile-address_data.dat-1.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m spinfile-names.dat (random-18-31) from columnspinfile-address_data.dat-3, columnspinfile-address_data.dat-1.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
 		By: Castle dweller		</title>
-		<link>https://www.onbunkerhill.org/sonsoftherevolution/#comment-125</link>
+		<link>/sonsoftherevolution/#comment-125</link>
 
 		<dc:creator><![CDATA[Castle dweller]]></dc:creator>
 		<pubDate>Mon, 20 Apr 2009 13:17:52 +0000</pubDate>
 		<guid isPermaLink="false">#comment-125</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/sonsoftherevolution/#comment-100&quot;&gt;nathan&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/sonsoftherevolution/#comment-100&quot;&gt;nathan&lt;/a&gt;.
 
 Dear Nathan:
 
 Thank you for the information about this building.  I used to walk past it on my trips to the LA Public Library when I was young and lived on Bunker Hill in the 1950&#039;s. I wondered what this elegant building was like inside and what it housed.  ]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/sonsoftherevolution/#comment-100">nathan</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/sonsoftherevolution/#comment-100">nathan</a>.</p>
 <p>Dear Nathan:</p>
 <p>Thank you for the information about this building.  I used to walk past it on my trips to the LA Public Library when I was young and lived on Bunker Hill in the 1950&#8217;s. I wondered what this elegant building was like inside and what it housed.  </p>
 ]]></content:encoded>
@@ -40,99 +57,99 @@ Thank you for the information about this building.  I used to walk past it on my
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/sonsoftherevolution/#comment-100</link>
+		<link>/sonsoftherevolution/#comment-100</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Sat, 28 Feb 2009 21:58:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-100</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/sonsoftherevolution/#comment-90&quot;&gt;nathan&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/sonsoftherevolution/#comment-90&quot;&gt;nathan&lt;/a&gt;.
 
 &lt;p&gt;
-In this reply thread, while making mention of some character discovering goodies within the columns of the 1888 Bryson Block, I referenced singing frogs:  I sleep soundly believing that every OBHâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />er immediately flashed on our particular shared frog and the cornerstone from which he was freed.  (And this, in a post describing the SRC library cornerstone-stuffing.) &lt;br /&gt;
+In this reply thread, while making mention of some character discovering goodies within the columns of the 1888 Bryson Block, I referenced singing frogs:  I sleep soundly believing that every OBHâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />er immediately flashed on our particular shared frog and the cornerstone from which he was freed.  (And this, in a post describing the SRC library cornerstone-stuffing.) &lt;br /&gt;
 &lt;br /&gt;
-First of all, I hope I donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t have to say, that &lt;a href=&quot;https://townhall.com/columnists/CraigShirley/2008/04/02/romancing_the_cornerstone&quot; title=&quot;washingtongates&quot; target=&quot;_blank&quot;&gt;cornerstones rule&lt;/a&gt;. (&lt;a href=&quot;https://www.eculturalresources.com/news/874.html&quot; title=&quot;onthelevel&quot; target=&quot;_blank&quot;&gt;Masonry&lt;/a&gt; has a veritable &lt;a href=&quot;https://burningtaper.blogspot.com/2007/03/masonic-cornerstone-laying-ceremony.html&quot; title=&quot;plumbandlevel&quot; target=&quot;_blank&quot;&gt;fetish&lt;/a&gt; for them.)  &lt;br /&gt;
+First of all, I hope I donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t have to say, that &lt;a href=&quot;http://townhall.com/columnists/CraigShirley/2008/04/02/romancing_the_cornerstone&quot; title=&quot;washingtongates&quot; target=&quot;_blank&quot;&gt;cornerstones rule&lt;/a&gt;. (&lt;a href=&quot;http://www.eculturalresources.com/news/874.html&quot; title=&quot;onthelevel&quot; target=&quot;_blank&quot;&gt;Masonry&lt;/a&gt; has a veritable &lt;a href=&quot;http://burningtaper.blogspot.com/2007/03/masonic-cornerstone-laying-ceremony.html&quot; title=&quot;plumbandlevel&quot; target=&quot;_blank&quot;&gt;fetish&lt;/a&gt; for them.)  &lt;br /&gt;
 &lt;br /&gt;
 So let me say a little bit more about the frog referenceâ€”and the demolition of the J. C. Wilber Building.  (Harris, Levitow, Washam &#038; Thompson, 1892).&lt;br /&gt;
 &lt;br /&gt;
-The J. C. Wilber, of course, exists only in Warnersâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 1955 â€œMerry Melodyâ€ &lt;i&gt;One Froggy Evening&lt;/i&gt; cartoon (while it was written by Michael Maltese and directed by Chuck Jones, four gents named Harris, Levitow, Washam &#038; Thompson were the animators, and thus the buildingâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s architects).&lt;br /&gt;
+The J. C. Wilber, of course, exists only in Warnersâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 1955 â€œMerry Melodyâ€ &lt;i&gt;One Froggy Evening&lt;/i&gt; cartoon (while it was written by Michael Maltese and directed by Chuck Jones, four gents named Harris, Levitow, Washam &#038; Thompson were the animators, and thus the buildingâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s architects).&lt;br /&gt;
 &lt;br /&gt;
 The picture begins with some wholesale rounded arch demolition.  But this faÃ§ade is too elegant to be termed Romanesque Revival; no monochromatic, course, rock-faced exterior for the Wilber.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3166/3305139573_56e532e6f8_o.gif&quot; alt=&quot;crashy&quot; height=&quot;358&quot; width=&quot;497&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3166/3305139573_56e532e6f8_o.gif&quot; alt=&quot;crashy&quot; height=&quot;358&quot; width=&quot;497&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 For all we know this had a mansard roof and a pedimented pavilion.  Check out the rusticated quoins:  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3435/3305139633_92e875f7a8_o.gif&quot; alt=&quot;rusty&quot; height=&quot;357&quot; width=&quot;496&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3435/3305139633_92e875f7a8_o.gif&quot; alt=&quot;rusty&quot; height=&quot;357&quot; width=&quot;496&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;
-Whatever it was, itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s gone now.  It was 1955; there was &lt;a href=&quot;https://www.nyc-architecture.com/GON/GON007.htm&quot; title=&quot;itwasaverygoodyear&quot; target=&quot;_blank&quot;&gt;stuff to be demolished&lt;/a&gt;.   But this guy did pry open the cornerstone.
+Whatever it was, itâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s gone now.  It was 1955; there was &lt;a href=&quot;http://www.nyc-architecture.com/GON/GON007.htm&quot; title=&quot;itwasaverygoodyear&quot; target=&quot;_blank&quot;&gt;stuff to be demolished&lt;/a&gt;.   But this guy did pry open the cornerstone.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3551/3305969104_e1498f1140_o.gif&quot; alt=&quot;richardpryer&quot; height=&quot;357&quot; width=&quot;495&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3551/3305969104_e1498f1140_o.gif&quot; alt=&quot;richardpryer&quot; height=&quot;357&quot; width=&quot;495&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;
 And out pops a frog...
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3573/3305969182_a516e61972_o.gif&quot; alt=&quot;hellomyragtimegal&quot; height=&quot;358&quot; width=&quot;497&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3573/3305969182_a516e61972_o.gif&quot; alt=&quot;hellomyragtimegal&quot; height=&quot;358&quot; width=&quot;497&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
-...entombed since 1892 (though he sings &lt;i&gt;Hello! Ma Baby&lt;/i&gt; which any schmoe can tell you wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t written until â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />99), obviously based on cohort-of-Coolidge &lt;a href=&quot;https://www.texasescapes.com/FEATURES/Believe_It/Ol%27_Rip/feature_night_of_the_Iguana.htm&quot; title=&quot;theripper&quot; target=&quot;_blank&quot;&gt;Olâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Rip&lt;/a&gt;, and then stuff happens for about six minutes.&lt;br /&gt;
+...entombed since 1892 (though he sings &lt;i&gt;Hello! Ma Baby&lt;/i&gt; which any schmoe can tell you wasnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t written until â€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />99), obviously based on cohort-of-Coolidge &lt;a href=&quot;http://www.texasescapes.com/FEATURES/Believe_It/Ol%27_Rip/feature_night_of_the_Iguana.htm&quot; title=&quot;theripper&quot; target=&quot;_blank&quot;&gt;Olâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Rip&lt;/a&gt;, and then stuff happens for about six minutes.&lt;br /&gt;
 &lt;br /&gt;
 After some trials, Mr. De-entomber, defiler of cornerstones, appropriately smote, tosses the green accursed thing into the cornerstone of the Tregoweth Brown building, a magnificent corporate skyscraper of sleek modernity, shimmering steel and glass among purple piles of brick:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3524/3305969296_c507cfbbb1_o.gif&quot; alt=&quot;shiny&quot; height=&quot;337&quot; width=&quot;497&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3524/3305969296_c507cfbbb1_o.gif&quot; alt=&quot;shiny&quot; height=&quot;337&quot; width=&quot;497&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;
 But in one hundred years, when the International Style has apparently gone all moss-colored and post-apocalyptic, and the built environment is replete with perispheres and skybridges and giant snack dishes, the Tregoweth must come down.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3433/3305969246_45e37b1f9a_o.gif&quot; alt=&quot;dieZukunft&quot; height=&quot;344&quot; width=&quot;495&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3433/3305969246_45e37b1f9a_o.gif&quot; alt=&quot;dieZukunft&quot; height=&quot;344&quot; width=&quot;495&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;
-Of course the frog is released from his modernistic mausoleum, and the whole thing begins again (though shouldnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t he be singing schmaltz from the time of his last encasement, &lt;a href=&quot;https://www.youtube.com/watch?v=QNF_hGf627c&quot; title=&quot;thosebadebadebaareeverywhere&quot; target=&quot;_blank&quot;&gt;e.g.&lt;/a&gt; &lt;i&gt;Close the Door, Theyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re Coming in the Window&lt;/i&gt;?) and we assume the man of the future learns eternal lessons, etc.  
+Of course the frog is released from his modernistic mausoleum, and the whole thing begins again (though shouldnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t he be singing schmaltz from the time of his last encasement, &lt;a href=&quot;http://www.youtube.com/watch?v=QNF_hGf627c&quot; title=&quot;thosebadebadebaareeverywhere&quot; target=&quot;_blank&quot;&gt;e.g.&lt;/a&gt; &lt;i&gt;Close the Door, Theyâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re Coming in the Window&lt;/i&gt;?) and we assume the man of the future learns eternal lessons, etc.  
 &lt;/p&gt;
 &lt;p&gt;
 Point being, cornerstones are cool.  &lt;br /&gt;
 &lt;/p&gt;
 ]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/sonsoftherevolution/#comment-90">nathan</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/sonsoftherevolution/#comment-90">nathan</a>.</p>
 <p>
 In this reply thread, while making mention of some character discovering goodies within the columns of the 1888 Bryson Block, I referenced singing frogs:  I sleep soundly believing that every OBHâ€™er immediately flashed on our particular shared frog and the cornerstone from which he was freed.  (And this, in a post describing the SRC library cornerstone-stuffing.) </p>
-<p>First of all, I hope I donâ€™t have to say, that <a href="https://townhall.com/columnists/CraigShirley/2008/04/02/romancing_the_cornerstone" title="washingtongates" target="_blank">cornerstones rule</a>. (<a href="https://www.eculturalresources.com/news/874.html" title="onthelevel" target="_blank">Masonry</a> has a veritable <a href="https://burningtaper.blogspot.com/2007/03/masonic-cornerstone-laying-ceremony.html" title="plumbandlevel" target="_blank">fetish</a> for them.)  </p>
+<p>First of all, I hope I donâ€™t have to say, that <a href="http://townhall.com/columnists/CraigShirley/2008/04/02/romancing_the_cornerstone" title="washingtongates" target="_blank">cornerstones rule</a>. (<a href="http://www.eculturalresources.com/news/874.html" title="onthelevel" target="_blank">Masonry</a> has a veritable <a href="http://burningtaper.blogspot.com/2007/03/masonic-cornerstone-laying-ceremony.html" title="plumbandlevel" target="_blank">fetish</a> for them.)  </p>
 <p>So let me say a little bit more about the frog referenceâ€”and the demolition of the J. C. Wilber Building.  (Harris, Levitow, Washam &amp; Thompson, 1892).</p>
 <p>The J. C. Wilber, of course, exists only in Warnersâ€™ 1955 â€œMerry Melodyâ€ <i>One Froggy Evening</i> cartoon (while it was written by Michael Maltese and directed by Chuck Jones, four gents named Harris, Levitow, Washam &amp; Thompson were the animators, and thus the buildingâ€™s architects).</p>
 <p>The picture begins with some wholesale rounded arch demolition.  But this faÃ§ade is too elegant to be termed Romanesque Revival; no monochromatic, course, rock-faced exterior for the Wilber.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3166/3305139573_56e532e6f8_o.gif" alt="crashy" height="358" width="497" />
+<img src="http://farm4.static.flickr.com/3166/3305139573_56e532e6f8_o.gif" alt="crashy" height="358" width="497" />
 </p>
 <p>
 For all we know this had a mansard roof and a pedimented pavilion.  Check out the rusticated quoins:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3435/3305139633_92e875f7a8_o.gif" alt="rusty" height="357" width="496" /></p>
-<p>Whatever it was, itâ€™s gone now.  It was 1955; there was <a href="https://www.nyc-architecture.com/GON/GON007.htm" title="itwasaverygoodyear" target="_blank">stuff to be demolished</a>.   But this guy did pry open the cornerstone.
+<img src="http://farm4.static.flickr.com/3435/3305139633_92e875f7a8_o.gif" alt="rusty" height="357" width="496" /></p>
+<p>Whatever it was, itâ€™s gone now.  It was 1955; there was <a href="http://www.nyc-architecture.com/GON/GON007.htm" title="itwasaverygoodyear" target="_blank">stuff to be demolished</a>.   But this guy did pry open the cornerstone.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3551/3305969104_e1498f1140_o.gif" alt="richardpryer" height="357" width="495" /></p>
+<img src="http://farm4.static.flickr.com/3551/3305969104_e1498f1140_o.gif" alt="richardpryer" height="357" width="495" /></p>
 <p>And out pops a frog&#8230;
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3573/3305969182_a516e61972_o.gif" alt="hellomyragtimegal" height="358" width="497" />
+<img src="http://farm4.static.flickr.com/3573/3305969182_a516e61972_o.gif" alt="hellomyragtimegal" height="358" width="497" />
 </p>
 <p>
-&#8230;entombed since 1892 (though he sings <i>Hello! Ma Baby</i> which any schmoe can tell you wasnâ€™t written until â€™99), obviously based on cohort-of-Coolidge <a href="https://www.texasescapes.com/FEATURES/Believe_It/Ol%27_Rip/feature_night_of_the_Iguana.htm" title="theripper" target="_blank">Olâ€™ Rip</a>, and then stuff happens for about six minutes.</p>
+&#8230;entombed since 1892 (though he sings <i>Hello! Ma Baby</i> which any schmoe can tell you wasnâ€™t written until â€™99), obviously based on cohort-of-Coolidge <a href="http://www.texasescapes.com/FEATURES/Believe_It/Ol%27_Rip/feature_night_of_the_Iguana.htm" title="theripper" target="_blank">Olâ€™ Rip</a>, and then stuff happens for about six minutes.</p>
 <p>After some trials, Mr. De-entomber, defiler of cornerstones, appropriately smote, tosses the green accursed thing into the cornerstone of the Tregoweth Brown building, a magnificent corporate skyscraper of sleek modernity, shimmering steel and glass among purple piles of brick:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3524/3305969296_c507cfbbb1_o.gif" alt="shiny" height="337" width="497" /></p>
+<img src="http://farm4.static.flickr.com/3524/3305969296_c507cfbbb1_o.gif" alt="shiny" height="337" width="497" /></p>
 <p>But in one hundred years, when the International Style has apparently gone all moss-colored and post-apocalyptic, and the built environment is replete with perispheres and skybridges and giant snack dishes, the Tregoweth must come down.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3433/3305969246_45e37b1f9a_o.gif" alt="dieZukunft" height="344" width="495" /></p>
-<p>Of course the frog is released from his modernistic mausoleum, and the whole thing begins again (though shouldnâ€™t he be singing schmaltz from the time of his last encasement, <a href="https://www.youtube.com/watch?v=QNF_hGf627c" title="thosebadebadebaareeverywhere" target="_blank">e.g.</a> <i>Close the Door, Theyâ€™re Coming in the Window</i>?) and we assume the man of the future learns eternal lessons, etc.
+<img src="http://farm4.static.flickr.com/3433/3305969246_45e37b1f9a_o.gif" alt="dieZukunft" height="344" width="495" /></p>
+<p>Of course the frog is released from his modernistic mausoleum, and the whole thing begins again (though shouldnâ€™t he be singing schmaltz from the time of his last encasement, <a href="http://www.youtube.com/watch?v=QNF_hGf627c" title="thosebadebadebaareeverywhere" target="_blank">e.g.</a> <i>Close the Door, Theyâ€™re Coming in the Window</i>?) and we assume the man of the future learns eternal lessons, etc.
 </p>
 <p>
 Point being, cornerstones are cool.  </p>
@@ -142,55 +159,55 @@ Point being, cornerstones are cool.  </p>
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/sonsoftherevolution/#comment-91</link>
+		<link>/sonsoftherevolution/#comment-91</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Thu, 19 Feb 2009 17:55:11 +0000</pubDate>
 		<guid isPermaLink="false">#comment-91</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3347/3292797843_8ec28b8541_o.gif&quot; alt=&quot;437closeup&quot; height=&quot;428&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3347/3292797843_8ec28b8541_o.gif&quot; alt=&quot;437closeup&quot; height=&quot;428&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3460/3292797653_9ec7c19797_o.gif&quot; alt=&quot;flyingout&quot; height=&quot;431&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3460/3292797653_9ec7c19797_o.gif&quot; alt=&quot;flyingout&quot; height=&quot;431&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3425/3293450841_dd430c8849_o.gif&quot; alt=&quot;modernlife&quot; height=&quot;288&quot; width=&quot;575&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3425/3293450841_dd430c8849_o.gif&quot; alt=&quot;modernlife&quot; height=&quot;288&quot; width=&quot;575&quot; /&gt; 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3347/3292797843_8ec28b8541_o.gif" alt="437closeup" height="428" width="575" />
+<img src="http://farm4.static.flickr.com/3347/3292797843_8ec28b8541_o.gif" alt="437closeup" height="428" width="575" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3460/3292797653_9ec7c19797_o.gif" alt="flyingout" height="431" width="575" />
+<img src="http://farm4.static.flickr.com/3460/3292797653_9ec7c19797_o.gif" alt="flyingout" height="431" width="575" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3425/3293450841_dd430c8849_o.gif" alt="modernlife" height="288" width="575" /></p>
+<img src="http://farm4.static.flickr.com/3425/3293450841_dd430c8849_o.gif" alt="modernlife" height="288" width="575" /></p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/sonsoftherevolution/#comment-90</link>
+		<link>/sonsoftherevolution/#comment-90</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Thu, 19 Feb 2009 16:29:23 +0000</pubDate>
 		<guid isPermaLink="false">#comment-90</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;https://www.onbunkerhill.org/sonsoftherevolution/#comment-87&quot;&gt;nathan&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/sonsoftherevolution/#comment-87&quot;&gt;nathan&lt;/a&gt;.
 
 &lt;p&gt;
-And &lt;i&gt;yes&lt;/i&gt;, no, we&#039;re not on Bunker Hill, not even on some far-flung part of Figueroa or Hill that one can argue as &#034;Bunker Hill adjacent,&#034; rather, we&#039;re just running with this whole Stimson Block thread, because, ya know, you just can&#039;t own &lt;a href=&quot;https://www.alibris.co.uk/search/books/qwork/852350/used/Bunker%20Hill,%20a%20Los%20Angeles%20Landmark&quot; title=&quot;bh&quot; target=&quot;_blank&quot;&gt;one&lt;/a&gt; without the &lt;a href=&quot;https://www.alibris.com/search/books/qwork/4036230/used/Los%20Angeles%20Before%20the%20Freeways,%201850-1950:%20Images%20of%20an%20Era&quot; title=&quot;freeways&quot; target=&quot;_blank&quot;&gt;other&lt;/a&gt;. 
+And &lt;i&gt;yes&lt;/i&gt;, no, we&#039;re not on Bunker Hill, not even on some far-flung part of Figueroa or Hill that one can argue as &#034;Bunker Hill adjacent,&#034; rather, we&#039;re just running with this whole Stimson Block thread, because, ya know, you just can&#039;t own &lt;a href=&quot;http://www.alibris.co.uk/search/books/qwork/852350/used/Bunker%20Hill,%20a%20Los%20Angeles%20Landmark&quot; title=&quot;bh&quot; target=&quot;_blank&quot;&gt;one&lt;/a&gt; without the &lt;a href=&quot;http://www.alibris.com/search/books/qwork/4036230/used/Los%20Angeles%20Before%20the%20Freeways,%201850-1950:%20Images%20of%20an%20Era&quot; title=&quot;freeways&quot; target=&quot;_blank&quot;&gt;other&lt;/a&gt;. 
 &lt;/p&gt;
 &lt;p&gt;
 Seems the corner on which the the Bryson Block stood (before the War Between the States, site of one of LA&#039;s two public schools) was an empty lot for a dozen years. Here, in a photo dated June 25, 1934, the Bryson is surrounded by its demolition fencing: 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3319/3293815206_ab28b2e8fd_o.gif&quot; alt=&quot;brysonblockdemo34&quot; height=&quot;536&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3319/3293815206_ab28b2e8fd_o.gif&quot; alt=&quot;brysonblockdemo34&quot; height=&quot;536&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3473/3294043910_fe422de498_o.gif&quot; alt=&quot;razinrelix&quot; align=&quot;left&quot; height=&quot;127&quot; width=&quot;236&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3473/3294043910_fe422de498_o.gif&quot; alt=&quot;razinrelix&quot; align=&quot;left&quot; height=&quot;127&quot; width=&quot;236&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Workmen were wrecking the Bryson block, September 5, 1934, when J. J. Fisher, of Western Iron and Metal, peered into an old steel column being yanked for scrap.  Inside, he found copies of the &lt;i&gt;Times&lt;/i&gt;--complete issues dated November 26, 1897 and August 6, 1898.  No mention of singing frogs.
@@ -202,30 +219,30 @@ Workmen were wrecking the Bryson block, September 5, 1934, when J. J. Fisher, of
 That it was demo&#039;d for the Mirror bldng is one thing, but they didn&#039;t break ground for another ten years and change. What was the demo rush?Â  &#039;33 quake damage?  Had the Times intended to build earlier, but their coffers were otherwise occupied?  Well, since it&#039;s not on the Hill, I won&#039;t go too crazy trying to find out.  &lt;br /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3412/3292797991_9c0c5cb2b3_o.gif&quot; alt=&quot;brysonblockmodel&quot; height=&quot;505&quot; width=&quot;575&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3412/3292797991_9c0c5cb2b3_o.gif&quot; alt=&quot;brysonblockmodel&quot; height=&quot;505&quot; width=&quot;575&quot; /&gt; 
 &lt;/p&gt;
 &lt;p&gt;
 Above, that&#039;s the Stimson, big chocolate-brown Block, center near the bottom.  Over its shoulder, the square empty lot, from this 1940 model, is the spare space that existed between the 1934 demolition and Rowland H. Crawford&#039;s ten-story 1948 Late Moderne masterpiece: 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3315/3294114738_0b7f49a214_o.gif&quot; alt=&quot;48crawford&quot; height=&quot;329&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3315/3294114738_0b7f49a214_o.gif&quot; alt=&quot;48crawford&quot; height=&quot;329&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
 &lt;/p&gt;
 ]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://www.onbunkerhill.org/sonsoftherevolution/#comment-87">nathan</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/sonsoftherevolution/#comment-87">nathan</a>.</p>
 <p>
-And <i>yes</i>, no, we&#8217;re not on Bunker Hill, not even on some far-flung part of Figueroa or Hill that one can argue as &quot;Bunker Hill adjacent,&quot; rather, we&#8217;re just running with this whole Stimson Block thread, because, ya know, you just can&#8217;t own <a href="https://www.alibris.co.uk/search/books/qwork/852350/used/Bunker%20Hill,%20a%20Los%20Angeles%20Landmark" title="bh" target="_blank">one</a> without the <a href="https://www.alibris.com/search/books/qwork/4036230/used/Los%20Angeles%20Before%20the%20Freeways,%201850-1950:%20Images%20of%20an%20Era" title="freeways" target="_blank">other</a>.
+And <i>yes</i>, no, we&#8217;re not on Bunker Hill, not even on some far-flung part of Figueroa or Hill that one can argue as &quot;Bunker Hill adjacent,&quot; rather, we&#8217;re just running with this whole Stimson Block thread, because, ya know, you just can&#8217;t own <a href="http://www.alibris.co.uk/search/books/qwork/852350/used/Bunker%20Hill,%20a%20Los%20Angeles%20Landmark" title="bh" target="_blank">one</a> without the <a href="http://www.alibris.com/search/books/qwork/4036230/used/Los%20Angeles%20Before%20the%20Freeways,%201850-1950:%20Images%20of%20an%20Era" title="freeways" target="_blank">other</a>.
 </p>
 <p>
 Seems the corner on which the the Bryson Block stood (before the War Between the States, site of one of LA&#8217;s two public schools) was an empty lot for a dozen years. Here, in a photo dated June 25, 1934, the Bryson is surrounded by its demolition fencing:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3319/3293815206_ab28b2e8fd_o.gif" alt="brysonblockdemo34" height="536" width="575" />
+<img src="http://farm4.static.flickr.com/3319/3293815206_ab28b2e8fd_o.gif" alt="brysonblockdemo34" height="536" width="575" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3473/3294043910_fe422de498_o.gif" alt="razinrelix" align="left" height="127" width="236" />
+<img src="http://farm4.static.flickr.com/3473/3294043910_fe422de498_o.gif" alt="razinrelix" align="left" height="127" width="236" />
 </p>
 <p>
 Workmen were wrecking the Bryson block, September 5, 1934, when J. J. Fisher, of Western Iron and Metal, peered into an old steel column being yanked for scrap.  Inside, he found copies of the <i>Times</i>&#8211;complete issues dated November 26, 1897 and August 6, 1898.  No mention of singing frogs.
@@ -237,13 +254,13 @@ Workmen were wrecking the Bryson block, September 5, 1934, when J. J. Fisher, of
 That it was demo&#8217;d for the Mirror bldng is one thing, but they didn&#8217;t break ground for another ten years and change. What was the demo rush?Â  &#8217;33 quake damage?  Had the Times intended to build earlier, but their coffers were otherwise occupied?  Well, since it&#8217;s not on the Hill, I won&#8217;t go too crazy trying to find out.  
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3412/3292797991_9c0c5cb2b3_o.gif" alt="brysonblockmodel" height="505" width="575" />
+<img src="http://farm4.static.flickr.com/3412/3292797991_9c0c5cb2b3_o.gif" alt="brysonblockmodel" height="505" width="575" />
 </p>
 <p>
 Above, that&#8217;s the Stimson, big chocolate-brown Block, center near the bottom.  Over its shoulder, the square empty lot, from this 1940 model, is the spare space that existed between the 1934 demolition and Rowland H. Crawford&#8217;s ten-story 1948 Late Moderne masterpiece:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3315/3294114738_0b7f49a214_o.gif" alt="48crawford" height="329" width="575" />
+<img src="http://farm4.static.flickr.com/3315/3294114738_0b7f49a214_o.gif" alt="48crawford" height="329" width="575" />
 </p>
 <p>
 &nbsp;</p>
@@ -253,7 +270,7 @@ Above, that&#8217;s the Stimson, big chocolate-brown Block, center near the bott
 		<item>
 		<title>
 		By: nathan		</title>
-		<link>https://www.onbunkerhill.org/sonsoftherevolution/#comment-87</link>
+		<link>/sonsoftherevolution/#comment-87</link>
 
 		<dc:creator><![CDATA[nathan]]></dc:creator>
 		<pubDate>Tue, 17 Feb 2009 12:49:00 +0000</pubDate>
@@ -266,25 +283,25 @@ Alert reader and downtown expert Bert Green saw the tiny 50s pic of the Stimson 
 So the entrance to the Stimson block looked something like this after it was built.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3464/3287849161_cd2861af71_o.gif&quot; alt=&quot;StimsonBaby&quot; height=&quot;226&quot; width=&quot;562&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3464/3287849161_cd2861af71_o.gif&quot; alt=&quot;StimsonBaby&quot; height=&quot;226&quot; width=&quot;562&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 And by the early 50s it looked more like this (a 49 or 50 Ford having replaced the streetcar):
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3398/3288571574_7dc732dd05_o.gif&quot; alt=&quot;Stimsonca1950&quot; height=&quot;414&quot; width=&quot;562&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3398/3288571574_7dc732dd05_o.gif&quot; alt=&quot;Stimsonca1950&quot; height=&quot;414&quot; width=&quot;562&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 And everyone&#039;s gone into hiding by the late 50s and the insallation of the  Paraiso:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3430/3288571512_6c30bb29e0_o.gif&quot; alt=&quot;Stimson59&quot; height=&quot;271&quot; width=&quot;562&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3430/3288571512_6c30bb29e0_o.gif&quot; alt=&quot;Stimson59&quot; height=&quot;271&quot; width=&quot;562&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-...and that&#039;s when Bert said &lt;i&gt;waitaminnit&lt;/i&gt;, I&#039;ve &lt;i&gt;seen&lt;/i&gt; that signage (hey, he&#039;s a &lt;a href=&quot;https://www.bgfa.us/&quot; title=&quot;bgfa&quot; target=&quot;_blank&quot;&gt;downtown guy with a good eye&lt;/a&gt;) -- and forwarded me an image of the Stimson&#039;s neighbor:
+...and that&#039;s when Bert said &lt;i&gt;waitaminnit&lt;/i&gt;, I&#039;ve &lt;i&gt;seen&lt;/i&gt; that signage (hey, he&#039;s a &lt;a href=&quot;http://www.bgfa.us/&quot; title=&quot;bgfa&quot; target=&quot;_blank&quot;&gt;downtown guy with a good eye&lt;/a&gt;) -- and forwarded me an image of the Stimson&#039;s neighbor:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3466/3287828121_9a4ee4d493_o.gif&quot; alt=&quot;thirdmainparaiso&quot; height=&quot;301&quot; width=&quot;562&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3466/3287828121_9a4ee4d493_o.gif&quot; alt=&quot;thirdmainparaiso&quot; height=&quot;301&quot; width=&quot;562&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 ...and I had to kick myself for not making the association.  
@@ -293,19 +310,19 @@ And everyone&#039;s gone into hiding by the late 50s and the insallation of the 
 Now, as long as we&#039;re on the subject of the Stimson neighbor--you&#039;d think that this isn&#039;t the same building.  Justifiably so, but you&#039;d be wrong.  According to City records, this is still the same 1905 building it&#039;s always been:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3537/3287827835_d88d5dc4e3_o.gif&quot; alt=&quot;thirdandmain1950&quot; height=&quot;294&quot; width=&quot;248&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3537/3287827835_d88d5dc4e3_o.gif&quot; alt=&quot;thirdandmain1950&quot; height=&quot;294&quot; width=&quot;248&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3482/3287828183_d5f49ab5e5_o.gif&quot; alt=&quot;thirdandmainnow&quot; height=&quot;213&quot; width=&quot;400&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3482/3287828183_d5f49ab5e5_o.gif&quot; alt=&quot;thirdandmainnow&quot; height=&quot;213&quot; width=&quot;400&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 We are admittedly working with a very loose definition of &lt;i&gt;same&lt;/i&gt;.   Somewhere along the line the building was clad, which is typical enough, but also lost a story.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3507/3287827935_9f6eaf54c0_o.gif&quot; alt=&quot;thirdmainupmain&quot; height=&quot;422&quot; width=&quot;562&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3507/3287827935_9f6eaf54c0_o.gif&quot; alt=&quot;thirdmainupmain&quot; height=&quot;422&quot; width=&quot;562&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3285/3288645080_fa2facc642_o.gif&quot; alt=&quot;upmainnow&quot; height=&quot;363&quot; width=&quot;562&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3285/3288645080_fa2facc642_o.gif&quot; alt=&quot;upmainnow&quot; height=&quot;363&quot; width=&quot;562&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Little known fact for our younger readers:  did you know that many years ago, after the advent of electricity but before Google Maps, we actually had to &lt;i&gt;drive&lt;/i&gt; to these places?  (Back when LA was &lt;i&gt;really&lt;/i&gt; dangerous, what with Quetzalocoatli battling invading Visigothi and everything.)
@@ -321,25 +338,25 @@ Alert reader and downtown expert Bert Green saw the tiny 50s pic of the Stimson 
 So the entrance to the Stimson block looked something like this after it was built.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3464/3287849161_cd2861af71_o.gif" alt="StimsonBaby" height="226" width="562" />
+<img src="http://farm4.static.flickr.com/3464/3287849161_cd2861af71_o.gif" alt="StimsonBaby" height="226" width="562" />
 </p>
 <p>
 And by the early 50s it looked more like this (a 49 or 50 Ford having replaced the streetcar):
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3398/3288571574_7dc732dd05_o.gif" alt="Stimsonca1950" height="414" width="562" />
+<img src="http://farm4.static.flickr.com/3398/3288571574_7dc732dd05_o.gif" alt="Stimsonca1950" height="414" width="562" />
 </p>
 <p>
 And everyone&#8217;s gone into hiding by the late 50s and the insallation of the  Paraiso:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3430/3288571512_6c30bb29e0_o.gif" alt="Stimson59" height="271" width="562" />
+<img src="http://farm4.static.flickr.com/3430/3288571512_6c30bb29e0_o.gif" alt="Stimson59" height="271" width="562" />
 </p>
 <p>
-&#8230;and that&#8217;s when Bert said <i>waitaminnit</i>, I&#8217;ve <i>seen</i> that signage (hey, he&#8217;s a <a href="https://www.bgfa.us/" title="bgfa" target="_blank">downtown guy with a good eye</a>) &#8212; and forwarded me an image of the Stimson&#8217;s neighbor:
+&#8230;and that&#8217;s when Bert said <i>waitaminnit</i>, I&#8217;ve <i>seen</i> that signage (hey, he&#8217;s a <a href="http://www.bgfa.us/" title="bgfa" target="_blank">downtown guy with a good eye</a>) &#8212; and forwarded me an image of the Stimson&#8217;s neighbor:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3466/3287828121_9a4ee4d493_o.gif" alt="thirdmainparaiso" height="301" width="562" />
+<img src="http://farm4.static.flickr.com/3466/3287828121_9a4ee4d493_o.gif" alt="thirdmainparaiso" height="301" width="562" />
 </p>
 <p>
 &#8230;and I had to kick myself for not making the association.
@@ -348,19 +365,19 @@ And everyone&#8217;s gone into hiding by the late 50s and the insallation of the
 Now, as long as we&#8217;re on the subject of the Stimson neighbor&#8211;you&#8217;d think that this isn&#8217;t the same building.  Justifiably so, but you&#8217;d be wrong.  According to City records, this is still the same 1905 building it&#8217;s always been:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3537/3287827835_d88d5dc4e3_o.gif" alt="thirdandmain1950" height="294" width="248" />
+<img src="http://farm4.static.flickr.com/3537/3287827835_d88d5dc4e3_o.gif" alt="thirdandmain1950" height="294" width="248" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3482/3287828183_d5f49ab5e5_o.gif" alt="thirdandmainnow" height="213" width="400" />
+<img src="http://farm4.static.flickr.com/3482/3287828183_d5f49ab5e5_o.gif" alt="thirdandmainnow" height="213" width="400" />
 </p>
 <p>
 We are admittedly working with a very loose definition of <i>same</i>.   Somewhere along the line the building was clad, which is typical enough, but also lost a story.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3507/3287827935_9f6eaf54c0_o.gif" alt="thirdmainupmain" height="422" width="562" />
+<img src="http://farm4.static.flickr.com/3507/3287827935_9f6eaf54c0_o.gif" alt="thirdmainupmain" height="422" width="562" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3285/3288645080_fa2facc642_o.gif" alt="upmainnow" height="363" width="562" />
+<img src="http://farm4.static.flickr.com/3285/3288645080_fa2facc642_o.gif" alt="upmainnow" height="363" width="562" />
 </p>
 <p>
 Little known fact for our younger readers:  did you know that many years ago, after the advent of electricity but before Google Maps, we actually had to <i>drive</i> to these places?  (Back when LA was <i>really</i> dangerous, what with Quetzalocoatli battling invading Visigothi and everything.)

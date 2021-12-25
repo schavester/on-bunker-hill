@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>snipers &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/snipers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/snipers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:42:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>snipers &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Stone Whodunit</title>
-		<link>https://www.onbunkerhill.org/a-stone-whodunit/</link>
-					<comments>https://www.onbunkerhill.org/a-stone-whodunit/#respond</comments>
+		<link>/a-stone-whodunit/</link>
+					<comments>/a-stone-whodunit/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Tue, 08 Jul 2008 21:22:22 +0000</pubDate>
@@ -41,15 +44,15 @@
 		<category><![CDATA[snipers]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[February 28, 1954 205 South Figueroa James Saul Pauge, a 60-year-old newspaper vendor and retired railroad conductor, was murdered in his apartment today under exceptionally puzzling circumstances.Â  Help couldn&#8217;t have arrived any sooner, but it was still too late. Pauge&#8217;s neighbor Louis Jaralillo, a former boxer, heard a shot fired and ran upstairs to Pauge&#8217;s &#8230; <a href="https://www.onbunkerhill.org/a-stone-whodunit/" class="more-link">Continue reading<span class="screen-reader-text"> "A Stone Whodunit"</span></a>]]></description>
+					<description><![CDATA[February 28, 1954 205 South Figueroa James Saul Pauge, a 60-year-old newspaper vendor and retired railroad conductor, was murdered in his apartment today under exceptionally puzzling circumstances.  Help couldn&#8217;t have arrived any sooner, but it was still too late. Pauge&#8217;s neighbor Louis Jaralillo, a former boxer, heard a shot fired and ran upstairs to Pauge&#8217;s &#8230; <a href="/a-stone-whodunit/" class="more-link">Continue reading<span class="screen-reader-text"> "A Stone Whodunit"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>February 28, 1954<br />
 205 South Figueroa</p>
-<p>James Saul Pauge, a 60-year-old newspaper vendor and retired railroad conductor, was murdered in his apartment today under exceptionally puzzling circumstances.Â  Help couldn&#8217;t have arrived any sooner, but it was still too late.</p>
-<p>Pauge&#8217;s neighbor Louis Jaralillo, a former boxer, heard a shot fired and ran upstairs to Pauge&#8217;s apartment to investigate.Â  Pauge stood in front of his open front door, swaying and gesturing towards his back, unable to speak.Â  Almost immediately, he fell over dead of a gunshot wound.Â  The can of soup Pauge was preparing for his dinner was still simmering on the stove.</p>
-<p>The window in Pauge&#8217;s apartment overlooked 2nd Street, and had been left open.Â  Police suspected that a sniper had fired in through the window, and hit Pauge in the back as he stood at the stove.Â  No motive could be established for the killing, and no suspects were apprehended.</p>
+<p>James Saul Pauge, a 60-year-old newspaper vendor and retired railroad conductor, was murdered in his apartment today under exceptionally puzzling circumstances.  Help couldn&#8217;t have arrived any sooner, but it was still too late.</p>
+<p>Pauge&#8217;s neighbor Louis Jaralillo, a former boxer, heard a shot fired and ran upstairs to Pauge&#8217;s apartment to investigate.  Pauge stood in front of his open front door, swaying and gesturing towards his back, unable to speak.  Almost immediately, he fell over dead of a gunshot wound.  The can of soup Pauge was preparing for his dinner was still simmering on the stove.</p>
+<p>The window in Pauge&#8217;s apartment overlooked 2nd Street, and had been left open.  Police suspected that a sniper had fired in through the window, and hit Pauge in the back as he stood at the stove.  No motive could be established for the killing, and no suspects were apprehended.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/a-stone-whodunit/feed/</wfw:commentRss>
+					<wfw:commentRss>/a-stone-whodunit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

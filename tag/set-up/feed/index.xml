@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>set-up &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/set-up/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/set-up/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 21:47:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>set-up &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>In the Death Room</title>
-		<link>https://www.onbunkerhill.org/inthedeathroom/</link>
-					<comments>https://www.onbunkerhill.org/inthedeathroom/#respond</comments>
+		<link>/inthedeathroom/</link>
+					<comments>/inthedeathroom/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 09:44:22 +0000</pubDate>
@@ -49,10 +52,10 @@
 					<description><![CDATA[Location: 310 Clay Street Date: May 3, 1914]]></description>
 										<content:encoded><![CDATA[<p>Location: 310 Clay Street<br />
 Date: May 3, 1914</p>
-<p><a href="https://www.flickr.com/photos/richardschave/2405111659/" title="Shenanigans in Hotel Lorraine Death Room by richardschave, on Flickr"><img loading="lazy" src="https://farm4.static.flickr.com/3001/2405111659_52e16480eb_o.png" alt="Shenanigans in Hotel Lorraine Death Room" height="597" width="635" /></a></p>
+<p><a href="http://www.flickr.com/photos/richardschave/2405111659/" title="Shenanigans in Hotel Lorraine Death Room by richardschave, on Flickr"><img loading="lazy" src="http://farm4.static.flickr.com/3001/2405111659_52e16480eb_o.png" alt="Shenanigans in Hotel Lorraine Death Room" height="597" width="635" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/inthedeathroom/feed/</wfw:commentRss>
+					<wfw:commentRss>/inthedeathroom/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

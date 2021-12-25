@@ -1,26 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
-	Comments on: The Nugent/New Grand Hotel â€“ 257 South Grand	</title>
-	<atom:link href="https://www.onbunkerhill.org/nugentnewgrand/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/nugentnewgrand/</link>
+	Comments on: The Nugent/New Grand Hotel ”“ 257 South Grand	</title>
+	<atom:link href="/nugentnewgrand/feed/" rel="self" type="application/rss+xml" />
+	<link>/nugentnewgrand/</link>
 	<description>A Lost Neighborhood Found</description>
-	<lastBuildDate>Thu, 09 Aug 2018 05:57:26 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Mar 2020 22:47:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
+		By: stellar xlm and ibm merger rumors acquisition		</title>
+		<link>/nugentnewgrand/#comment-54266</link>
+
+		<dc:creator><![CDATA[stellar xlm and ibm merger rumors acquisition]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2020 22:47:27 +0000</pubDate>
+		<guid isPermaLink="false">#comment-54266</guid>
+
+					<description><![CDATA[Ð† have read sÖ… many content regardimg the blogger lvers hlwever thÑ–Ñ• post is genuinely 
+a fastidcious article, Òeep it á¥<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />p.]]></description>
+			<content:encoded><![CDATA[<p>Ð† have read sÖ… many content regardimg the blogger lvers hlwever thÑ–Ñ• post is genuinely<br />
+a fastidcious article, Òeep it á¥™p.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
 		By: Gordon Pattison		</title>
-		<link>https://www.onbunkerhill.org/nugentnewgrand/#comment-21919</link>
+		<link>/nugentnewgrand/#comment-21919</link>
 
 		<dc:creator><![CDATA[Gordon Pattison]]></dc:creator>
 		<pubDate>Thu, 09 Aug 2018 05:57:26 +0000</pubDate>
@@ -34,7 +53,7 @@
 		<item>
 		<title>
 		By: JimDawson		</title>
-		<link>https://www.onbunkerhill.org/nugentnewgrand/#comment-340</link>
+		<link>/nugentnewgrand/#comment-340</link>
 
 		<dc:creator><![CDATA[JimDawson]]></dc:creator>
 		<pubDate>Sun, 06 Jun 2010 13:42:51 +0000</pubDate>

@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>delinquency &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/delinquency/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/delinquency/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 22:09:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>delinquency &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Tough Kid</title>
-		<link>https://www.onbunkerhill.org/atoughkid/</link>
-					<comments>https://www.onbunkerhill.org/atoughkid/#respond</comments>
+		<link>/atoughkid/</link>
+					<comments>/atoughkid/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 24 May 2008 16:04:13 +0000</pubDate>
@@ -42,21 +45,21 @@
 		<category><![CDATA[teen runaways]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 336 South Flower Street Date: January 28, 1932 Raymond Seccord, a 15-year-old Vancouver runaway, flipped out in City Hall&#8217;s juvenile court today after being busted in front of the above address. Refusing to answer any questions, he upended tables, lobbed an inkwell out the window and bit and scratched four detectives as they tried &#8230; <a href="https://www.onbunkerhill.org/atoughkid/" class="more-link">Continue reading<span class="screen-reader-text"> "A Tough Kid"</span></a>]]></description>
+					<description><![CDATA[Location: 336 South Flower Street Date: January 28, 1932 Raymond Seccord, a 15-year-old Vancouver runaway, flipped out in City Hall&#8217;s juvenile court today after being busted in front of the above address. Refusing to answer any questions, he upended tables, lobbed an inkwell out the window and bit and scratched four detectives as they tried &#8230; <a href="/atoughkid/" class="more-link">Continue reading<span class="screen-reader-text"> "A Tough Kid"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 336 South Flower Street<br />
 Date: January 28, 1932</p>
 <p>Raymond Seccord, a 15-year-old Vancouver runaway, flipped out in City Hall&#8217;s juvenile court today after being busted in front of the above address. Refusing to answer any questions, he upended tables, lobbed an inkwell out the window and bit and scratched four detectives as they tried to tackle him. Seccord sneered &quot;I&#8217;m plenty tough. I&#8217;ll probably hang for killing a copper.&quot; Suitably impressed, Judge Blake sent him to County Jail instead of Juvenile Hall, and we will hear no more of this plucky fellow.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/atoughkid/feed/</wfw:commentRss>
+					<wfw:commentRss>/atoughkid/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Boy Burglar Nabbed</title>
-		<link>https://www.onbunkerhill.org/hoytbrown/</link>
-					<comments>https://www.onbunkerhill.org/hoytbrown/#respond</comments>
+		<link>/hoytbrown/</link>
+					<comments>/hoytbrown/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 24 May 2008 15:44:56 +0000</pubDate>
@@ -68,10 +71,10 @@ Date: January 28, 1932</p>
 		<category><![CDATA[jewels]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 330 South Flower Street Date: December 22, 1904 Above, Hoyt Brown in 1910 Arrested at this lodging house in the act of burgling was the dapper, notorious Hoyt Brown (aka Frank Carlson), recently sprung from the Reform School at Whittier, but still rotten. He was about 17 or 18 when, two Augusts back, while &#8230; <a href="https://www.onbunkerhill.org/hoytbrown/" class="more-link">Continue reading<span class="screen-reader-text"> "Boy Burglar Nabbed"</span></a>]]></description>
+					<description><![CDATA[Location: 330 South Flower Street Date: December 22, 1904 Above, Hoyt Brown in 1910 Arrested at this lodging house in the act of burgling was the dapper, notorious Hoyt Brown (aka Frank Carlson), recently sprung from the Reform School at Whittier, but still rotten. He was about 17 or 18 when, two Augusts back, while &#8230; <a href="/hoytbrown/" class="more-link">Continue reading<span class="screen-reader-text"> "Boy Burglar Nabbed"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 330 South Flower Street<br />
 Date: December 22, 1904</p>
-<p><img src="https://farm3.static.flickr.com/2345/2514585923_c9014e0b1e_o.png" /></p>
+<p><img src="http://farm3.static.flickr.com/2345/2514585923_c9014e0b1e_o.png" /></p>
 <div align="center">
 <b>Above, Hoyt Brown in 1910</b>
 </div>
@@ -83,15 +86,15 @@ Arrested at this lodging house in the act of burgling was the dapper, notorious 
 <p>Hoyt Brown will go on to spend his twenties robbing homes from San Francisco to San Diego, between stints in San Quentin and Folsom prisons. He next appears in the local record in June 1910, when he&#8217;s discovered lurking in the closet of Mrs. A. Maurice Low, a visitor from Washington D.C. who&#8217;s stopping at the Stratford Apartments at Sixth and Burlington. Chased from the room by the shrieking Mrs. Low, Brown became an object of interest to the neighborhood. The noise drew the attention of Leon Godshall, a skilled sprinter who was playing lawn tennis nearby. He tossed his racket aside and chased Brown for several blocks, then tackled and held him until police arrived. Brown would unsuccessfully plead insanity over this last pinch, but was almost certainly sent back to prison. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/hoytbrown/feed/</wfw:commentRss>
+					<wfw:commentRss>/hoytbrown/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Red Light Raid</title>
-		<link>https://www.onbunkerhill.org/redlightraid/</link>
-					<comments>https://www.onbunkerhill.org/redlightraid/#respond</comments>
+		<link>/redlightraid/</link>
+					<comments>/redlightraid/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 09:46:28 +0000</pubDate>
@@ -105,7 +108,7 @@ Arrested at this lodging house in the act of burgling was the dapper, notorious 
 		<category><![CDATA[vice]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Location: 310 Clay Street Date: June 15, 1915 The Redlight Abatement Act is now law, and the first establishment to be entered by crowbar, ax and the strong arms of police and DA&#8217;s men was the Hotel Clayton, formerly the Lorraine. The authorities interrupted a gay midnight dinner party and made prisoners of all 25 &#8230; <a href="https://www.onbunkerhill.org/redlightraid/" class="more-link">Continue reading<span class="screen-reader-text"> "Red Light Raid"</span></a>]]></description>
+					<description><![CDATA[Location: 310 Clay Street Date: June 15, 1915 The Redlight Abatement Act is now law, and the first establishment to be entered by crowbar, ax and the strong arms of police and DA&#8217;s men was the Hotel Clayton, formerly the Lorraine. The authorities interrupted a gay midnight dinner party and made prisoners of all 25 &#8230; <a href="/redlightraid/" class="more-link">Continue reading<span class="screen-reader-text"> "Red Light Raid"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 310 Clay Street<br />
 Date: June 15, 1915</p>
 <p>The Redlight Abatement Act is now law, and the first establishment to be entered by crowbar, ax and the strong arms of police and DA&#8217;s men was the Hotel Clayton, formerly the Lorraine. The authorities interrupted a gay midnight dinner party and made prisoners of all 25 inside, including some panic-stricken ladies who begged to be turned loose as their husbands didn&#8217;t know they were out. In all, 17 men and 8 women were seized.</p>
@@ -114,7 +117,7 @@ Date: June 15, 1915</p>
 <p>When the place was called the Lorraine it was site of the murder of the notorious Nellie Buck, Hite&#8217;s shooting of his wife and several suicides, and seems to still be a place of notable ill favor.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/redlightraid/feed/</wfw:commentRss>
+					<wfw:commentRss>/redlightraid/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

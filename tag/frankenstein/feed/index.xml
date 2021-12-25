@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Frankenstein &#8211; On Bunker Hill</title>
-	<atom:link href="https://www.onbunkerhill.org/tag/frankenstein/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/</link>
+	<atom:link href="/tag/frankenstein/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Sun, 13 Mar 2016 18:20:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.onbunkerhill.org/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
 	<title>Frankenstein &#8211; On Bunker Hill</title>
-	<link>https://www.onbunkerhill.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>He&#8217;s Alive!  Alive!</title>
-		<link>https://www.onbunkerhill.org/alivealive/</link>
-					<comments>https://www.onbunkerhill.org/alivealive/#respond</comments>
+		<link>/alivealive/</link>
+					<comments>/alivealive/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 06 Aug 2008 10:10:20 +0000</pubDate>
@@ -43,37 +46,37 @@
 		<category><![CDATA[resurrection]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[March 1, 1922 Death is a very dull, dreary affair, and my advice to you is to have nothing whatsoever to do with it.Â Â Â Â Â Â Â Â Â Â  W. Somerset Maugham No, the title of this tale doesnâ€™t refer to the 1931 film version of Frankenstein; but rather to the experiences of Harold E. Roy, DDS of New York. &#8230; <a href="https://www.onbunkerhill.org/alivealive/" class="more-link">Continue reading<span class="screen-reader-text"> "He&#8217;s Alive!  Alive!"</span></a>]]></description>
+					<description><![CDATA[March 1, 1922 Death is a very dull, dreary affair, and my advice to you is to have nothing whatsoever to do with it.           W. Somerset Maugham No, the title of this tale doesn”™t refer to the 1931 film version of Frankenstein; but rather to the experiences of Harold E. Roy, DDS of New York. &#8230; <a href="/alivealive/" class="more-link">Continue reading<span class="screen-reader-text"> "He&#8217;s Alive!  Alive!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><span style="font-size: 11pt"></span></p>
-<p><span style="font-size: 11pt"><img loading="lazy" border="0" width="338" src="https://farm4.static.flickr.com/3201/2738115901_51ca3d8ecb_o.jpg" alt="alive headline" height="148" /></span></p>
+<p><span style="font-size: 11pt"><img loading="lazy" border="0" width="338" src="http://farm4.static.flickr.com/3201/2738115901_51ca3d8ecb_o.jpg" alt="alive headline" height="148" /></span></p>
 <p><span style="font-size: 11pt">March 1, 1922</span></p>
-<p><span><em>Death is a very dull, dreary affair, and my advice to you is to have nothing whatsoever to do with it.Â Â Â Â Â Â Â Â Â Â  </em></span><span><span style="font-size: 11pt"><strong><st1:place w:st="on">W. Somerset Maugham </st1:place></strong></span></span></p>
-<p><span style="font-size: 11pt"><img loading="lazy" border="0" width="191" src="https://farm4.static.flickr.com/3013/2739121188_d192e37e74_m.jpg" alt="karloff" height="240" /></span></p>
-<p><span style="font-size: 11pt">No, the title of this tale doesnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t refer to the 1931 film version of Frankenstein; but rather to the experiences of Harold E. Roy, DDS of New York.</span></p>
+<p><span><em>Death is a very dull, dreary affair, and my advice to you is to have nothing whatsoever to do with it.           </em></span><span><span style="font-size: 11pt"><strong><st1:place w:st="on">W. Somerset Maugham </st1:place></strong></span></span></p>
+<p><span style="font-size: 11pt"><img loading="lazy" border="0" width="191" src="http://farm4.static.flickr.com/3013/2739121188_d192e37e74_m.jpg" alt="karloff" height="240" /></span></p>
+<p><span style="font-size: 11pt">No, the title of this tale doesn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t refer to the 1931 film version of Frankenstein; but rather to the experiences of Harold E. Roy, DDS of New York.</span></p>
 <p><span style="font-size: 11pt"></span></p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 11pt"></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<span style="font-size: 11pt"></span><span style="font-size: 11pt">Dr. Roy had been canoeing in the <st1:place w:st="on">Hudson River</st1:place> during March of 1921, when he mysteriously disappeared.<img loading="lazy" border="0" align="right" width="240" src="https://farm4.static.flickr.com/3241/2738950680_9b9bdca4eb_m.jpg" alt="canoes" height="196" /><span>Â  </span>Broken bits of his canoe had been recovered, but there was no sign of the dentist, and it was assumed that he had drowned.</span> <span style="font-size: 11pt">Mrs. Roy struggled to adjust to the loss of her husband, but the grieving widow found it impossible to continue living in New York â€“ reminders of her husband were simply too painful, so she moved out to Los Angeles to stay with relatives.</span>
+<span style="font-size: 11pt"></span><span style="font-size: 11pt">Dr. Roy had been canoeing in the <st1:place w:st="on">Hudson River</st1:place> during March of 1921, when he mysteriously disappeared.<img loading="lazy" border="0" align="right" width="240" src="http://farm4.static.flickr.com/3241/2738950680_9b9bdca4eb_m.jpg" alt="canoes" height="196" /><span>  </span>Broken bits of his canoe had been recovered, but there was no sign of the dentist, and it was assumed that he had drowned.</span> <span style="font-size: 11pt">Mrs. Roy struggled to adjust to the loss of her husband, but the grieving widow found it impossible to continue living in New York ”“ reminders of her husband were simply too painful, so she moved out to Los Angeles to stay with relatives.</span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 11pt"></span>
 </p>
 <p><span style="font-size: 11pt"></span></p>
-<p><span style="font-size: 11pt">Nearly a full year passed when suddenly Dr. Harold Roy, the man whom everyone thought was dead, was miraculously reborn in <st1:city w:st="on"><st1:place w:st="on">Kansas City</st1:place></st1:city>. It was as if a cloud had lifted â€“ he remembered who he was, but had no idea where he was, what heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been doing, or how much time had elapsed. He looked down at his clothes and found himself in rough workingmanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s attire. <span>Â </span>He emptied his pockets and discovered some Canadian money.<span>Â  </span>When he finally looked at a calendar, he saw that heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d lost an entire year of his life!</span><span style="font-size: 11pt"><span style="font-size: 11pt"> </span></span><span style="font-size: 11pt"><span style="font-size: 11pt"></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"></p>
+<p><span style="font-size: 11pt">Nearly a full year passed when suddenly Dr. Harold Roy, the man whom everyone thought was dead, was miraculously reborn in <st1:city w:st="on"><st1:place w:st="on">Kansas City</st1:place></st1:city>. It was as if a cloud had lifted ”“ he remembered who he was, but had no idea where he was, what he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been doing, or how much time had elapsed. He looked down at his clothes and found himself in rough workingman”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s attire. <span> </span>He emptied his pockets and discovered some Canadian money.<span>  </span>When he finally looked at a calendar, he saw that he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d lost an entire year of his life!</span><span style="font-size: 11pt"><span style="font-size: 11pt"> </span></span><span style="font-size: 11pt"><span style="font-size: 11pt"></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"></p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 11pt"></span>
 </p>
-<p><span style="font-size: 11pt"><img loading="lazy" border="0" align="left" width="198" src="https://farm4.static.flickr.com/3234/2738950688_138f6af3d1_m.jpg" alt="mark twain" height="240" />Then came the biggest shock of all â€“ he found that heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been reported dead!<span>Â  </span>The same thing had happened to Mark Twain in 1897 when it was erroneously reported that he had succumbed to an illness in <st1:city w:st="on"><st1:place w:st="on">London</st1:place></st1:city>. Twain wrote to a friend and told him that: â€œâ€¦the report of my death was an exaggeration.â€<span>Â Â  </span></span></p>
-<p><span style="font-size: 11pt"><span></span>Dr. Roy wrote to the Swathmore Alumni Association President, David Dwight Rowlands of <st1:place w:st="on"><st1:city w:st="on">Sheboygan</st1:city>, <st1:state w:st="on">Wisconsin</st1:state></st1:place> and said: <span>Â </span>â€œDear Dave: Sit down here before I knock you down with the news I am writing you. This is neither a ghost, nor story writing, but my own hand; just me â€“ Harold E. Roy, Swarthmore, â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />09.&quot;</span></p>
-<p><span style="font-size: 11pt"></span><span style="font-size: 11pt"><span style="font-size: 11pt">The dentist had a fairly recent scar on his head, and pain in his right temple, but otherwise seemed to be none the worse for whatever heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d gone through in the year that heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d spent as a dead man. </span><span style="font-size: 11pt"><st1:city w:st="on"><span style="font-size: 11pt">Roy</span></st1:city><span style="font-size: 11pt"> went on to tell his friend Dave that since he had regained his senses and returned to life, he had telegraphed relatives and located his wife at her new home at <st1:street w:st="on"><st1:address w:st="on">317 South Olive Street</st1:address></st1:street> in <st1:city w:st="on"><st1:place w:st="on">Los Angeles</st1:place></st1:city>. Dr. and Mrs. Roy had been reunited, and the couple was happy to be together again.</span></span></span></p>
-<p><span style="font-size: 11pt"><span style="font-size: 11pt"><span style="font-size: 11pt"></span></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"><span style="font-size: 11pt"><span style="font-size: 11pt">However, while Dr. Roy was speedily recovering from his ordeal, poor Mrs. Roy found it difficult to adjust to<img loading="lazy" border="0" align="right" width="240" src="https://farm4.static.flickr.com/3235/2738281697_06c48d0147_m.jpg" alt="villagers" height="180" /> her spouseâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s unprecedented resurrection. Perhaps it was the strain of being constantly on the lookout for torch-wielding villagers.<o:p></o:p></span><span style="font-size: 11pt"><o:p>Â </o:p></span> </span></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"><span style="font-size: 11pt"></p>
+<p><span style="font-size: 11pt"><img loading="lazy" border="0" align="left" width="198" src="http://farm4.static.flickr.com/3234/2738950688_138f6af3d1_m.jpg" alt="mark twain" height="240" />Then came the biggest shock of all ”“ he found that he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been reported dead!<span>  </span>The same thing had happened to Mark Twain in 1897 when it was erroneously reported that he had succumbed to an illness in <st1:city w:st="on"><st1:place w:st="on">London</st1:place></st1:city>. Twain wrote to a friend and told him that: “”¦the report of my death was an exaggeration.”<span>   </span></span></p>
+<p><span style="font-size: 11pt"><span></span>Dr. Roy wrote to the Swathmore Alumni Association President, David Dwight Rowlands of <st1:place w:st="on"><st1:city w:st="on">Sheboygan</st1:city>, <st1:state w:st="on">Wisconsin</st1:state></st1:place> and said: <span> </span>“Dear Dave: Sit down here before I knock you down with the news I am writing you. This is neither a ghost, nor story writing, but my own hand; just me ”“ Harold E. Roy, Swarthmore, ”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />09.&quot;</span></p>
+<p><span style="font-size: 11pt"></span><span style="font-size: 11pt"><span style="font-size: 11pt">The dentist had a fairly recent scar on his head, and pain in his right temple, but otherwise seemed to be none the worse for whatever he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d gone through in the year that he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d spent as a dead man. </span><span style="font-size: 11pt"><st1:city w:st="on"><span style="font-size: 11pt">Roy</span></st1:city><span style="font-size: 11pt"> went on to tell his friend Dave that since he had regained his senses and returned to life, he had telegraphed relatives and located his wife at her new home at <st1:street w:st="on"><st1:address w:st="on">317 South Olive Street</st1:address></st1:street> in <st1:city w:st="on"><st1:place w:st="on">Los Angeles</st1:place></st1:city>. Dr. and Mrs. Roy had been reunited, and the couple was happy to be together again.</span></span></span></p>
+<p><span style="font-size: 11pt"><span style="font-size: 11pt"><span style="font-size: 11pt"></span></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"><span style="font-size: 11pt"><span style="font-size: 11pt">However, while Dr. Roy was speedily recovering from his ordeal, poor Mrs. Roy found it difficult to adjust to<img loading="lazy" border="0" align="right" width="240" src="http://farm4.static.flickr.com/3235/2738281697_06c48d0147_m.jpg" alt="villagers" height="180" /> her spouse”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s unprecedented resurrection. Perhaps it was the strain of being constantly on the lookout for torch-wielding villagers.<o:p></o:p></span><span style="font-size: 11pt"><o:p> </o:p></span> </span></span></span><span style="font-size: 11pt"><span style="font-size: 11pt"><span style="font-size: 11pt"></p>
 <p>&nbsp;</p>
 <p></span></span></span></span></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.onbunkerhill.org/alivealive/feed/</wfw:commentRss>
+					<wfw:commentRss>/alivealive/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

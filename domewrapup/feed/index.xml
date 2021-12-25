@@ -1,42 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
 	<title>
 	Comments on: Dome Wrap-Up	</title>
-	<atom:link href="https://www.onbunkerhill.org/domewrapup/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.onbunkerhill.org/domewrapup/</link>
+	<atom:link href="/domewrapup/feed/" rel="self" type="application/rss+xml" />
+	<link>/domewrapup/</link>
 	<description>A Lost Neighborhood Found</description>
 	<lastBuildDate>Wed, 24 Feb 2016 20:05:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
 		By: John Bengtson		</title>
-		<link>https://www.onbunkerhill.org/domewrapup/#comment-353</link>
+		<link>/domewrapup/#comment-353</link>
 
 		<dc:creator><![CDATA[John Bengtson]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2011 13:01:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-353</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://www.flickr.com/photos/46406931@N03/6066792882/&quot; /&gt;
+&lt;img src=&quot;http://www.flickr.com/photos/46406931@N03/6066792882/&quot; /&gt;
 The Dome appears up the block in this scene from the early Hal Roach - Ernie (Sunshine Sammy) Morrison comedy &lt;i&gt;Non-Skid Kid &lt;/i&gt;(1922). Â The frame was taken at the intersection of 3rd and Grand, and looks north up towards 2nd.Â 
 &lt;/p&gt;
-&lt;a href=&quot;https://www.flickr.com/photos/46406931@N03/6059591217/&quot; title=&quot;032 - PDVD_017 by SilentEchoes57, on Flickr&quot;&gt;&lt;img src=&quot;https://farm7.static.flickr.com/6195/6059591217_6847ebd433.jpg&quot; alt=&quot;032 - PDVD_017&quot; height=&quot;400&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/46406931@N03/6059591217/&quot; title=&quot;032 - PDVD_017 by SilentEchoes57, on Flickr&quot;&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6195/6059591217_6847ebd433.jpg&quot; alt=&quot;032 - PDVD_017&quot; height=&quot;400&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://www.flickr.com/photos/46406931@N03/6066792882/" /><br />
+<img src="http://www.flickr.com/photos/46406931@N03/6066792882/" /><br />
 The Dome appears up the block in this scene from the early Hal Roach &#8211; Ernie (Sunshine Sammy) Morrison comedy <i>Non-Skid Kid </i>(1922). Â The frame was taken at the intersection of 3rd and Grand, and looks north up towards 2nd.Â 
 </p>
-<p><a href="https://www.flickr.com/photos/46406931@N03/6059591217/" title="032 - PDVD_017 by SilentEchoes57, on Flickr"><img src="https://farm7.static.flickr.com/6195/6059591217_6847ebd433.jpg" alt="032 - PDVD_017" height="400" width="500" /></a></p>
+<p><a href="http://www.flickr.com/photos/46406931@N03/6059591217/" title="032 - PDVD_017 by SilentEchoes57, on Flickr"><img src="http://farm7.static.flickr.com/6195/6059591217_6847ebd433.jpg" alt="032 - PDVD_017" height="400" width="500" /></a></p>
 ]]></content:encoded>
 		
 			</item>
