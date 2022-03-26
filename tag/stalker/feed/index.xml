@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -47,7 +47,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: August 13, 1933 The newlyweds kept a modest apartment here at the Alta Vista. Oh, it may have been something of a step down in the world for bride Harriet Fencel Easton Allen, 25, who had attended USC and UCLA and studied art for two years in Europe, &#8230; <a href="/mrsallen/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Allen Slain By Ex-Beau"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2388293092/" title="Picture 1 by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2360/2388293092_09e57851d0_o.png" alt="Picture 1" height="285" width="147" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2388293092/" title="Picture 1 by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2360/2388293092_09e57851d0_o.png" alt="Picture 1" height="285" width="147" /></a></p>
 <p>Location: 255 South Bunker Hill Avenue<br />
 Date: August 13, 1933</p>
 <p>The newlyweds kept a modest apartment here at the Alta Vista. Oh, it may have been something of a step down in the world for bride Harriet Fencel Easton Allen, 25, who had attended USC and UCLA and studied art for two years in Europe, and whose father John was former superintendent of the L.A. Athletic Club and manager of the Jonathan Club, but then again, it was convenient to husband Robert Allen&#8217;s cafe at 257 South Olive.</p>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
@@ -30,17 +30,17 @@
 		<guid isPermaLink="false">#comment-97</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3545/3293622334_213ceb0924.jpg&quot; alt=&quot;trentonmod&quot; height=&quot;466&quot; width=&quot;500&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3545/3293622334_213ceb0924.jpg&quot; alt=&quot;trentonmod&quot; height=&quot;466&quot; width=&quot;500&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-The Trenton in 1940, dwarfed by the 1924 Pacific Telephone and Telegraph Company Mutual Exchange, which has a giant &lt;a href=&quot;https://atcaonline.com/phone/we202.html&quot; title=&quot;withthee1&quot; target=&quot;_blank&quot;&gt;202 set&lt;/a&gt; on it.   On its other side, the &lt;a href=&quot;/wheresthemunny#comment-85&quot; title=&quot;trentatious&quot; target=&quot;_blank&quot;&gt;Olive St. Bus Depot&lt;/a&gt; (414 S Grand behind that).  Poking up in the foreground, from Fifth and Hill, the &lt;a href=&quot;https://titleguaranteebuilding.com/history.php&quot; title=&quot;TG&quot; target=&quot;_blank&quot;&gt;Title Guarantee&lt;/a&gt;. 
+The Trenton in 1940, dwarfed by the 1924 Pacific Telephone and Telegraph Company Mutual Exchange, which has a giant &lt;a href=&quot;http://atcaonline.com/phone/we202.html&quot; title=&quot;withthee1&quot; target=&quot;_blank&quot;&gt;202 set&lt;/a&gt; on it.   On its other side, the &lt;a href=&quot;/wheresthemunny#comment-85&quot; title=&quot;trentatious&quot; target=&quot;_blank&quot;&gt;Olive St. Bus Depot&lt;/a&gt; (414 S Grand behind that).  Poking up in the foreground, from Fifth and Hill, the &lt;a href=&quot;http://titleguaranteebuilding.com/history.php&quot; title=&quot;TG&quot; target=&quot;_blank&quot;&gt;Title Guarantee&lt;/a&gt;. 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3545/3293622334_213ceb0924.jpg" alt="trentonmod" height="466" width="500" />
+<img src="http://farm4.static.flickr.com/3545/3293622334_213ceb0924.jpg" alt="trentonmod" height="466" width="500" />
 </p>
 <p>
-The Trenton in 1940, dwarfed by the 1924 Pacific Telephone and Telegraph Company Mutual Exchange, which has a giant <a href="https://atcaonline.com/phone/we202.html" title="withthee1" target="_blank">202 set</a> on it.   On its other side, the <a href="/wheresthemunny#comment-85" title="trentatious" target="_blank">Olive St. Bus Depot</a> (414 S Grand behind that).  Poking up in the foreground, from Fifth and Hill, the <a href="https://titleguaranteebuilding.com/history.php" title="TG" target="_blank">Title Guarantee</a>.</p>
+The Trenton in 1940, dwarfed by the 1924 Pacific Telephone and Telegraph Company Mutual Exchange, which has a giant <a href="http://atcaonline.com/phone/we202.html" title="withthee1" target="_blank">202 set</a> on it.   On its other side, the <a href="/wheresthemunny#comment-85" title="trentatious" target="_blank">Olive St. Bus Depot</a> (414 S Grand behind that).  Poking up in the foreground, from Fifth and Hill, the <a href="http://titleguaranteebuilding.com/history.php" title="TG" target="_blank">Title Guarantee</a>.</p>
 ]]></content:encoded>
 		
 			</item>
@@ -57,14 +57,14 @@ The Trenton in 1940, dwarfed by the 1924 Pacific Telephone and Telegraph Company
 They finally decided that this motto was better than &#034;ONE HALF BLOCK FROM A HOTEL YOU&#039;D PROBABLY RATHER STAY AT.&#034; 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3348/3237310488_f4deda3b1a_o.gif&quot; alt=&quot;Trenton&quot; height=&quot;632&quot; width=&quot;400&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3348/3237310488_f4deda3b1a_o.gif&quot; alt=&quot;Trenton&quot; height=&quot;632&quot; width=&quot;400&quot; /&gt; 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
 They finally decided that this motto was better than &quot;ONE HALF BLOCK FROM A HOTEL YOU&#8217;D PROBABLY RATHER STAY AT.&quot;
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3348/3237310488_f4deda3b1a_o.gif" alt="Trenton" height="632" width="400" /></p>
+<img src="http://farm4.static.flickr.com/3348/3237310488_f4deda3b1a_o.gif" alt="Trenton" height="632" width="400" /></p>
 ]]></content:encoded>
 		
 			</item>

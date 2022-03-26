@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -50,11 +50,11 @@
 										<content:encoded><![CDATA[<p><b>*[Update to this post: after reviewing other newly digitzed footage shot on the same day as the Wall of Death discussed below, George Mann&#8217;s son Brad Smith now believes that this footage was actually shot at the <i>Oakland</i> Orpheum Theatre, sometime between March 31-April 6, 1928. The act and the players were identical to what was seen in March 1928 in Los Angeles.]</b></p>
 <p>Today On Bunker Hill is proud to present another little something special from the archives of George Mann, an artifact that predates his astonishing <a href="/georgemannshop" target="_blank" rel="noopener">color photographs</a> of Bunker Hill by about thirty years.</p>
 <p>In March 1928, the comedic dance team of Barto &amp; Mann were billed on the vaudeville stage of Los Angeles&#8217; Orpheum Theatre with a slew of acts who are today mostly forgotten, but who had reached the top of a very competitive entertainment industry. It was during this run that the very-small-and-awful-tall Barto &amp; Mann were praised by the <i>L.A. Times</i> as &#8220;a knockout team.&#8221;</p>
-<p><img src="https://farm5.static.flickr.com/4053/4653170710_c9ba1e7084.jpg" alt="" /></p>
-<p>A not-yet-39 Jack Benny was on the bill, as was the magician <a href="https://www.youtube.com/watch?v=sVe7chIgn0w" target="_blank" rel="noopener">Cardini</a> (still billed as &#8220;The Gay Deceiver;&#8221; later on, he became &#8220;Suave&#8221;). <a href="https://www.youtube.com/watch?v=aQvZUltlRRw&amp;feature=related" target="_blank" rel="noopener">Charlotte Greenwood</a> appeared &#8220;in her morning bath&#8221; &#8212; a bit in which the dancer-comedienne was forever stopped from disrobing by the inopportune arrival of a range of visitors. Also appearing were the pratfalling comic <a href="https://www.youtube.com/watch?v=9qPkJag707o&amp;feature=relmfu" target="_blank" rel="noopener">Lupino Lane</a> (Ida&#8217;s uncle), <a href="https://www.imdb.com/name/nm0875877/" target="_blank" rel="noopener">Harland Tucker</a> and <a href="https://content.lib.washington.edu/cdm4/item_viewer.php?CISOROOT=/sayrepublic&amp;CISOPTR=2974&amp;CISOBOX=1&amp;REC=8" target="_blank" rel="noopener">Carl McCullough</a> singing &#8220;When I Was a Dandy and You Were a Belle.&#8221;</p>
-<p>Then there was the <a href="https://www.thewallofdeath.co.uk/early44.htm" target="_blank" rel="noopener">Tom Davies Trio</a>&#8211;up at the top of the bill, but something of a mystery until the film snippet below was digitized by George Mann&#8217;s son Brad Smith, some 84 years after his father captured this astonishing scene.</p>
-<p>Friends, we bring you the celebrated and terrifying <a href="https://en.wikipedia.org/wiki/Wall_of_death_(carnival_sideshow)" target="_blank" rel="noopener">Wall of Death</a>, live on the Orpheum stage! And in July 2012, you can see the first <a href="https://lavatransforms.org/mann7122012" target="_blank" rel="noopener">exhibition</a> anywhere of George Mann&#8217;s Bunker Hill photographs, just steps away from the Orpheum at the Take My Picture gallery.</p>
-<p><iframe loading="lazy" src="https://www.youtube.com/embed/KUYAagxb7rY" width="480" height="360" frameborder="0"></iframe></p>
+<p><img src="http://farm5.static.flickr.com/4053/4653170710_c9ba1e7084.jpg" alt="" /></p>
+<p>A not-yet-39 Jack Benny was on the bill, as was the magician <a href="http://www.youtube.com/watch?v=sVe7chIgn0w" target="_blank" rel="noopener">Cardini</a> (still billed as &#8220;The Gay Deceiver;&#8221; later on, he became &#8220;Suave&#8221;). <a href="http://www.youtube.com/watch?v=aQvZUltlRRw&amp;feature=related" target="_blank" rel="noopener">Charlotte Greenwood</a> appeared &#8220;in her morning bath&#8221; &#8212; a bit in which the dancer-comedienne was forever stopped from disrobing by the inopportune arrival of a range of visitors. Also appearing were the pratfalling comic <a href="http://www.youtube.com/watch?v=9qPkJag707o&amp;feature=relmfu" target="_blank" rel="noopener">Lupino Lane</a> (Ida&#8217;s uncle), <a href="http://www.imdb.com/name/nm0875877/" target="_blank" rel="noopener">Harland Tucker</a> and <a href="http://content.lib.washington.edu/cdm4/item_viewer.php?CISOROOT=/sayrepublic&amp;CISOPTR=2974&amp;CISOBOX=1&amp;REC=8" target="_blank" rel="noopener">Carl McCullough</a> singing &#8220;When I Was a Dandy and You Were a Belle.&#8221;</p>
+<p>Then there was the <a href="http://www.thewallofdeath.co.uk/early44.htm" target="_blank" rel="noopener">Tom Davies Trio</a>&#8211;up at the top of the bill, but something of a mystery until the film snippet below was digitized by George Mann&#8217;s son Brad Smith, some 84 years after his father captured this astonishing scene.</p>
+<p>Friends, we bring you the celebrated and terrifying <a href="http://en.wikipedia.org/wiki/Wall_of_death_(carnival_sideshow)" target="_blank" rel="noopener">Wall of Death</a>, live on the Orpheum stage! And in July 2012, you can see the first <a href="http://lavatransforms.org/mann7122012" target="_blank" rel="noopener">exhibition</a> anywhere of George Mann&#8217;s Bunker Hill photographs, just steps away from the Orpheum at the Take My Picture gallery.</p>
+<p><iframe loading="lazy" src="http://www.youtube.com/embed/KUYAagxb7rY" width="480" height="360" frameborder="0"></iframe></p>
 ]]></content:encoded>
 					
 		

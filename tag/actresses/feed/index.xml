@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -49,7 +49,7 @@
 <p>First there&#8217;s the Melrose Hotel&#8217;s parttime switchboard operator, Anna Pearce, a former singer on the Considine vaudeville circuit around the turn of the century.</p>
 <p>The hotel is also home to Juliet de Grazi, a Swahili-speaking Austrian-born soprano who toured with a Belgian opera company through the cities of East Africa.  In 1952, de Grazi was simply passing<br />
 through the Melrose.  She had recently won a large settlement in an automobile accident, and was planning to return to East Africa where her husband was buried.</p>
-<p>And Beulah Monroe was a fixture on the local theatre scene, making her debut in Oscar Wilde&#8217;s <i>The Ideal Husband</i> in 1919, opposite <a href="https://en.wikipedia.org/wiki/Edward_Everett_Horton" title="norton" target="_blank" rel="noopener">Edward Everett Horton</a>.  She appeared frequently at the Little Theatre at Figueroa and Pico, and also acted with Florence Roberts, <a href="https://en.wikipedia.org/wiki/Wallace_Beery" title="beery" target="_blank" rel="noopener">Wallace Beery</a>, and Neely Edwards during her career.</p>
+<p>And Beulah Monroe was a fixture on the local theatre scene, making her debut in Oscar Wilde&#8217;s <i>The Ideal Husband</i> in 1919, opposite <a href="http://en.wikipedia.org/wiki/Edward_Everett_Horton" title="norton" target="_blank" rel="noopener">Edward Everett Horton</a>.  She appeared frequently at the Little Theatre at Figueroa and Pico, and also acted with Florence Roberts, <a href="http://en.wikipedia.org/wiki/Wallace_Beery" title="beery" target="_blank" rel="noopener">Wallace Beery</a>, and Neely Edwards during her career.</p>
 <p>For more on <a href="/burnmelroseburn" title="melrose" target="_blank" rel="noopener">the Melrose</a> and <a href="/girlswannahavefun" title="girls">its exciting inhabitants</a>, take a look at what Joan and Nathan have had to say about mysterious fires, rowdy teen girls, and the tragic march of progress.</p>
 ]]></content:encoded>
 					

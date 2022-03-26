@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
@@ -30,7 +30,7 @@
 		<guid isPermaLink="false">#comment-79</guid>
 
 					<description><![CDATA[&lt;p&gt;
-When people bandy about video directors, there&#039;s a lot of talk about Mark Romanek, Spike Jonze, and of course David Fincher, bless &#039;em all.  But who or what, in my humble estimation, can compare to Larry Harnisch and his &lt;span id=&quot;details-title&quot;&gt;&lt;a href=&quot;https://video.google.com/videoplay?docid=-5648072079597433866&#038;hl=en&quot; title=&quot;AWIOLA&quot; target=&quot;_blank&quot;&gt;&lt;i&gt;A Walk in Old Los Angeles&lt;/i&gt;&lt;/a&gt;?&lt;/span&gt;
+When people bandy about video directors, there&#039;s a lot of talk about Mark Romanek, Spike Jonze, and of course David Fincher, bless &#039;em all.  But who or what, in my humble estimation, can compare to Larry Harnisch and his &lt;span id=&quot;details-title&quot;&gt;&lt;a href=&quot;http://video.google.com/videoplay?docid=-5648072079597433866&#038;hl=en&quot; title=&quot;AWIOLA&quot; target=&quot;_blank&quot;&gt;&lt;i&gt;A Walk in Old Los Angeles&lt;/i&gt;&lt;/a&gt;?&lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
@@ -38,7 +38,7 @@ When people bandy about video directors, there&#039;s a lot of talk about Mark R
 &lt;span id=&quot;details-title&quot;&gt;&lt;/span&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-When people bandy about video directors, there&#8217;s a lot of talk about Mark Romanek, Spike Jonze, and of course David Fincher, bless &#8217;em all.  But who or what, in my humble estimation, can compare to Larry Harnisch and his <span id="details-title"><a href="https://video.google.com/videoplay?docid=-5648072079597433866&amp;hl=en" title="AWIOLA" target="_blank"><i>A Walk in Old Los Angeles</i></a>?</span>
+When people bandy about video directors, there&#8217;s a lot of talk about Mark Romanek, Spike Jonze, and of course David Fincher, bless &#8217;em all.  But who or what, in my humble estimation, can compare to Larry Harnisch and his <span id="details-title"><a href="http://video.google.com/videoplay?docid=-5648072079597433866&amp;hl=en" title="AWIOLA" target="_blank"><i>A Walk in Old Los Angeles</i></a>?</span>
 </p>
 <p>
 &nbsp;

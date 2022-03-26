@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
@@ -31,13 +31,13 @@
 
 					<description><![CDATA[It wasnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t that gay folk bunked on Bunker exclusively at 221â€”but 221 was an important touchstone in the gay movement.&lt;br /&gt;
 &lt;br /&gt;
-221 South Bunker Hill was the home of Tony Reyes, aka Antonio Sanchez, life-partner of â€œDauntlessâ€ &lt;a href=&quot;https://www.outhistory.org/wiki/Don_Slater&quot; title=&quot;DDS&quot; target=&quot;_blank&quot;&gt;Don Slater&lt;/a&gt;. &lt;br /&gt;
+221 South Bunker Hill was the home of Tony Reyes, aka Antonio Sanchez, life-partner of â€œDauntlessâ€ &lt;a href=&quot;http://www.outhistory.org/wiki/Don_Slater&quot; title=&quot;DDS&quot; target=&quot;_blank&quot;&gt;Don Slater&lt;/a&gt;. &lt;br /&gt;
 &lt;i&gt;&lt;br /&gt;
 One spring night in 1945, when Slater was twenty-one years old, he went cruising in nearby Pershing Square, where he met a slender Hispanic boy of about sixteen named Antonio Sanchez.  As Slater described the meeting to Hansen, the two repeatedly bumped into each other while prowling through the bushes. â€œWhat! You again?â€ they laughed. They joked that they must have been meant for each other, and indeed, they were to remain partners until Slaterâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s death nearly fifty-two years later. After living together for a while in a ski lodge belonging to Slaterâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s parents, Slater and Sanchez moved into an apartment at 221 South Bunker Hill Avenue, in one of the Victorian mansions Slater admired. &lt;/i&gt;&lt;br /&gt;
 &lt;br /&gt;
-In fact, Joseph Hansenâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s biography of Slater, &lt;i&gt;&lt;a href=&quot;https://gaytoday.com/garchive/reviews/040698re.htm&quot; title=&quot;afdwoh&quot; target=&quot;_blank&quot;&gt;A Few Doors West of Hope&lt;/a&gt;&lt;/i&gt;, is so named because 221 was just that (truth be told, 221 was a stoneâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s throw &lt;i&gt;east&lt;/i&gt; of Hope St., but we must suppose &lt;i&gt;west&lt;/i&gt; comes off more mellifluously).&lt;br /&gt;
+In fact, Joseph Hansenâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s biography of Slater, &lt;i&gt;&lt;a href=&quot;http://gaytoday.com/garchive/reviews/040698re.htm&quot; title=&quot;afdwoh&quot; target=&quot;_blank&quot;&gt;A Few Doors West of Hope&lt;/a&gt;&lt;/i&gt;, is so named because 221 was just that (truth be told, 221 was a stoneâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s throw &lt;i&gt;east&lt;/i&gt; of Hope St., but we must suppose &lt;i&gt;west&lt;/i&gt; comes off more mellifluously).&lt;br /&gt;
 &lt;br /&gt;
-Note Sanchezâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 221 address on the 1953 &lt;a href=&quot;https://www.outhistory.org/wiki/ONE%2C_Incorporated%E2%80%99s_Articles_of_Incorporation&quot; title=&quot;AOI&quot; target=&quot;_blank&quot;&gt;Articles of Incorporation&lt;/a&gt; for &lt;a href=&quot;https://en.wikipedia.org/wiki/ONE,_Inc.&quot; title=&quot;nottheloneliestnumberapparently&quot; target=&quot;_blank&quot;&gt;One&lt;/a&gt;, and outgrowth  of â€œhomophile collectiveâ€ &lt;a href=&quot;https://en.wikipedia.org/wiki/Mattachine_Society&quot; title=&quot;MatSoc&quot; target=&quot;_blank&quot;&gt;Mattachine Society&lt;/a&gt;  (founder Harry Hay details another Pershing Square encounter &lt;a href=&quot;https://www.outhistory.org/wiki/Harry_Hay:_Founding_the_Mattachine_Society%2C_1948-1953#Early_Life&quot; title=&quot;goodoldpershingsquare&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;).&lt;br /&gt;
+Note Sanchezâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 221 address on the 1953 &lt;a href=&quot;http://www.outhistory.org/wiki/ONE%2C_Incorporated%E2%80%99s_Articles_of_Incorporation&quot; title=&quot;AOI&quot; target=&quot;_blank&quot;&gt;Articles of Incorporation&lt;/a&gt; for &lt;a href=&quot;http://en.wikipedia.org/wiki/ONE,_Inc.&quot; title=&quot;nottheloneliestnumberapparently&quot; target=&quot;_blank&quot;&gt;One&lt;/a&gt;, and outgrowth  of â€œhomophile collectiveâ€ &lt;a href=&quot;http://en.wikipedia.org/wiki/Mattachine_Society&quot; title=&quot;MatSoc&quot; target=&quot;_blank&quot;&gt;Mattachine Society&lt;/a&gt;  (founder Harry Hay details another Pershing Square encounter &lt;a href=&quot;http://www.outhistory.org/wiki/Harry_Hay:_Founding_the_Mattachine_Society%2C_1948-1953#Early_Life&quot; title=&quot;goodoldpershingsquare&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;).&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -47,11 +47,11 @@ Note Sanchezâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.p
 &lt;br /&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>It wasnâ€™t that gay folk bunked on Bunker exclusively at 221â€”but 221 was an important touchstone in the gay movement.</p>
-<p>221 South Bunker Hill was the home of Tony Reyes, aka Antonio Sanchez, life-partner of â€œDauntlessâ€ <a href="https://www.outhistory.org/wiki/Don_Slater" title="DDS" target="_blank">Don Slater</a>. <br />
+<p>221 South Bunker Hill was the home of Tony Reyes, aka Antonio Sanchez, life-partner of â€œDauntlessâ€ <a href="http://www.outhistory.org/wiki/Don_Slater" title="DDS" target="_blank">Don Slater</a>. <br />
 <i><br />
 One spring night in 1945, when Slater was twenty-one years old, he went cruising in nearby Pershing Square, where he met a slender Hispanic boy of about sixteen named Antonio Sanchez.  As Slater described the meeting to Hansen, the two repeatedly bumped into each other while prowling through the bushes. â€œWhat! You again?â€ they laughed. They joked that they must have been meant for each other, and indeed, they were to remain partners until Slaterâ€™s death nearly fifty-two years later. After living together for a while in a ski lodge belonging to Slaterâ€™s parents, Slater and Sanchez moved into an apartment at 221 South Bunker Hill Avenue, in one of the Victorian mansions Slater admired. </i></p>
-<p>In fact, Joseph Hansenâ€™s biography of Slater, <i><a href="https://gaytoday.com/garchive/reviews/040698re.htm" title="afdwoh" target="_blank">A Few Doors West of Hope</a></i>, is so named because 221 was just that (truth be told, 221 was a stoneâ€™s throw <i>east</i> of Hope St., but we must suppose <i>west</i> comes off more mellifluously).</p>
-<p>Note Sanchezâ€™s 221 address on the 1953 <a href="https://www.outhistory.org/wiki/ONE%2C_Incorporated%E2%80%99s_Articles_of_Incorporation" title="AOI" target="_blank">Articles of Incorporation</a> for <a href="https://en.wikipedia.org/wiki/ONE,_Inc." title="nottheloneliestnumberapparently" target="_blank">One</a>, and outgrowth  of â€œhomophile collectiveâ€ <a href="https://en.wikipedia.org/wiki/Mattachine_Society" title="MatSoc" target="_blank">Mattachine Society</a>  (founder Harry Hay details another Pershing Square encounter <a href="https://www.outhistory.org/wiki/Harry_Hay:_Founding_the_Mattachine_Society%2C_1948-1953#Early_Life" title="goodoldpershingsquare" target="_blank">here</a>).</p>
+<p>In fact, Joseph Hansenâ€™s biography of Slater, <i><a href="http://gaytoday.com/garchive/reviews/040698re.htm" title="afdwoh" target="_blank">A Few Doors West of Hope</a></i>, is so named because 221 was just that (truth be told, 221 was a stoneâ€™s throw <i>east</i> of Hope St., but we must suppose <i>west</i> comes off more mellifluously).</p>
+<p>Note Sanchezâ€™s 221 address on the 1953 <a href="http://www.outhistory.org/wiki/ONE%2C_Incorporated%E2%80%99s_Articles_of_Incorporation" title="AOI" target="_blank">Articles of Incorporation</a> for <a href="http://en.wikipedia.org/wiki/ONE,_Inc." title="nottheloneliestnumberapparently" target="_blank">One</a>, and outgrowth  of â€œhomophile collectiveâ€ <a href="http://en.wikipedia.org/wiki/Mattachine_Society" title="MatSoc" target="_blank">Mattachine Society</a>  (founder Harry Hay details another Pershing Square encounter <a href="http://www.outhistory.org/wiki/Harry_Hay:_Founding_the_Mattachine_Society%2C_1948-1953#Early_Life" title="goodoldpershingsquare" target="_blank">here</a>).</p>
 ]]></content:encoded>
 		
 			</item>
@@ -65,9 +65,9 @@ One spring night in 1945, when Slater was twenty-one years old, he went cruising
 		<guid isPermaLink="false">#comment-64</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3131/3154502012_b91360a65b_o.gif&quot; alt=&quot;card1&quot; align=&quot;left&quot; height=&quot;270&quot; width=&quot;440&quot; /&gt;More on 221 (not to be confused with some &lt;a href=&quot;https://en.wikipedia.org/wiki/221B_Baker_Street#Satire_and_homage&quot; title=&quot;221SBakerStAve&quot; target=&quot;_blank&quot;&gt;&lt;i&gt;other&lt;/i&gt;&lt;/a&gt; late-Victorian 221) from &lt;a href=&quot;https://en.wikipedia.org/wiki/Historic_American_Buildings_Survey&quot; title=&quot;HABS&quot; target=&quot;_blank&quot;&gt;good people&lt;/a&gt; at the &lt;a href=&quot;https://memory.loc.gov/ammem/collections/habs_haer/&quot; title=&quot;somuchloveintheLOC&quot; target=&quot;_blank&quot;&gt;Library of Congress&lt;/a&gt;.  &lt;br /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3131/3154502012_b91360a65b_o.gif&quot; alt=&quot;card1&quot; align=&quot;left&quot; height=&quot;270&quot; width=&quot;440&quot; /&gt;More on 221 (not to be confused with some &lt;a href=&quot;http://en.wikipedia.org/wiki/221B_Baker_Street#Satire_and_homage&quot; title=&quot;221SBakerStAve&quot; target=&quot;_blank&quot;&gt;&lt;i&gt;other&lt;/i&gt;&lt;/a&gt; late-Victorian 221) from &lt;a href=&quot;http://en.wikipedia.org/wiki/Historic_American_Buildings_Survey&quot; title=&quot;HABS&quot; target=&quot;_blank&quot;&gt;good people&lt;/a&gt; at the &lt;a href=&quot;http://memory.loc.gov/ammem/collections/habs_haer/&quot; title=&quot;somuchloveintheLOC&quot; target=&quot;_blank&quot;&gt;Library of Congress&lt;/a&gt;.  &lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3218/3154502036_af7d82658b_o.gif&quot; alt=&quot;card2&quot; height=&quot;270&quot; width=&quot;440&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3218/3154502036_af7d82658b_o.gif&quot; alt=&quot;card2&quot; height=&quot;270&quot; width=&quot;440&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;br /&gt;
@@ -87,7 +87,7 @@ Interior of typical pine board flooring, wood doors, windows, trim and stairway;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;b&gt;September 1963.&lt;/b&gt;&lt;br /&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3113/3153662051_4cb4788f31_o.gif&quot; alt=&quot;221JumpSt&quot; height=&quot;407&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3113/3153662051_4cb4788f31_o.gif&quot; alt=&quot;221JumpSt&quot; height=&quot;407&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &#160;
@@ -99,12 +99,12 @@ A little digging for â€œFrederick Sparrâ€ yielded only that there was a
 As to Halton, there was a Deputy District Attorney Halton here in the 90s.  Whether or not he became a Judge, much less built this house, remains a mystery.&lt;br /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3249/3153661785_450401e3db_o.gif&quot; alt=&quot;221closeup&quot; height=&quot;395&quot; width=&quot;575&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3249/3153661785_450401e3db_o.gif&quot; alt=&quot;221closeup&quot; height=&quot;395&quot; width=&quot;575&quot; /&gt; 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3131/3154502012_b91360a65b_o.gif" alt="card1" align="left" height="270" width="440" />More on 221 (not to be confused with some <a href="https://en.wikipedia.org/wiki/221B_Baker_Street#Satire_and_homage" title="221SBakerStAve" target="_blank"><i>other</i></a> late-Victorian 221) from <a href="https://en.wikipedia.org/wiki/Historic_American_Buildings_Survey" title="HABS" target="_blank">good people</a> at the <a href="https://memory.loc.gov/ammem/collections/habs_haer/" title="somuchloveintheLOC" target="_blank">Library of Congress</a>.  </p>
-<p><img src="https://farm4.static.flickr.com/3218/3154502036_af7d82658b_o.gif" alt="card2" height="270" width="440" />
+<img src="http://farm4.static.flickr.com/3131/3154502012_b91360a65b_o.gif" alt="card1" align="left" height="270" width="440" />More on 221 (not to be confused with some <a href="http://en.wikipedia.org/wiki/221B_Baker_Street#Satire_and_homage" title="221SBakerStAve" target="_blank"><i>other</i></a> late-Victorian 221) from <a href="http://en.wikipedia.org/wiki/Historic_American_Buildings_Survey" title="HABS" target="_blank">good people</a> at the <a href="http://memory.loc.gov/ammem/collections/habs_haer/" title="somuchloveintheLOC" target="_blank">Library of Congress</a>.  </p>
+<p><img src="http://farm4.static.flickr.com/3218/3154502036_af7d82658b_o.gif" alt="card2" height="270" width="440" />
 </p>
 <p>Girvigian&#8217;s report runs like so:
 </p>
@@ -117,7 +117,7 @@ As to Halton, there was a Deputy District Attorney Halton here in the 90s.  Whet
 </p>
 <p>
 <b>September 1963.</b><br />
-<img src="https://farm4.static.flickr.com/3113/3153662051_4cb4788f31_o.gif" alt="221JumpSt" height="407" width="575" />
+<img src="http://farm4.static.flickr.com/3113/3153662051_4cb4788f31_o.gif" alt="221JumpSt" height="407" width="575" />
 </p>
 <p>
 &nbsp;
@@ -129,7 +129,7 @@ A little digging for â€œFrederick Sparrâ€ yielded only that there was a
 As to Halton, there was a Deputy District Attorney Halton here in the 90s.  Whether or not he became a Judge, much less built this house, remains a mystery.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3249/3153661785_450401e3db_o.gif" alt="221closeup" height="395" width="575" /></p>
+<img src="http://farm4.static.flickr.com/3249/3153661785_450401e3db_o.gif" alt="221closeup" height="395" width="575" /></p>
 ]]></content:encoded>
 		
 			</item>

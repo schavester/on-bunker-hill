@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -45,7 +45,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[May 22, 1919317 S. Flower Street, Saratoga HotelA building permit for a 3-story brick lodging house that would become the Saratoga Hotel was issued to W.W. Paden and Louis Nordlinger in the summer of 1914. A year later, the hotel was offered for sale, exchange, or lease, offering &#34;long lease, good furniture, and cheap rent.&#34; &#8230; <a href="/redlightraid2/" class="more-link">Continue reading<span class="screen-reader-text"> "A Red Light Raid:  317 S. Flower St"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>May 22, 1919<br />317 S. Flower Street, Saratoga Hotel<br /><img loading="lazy" src="https://farm4.static.flickr.com/3285/2451419572_874aba1a1a_o.jpg" alt="saratogahotel" align="left" height="65" width="268" />A building permit for a 3-story brick lodging house that would become the Saratoga Hotel was issued to W.W. Paden and Louis Nordlinger in the summer of 1914.  A year later, the hotel was offered for sale, exchange, or lease, offering &quot;long lease, good furniture, and cheap rent.&quot;</p>
+										<content:encoded><![CDATA[<p>May 22, 1919<br />317 S. Flower Street, Saratoga Hotel<br /><img loading="lazy" src="http://farm4.static.flickr.com/3285/2451419572_874aba1a1a_o.jpg" alt="saratogahotel" align="left" height="65" width="268" />A building permit for a 3-story brick lodging house that would become the Saratoga Hotel was issued to W.W. Paden and Louis Nordlinger in the summer of 1914.  A year later, the hotel was offered for sale, exchange, or lease, offering &quot;long lease, good furniture, and cheap rent.&quot;</p>
 <p>By 1919, the hotel had already acquired something of a reputation, and was home to many show business types.  On May 22, A.W. Gifford, head of the City&#8217;s Purity Squad led a raid on the hotel and arrested 32 people on charges of living in a house of prostitution.  Members of the Purity Squad had taken rooms at the Saratoga during the week prior to the raid, and gathered evidence during that time.</p>
 <p>Police tore apart the Saratoga&#8217;s 200 rooms, confiscated hundreds of bottles of liquor and beer, and questioned all occupants.  Anyone who could not prove steady employment, and any man and woman found together in the same room without a marriage license were taken to City Jail.</p>
 <p>Many of those arrested said they worked in the movies as extras, but police determined that &quot;extra work is not considered real work.&quot;</p>

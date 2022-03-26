@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
@@ -30,14 +30,14 @@
 		<guid isPermaLink="false">#comment-25</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3157/2794003030_182fb852b4_o.gif&quot; alt=&quot;fromtheair&quot; height=&quot;400&quot; width=&quot;496&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3157/2794003030_182fb852b4_o.gif&quot; alt=&quot;fromtheair&quot; height=&quot;400&quot; width=&quot;496&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 (This one was hidden away at the LAPL because it was listed as the Moorcliff on So. Hill. As such a little trickier than usual to unearth.) 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3157/2794003030_182fb852b4_o.gif" alt="fromtheair" height="400" width="496" />
+<img src="http://farm4.static.flickr.com/3157/2794003030_182fb852b4_o.gif" alt="fromtheair" height="400" width="496" />
 </p>
 <p>
 (This one was hidden away at the LAPL because it was listed as the Moorcliff on So. Hill. As such a little trickier than usual to unearth.)</p>

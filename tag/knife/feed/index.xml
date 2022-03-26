@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -47,7 +47,7 @@
 
 					<description><![CDATA[On the afternoon of August 21, 1924, residents of 328 Clay Street were terror stricken by weird noises emanating from a room on the second floor of the building. There were scuffling sounds and urgent whisperings ”“ all of which sounded ominous enough to draw the attention of several residents in adjacent rooms. A few &#8230; <a href="/gameisafoot/" class="more-link">Continue reading<span class="screen-reader-text"> "The Game is Afoot"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" width="249" src="https://farm4.static.flickr.com/3234/2716694965_c14a93d2db_o.jpg" alt="game afoot headline" height="226" />
+<img loading="lazy" border="0" width="249" src="http://farm4.static.flickr.com/3234/2716694965_c14a93d2db_o.jpg" alt="game afoot headline" height="226" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 On the afternoon of August 21, 1924, residents of <st1:street w:st="on"><st1:address w:st="on">328 Clay Street</st1:address></st1:street> were terror stricken by weird noises emanating from a room on the second floor of the building. There were scuffling sounds and urgent whisperings ”“ all of which sounded ominous enough to draw the attention of several residents in adjacent rooms. A few of the braver souls crept along the corridor until they were near enough to the room to hear voices.
@@ -56,7 +56,7 @@ On the afternoon of August 21, 1924, residents of <st1:street w:st="on"><st1:add
 <!--break-->
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="middle" width="460" src="https://farm4.static.flickr.com/3120/2716694957_11172479f9_o.jpg" alt="328 Clay Street" height="400" />
+<img loading="lazy" border="0" align="middle" width="460" src="http://farm4.static.flickr.com/3120/2716694957_11172479f9_o.jpg" alt="328 Clay Street" height="400" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 A woman cried out “O, Henry! You wouldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t do that! Oh, no! No! No! Henry, For God”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s sake!” The woman then emitted a blood-curdling shriek which ended in a choking moan. The eavesdroppers shuddered.

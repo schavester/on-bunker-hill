@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -45,21 +45,21 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[March 31, 1912 That the Moore Cliff has glorious views, no one can debate. From her lofty perch sixty feet above Hill Street, midway between First and Second, she gazes over the business district, and every room commands a panorama extending to Boyle Heights. But her grand position is also her undoing; since she was &#8230; <a href="/themoorecliff/" class="more-link">Continue reading<span class="screen-reader-text"> "Major Undertaking at the Moore Cliff"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3205/2678587753_583ebdd6f7_o.gif" alt="novelplan" height="366" width="290" />March 31, 1912</p>
-<p>That the Moore Cliff has glorious views, no one can debate.  From her <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=121+S+Hill+St,+Los+Angeles,+CA+90012&amp;sll=34.055397,-118.24688&amp;sspn=0.009031,0.012853&amp;ie=UTF8&amp;ll=34.055237,-118.246601&amp;spn=0.009031,0.012853&amp;z=16&amp;layer=c&amp;cbll=34.053907,-118.247022&amp;panoid=ijBrI7ccuLhqAJClemzBNQ" title="121sh" target="_blank" rel="noopener">lofty perch</a> sixty feet above Hill Street, midway between First and Second, she gazes over the business district, and every room commands a panorama extending to Boyle Heights.  But her grand position is also her undoing; since she was built in aught-four, her inhabitants have had to trek up that dang”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d winding six-story staircase set into the retaining wall.  Even Dr. S. G. Moore, who apparently added <i>cliff</i> to his eponymised hotel just so you”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d remember how high you were, has tired of scaling the thing.  No view can compensate for the loss of revenue occasioned by those with an aversion to shlepping.<br />
-<a href="https://bigorangelandmarks.blogspot.com/2008/04/no-129-leslie-residence.html" title="BOL" target="_blank" rel="noopener"><br />
-Dennis and Farwell</a> were <a href="https://www.kimberlycrest.org/" title="kiimberly" target="_blank" rel="noopener">veteran</a> architects–and what”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s more of a no brainer, in a rapidly growing city, than adding stories to a structure?  D&amp;F designed the Moore Cliff, and now here comes Moore again, wanting to convert her from a four-story apartment building to a nine-story hotel.  But don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t add these floors to the top, says Moore, massaging his aching  feet–add them to the bottom.<br />
-<img loading="lazy" src="https://farm4.static.flickr.com/3022/2679389898_558dcb84e9_o.jpg" alt="tolet" height="56" width="267" /><br />
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3205/2678587753_583ebdd6f7_o.gif" alt="novelplan" height="366" width="290" />March 31, 1912</p>
+<p>That the Moore Cliff has glorious views, no one can debate.  From her <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=121+S+Hill+St,+Los+Angeles,+CA+90012&amp;sll=34.055397,-118.24688&amp;sspn=0.009031,0.012853&amp;ie=UTF8&amp;ll=34.055237,-118.246601&amp;spn=0.009031,0.012853&amp;z=16&amp;layer=c&amp;cbll=34.053907,-118.247022&amp;panoid=ijBrI7ccuLhqAJClemzBNQ" title="121sh" target="_blank" rel="noopener">lofty perch</a> sixty feet above Hill Street, midway between First and Second, she gazes over the business district, and every room commands a panorama extending to Boyle Heights.  But her grand position is also her undoing; since she was built in aught-four, her inhabitants have had to trek up that dang”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d winding six-story staircase set into the retaining wall.  Even Dr. S. G. Moore, who apparently added <i>cliff</i> to his eponymised hotel just so you”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d remember how high you were, has tired of scaling the thing.  No view can compensate for the loss of revenue occasioned by those with an aversion to shlepping.<br />
+<a href="http://bigorangelandmarks.blogspot.com/2008/04/no-129-leslie-residence.html" title="BOL" target="_blank" rel="noopener"><br />
+Dennis and Farwell</a> were <a href="http://www.kimberlycrest.org/" title="kiimberly" target="_blank" rel="noopener">veteran</a> architects–and what”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s more of a no brainer, in a rapidly growing city, than adding stories to a structure?  D&amp;F designed the Moore Cliff, and now here comes Moore again, wanting to convert her from a four-story apartment building to a nine-story hotel.  But don”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t add these floors to the top, says Moore, massaging his aching  feet–add them to the bottom.<br />
+<img loading="lazy" src="http://farm4.static.flickr.com/3022/2679389898_558dcb84e9_o.jpg" alt="tolet" height="56" width="267" /><br />
 No problem, say Dennis and Farwell.  All we need to do is remove a body of earth fifty-five feet in width by sixty feet in height, and fifty feet in depth.  This will stretch under the present building which we”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll prop up until our five story steel-and-brick structure, with a faÃ§ade to resemble the one up on the hill we designed eight years ago, gets slid in there.  Dress the new lobby in mahagony-stained birch, throw on an iron marquise, and there you have your nine-story hotel, right there at terra firma, all blessed as it is with sidewalks and rail lines.  <br />
-<img loading="lazy" src="https://farm4.static.flickr.com/3108/2678571605_1a757eca63_o.gif" alt="asitwillappear" height="676" width="575" /><br />
+<img loading="lazy" src="http://farm4.static.flickr.com/3108/2678571605_1a757eca63_o.gif" alt="asitwillappear" height="676" width="575" /><br />
 Everyone”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s quite excited that the length of Hill south of the tunnel is bursting with plans.  (A stone”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s throw from Hill up Second, Braun”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s ten-story reinforced <a href="/taxonomy_menu/6/133" title="Northern" target="_blank" rel="noopener">concrete hotel</a> is pouring fourndations.)  Judge Stephens intends to erect a substantial building of brick and steel just to the south of the Moore Cliff; and plans are afoot to build on the southwest corner of First and Hill, where a large cut was made years ago.  “It is freely predicted that all of the frontage on the west side of Hill street will have been reduced to grade level within the next year or two.”  </p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3237/2678571093_a41a23752d_o.gif" alt="MC1932" align="right" height="298" width="415" />What do you notice here, from this 1932 image of the Moore Cliff?  </p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3237/2678571093_a41a23752d_o.gif" alt="MC1932" align="right" height="298" width="415" />What do you notice here, from this 1932 image of the Moore Cliff?  </p>
 <p>It didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t happen.</p>
 <p>(Nor do we witness Judge Stephens”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> proposed structure; no-one ever built on the SW corner of First &amp; Hill, either.)</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3259/2678570975_c890af054c_o.gif" alt="MooreCliffLooms" height="361" width="575" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3259/2678570975_c890af054c_o.gif" alt="MooreCliffLooms" height="361" width="575" /></p>
 <p>As can be seen, the Moore Cliff&#8217;s cliff has been almost, but not quite, brought down to grade level.  (The tunnels up Hill were flattened something fierce, though.)  <br />
-<img loading="lazy" src="https://farm4.static.flickr.com/3215/2680515436_995ecebe79_o.gif" alt="mooreclifffromheavens" height="370" width="575" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3106/2680515092_77f11b8975_o.gif" alt="theascent" height="359" width="575" /> </p>
+<img loading="lazy" src="http://farm4.static.flickr.com/3215/2680515436_995ecebe79_o.gif" alt="mooreclifffromheavens" height="370" width="575" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3106/2680515092_77f11b8975_o.gif" alt="theascent" height="359" width="575" /> </p>
 <p>And the jurors who park there command a terrific vista of that building. </p>
 <p><i>Hill Street image courtesy USC Digital Archives </i></p>
 <p>&nbsp;</p>

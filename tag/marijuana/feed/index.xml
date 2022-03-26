@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -50,30 +50,30 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Hats off to those contemporary &#8220;pulse-pounding&#8221; pictures what depict early-fifties dope and/or early-fifties Los Angeles for they are certainly the tingliest of films, though, let&#8217;s face it, they will never match the breathless, depthless pleasure of going straight to the source, of going straight to the Subject: Narcotics. Subject: Narcotics. Though no movie critic has &#8230; <a href="/subjectbunkerhill/" class="more-link">Continue reading<span class="screen-reader-text"> "Bunker Hill:  A Desperate Race of Men"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3131/3243708524_f4bbaf50b9_o.gif" alt="runningfromtheheat" width="400" height="300" /><br />
-Hats off to those contemporary &#8220;pulse-pounding&#8221; pictures what depict <a title="NL" href="https://www.youtube.com/watch?v=f7M_diwWX3E&amp;feature=related" target="_blank" rel="noopener">early-fifties dope </a>and/or <a title="LAC" href="https://www.youtube.com/watch?v=krwMKe79RM8&amp;feature=PlayList&amp;p=A0DDE5CC6AE3AFF0&amp;index=6" target="_blank" rel="noopener">early-fifties Los Angeles</a> for they are certainly the <a title="EW" href="https://www.youtube.com/watch?v=zTSFnlv2ffM" target="_blank" rel="noopener"><i>tingliest</i></a> of films, though, let&#8217;s face it, they will never match the breathless, depthless pleasure of going straight to the source, of going straight to the <i><a title="narx" href="https://www.archive.org/details/SubjectN1951" target="_blank" rel="noopener">Subject: Narcotics</a></i>.</p>
-<p><i>Subject: Narcotics</i>. Though no movie critic has ever heard of it, <i>Subject: Narcotics</i> is the Greatest Film Ever Made. Do not confuse this film with <i><a title="NPOD" href="https://www.archive.org/details/Narcotic1967" target="_blank" rel="noopener">Narcotics: Pit of Despair</a></i> (also the Greatest Film Ever Made) or even <a title="narcoticky" href="https://www.imdb.com/title/tt0121587/plotsummary" target="_blank" rel="noopener"><i>Narcotic</i></a>, which is no slouch either.</p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3131/3243708524_f4bbaf50b9_o.gif" alt="runningfromtheheat" width="400" height="300" /><br />
+Hats off to those contemporary &#8220;pulse-pounding&#8221; pictures what depict <a title="NL" href="http://www.youtube.com/watch?v=f7M_diwWX3E&amp;feature=related" target="_blank" rel="noopener">early-fifties dope </a>and/or <a title="LAC" href="http://www.youtube.com/watch?v=krwMKe79RM8&amp;feature=PlayList&amp;p=A0DDE5CC6AE3AFF0&amp;index=6" target="_blank" rel="noopener">early-fifties Los Angeles</a> for they are certainly the <a title="EW" href="http://www.youtube.com/watch?v=zTSFnlv2ffM" target="_blank" rel="noopener"><i>tingliest</i></a> of films, though, let&#8217;s face it, they will never match the breathless, depthless pleasure of going straight to the source, of going straight to the <i><a title="narx" href="http://www.archive.org/details/SubjectN1951" target="_blank" rel="noopener">Subject: Narcotics</a></i>.</p>
+<p><i>Subject: Narcotics</i>. Though no movie critic has ever heard of it, <i>Subject: Narcotics</i> is the Greatest Film Ever Made. Do not confuse this film with <i><a title="NPOD" href="http://www.archive.org/details/Narcotic1967" target="_blank" rel="noopener">Narcotics: Pit of Despair</a></i> (also the Greatest Film Ever Made) or even <a title="narcoticky" href="http://www.imdb.com/title/tt0121587/plotsummary" target="_blank" rel="noopener"><i>Narcotic</i></a>, which is no slouch either.</p>
 <p>Let me say at the outset, unless you are a representative of our law enforcement community, you are not allowed to view this film:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3084/3243202040_0be4f637f8_o.gif" alt="foryoureyesonly" width="400" height="290" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3084/3243202040_0be4f637f8_o.gif" alt="foryoureyesonly" width="400" height="290" /></p>
 <p>So feel especially naughty in watching it, like sneaking into an R-rated picture when only sixteen. (Believe me, if the Narcotic Educational Foundation of America and their pal Lt. Ray Huber of LA County Sherrif&#8217;s Narcotic Detail were asked if the general public should be allowed to view this in fifty-eight years, they”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d say no. No.)</p>
-<p>This picture has everything–prosties, junkies, pushers, neon signs:<img loading="lazy" src="https://farm4.static.flickr.com/3376/3242329927_c2bdc35453_o.gif" alt="noblegas" width="525" height="480" /></p>
+<p>This picture has everything–prosties, junkies, pushers, neon signs:<img loading="lazy" src="http://farm4.static.flickr.com/3376/3242329927_c2bdc35453_o.gif" alt="noblegas" width="525" height="480" /></p>
 <p>LA: one big shooting gallery.<br />
-<img loading="lazy" src="https://farm4.static.flickr.com/3268/3242329403_cb5c7af2fc_o.gif" alt="nicehatbill" width="400" height="300" /><br />
+<img loading="lazy" src="http://farm4.static.flickr.com/3268/3242329403_cb5c7af2fc_o.gif" alt="nicehatbill" width="400" height="300" /><br />
 <i>He lives from fix to fix and if he is lucky, he dies early, maybe from an overdose, maybe from an infected needle.</i></p>
 <p>Shifty characters plan nefarious deeds on Court Street:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3099/3243161582_931d08767d_o.gif" alt="junkmarket" width="575" height="428" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3099/3243161582_931d08767d_o.gif" alt="junkmarket" width="575" height="428" /></p>
 <p>Til the coppers roar upon the scene:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3346/3243161168_94327bce3c_o.gif" alt="caughtoncourt" width="575" height="431" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3346/3243161168_94327bce3c_o.gif" alt="caughtoncourt" width="575" height="431" /></p>
 <p>The last part of the picture concerns a hype that gets sprung from stir, only to wander the rain-slicked streets of Bunker Hill (and be passed by a Roadmaster fastback):</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3119/3242329487_797050cb1f_o.gif" alt="noircar" width="400" height="300" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3119/3242329487_797050cb1f_o.gif" alt="noircar" width="400" height="300" /></p>
 <p>He passes by the industrial heart of the Hill, <a title="clarkhotelgarage" href="/TruckAmok#comment-62" target="_blank" rel="noopener">Fourth and Olive</a> &#8212;</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3468/3243160782_301e877a08_o.gif" alt="clarkgarage" width="575" height="323" /></p>
-<p>And we turn and look behind him up to Third and Olive. Looming large and tall in the far distance The Palace Hotel, aka the Casa Alta, aka the Kellogg, at 317 S. Olive; below that, just at his shoulder, the <a title="theEms" href="https://www.metmuseum.org/works_of_art/collection_database/all/439_architectural_views_for_time_life_project_doomed_walker_evans/objectview_altviewenlarge.aspx?page=51&amp;sort=3&amp;sortdir=asc&amp;keyword=&amp;fp=51&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;oID=190037903&amp;vT=1&amp;iID=7&amp;iPage(14)" target="_blank" rel="noopener">Ems</a>, at <a title="ems2" href="https://jpg3.lapl.org/pics14/00026689.jpg" target="_blank" rel="noopener">337</a>, and to the far left, the Olive Inn at 343.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3419/3243161900_652b20e8d7_o.gif" alt="wehavebrodyfortheremake" width="575" height="332" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3468/3243160782_301e877a08_o.gif" alt="clarkgarage" width="575" height="323" /></p>
+<p>And we turn and look behind him up to Third and Olive. Looming large and tall in the far distance The Palace Hotel, aka the Casa Alta, aka the Kellogg, at 317 S. Olive; below that, just at his shoulder, the <a title="theEms" href="http://www.metmuseum.org/works_of_art/collection_database/all/439_architectural_views_for_time_life_project_doomed_walker_evans/objectview_altviewenlarge.aspx?page=51&amp;sort=3&amp;sortdir=asc&amp;keyword=&amp;fp=51&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;oID=190037903&amp;vT=1&amp;iID=7&amp;iPage(14)" target="_blank" rel="noopener">Ems</a>, at <a title="ems2" href="http://jpg3.lapl.org/pics14/00026689.jpg" target="_blank" rel="noopener">337</a>, and to the far left, the Olive Inn at 343.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3419/3243161900_652b20e8d7_o.gif" alt="wehavebrodyfortheremake" width="575" height="332" /></p>
 <p><i>Narcotics have weakened his character. Ninety-nine out of 100 slip back.</i></p>
-<p>Alright already. <a title="theCW" href="https://www.youtube.com/watch?v=48113otVhiI" target="_blank" rel="noopener">Go watch</a> <a title="CWdecoy" href="https://www.dvdtalk.com/reviews/29177/film-noir-classic-collection-vol-4-crime-wave-decoy/" target="_blank" rel="noopener"><i>Crime Wave</i></a>.</p>
-<p>And don&#8217;t tell Ray Huber what&#8217;s going to <a title="parkercenter" href="https://www.youtube.com/watch?v=P0zgIzqgxFU&amp;feature=related" target="_blank" rel="noopener">become of society</a>.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3321/3242329113_25c03d042a_o.gif" alt="seeya" width="575" height="432" /></p>
+<p>Alright already. <a title="theCW" href="http://www.youtube.com/watch?v=48113otVhiI" target="_blank" rel="noopener">Go watch</a> <a title="CWdecoy" href="http://www.dvdtalk.com/reviews/29177/film-noir-classic-collection-vol-4-crime-wave-decoy/" target="_blank" rel="noopener"><i>Crime Wave</i></a>.</p>
+<p>And don&#8217;t tell Ray Huber what&#8217;s going to <a title="parkercenter" href="http://www.youtube.com/watch?v=P0zgIzqgxFU&amp;feature=related" target="_blank" rel="noopener">become of society</a>.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3321/3242329113_25c03d042a_o.gif" alt="seeya" width="575" height="432" /></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/subjectbunkerhill/feed/</wfw:commentRss>

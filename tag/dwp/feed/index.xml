@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -48,14 +48,14 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Monday, January 14, 1963 Bunker Hill”&#x2122;s final days, after its Official Designation as blighted slum, evokes not only decrepit dandified buildings like the Dome, but also its downtrodden denizens, shuffling along, infused with all the despair and longing and hopelessness you”&#x2122;d expect from folks in a blighted slum. It being Official, after all. Victor Palomino, &#8230; <a href="/palominojumps/" class="more-link">Continue reading<span class="screen-reader-text"> "The Dome&#8217;s Jumping Palomino"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm3.static.flickr.com/2238/2438460301_403dfa5f9f_o.gif" alt="miltsavestheday" height="375" width="550" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm3.static.flickr.com/2238/2438460301_403dfa5f9f_o.gif" alt="miltsavestheday" height="375" width="550" /></p>
 <p>Monday, January 14, 1963</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3005/2438460489_8dc71b93c1_o.gif" alt="jumperlong" align="left" height="896" width="200" />Bunker Hill”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s final days, after its Official Designation as blighted slum, evokes not only decrepit dandified buildings like the Dome, but also its downtrodden denizens, shuffling along, infused with all the despair and longing and hopelessness you”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d expect from folks in a blighted slum.  It being Official, after all.  </p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3005/2438460489_8dc71b93c1_o.gif" alt="jumperlong" align="left" height="896" width="200" />Bunker Hill”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s final days, after its Official Designation as blighted slum, evokes not only decrepit dandified buildings like the Dome, but also its downtrodden denizens, shuffling along, infused with all the despair and longing and hopelessness you”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d expect from folks in a blighted slum.  It being Official, after all.  </p>
 <p>Victor Palomino, 29, was one such shuffler.  He was another resident of the <a href="/theDome" title="anotherDomer" target="_blank" rel="noopener">Dome</a>, who”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d actually been fine and dandy until Friday last when he was canned from his gig as a carpenter at the Civic Center project.  He brooded over the wintry weekend and at mid-afternoon on a jobless Monday, thought to himself as had another of his carpenter brethren, why hast thou forsaken me? and decided to shuffle from the Dome a couple hundred feet to the northeast to the corner of First and Hope.  </p>
-<p>There stood the great steel frame of the <a href="https://www.you-are-here.com/los_angeles/dwp.html" title="acmartindwp" target="_blank" rel="noopener">Department of Water and Power building</a>.  Like King Kong, frustrated, recently out of a job, though trading Skyscraper Deco for Corporate Modern, Victor climbed fourteen stories of the skeleton and perched on a narrow I-beam 220 feet above the earth.  Would the four children of his pregnant common-law wife Angie, 21, ever see him again?  Would the seven children from his previous wife ever see him again? (Why is it residents of the Dome so like to <a href="/sickmanjumps" title="sickmanjumps" target="_blank" rel="noopener">leap</a>?)</p>
-<p>For three tense hours he screamed he was going to jump.  Angie and his priest screamed back (presumably for him not to, not “Jump! Jump!”) but it was Milt Borik, project manager for <a href="https://www.emporis.com/en/cd/cm/?id=gustknewbergconstructionco-chicago-il-usa" title="GKN" target="_blank" rel="noopener">Gust K. Newberg</a>, who finally coaxed Victor down with the promise of his job back.</p>
-<p>It was a ruse.  After Victor came down, he didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t go back to his home in the Dome, with is bays and spindles, its hands at two minutes to midnight, in direct aesthetic if not moral opposition to LA&#8217;s true <a href="https://www.ladwp.com/ladwp/cms/ladwp001562.jsp" title="mulfalls" target="_blank" rel="noopener">Mulholland Fountain</a>, no; Victor”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s in Central Receiving under psych-ob, and he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be there for a little while.<br />
-<img loading="lazy" src="https://farm3.static.flickr.com/2414/2438460377_557d2329ed_o.gif" alt="gazingheavenward" height="550" width="516" /></p>
+<p>There stood the great steel frame of the <a href="http://www.you-are-here.com/los_angeles/dwp.html" title="acmartindwp" target="_blank" rel="noopener">Department of Water and Power building</a>.  Like King Kong, frustrated, recently out of a job, though trading Skyscraper Deco for Corporate Modern, Victor climbed fourteen stories of the skeleton and perched on a narrow I-beam 220 feet above the earth.  Would the four children of his pregnant common-law wife Angie, 21, ever see him again?  Would the seven children from his previous wife ever see him again? (Why is it residents of the Dome so like to <a href="/sickmanjumps" title="sickmanjumps" target="_blank" rel="noopener">leap</a>?)</p>
+<p>For three tense hours he screamed he was going to jump.  Angie and his priest screamed back (presumably for him not to, not “Jump! Jump!”) but it was Milt Borik, project manager for <a href="http://www.emporis.com/en/cd/cm/?id=gustknewbergconstructionco-chicago-il-usa" title="GKN" target="_blank" rel="noopener">Gust K. Newberg</a>, who finally coaxed Victor down with the promise of his job back.</p>
+<p>It was a ruse.  After Victor came down, he didn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t go back to his home in the Dome, with is bays and spindles, its hands at two minutes to midnight, in direct aesthetic if not moral opposition to LA&#8217;s true <a href="http://www.ladwp.com/ladwp/cms/ladwp001562.jsp" title="mulfalls" target="_blank" rel="noopener">Mulholland Fountain</a>, no; Victor”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s in Central Receiving under psych-ob, and he”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be there for a little while.<br />
+<img loading="lazy" src="http://farm3.static.flickr.com/2414/2438460377_557d2329ed_o.gif" alt="gazingheavenward" height="550" width="516" /></p>
 <p></p>
 ]]></content:encoded>
 					

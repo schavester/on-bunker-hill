@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
@@ -33,13 +33,13 @@
 Another shot of the Clark Garage (see the Center Garage pic, two comments below) at Fourth and Olive, here, looking down Fourth toward Hill.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3598/3315727646_8a7e445eab_o.gif&quot; alt=&quot;4thtowardhill&quot; height=&quot;321&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3598/3315727646_8a7e445eab_o.gif&quot; alt=&quot;4thtowardhill&quot; height=&quot;321&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-The Hotel Antlers and the &lt;a href=&quot;https://jpg2.lapl.org/spnb1/00017075.jpg&quot; title=&quot;bb&quot; target=&quot;_blank&quot;&gt;Black&lt;/a&gt; &lt;a href=&quot;https://jpg1.lapl.org/pics26/00032547.jpg&quot; title=&quot;BlackPlanetBlackWorld&quot; target=&quot;_blank&quot;&gt;Building&lt;/a&gt; on the left down toward Hill; this is before the Savoy Garage was built on the right, so you&#039;ve the likes of the Mumford and Sheldon before the &lt;a href=&quot;https://digarc.usc.edu/assetserver/controller/view/examiner-m2778/EXM-P-S-LOS-ANG-CIT-BUI-363&quot; title=&quot;WC&quot; target=&quot;_blank&quot;&gt;Wright &#038; Callender&lt;/a&gt;.  
+The Hotel Antlers and the &lt;a href=&quot;http://jpg2.lapl.org/spnb1/00017075.jpg&quot; title=&quot;bb&quot; target=&quot;_blank&quot;&gt;Black&lt;/a&gt; &lt;a href=&quot;http://jpg1.lapl.org/pics26/00032547.jpg&quot; title=&quot;BlackPlanetBlackWorld&quot; target=&quot;_blank&quot;&gt;Building&lt;/a&gt; on the left down toward Hill; this is before the Savoy Garage was built on the right, so you&#039;ve the likes of the Mumford and Sheldon before the &lt;a href=&quot;http://digarc.usc.edu/assetserver/controller/view/examiner-m2778/EXM-P-S-LOS-ANG-CIT-BUI-363&quot; title=&quot;WC&quot; target=&quot;_blank&quot;&gt;Wright &#038; Callender&lt;/a&gt;.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3386/3314899545_2698361c97_o.gif&quot; alt=&quot;upclose&quot; height=&quot;492&quot; width=&quot;338&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3386/3314899545_2698361c97_o.gif&quot; alt=&quot;upclose&quot; height=&quot;492&quot; width=&quot;338&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;i&gt;USC Digital Archives &lt;/i&gt;
@@ -49,13 +49,13 @@ The Hotel Antlers and the &lt;a href=&quot;https://jpg2.lapl.org/spnb1/00017075.
 Another shot of the Clark Garage (see the Center Garage pic, two comments below) at Fourth and Olive, here, looking down Fourth toward Hill.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3598/3315727646_8a7e445eab_o.gif" alt="4thtowardhill" height="321" width="575" />
+<img src="http://farm4.static.flickr.com/3598/3315727646_8a7e445eab_o.gif" alt="4thtowardhill" height="321" width="575" />
 </p>
 <p>
-The Hotel Antlers and the <a href="https://jpg2.lapl.org/spnb1/00017075.jpg" title="bb" target="_blank">Black</a> <a href="https://jpg1.lapl.org/pics26/00032547.jpg" title="BlackPlanetBlackWorld" target="_blank">Building</a> on the left down toward Hill; this is before the Savoy Garage was built on the right, so you&#8217;ve the likes of the Mumford and Sheldon before the <a href="https://digarc.usc.edu/assetserver/controller/view/examiner-m2778/EXM-P-S-LOS-ANG-CIT-BUI-363" title="WC" target="_blank">Wright &amp; Callender</a>.
+The Hotel Antlers and the <a href="http://jpg2.lapl.org/spnb1/00017075.jpg" title="bb" target="_blank">Black</a> <a href="http://jpg1.lapl.org/pics26/00032547.jpg" title="BlackPlanetBlackWorld" target="_blank">Building</a> on the left down toward Hill; this is before the Savoy Garage was built on the right, so you&#8217;ve the likes of the Mumford and Sheldon before the <a href="http://digarc.usc.edu/assetserver/controller/view/examiner-m2778/EXM-P-S-LOS-ANG-CIT-BUI-363" title="WC" target="_blank">Wright &amp; Callender</a>.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3386/3314899545_2698361c97_o.gif" alt="upclose" height="492" width="338" />
+<img src="http://farm4.static.flickr.com/3386/3314899545_2698361c97_o.gif" alt="upclose" height="492" width="338" />
 </p>
 <p>
 <i>USC Digital Archives </i></p>
@@ -72,41 +72,41 @@ The Hotel Antlers and the <a href="https://jpg2.lapl.org/spnb1/00017075.jpg" tit
 		<guid isPermaLink="false">#comment-86</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3236/3283079213_a055c5161e_o.gif&quot; alt=&quot;furolive&quot; height=&quot;368&quot; width=&quot;476&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3236/3283079213_a055c5161e_o.gif&quot; alt=&quot;furolive&quot; height=&quot;368&quot; width=&quot;476&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 The New Hotel Clark/Center Garage back left, and dig the Savoy Garage.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3614/3283079109_3e41095fa0_o.gif&quot; alt=&quot;fromtheothersideofthelot&quot; height=&quot;446&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3614/3283079109_3e41095fa0_o.gif&quot; alt=&quot;fromtheothersideofthelot&quot; height=&quot;446&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-See this image &lt;a href=&quot;https://www.flickr.com/photos/metrolibraryarchive/3214114046/sizes/o/in/photostream/&quot; title=&quot;gobabygo&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.
+See this image &lt;a href=&quot;http://www.flickr.com/photos/metrolibraryarchive/3214114046/sizes/o/in/photostream/&quot; title=&quot;gobabygo&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3524/3283166063_414f952be2_o.gif&quot; alt=&quot;savoygarage&quot; height=&quot;292&quot; width=&quot;400&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3524/3283166063_414f952be2_o.gif&quot; alt=&quot;savoygarage&quot; height=&quot;292&quot; width=&quot;400&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-The 1923 Savoy, still there and still affixed to the Subway Terminal Bldng, seen in red on &lt;a href=&quot;https://www.uncanny.net/~wetzel/subwayarea.htm&quot; title=&quot;wetzel&quot; target=&quot;_blank&quot;&gt;the nifty map in this nifty site&lt;/a&gt;. 
+The 1923 Savoy, still there and still affixed to the Subway Terminal Bldng, seen in red on &lt;a href=&quot;http://www.uncanny.net/~wetzel/subwayarea.htm&quot; title=&quot;wetzel&quot; target=&quot;_blank&quot;&gt;the nifty map in this nifty site&lt;/a&gt;. 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3236/3283079213_a055c5161e_o.gif" alt="furolive" height="368" width="476" />
+<img src="http://farm4.static.flickr.com/3236/3283079213_a055c5161e_o.gif" alt="furolive" height="368" width="476" />
 </p>
 <p>
 The New Hotel Clark/Center Garage back left, and dig the Savoy Garage.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3614/3283079109_3e41095fa0_o.gif" alt="fromtheothersideofthelot" height="446" width="575" />
+<img src="http://farm4.static.flickr.com/3614/3283079109_3e41095fa0_o.gif" alt="fromtheothersideofthelot" height="446" width="575" />
 </p>
 <p>
-See this image <a href="https://www.flickr.com/photos/metrolibraryarchive/3214114046/sizes/o/in/photostream/" title="gobabygo" target="_blank">here</a>.
+See this image <a href="http://www.flickr.com/photos/metrolibraryarchive/3214114046/sizes/o/in/photostream/" title="gobabygo" target="_blank">here</a>.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3524/3283166063_414f952be2_o.gif" alt="savoygarage" height="292" width="400" />
+<img src="http://farm4.static.flickr.com/3524/3283166063_414f952be2_o.gif" alt="savoygarage" height="292" width="400" />
 </p>
 <p>
-The 1923 Savoy, still there and still affixed to the Subway Terminal Bldng, seen in red on <a href="https://www.uncanny.net/~wetzel/subwayarea.htm" title="wetzel" target="_blank">the nifty map in this nifty site</a>.</p>
+The 1923 Savoy, still there and still affixed to the Subway Terminal Bldng, seen in red on <a href="http://www.uncanny.net/~wetzel/subwayarea.htm" title="wetzel" target="_blank">the nifty map in this nifty site</a>.</p>
 ]]></content:encoded>
 		
 			</item>
@@ -120,7 +120,7 @@ The 1923 Savoy, still there and still affixed to the Subway Terminal Bldng, seen
 		<guid isPermaLink="false">#comment-62</guid>
 
 					<description><![CDATA[&lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3210/3145907910_ba7f44ab31_o.gif&quot; alt=&quot;sycoelephants&quot; height=&quot;437&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3210/3145907910_ba7f44ab31_o.gif&quot; alt=&quot;sycoelephants&quot; height=&quot;437&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Weren&#039;t expecting to see &lt;i&gt;that&lt;/i&gt;, were you.
@@ -136,7 +136,7 @@ Daily News shot of the Cole Brothers circus cruising Los Angeles,  1953.  Parker
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-<img src="https://farm4.static.flickr.com/3210/3145907910_ba7f44ab31_o.gif" alt="sycoelephants" height="437" width="575" />
+<img src="http://farm4.static.flickr.com/3210/3145907910_ba7f44ab31_o.gif" alt="sycoelephants" height="437" width="575" />
 </p>
 <p>
 Weren&#8217;t expecting to see <i>that</i>, were you.

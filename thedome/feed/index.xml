@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
@@ -34,10 +34,10 @@
 Despite &lt;i&gt;Life&lt;/i&gt; having sent him to photograph â€œdoomed architecture,â€ and his having heard â€œdomed architecture,â€ these shots by Walker Evans suited the assignment nevertheless. 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3035/3069367633_7015790584_o.gif&quot; alt=&quot;domeinkolor&quot; height=&quot;475&quot; width=&quot;490&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3035/3069367633_7015790584_o.gif&quot; alt=&quot;domeinkolor&quot; height=&quot;475&quot; width=&quot;490&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3161/3069331108_24df32a57f_o.gif&quot; alt=&quot;lookingdowngrnd&quot; height=&quot;471&quot; width=&quot;490&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3161/3069331108_24df32a57f_o.gif&quot; alt=&quot;lookingdowngrnd&quot; height=&quot;471&quot; width=&quot;490&quot; /&gt; 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
@@ -45,10 +45,10 @@ Despite &lt;i&gt;Life&lt;/i&gt; having sent him to photograph â€œdoomed arch
 Despite <i>Life</i> having sent him to photograph â€œdoomed architecture,â€ and his having heard â€œdomed architecture,â€ these shots by Walker Evans suited the assignment nevertheless.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3035/3069367633_7015790584_o.gif" alt="domeinkolor" height="475" width="490" />
+<img src="http://farm4.static.flickr.com/3035/3069367633_7015790584_o.gif" alt="domeinkolor" height="475" width="490" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3161/3069331108_24df32a57f_o.gif" alt="lookingdowngrnd" height="471" width="490" /></p>
+<img src="http://farm4.static.flickr.com/3161/3069331108_24df32a57f_o.gif" alt="lookingdowngrnd" height="471" width="490" /></p>
 ]]></content:encoded>
 		
 			</item>
@@ -65,7 +65,7 @@ Despite <i>Life</i> having sent him to photograph â€œdoomed architecture,â�
 &lt;i&gt;Main hall arranged as an open court&lt;/i&gt;--who translated this into &lt;i&gt;glass skylight&lt;/i&gt;?  Show of hands?
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3214/2765880601_a09d8d10ac_o.gif&quot; alt=&quot;minnewow&quot; height=&quot;534&quot; width=&quot;483&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3214/2765880601_a09d8d10ac_o.gif&quot; alt=&quot;minnewow&quot; height=&quot;534&quot; width=&quot;483&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Me neither.
@@ -78,7 +78,7 @@ The light must have been something to behold.
 <i>Main hall arranged as an open court</i>&#8211;who translated this into <i>glass skylight</i>?  Show of hands?
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3214/2765880601_a09d8d10ac_o.gif" alt="minnewow" height="534" width="483" />
+<img src="http://farm4.static.flickr.com/3214/2765880601_a09d8d10ac_o.gif" alt="minnewow" height="534" width="483" />
 </p>
 <p>
 Me neither.

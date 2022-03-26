@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -48,7 +48,7 @@
 
 					<description><![CDATA[&#160; December 2, 1923 133 South Bunker Hill   Move over Rin-Tin-Tin, there”&#x2122;s a new wonder dog in town, and his name is Pompey.   We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million ”“ and they know how to use them all.  With that &#8230; <a href="/pompeythehero/" class="more-link">Continue reading<span class="screen-reader-text"> "Bow, Wow, WOW!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="middle" width="420" src="https://farm4.static.flickr.com/3145/2925216714_a43a9860a4.jpg" alt="pompey headline" height="102" />
+<img loading="lazy" border="0" align="middle" width="420" src="http://farm4.static.flickr.com/3145/2925216714_a43a9860a4.jpg" alt="pompey headline" height="102" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -69,7 +69,7 @@ December 2, 1923
  <!--break-->
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="left" width="229" src="https://farm4.static.flickr.com/3287/2925216696_eebc532a64.jpg" alt="pompey" height="500" />We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million ”“ and they know how to use them all. <span> </span>With that kind of super hero sniff power, it was no surprise when a German Shepherd named Pompey caught the aroma of gas fumes, desperation, and imminent death in the air. The surprise was that he was galvanized into action.
+<img loading="lazy" border="0" align="left" width="229" src="http://farm4.static.flickr.com/3287/2925216696_eebc532a64.jpg" alt="pompey" height="500" />We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million ”“ and they know how to use them all. <span> </span>With that kind of super hero sniff power, it was no surprise when a German Shepherd named Pompey caught the aroma of gas fumes, desperation, and imminent death in the air. The surprise was that he was galvanized into action.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -99,7 +99,7 @@ Police were summoned and Stark was taken to the <st1:place w:st="on"><st1:placen
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Pompey vanished from the pages of the Los Angeles Times after his brief moment in the limelight, but his famed counterpart, Rin-Tin-Tin, was just beginning his film career in 1923.<img loading="lazy" border="0" align="right" width="330" src="https://farm4.static.flickr.com/3069/2924364067_e0750ee01b_o.jpg" alt="rintyradio" height="269" />
+Pompey vanished from the pages of the Los Angeles Times after his brief moment in the limelight, but his famed counterpart, Rin-Tin-Tin, was just beginning his film career in 1923.<img loading="lazy" border="0" align="right" width="330" src="http://farm4.static.flickr.com/3069/2924364067_e0750ee01b_o.jpg" alt="rintyradio" height="269" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;

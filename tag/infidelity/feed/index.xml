@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -53,7 +53,7 @@
 <span style="font-size: 10pt; font-family: Arial">Date: July 1905</span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<span style="font-size: 10pt; font-family: Arial"></span><img loading="lazy" src="https://farm3.static.flickr.com/2246/2532534150_b1a41468e1_o.jpg" alt="Hotel Lincoln" border="0" height="138" width="264" />
+<span style="font-size: 10pt; font-family: Arial"></span><img loading="lazy" src="http://farm3.static.flickr.com/2246/2532534150_b1a41468e1_o.jpg" alt="Hotel Lincoln" border="0" height="138" width="264" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 10pt; font-family: Arial"></span>
@@ -78,7 +78,7 @@
 <span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">Laura tried to persuade W.D. to attend one of Francis Murphy”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s temperance meetings and take a sobriety pledge. W.D. wanted nothing to do with Francis Murphy or sobriety, and in a fit of rage at his wife”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s suggestion, he smacked her.</span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<span style="font-size: 10pt; font-family: Arial"></span><img loading="lazy" src="https://farm3.static.flickr.com/2364/2531719095_fdf3fe45f9.jpg" alt="pledge" border="0" height="97" width="281" />  <span style="font-size: 10pt; font-family: Arial"> </span>
+<span style="font-size: 10pt; font-family: Arial"></span><img loading="lazy" src="http://farm3.static.flickr.com/2364/2531719095_fdf3fe45f9.jpg" alt="pledge" border="0" height="97" width="281" />  <span style="font-size: 10pt; font-family: Arial"> </span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 10pt; font-family: Arial">Everyone who came into contact with the couple thought that W.D. was nothing better than drunken brute, particularly when in full view of several hotel guests he chased Laura through the hotel, then grabbed her by the throat and throttled her. <span> </span>Although W.D.”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s drinking and behavior had certainly spiraled out of control, he may have had good reason for behaving so badly. He”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d become convinced that Laura was being unfaithful and had started following her. He trailed her several times to an obvious assignation in <st1:place w:st="on"><st1:placetype w:st="on">Ocean</st1:placetype> <st1:placetype w:st="on">Park</st1:placetype></st1:place>. <span> </span>Later, at home, W.D. confronted Laura and she confessed her infidelity.<span>  </span>After 13 years of marriage, the couple divorced.</span>
@@ -93,7 +93,7 @@
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<span style="font-size: 10pt; font-family: Arial"><img loading="lazy" src="https://farm3.static.flickr.com/2319/2532534228_2438b25976.jpg" alt="Mary Meister" align="middle" border="0" height="500" width="364" /></span>
+<span style="font-size: 10pt; font-family: Arial"><img loading="lazy" src="http://farm3.static.flickr.com/2319/2532534228_2438b25976.jpg" alt="Mary Meister" align="middle" border="0" height="500" width="364" /></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial"></span>
@@ -129,7 +129,7 @@ I<span style="font-size: 10pt; font-family: Arial">t was his downtown outburst t
 <span style="font-size: 10pt; font-family: Arial"></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">With Mary embarrassed to be seen in public and W.D. babbling away in the <st1:place w:st="on"><st1:placetype w:st="on">County</st1:placetype> <st1:placetype w:st="on">Hospital</st1:placetype></st1:place>, the story may<img loading="lazy" src="https://farm3.static.flickr.com/2341/2532534242_d60a3a9d47_m.jpg" alt="tangled web" align="right" border="0" height="240" width="217" /> have ended there ”“ but one more bizarre chapter remained to be written.</span>
+<span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">With Mary embarrassed to be seen in public and W.D. babbling away in the <st1:place w:st="on"><st1:placetype w:st="on">County</st1:placetype> <st1:placetype w:st="on">Hospital</st1:placetype></st1:place>, the story may<img loading="lazy" src="http://farm3.static.flickr.com/2341/2532534242_d60a3a9d47_m.jpg" alt="tangled web" align="right" border="0" height="240" width="217" /> have ended there ”“ but one more bizarre chapter remained to be written.</span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -186,7 +186,7 @@ I<span style="font-size: 10pt; font-family: Arial">t was his downtown outburst t
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 310 Clay Street Date: April 11, 1914 Claude Mathewson lived and died by the philosophy &#34;The better the day, the better the deed.&#34; He&#8217;d often slip this bon mot into conversation in the basement dives of Spring Street, and if his tipsy companions didn&#8217;t know what the hell he meant in life, they got &#8230; <a href="/nelliebuck/" class="more-link">Continue reading<span class="screen-reader-text"> "The Most Beautiful Woman on Spring Street"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2405787180/" title="nellie murdoch and slayer claude mathewson at Hotel Lorraine by richardschave, on Flickr"><img loading="lazy" src="https://farm4.static.flickr.com/3070/2405787180_38e7ec893c.jpg" alt="nellie murdoch and slayer claude mathewson at Hotel Lorraine" height="500" width="287" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2405787180/" title="nellie murdoch and slayer claude mathewson at Hotel Lorraine by richardschave, on Flickr"><img loading="lazy" src="http://farm4.static.flickr.com/3070/2405787180_38e7ec893c.jpg" alt="nellie murdoch and slayer claude mathewson at Hotel Lorraine" height="500" width="287" /></a></p>
 <p>Location: 310 Clay Street<br />
 <br />
 Date: April 11, 1914</p>
@@ -195,7 +195,7 @@ Date: April 11, 1914</p>
 <p>And Claude too was well known along Spring, as former proprietor of the Rathskellar Cafe, one-time ward politician, deputy sheriff and fireman. When Nellie came from the north on a lark and met Claude, he had already divorced once and would soon enough lose track of wife #2. He&#8217;d never taken a woman seriously before, but when he saw Nellie, he was gobsmacked. He contrived to pay for her drink with a $50 bill, and was rewarded when the lady smiled and said to her friend, &quot;He&#8217;s some sport.&quot; Claude&#8217;s captivation became the talk of the town, as his wife filed for divorce, his bank accounts were emptied to buy dresses and wraps, and he even sold his cafe on Nellie&#8217;s whim, because she wanted to run a rooming house. He paid $5000 for the Hotel Lorraine (later to be called the Hotel Clayton) and established her there on Clay Street. But soon the police discovered the type of establishment it was and blocked new tenants from arriving, and Claude found himself short of cash.</p>
 <p>Worse still, Nellie developed an affection of her own, and began traveling to the Vernon Country Club to dally with a cafe singer. Anxious, Claude retired to Murrietta Hot Springs to lick his wounds, and there he brooded. On his return to town, his jaw was set, and his friends could see he had made some big decision. It was hoped he would scare up some cash and redeem his cafe partnership with Walter Lips, former fire chief, but this was not his plan.</p>
 <p>Late Thursday night, he went to the hotel to look for Nellie, and waited until she returned from Vernon. They fought, and she told him she intended to leave him, and had been saving her money to get away the very next day–Good Friday. Is that so, mused Claude. Because he too had been waiting and planning something for the morning, only his plan was to kill Nellie. He had waited fourteen days to perform this grim act on the most auspicious date. Nellie sat shocked, then ran to a friend&#8217;s room to say that Claude was mad. But she must not have taken him seriously, since she returned to her room and continued the discussion, and all night they quarreled.</p>
-<p><a href="https://www.flickr.com/photos/richardschave/2404956123/" title="nellie murdoch slaying headline at Hotel Lorraine by richardschave, on Flickr"><img loading="lazy" src="https://farm4.static.flickr.com/3060/2404956123_3fb3ea6959_o.png" alt="nellie murdoch slaying headline at Hotel Lorraine" height="160" width="331" /></a></p>
+<p><a href="http://www.flickr.com/photos/richardschave/2404956123/" title="nellie murdoch slaying headline at Hotel Lorraine by richardschave, on Flickr"><img loading="lazy" src="http://farm4.static.flickr.com/3060/2404956123_3fb3ea6959_o.png" alt="nellie murdoch slaying headline at Hotel Lorraine" height="160" width="331" /></a></p>
 <p>And when the dawn broke, Claude announced &quot;Good Friday has come, my dear, and it is time for you to die.&quot; She screamed. He took her own gun from her desk and aimed. She hid in the closet, wrapped in silky things he&#8217;d bought for her, which were no defense against two slugs from the little lady&#8217;s .25. And after satisfying himself that she was dead Claude rolled and smoked a last cigarette, then shot himself in the head.</p>
 <p>Nellie was buried at Rosedale, and her lover cremated after services at the Peck &amp; Chase chapel. Mrs. Mathewson, who returned from Seattle to handle the arrangements, is at her sister&#8217;s home on West 41st Street, and will not speak of what has happened, but we think the disposition of her husband&#8217;s body says it all.</p>
 ]]></content:encoded>
@@ -220,7 +220,7 @@ Date: April 11, 1914</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 310 Clay Street Date: June 19, 1910 Jerome Hite, former bookkeeper at the Woolwine Motor Car Company, is a jealous man. He drinks to excess, and likes to chase his wife with a revolver. In an attempt to prove she had been faithless, he pretended to leave on a business trip to Bakersfield, but &#8230; <a href="/goingtobakersfield/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;I Am Going to Bakersfield!&#8221;"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2405883570/" title="jerome hite and wife whom he shot at hotel lorraine by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2044/2405883570_42371d905d.jpg" alt="jerome hite and wife whom he shot at hotel lorraine" height="500" width="158" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2405883570/" title="jerome hite and wife whom he shot at hotel lorraine by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2044/2405883570_42371d905d.jpg" alt="jerome hite and wife whom he shot at hotel lorraine" height="500" width="158" /></a></p>
 <p>Location: 310 Clay Street<br />
 Date: June 19, 1910</p>
 <p>Jerome Hite, former bookkeeper at the Woolwine Motor Car Company, is a jealous man. He drinks to excess, and likes to chase his wife with a revolver. In an attempt to prove she had been faithless, he pretended to leave on a business trip to Bakersfield, but returned to their room at the Hotel Lorraine a few hours later, saying he had forgotten a pair of shoes. But his wife was alone. He took the shoes and again &quot;left for Bakersfield,&quot; but returned later that evening; again, nothing was amiss. Damned stubborn woman!</p>
@@ -252,18 +252,18 @@ Date: June 19, 1910</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: October 31, 1904 It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &#34;I can&#8217;t be good; I want to &#8230; <a href="/vanvanishes/" class="more-link">Continue reading<span class="screen-reader-text"> "Van Vanishes"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2185/2394379840_159bb783a8.jpg" alt="Van Blarcom" height="500" width="250" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2185/2394379840_159bb783a8.jpg" alt="Van Blarcom" height="500" width="250" /></a></p>
 <p>Location: 255 South Bunker Hill Avenue<br />
 Date: October 31, 1904</p>
 <p>It was a week ago when newspaperman W.D. Van Blarcom, Jr., known as Van,  helped wife Emily, a Wyoming gal and a gifted china painter, onto the white, ascending Angels&#8217; Flight carriage and made a most distressing speech: &quot;I can&#8217;t be good; I want to be bad. I shall be bad. My brothers and sisters have always said that I was the black sheep in the family. Now I will prove to them that I am. Good-bye. Go home and wait for me.&quot; </p>
 <p>She did as she was told and went back to their three-room apartment in the Alta Vista, but there has been no word from Van since and the lady is half mad with worry and regret. When visited by a reporter she was being closely watched by friends who feared she would make good on her threats of suicide. </p>
 <p>Her story: &quot;My life has become a blank. It is as if I had run against a stone wall. I shall commit suicide. If only he would come back–if only he would let me know why he went–if only I could go to him. And yet they say he has done this thing before. I have reported his disappearance to the police and they can get no trace of him. One minute I believe he has committed suicide and the next I believe there is a woman in the case. Yes–there must be a woman in the case. But in any event, there is nothing left for me. I shall take my life. About a week ago I was arranging some of his clothes in a closet, when a bundle of letters fell on the floor. One of them was from a woman in San Francisco, in which she wrote of a violent attachment for my husband, and added: &#8216;I suppose you are having a lovely time with you &#8212;.&#8217; I am the blank! Think of it! We had a little tiff over this letter and in taking it away from me he tore my arm with his nails, see, here is the sore place yet. Then when I agreed to burn it up and he saw me do so he swore with uplifted hand an oath to his dead mother than nothing but death could separate us. That was just a week ago today. Last Monday he was very despondent and did not come home as promised, and I went down to the newspaper office where he was working and tried to cheer him up. Then I went to Secretary Stevens of the Elks lodge and had him telephone my husband and ask him what was the matter. &#8216;Everything is all right now; tell her to come over here at once,&#8217; he answered. I went and that is when he took me to the foot of the Angels&#8217; Flight and told me that he wanted to be bad. Finally he sad that he would come home at 3 o&#8217;clock in the morning, but he never came.&quot;</p>
 <p>The couple married last Christmas in Salt Lake, three months after Van&#8217;s divorce (Emily was four years divorced from a Mr. Miner), and came to Los Angeles via Portland and San Francisco. They choose this town for the climate, which they hoped would aid Van&#8217;s lung ailment (he said he&#8217;d been shot through the chest while representing the Associated Press in Cuba during the war with Spain). He quickly got work on the <i>Herald</i>, but after ten days moved over to the <i>Examiner</i>, and was so employed at the time of his disappearance. Police doubt he&#8217;s killed himself, although friends say he spoke often of doing so, since his last act before vanishing was to pawn Emily&#8217;s $50 gold watch. But as he was an Elk, the brothers have taken up a collection to pay the passage of the destitute bride back to her friends in Utah. Where, by the by, he abandoned his last wife in just the same way he did this one.</p>
-<p>Emily said that Van was related to Lincoln portraitist <a href="https://lincoln.lib.niu.edu/cgi-bin/philologic/getobject.pl?c.3360:11:83.lincoln" target="_blank" rel="noopener">A.J. Conant</a> and to the wealthy St. Louis Van Blarcoms–a branch with a <a href="https://www.frederickok.org/History/Name.htm" target="_blank" rel="noopener">blackish sheep</a> of its own. </p>
+<p>Emily said that Van was related to Lincoln portraitist <a href="http://lincoln.lib.niu.edu/cgi-bin/philologic/getobject.pl?c.3360:11:83.lincoln" target="_blank" rel="noopener">A.J. Conant</a> and to the wealthy St. Louis Van Blarcoms–a branch with a <a href="http://www.frederickok.org/History/Name.htm" target="_blank" rel="noopener">blackish sheep</a> of its own. </p>
 <p>We hear no more of him until 1936, when an obituary appears for an old newspaperman of the right name, approximate age and career history, passing from arthritis in Bakersfield and leaving an unnamed widow, a son and a daughter. Was the widow Emily, or some later wife who was better able to salt this bounder&#8217;s wings? </p>
 <p>*note: Angels&#8217; Flight has its oft-missing possessive in the 1904 article in the <i>Los Angeles Times</i> from which this entry is adapted.<br />
  </p>
-<p><a href="https://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"></a></p>
+<p><a href="http://www.flickr.com/photos/richardschave/2394379840/" title="Van Blarcom by richardschave, on Flickr"></a></p>
 ]]></content:encoded>
 					
 		

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		Comment on From the George Mann Archives: La Cienega Restaurant Row by Neal Sausen		</title>
@@ -143,7 +143,7 @@ Thanks,
 
 Ken Karagozian
 
-https://www.kenkaragozian.com/
+http://www.kenkaragozian.com/
 
 &#160;
 
@@ -153,7 +153,7 @@ https://www.kenkaragozian.com/
 <p>It was from Los Angeles photographer Ray McSavaney who passed away in 2014. I have Ray&#8217;s archives. Currently have a lightbox photo exhibit at Union Station on my Los Angeles underground transportation project.</p>
 <p>Thanks,</p>
 <p>Ken Karagozian</p>
-<p><a href="https://www.kenkaragozian.com/" rel="nofollow ugc">https://www.kenkaragozian.com/</a></p>
+<p><a href="http://www.kenkaragozian.com/" rel="nofollow ugc">http://www.kenkaragozian.com/</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>

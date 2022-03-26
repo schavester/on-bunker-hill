@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -45,12 +45,12 @@
 
 					<description><![CDATA[Having spent the earthquake today underground on the Wilshire/Vermont subway platform, I, for one, am grateful for the building codes and seismic retrofits of today. And the downtown Los Angeles of today came through the quake swimmingly, with the most significant damage being sustained by the Literature &#38; Fiction Department at Central Library, which was &#8230; <a href="/longbeach1933/" class="more-link">Continue reading<span class="screen-reader-text"> "Downtown L.A. and the Long Beach Earthquake of 1933"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Having spent the earthquake today underground on the Wilshire/Vermont subway platform, I, for one, am grateful for the building codes and seismic retrofits of today.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3274/2715431475_01ea2fe04b.jpg" width="342" height="433" align="left" alt="unshaken" />And the downtown Los Angeles of today came through the quake swimmingly, with the most significant damage being sustained by the Literature &amp; Fiction Department at Central Library, which was briefly closed this afternoon after many of its books were flung from the shelves by tremors.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3274/2715431475_01ea2fe04b.jpg" width="342" height="433" align="left" alt="unshaken" />And the downtown Los Angeles of today came through the quake swimmingly, with the most significant damage being sustained by the Literature &amp; Fiction Department at Central Library, which was briefly closed this afternoon after many of its books were flung from the shelves by tremors.</p>
 <p>However, everyone knows that Southern California hasn&#8217;t always escaped these quakes quite so unscathed.  For today&#8217;s Bunker Hill time travel, let&#8217;s step back to the Long Beach Earthquake of 1933.</p>
 <p>Centered on the Newport-Inglewood Fault, the 6.4 quake hit Southern California in the early evening on March 10, 1933.  Rubble filled the streets, fires broke out, and approximately 120 people were killed in the quake, with hundreds more injured filling the Southland&#8217;s hospitals.  The cities of Long Beach, Compton, Watts, Huntington Park, and Huntington Beach were particularly hard hit.</p>
 <p>Though downtown and the Bunker Hill area fared better, there were more than a few close shaves.</p>
 <p>At 130 S. Broadway, 19-year-old Morgan Gordon was sitting in his car when two 3-foot square blocks plummeted from the cornice of the building.  One crashed through the car&#8217;s hood, the other through its roof, fortunately, landing in the empty passenger seat.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3203/2715431579_2aee2d3082.jpg" width="500" height="385" align="right" alt="crushed cars" />Nearby, witnesses watched in horror as the tops of the Federal Building, the Hall of Justice, and City Hall swayed visibly, and the screams of prisoners being held on the top three floors of the Hall of Justice could be heard from the street below:  &quot;We want out!  We want out!&quot;</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3203/2715431579_2aee2d3082.jpg" width="500" height="385" align="right" alt="crushed cars" />Nearby, witnesses watched in horror as the tops of the Federal Building, the Hall of Justice, and City Hall swayed visibly, and the screams of prisoners being held on the top three floors of the Hall of Justice could be heard from the street below:  &quot;We want out!  We want out!&quot;</p>
 <p>Paint was literally knocked off of all four exterior walls of the Hall of Records, broken glass filled the streets, and people were struck and injured by falling bricks and debris (though no downtown fatalities were reported).</p>
 <p>Dramatic as the scene downtown was, the long-term damage was limited.  Most of the debris was cleared over the weekend, and of all the large buildings in the area, only three were deemed potentially unsafe:  the Detwiler Building at 412 W. Sixth, the Edison Building at Broadway and Third, and the Great Republic Life Buildling at 756 S. Spring.  In all, the damage to downtown buildings was estimated at a relatively modest $250,000 ($4.2 million USD 2007).</p>
 <p><i>Photo from the Los Angeles Public Library Photo Collection</i></p>

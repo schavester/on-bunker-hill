@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		By: kim		</title>
@@ -31,10 +31,10 @@
 
 					<description><![CDATA[In reply to &lt;a href=&quot;/thedirtpatchofsecondandhill/#comment-326&quot;&gt;BasicShape&lt;/a&gt;.
 
-We appreciate your sharing this striking image, and would love to see more. Just FYI, I scaled your image down to a size that fits within the borders of this site layout--if you do post others, a width of about 500 is just right. Feel free to include a link to see your larger pictures on Flickr and comment on them there. Here&#039;s the &lt;a href=&quot;https://www.flickr.com/photos/basicshape/4523703115&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt; for the page with your tunnel overlay photo on Flickr.
+We appreciate your sharing this striking image, and would love to see more. Just FYI, I scaled your image down to a size that fits within the borders of this site layout--if you do post others, a width of about 500 is just right. Feel free to include a link to see your larger pictures on Flickr and comment on them there. Here&#039;s the &lt;a href=&quot;http://www.flickr.com/photos/basicshape/4523703115&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt; for the page with your tunnel overlay photo on Flickr.
 ]]></description>
 			<content:encoded><![CDATA[<p>In reply to <a href="/thedirtpatchofsecondandhill/#comment-326">BasicShape</a>.</p>
-<p>We appreciate your sharing this striking image, and would love to see more. Just FYI, I scaled your image down to a size that fits within the borders of this site layout&#8211;if you do post others, a width of about 500 is just right. Feel free to include a link to see your larger pictures on Flickr and comment on them there. Here&#8217;s the <a href="https://www.flickr.com/photos/basicshape/4523703115" target="_blank">link</a> for the page with your tunnel overlay photo on Flickr.</p>
+<p>We appreciate your sharing this striking image, and would love to see more. Just FYI, I scaled your image down to a size that fits within the borders of this site layout&#8211;if you do post others, a width of about 500 is just right. Feel free to include a link to see your larger pictures on Flickr and comment on them there. Here&#8217;s the <a href="http://www.flickr.com/photos/basicshape/4523703115" target="_blank">link</a> for the page with your tunnel overlay photo on Flickr.</p>
 ]]></content:encoded>
 		
 			</item>
@@ -48,10 +48,10 @@ We appreciate your sharing this striking image, and would love to see more. Just
 		<guid isPermaLink="false">#comment-326</guid>
 
 					<description><![CDATA[I just wanted to say what a great site you have here. Looking through all these fascinating old photos inspired me to create a simple overlay of the east 2nd St tunnel entrance. Enjoy. I hope to do more of these. Time permitting.
-&lt;a href=&quot;https://www.flickr.com/photos/basicshape/4523703115/&quot; title=&quot;2nd St. and Hill St., Los Angeles-Past and present by BasicShape, on Flickr&quot;&gt;&lt;img src=&quot;https://farm3.static.flickr.com/2754/4523703115_8688735d5f_b.jpg&quot; alt=&quot;2nd St. and Hill St., Los Angeles-Past and present&quot; width=&quot;512&quot; height=&quot;222&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/basicshape/4523703115/&quot; title=&quot;2nd St. and Hill St., Los Angeles-Past and present by BasicShape, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2754/4523703115_8688735d5f_b.jpg&quot; alt=&quot;2nd St. and Hill St., Los Angeles-Past and present&quot; width=&quot;512&quot; height=&quot;222&quot; /&gt;&lt;/a&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>I just wanted to say what a great site you have here. Looking through all these fascinating old photos inspired me to create a simple overlay of the east 2nd St tunnel entrance. Enjoy. I hope to do more of these. Time permitting.<br />
-<a href="https://www.flickr.com/photos/basicshape/4523703115/" title="2nd St. and Hill St., Los Angeles-Past and present by BasicShape, on Flickr"><img src="https://farm3.static.flickr.com/2754/4523703115_8688735d5f_b.jpg" alt="2nd St. and Hill St., Los Angeles-Past and present" width="512" height="222" /></a></p>
+<a href="http://www.flickr.com/photos/basicshape/4523703115/" title="2nd St. and Hill St., Los Angeles-Past and present by BasicShape, on Flickr"><img src="http://farm3.static.flickr.com/2754/4523703115_8688735d5f_b.jpg" alt="2nd St. and Hill St., Los Angeles-Past and present" width="512" height="222" /></a></p>
 ]]></content:encoded>
 		
 			</item>
@@ -65,32 +65,32 @@ We appreciate your sharing this striking image, and would love to see more. Just
 		<guid isPermaLink="false">#comment-68</guid>
 
 					<description><![CDATA[&lt;p&gt;
-There are those time travelers who busy themselves with the study of wormhole metrics and subsequently spend uncountable dollars and manhours building impossibly complicated machines (e.g., the doohickey from last week&#039;s â€œ1909â€ post).  Then there are those who, bastard descendents of &lt;a href=&quot;https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)&quot; title=&quot;SIT&quot; target=&quot;_blank&quot;&gt;Richard Collier&lt;/a&gt;, simply &lt;i&gt;will&lt;/i&gt; themselves to be.  Back then. &lt;br /&gt;
+There are those time travelers who busy themselves with the study of wormhole metrics and subsequently spend uncountable dollars and manhours building impossibly complicated machines (e.g., the doohickey from last week&#039;s â€œ1909â€ post).  Then there are those who, bastard descendents of &lt;a href=&quot;http://en.wikipedia.org/wiki/Somewhere_in_Time_(film)&quot; title=&quot;SIT&quot; target=&quot;_blank&quot;&gt;Richard Collier&lt;/a&gt;, simply &lt;i&gt;will&lt;/i&gt; themselves to be.  Back then. &lt;br /&gt;
 &lt;br /&gt;
-&lt;a href=&quot;https://sites.google.com/site/jlordazphotography/Home&quot; title=&quot;JLo&quot; target=&quot;_blank&quot;&gt;J. L. Ordaz&lt;/a&gt; is one such gent.  He can remove the embarrassing signifiers of contemporary society and project himself into the past, and document himself there and then.  Spiritual &lt;a href=&quot;https://www.flickr.com/photos/java1888/sets/72157602036974831/&quot; title=&quot;vintlikephotogs&quot; target=&quot;_blank&quot;&gt;heir&lt;/a&gt; to &lt;a href=&quot;https://www.mensvogue.com/arts/articles/2008/04/mcdermott&quot; title=&quot;McDMcG&quot; target=&quot;_blank&quot;&gt;McDermott/McGough&lt;/a&gt;, if you will.&lt;br /&gt;
+&lt;a href=&quot;http://sites.google.com/site/jlordazphotography/Home&quot; title=&quot;JLo&quot; target=&quot;_blank&quot;&gt;J. L. Ordaz&lt;/a&gt; is one such gent.  He can remove the embarrassing signifiers of contemporary society and project himself into the past, and document himself there and then.  Spiritual &lt;a href=&quot;http://www.flickr.com/photos/java1888/sets/72157602036974831/&quot; title=&quot;vintlikephotogs&quot; target=&quot;_blank&quot;&gt;heir&lt;/a&gt; to &lt;a href=&quot;http://www.mensvogue.com/arts/articles/2008/04/mcdermott&quot; title=&quot;McDMcG&quot; target=&quot;_blank&quot;&gt;McDermott/McGough&lt;/a&gt;, if you will.&lt;br /&gt;
 &lt;br /&gt;
 In being who he is, he gets to go to places others might not.  While area youth drive to and from places &lt;i&gt;extreme&lt;/i&gt;, Bailey is &lt;i&gt;so not&lt;/i&gt; her handbag, and Justin takes it to the &lt;i&gt;next level&lt;/i&gt;, and Caitlinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s tongue piercing is giving her trigeminal neuralgia, but Ordaz is out altogether somewhere else, ambling through dilapidated backwood buildings, treating himself to things abandoned, both physical and metaphysical.&lt;br /&gt;
 &lt;br /&gt;
-On the physical plane, &lt;a href=&quot;https://www.flickr.com/photos/java1888/sets/72157611795983841/&quot; title=&quot;oncewaslost&quot; target=&quot;_blank&quot;&gt;he found some photos&lt;/a&gt;.&lt;br /&gt;
+On the physical plane, &lt;a href=&quot;http://www.flickr.com/photos/java1888/sets/72157611795983841/&quot; title=&quot;oncewaslost&quot; target=&quot;_blank&quot;&gt;he found some photos&lt;/a&gt;.&lt;br /&gt;
 &lt;br /&gt;
-Which he so kindly put up on Flickr for the world to enjoy and benefit from.  The &lt;a href=&quot;https://www.flickr.com/photos/java1888/3147695007/in/set-72157611795983841/&quot; title=&quot;boink&quot; target=&quot;_blank&quot;&gt;first to raise an eyebrow&lt;/a&gt; was the Bunker  Hill &lt;a href=&quot;/bunkerHillHistory2&quot; title=&quot;bradhome&quot; target=&quot;_blank&quot;&gt;home of the Bradburys&lt;/a&gt;.  That caught my eye right off; I squinted at a couple others until that &lt;i&gt;a-ha&lt;/i&gt; moment.  &lt;br /&gt;
+Which he so kindly put up on Flickr for the world to enjoy and benefit from.  The &lt;a href=&quot;http://www.flickr.com/photos/java1888/3147695007/in/set-72157611795983841/&quot; title=&quot;boink&quot; target=&quot;_blank&quot;&gt;first to raise an eyebrow&lt;/a&gt; was the Bunker  Hill &lt;a href=&quot;/bunkerHillHistory2&quot; title=&quot;bradhome&quot; target=&quot;_blank&quot;&gt;home of the Bradburys&lt;/a&gt;.  That caught my eye right off; I squinted at a couple others until that &lt;i&gt;a-ha&lt;/i&gt; moment.  &lt;br /&gt;
 &lt;br /&gt;
 For there it was, two images of the north side of Hill Street, taken from atop the tunnel at First.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3440/3200819926_b9dd7cdc02_o.gif&quot; alt=&quot;uphill&quot; height=&quot;500&quot; width=&quot;297&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3440/3200819926_b9dd7cdc02_o.gif&quot; alt=&quot;uphill&quot; height=&quot;500&quot; width=&quot;297&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 I wrote Mr. Ordaz and asked if he&#039;d be kind enough to allow me to reproduce them here; he is.  For that I thank him.  I&#039;ve also tinkered and tailored and soldiered and spied on these pics in an effort to bring the image detail into somewhat clearer focus:
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3119/3199974161_67e794feca_o.gif&quot; alt=&quot;hillst&quot; height=&quot;693&quot; width=&quot;555&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3119/3199974161_67e794feca_o.gif&quot; alt=&quot;hillst&quot; height=&quot;693&quot; width=&quot;555&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3350/3200819296_0fe8896e8e_o.gif&quot; alt=&quot;upthehillca1905&quot; height=&quot;294&quot; width=&quot;500&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3350/3200819296_0fe8896e8e_o.gif&quot; alt=&quot;upthehillca1905&quot; height=&quot;294&quot; width=&quot;500&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3506/3200820116_3c79401813_o.gif&quot; alt=&quot;closer&quot; height=&quot;416&quot; width=&quot;568&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3506/3200820116_3c79401813_o.gif&quot; alt=&quot;closer&quot; height=&quot;416&quot; width=&quot;568&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 In the foreground of course are the El Moro and the flattened face of the the Moore Cliff.  I&#039;m most fond of the rounded tower, center/left, which I believe to be the Hotel Locke, before that whole side of the block was excavated for auto parking.  One gets a feel for how mammoth the retaining walls were.  And off in the distance, the tower at upper right is the Astoria.
@@ -100,26 +100,26 @@ Thanks again to Mr. Ordaz for his generosity in allowing my use of these images,
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-There are those time travelers who busy themselves with the study of wormhole metrics and subsequently spend uncountable dollars and manhours building impossibly complicated machines (e.g., the doohickey from last week&#8217;s â€œ1909â€ post).  Then there are those who, bastard descendents of <a href="https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)" title="SIT" target="_blank">Richard Collier</a>, simply <i>will</i> themselves to be.  Back then. </p>
-<p><a href="https://sites.google.com/site/jlordazphotography/Home" title="JLo" target="_blank">J. L. Ordaz</a> is one such gent.  He can remove the embarrassing signifiers of contemporary society and project himself into the past, and document himself there and then.  Spiritual <a href="https://www.flickr.com/photos/java1888/sets/72157602036974831/" title="vintlikephotogs" target="_blank">heir</a> to <a href="https://www.mensvogue.com/arts/articles/2008/04/mcdermott" title="McDMcG" target="_blank">McDermott/McGough</a>, if you will.</p>
+There are those time travelers who busy themselves with the study of wormhole metrics and subsequently spend uncountable dollars and manhours building impossibly complicated machines (e.g., the doohickey from last week&#8217;s â€œ1909â€ post).  Then there are those who, bastard descendents of <a href="http://en.wikipedia.org/wiki/Somewhere_in_Time_(film)" title="SIT" target="_blank">Richard Collier</a>, simply <i>will</i> themselves to be.  Back then. </p>
+<p><a href="http://sites.google.com/site/jlordazphotography/Home" title="JLo" target="_blank">J. L. Ordaz</a> is one such gent.  He can remove the embarrassing signifiers of contemporary society and project himself into the past, and document himself there and then.  Spiritual <a href="http://www.flickr.com/photos/java1888/sets/72157602036974831/" title="vintlikephotogs" target="_blank">heir</a> to <a href="http://www.mensvogue.com/arts/articles/2008/04/mcdermott" title="McDMcG" target="_blank">McDermott/McGough</a>, if you will.</p>
 <p>In being who he is, he gets to go to places others might not.  While area youth drive to and from places <i>extreme</i>, Bailey is <i>so not</i> her handbag, and Justin takes it to the <i>next level</i>, and Caitlinâ€™s tongue piercing is giving her trigeminal neuralgia, but Ordaz is out altogether somewhere else, ambling through dilapidated backwood buildings, treating himself to things abandoned, both physical and metaphysical.</p>
-<p>On the physical plane, <a href="https://www.flickr.com/photos/java1888/sets/72157611795983841/" title="oncewaslost" target="_blank">he found some photos</a>.</p>
-<p>Which he so kindly put up on Flickr for the world to enjoy and benefit from.  The <a href="https://www.flickr.com/photos/java1888/3147695007/in/set-72157611795983841/" title="boink" target="_blank">first to raise an eyebrow</a> was the Bunker  Hill <a href="/bunkerHillHistory2" title="bradhome" target="_blank">home of the Bradburys</a>.  That caught my eye right off; I squinted at a couple others until that <i>a-ha</i> moment.  </p>
+<p>On the physical plane, <a href="http://www.flickr.com/photos/java1888/sets/72157611795983841/" title="oncewaslost" target="_blank">he found some photos</a>.</p>
+<p>Which he so kindly put up on Flickr for the world to enjoy and benefit from.  The <a href="http://www.flickr.com/photos/java1888/3147695007/in/set-72157611795983841/" title="boink" target="_blank">first to raise an eyebrow</a> was the Bunker  Hill <a href="/bunkerHillHistory2" title="bradhome" target="_blank">home of the Bradburys</a>.  That caught my eye right off; I squinted at a couple others until that <i>a-ha</i> moment.  </p>
 <p>For there it was, two images of the north side of Hill Street, taken from atop the tunnel at First.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3440/3200819926_b9dd7cdc02_o.gif" alt="uphill" height="500" width="297" /></p>
+<img src="http://farm4.static.flickr.com/3440/3200819926_b9dd7cdc02_o.gif" alt="uphill" height="500" width="297" /></p>
 <p>
 I wrote Mr. Ordaz and asked if he&#8217;d be kind enough to allow me to reproduce them here; he is.  For that I thank him.  I&#8217;ve also tinkered and tailored and soldiered and spied on these pics in an effort to bring the image detail into somewhat clearer focus:
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3119/3199974161_67e794feca_o.gif" alt="hillst" height="693" width="555" />
+<img src="http://farm4.static.flickr.com/3119/3199974161_67e794feca_o.gif" alt="hillst" height="693" width="555" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3350/3200819296_0fe8896e8e_o.gif" alt="upthehillca1905" height="294" width="500" />
+<img src="http://farm4.static.flickr.com/3350/3200819296_0fe8896e8e_o.gif" alt="upthehillca1905" height="294" width="500" />
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3506/3200820116_3c79401813_o.gif" alt="closer" height="416" width="568" />
+<img src="http://farm4.static.flickr.com/3506/3200820116_3c79401813_o.gif" alt="closer" height="416" width="568" />
 </p>
 <p>
 In the foreground of course are the El Moro and the flattened face of the the Moore Cliff.  I&#8217;m most fond of the rounded tower, center/left, which I believe to be the Hotel Locke, before that whole side of the block was excavated for auto parking.  One gets a feel for how mammoth the retaining walls were.  And off in the distance, the tower at upper right is the Astoria.
@@ -142,38 +142,38 @@ Thanks again to Mr. Ordaz for his generosity in allowing my use of these images,
 Scroll up a bit to the shots of Second where it rises above Hillâ€”and now feast your eyes on 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3254/2930192716_82ddb23e81_o.gif&quot; alt=&quot;itsblue&quot; height=&quot;384&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3254/2930192716_82ddb23e81_o.gif&quot; alt=&quot;itsblue&quot; height=&quot;384&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-We have the glory of the &lt;a href=&quot;https://webapp1.dlib.indiana.edu/cushman/highlights/slideShow.jsp?page=14&quot; title=&quot;digbabydig&quot; target=&quot;_blank&quot;&gt;Cushman Collection&lt;/a&gt; to thank for this one. 
+We have the glory of the &lt;a href=&quot;http://webapp1.dlib.indiana.edu/cushman/highlights/slideShow.jsp?page=14&quot; title=&quot;digbabydig&quot; target=&quot;_blank&quot;&gt;Cushman Collection&lt;/a&gt; to thank for this one. 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3273/2930192558_ffde33091a_o.gif&quot; alt=&quot;425&quot; height=&quot;373&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3273/2930192558_ffde33091a_o.gif&quot; alt=&quot;425&quot; height=&quot;373&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 I mean, 421/419 is blue!  Blue!  
 &lt;/p&gt;
 &lt;p&gt;
-And I have a hankering for some delicious &lt;a href=&quot;https://www.ladowntownnews.com/articles/2005/06/13/news/news_briefs/at04.txt&quot; title=&quot;digbabydigsomemore&quot; target=&quot;_blank&quot;&gt;Brew 102&lt;/a&gt;! 
+And I have a hankering for some delicious &lt;a href=&quot;http://www.ladowntownnews.com/articles/2005/06/13/news/news_briefs/at04.txt&quot; title=&quot;digbabydigsomemore&quot; target=&quot;_blank&quot;&gt;Brew 102&lt;/a&gt;! 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
 Scroll up a bit to the shots of Second where it rises above Hillâ€”and now feast your eyes on
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3254/2930192716_82ddb23e81_o.gif" alt="itsblue" height="384" width="575" />
+<img src="http://farm4.static.flickr.com/3254/2930192716_82ddb23e81_o.gif" alt="itsblue" height="384" width="575" />
 </p>
 <p>
-We have the glory of the <a href="https://webapp1.dlib.indiana.edu/cushman/highlights/slideShow.jsp?page=14" title="digbabydig" target="_blank">Cushman Collection</a> to thank for this one.
+We have the glory of the <a href="http://webapp1.dlib.indiana.edu/cushman/highlights/slideShow.jsp?page=14" title="digbabydig" target="_blank">Cushman Collection</a> to thank for this one.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3273/2930192558_ffde33091a_o.gif" alt="425" height="373" width="575" />
+<img src="http://farm4.static.flickr.com/3273/2930192558_ffde33091a_o.gif" alt="425" height="373" width="575" />
 </p>
 <p>
 I mean, 421/419 is blue!  Blue!
 </p>
 <p>
-And I have a hankering for some delicious <a href="https://www.ladowntownnews.com/articles/2005/06/13/news/news_briefs/at04.txt" title="digbabydigsomemore" target="_blank">Brew 102</a>!</p>
+And I have a hankering for some delicious <a href="http://www.ladowntownnews.com/articles/2005/06/13/news/news_briefs/at04.txt" title="digbabydigsomemore" target="_blank">Brew 102</a>!</p>
 ]]></content:encoded>
 		
 			</item>
@@ -204,9 +204,9 @@ This is fantastic.  There oughta be a book.
 		<pubDate>Sun, 24 Aug 2008 15:34:10 +0000</pubDate>
 		<guid isPermaLink="false">#comment-23</guid>
 
-					<description><![CDATA[&lt;img src=&quot;https://farm4.static.flickr.com/3290/2794001614_977980d05c_o.gif&quot; alt=&quot;fromtheair&quot; height=&quot;400&quot; width=&quot;498&quot; /&gt;...in a photograph by documentarian of slum housing, champion of public housing, Leonard Nadel.  From the LAPL, ca. 1951.
+					<description><![CDATA[&lt;img src=&quot;http://farm4.static.flickr.com/3290/2794001614_977980d05c_o.gif&quot; alt=&quot;fromtheair&quot; height=&quot;400&quot; width=&quot;498&quot; /&gt;...in a photograph by documentarian of slum housing, champion of public housing, Leonard Nadel.  From the LAPL, ca. 1951.
 ]]></description>
-			<content:encoded><![CDATA[<p><img src="https://farm4.static.flickr.com/3290/2794001614_977980d05c_o.gif" alt="fromtheair" height="400" width="498" />&#8230;in a photograph by documentarian of slum housing, champion of public housing, Leonard Nadel.  From the LAPL, ca. 1951.</p>
+			<content:encoded><![CDATA[<p><img src="http://farm4.static.flickr.com/3290/2794001614_977980d05c_o.gif" alt="fromtheair" height="400" width="498" />&#8230;in a photograph by documentarian of slum housing, champion of public housing, Leonard Nadel.  From the LAPL, ca. 1951.</p>
 ]]></content:encoded>
 		
 			</item>
@@ -222,11 +222,11 @@ This is fantastic.  There oughta be a book.
 					<description><![CDATA[In reply to &lt;a href=&quot;/thedirtpatchofsecondandhill/#comment-16&quot;&gt;nathan&lt;/a&gt;.
 
 Thanks, Nathan, it was in fact Pups is Pups!  So Old Gold was a cigarette brand.  
-In this screen cap of that scene you can also see the tanks in the background: &lt;img src=&quot;https://i38.tinypic.com/xo4g7n.jpg&quot; height=&quot;442&quot; width=&quot;576&quot; /&gt;
+In this screen cap of that scene you can also see the tanks in the background: &lt;img src=&quot;http://i38.tinypic.com/xo4g7n.jpg&quot; height=&quot;442&quot; width=&quot;576&quot; /&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>In reply to <a href="/thedirtpatchofsecondandhill/#comment-16">nathan</a>.</p>
 <p>Thanks, Nathan, it was in fact Pups is Pups!  So Old Gold was a cigarette brand.<br />
-In this screen cap of that scene you can also see the tanks in the background: <img src="https://i38.tinypic.com/xo4g7n.jpg" height="442" width="576" /></p>
+In this screen cap of that scene you can also see the tanks in the background: <img src="http://i38.tinypic.com/xo4g7n.jpg" height="442" width="576" /></p>
 ]]></content:encoded>
 		
 			</item>
@@ -244,18 +244,18 @@ Iâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="�
 &lt;br /&gt;
 What to do I to top this post then?  (No, besides more animated Mario Paint cartoons of Prudent Beaudry spouting Aramaic axioms while battling ninjas on Cinnabar Street.) Think I need to find a Victorian mansion somewhere in dire need of saving, and move it to the NW corner of Second and Grand.  Whether I have approval from the city (or owner of the house) to do so remains to be seen.&lt;br /&gt;
 &lt;br /&gt;
-And Chris, in answer to your question (I believe youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re referring to the Roach/MGM &lt;i&gt;Pups is Pups&lt;/i&gt;?) &lt;a href=&quot;https://www.lorillard.com/index.php?id=30&quot; title=&quot;OriginalGangsta&quot; target=&quot;_blank&quot;&gt;Old Gold&lt;/a&gt; was a &lt;a href=&quot;https://en.wikipedia.org/wiki/Lorillard&quot; title=&quot;lorillardwhenimwithyouimdreaming&quot; target=&quot;_blank&quot;&gt;cigarette&lt;/a&gt; (...and thatâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a Union Leader smoking tobacco sign behind it, and Clark is running for judge below, and dig the semaphore street light).&lt;br /&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3077/2762027574_fbaa812105_o.gif&quot; alt=&quot;OldGold&quot; height=&quot;111&quot; width=&quot;305&quot; /&gt;
+And Chris, in answer to your question (I believe youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re referring to the Roach/MGM &lt;i&gt;Pups is Pups&lt;/i&gt;?) &lt;a href=&quot;http://www.lorillard.com/index.php?id=30&quot; title=&quot;OriginalGangsta&quot; target=&quot;_blank&quot;&gt;Old Gold&lt;/a&gt; was a &lt;a href=&quot;http://en.wikipedia.org/wiki/Lorillard&quot; title=&quot;lorillardwhenimwithyouimdreaming&quot; target=&quot;_blank&quot;&gt;cigarette&lt;/a&gt; (...and thatâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a Union Leader smoking tobacco sign behind it, and Clark is running for judge below, and dig the semaphore street light).&lt;br /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3077/2762027574_fbaa812105_o.gif&quot; alt=&quot;OldGold&quot; height=&quot;111&quot; width=&quot;305&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;br /&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3100/2762133072_0cb809e5d8_o.gif&quot; alt=&quot;OGHill&quot; height=&quot;295&quot; width=&quot;321&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3100/2762133072_0cb809e5d8_o.gif&quot; alt=&quot;OGHill&quot; height=&quot;295&quot; width=&quot;321&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Anyone and everyone who hasnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t been down &#039;round Commercial &#038; Vignes should take in a quiet spell circumnavigating Friedman Bag (now a Devon Self Storageâ€”why that isnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t an HCM is beyond me).  The area bounded by Commercial, Vignes, Center and Jackson was where the giant gas tanks once stood (roughly, there were three, with one east of Center St.), you know, the ones you always see in old images of downtown looming behind City Hall.  The Southern California Gas Company tank that was 375â€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> high was especially impressive.  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3275/2762145764_9867ff5fac_o.gif&quot; alt=&quot;tanksforeverything&quot; height=&quot;317&quot; width=&quot;400&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3275/2762145764_9867ff5fac_o.gif&quot; alt=&quot;tanksforeverything&quot; height=&quot;317&quot; width=&quot;400&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 Anyway, again, thanks for the appreciative comments and I know I speak for all the OBH bloggers when I say we&#039;ll do our best to further delight in bigger and better ways.  Excelsior! 
@@ -264,18 +264,18 @@ Anyway, again, thanks for the appreciative comments and I know I speak for all t
 			<content:encoded><![CDATA[<p>
 Iâ€™m agog if not a little stunned but of course greatly honored by the kind words.  Hey, just happy to oblige.  </p>
 <p>What to do I to top this post then?  (No, besides more animated Mario Paint cartoons of Prudent Beaudry spouting Aramaic axioms while battling ninjas on Cinnabar Street.) Think I need to find a Victorian mansion somewhere in dire need of saving, and move it to the NW corner of Second and Grand.  Whether I have approval from the city (or owner of the house) to do so remains to be seen.</p>
-<p>And Chris, in answer to your question (I believe youâ€™re referring to the Roach/MGM <i>Pups is Pups</i>?) <a href="https://www.lorillard.com/index.php?id=30" title="OriginalGangsta" target="_blank">Old Gold</a> was a <a href="https://en.wikipedia.org/wiki/Lorillard" title="lorillardwhenimwithyouimdreaming" target="_blank">cigarette</a> (&#8230;and thatâ€™s a Union Leader smoking tobacco sign behind it, and Clark is running for judge below, and dig the semaphore street light).<br />
-<img src="https://farm4.static.flickr.com/3077/2762027574_fbaa812105_o.gif" alt="OldGold" height="111" width="305" />
+<p>And Chris, in answer to your question (I believe youâ€™re referring to the Roach/MGM <i>Pups is Pups</i>?) <a href="http://www.lorillard.com/index.php?id=30" title="OriginalGangsta" target="_blank">Old Gold</a> was a <a href="http://en.wikipedia.org/wiki/Lorillard" title="lorillardwhenimwithyouimdreaming" target="_blank">cigarette</a> (&#8230;and thatâ€™s a Union Leader smoking tobacco sign behind it, and Clark is running for judge below, and dig the semaphore street light).<br />
+<img src="http://farm4.static.flickr.com/3077/2762027574_fbaa812105_o.gif" alt="OldGold" height="111" width="305" />
 </p>
 <p>
 <br />
-<img src="https://farm4.static.flickr.com/3100/2762133072_0cb809e5d8_o.gif" alt="OGHill" height="295" width="321" />
+<img src="http://farm4.static.flickr.com/3100/2762133072_0cb809e5d8_o.gif" alt="OGHill" height="295" width="321" />
 </p>
 <p>
 Anyone and everyone who hasnâ€™t been down &#8217;round Commercial &amp; Vignes should take in a quiet spell circumnavigating Friedman Bag (now a Devon Self Storageâ€”why that isnâ€™t an HCM is beyond me).  The area bounded by Commercial, Vignes, Center and Jackson was where the giant gas tanks once stood (roughly, there were three, with one east of Center St.), you know, the ones you always see in old images of downtown looming behind City Hall.  The Southern California Gas Company tank that was 375â€™ high was especially impressive.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3275/2762145764_9867ff5fac_o.gif" alt="tanksforeverything" height="317" width="400" />
+<img src="http://farm4.static.flickr.com/3275/2762145764_9867ff5fac_o.gif" alt="tanksforeverything" height="317" width="400" />
 </p>
 <p>
 Anyway, again, thanks for the appreciative comments and I know I speak for all the OBH bloggers when I say we&#8217;ll do our best to further delight in bigger and better ways.  Excelsior!</p>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -44,7 +44,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[  Former saloon owner Joseph Gillek, 57, wasn&#8217;t a big fan of Prohibition, and like many other Angelenos he simply ignored the law. He&#8217;d spent the evening of February 25, 1928, drinking &#8212; most likely in one of the dozens of blind pigs operating in the city during that time. With the bootleg booze eroding his already dubious &#8230; <a href="/dontdrinkanddrive/" class="more-link">Continue reading<span class="screen-reader-text"> "Don&#8217;t Drink and Drive"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" border="0" width="245" src="https://farm4.static.flickr.com/3500/3255089032_70df664f26_o.jpg" alt="dont drink" height="214" /> </p>
+										<content:encoded><![CDATA[<p><img loading="lazy" border="0" width="245" src="http://farm4.static.flickr.com/3500/3255089032_70df664f26_o.jpg" alt="dont drink" height="214" /> </p>
 <p style="margin: 0in 0in 0pt" class="MsoNoSpacing">
 <span style="font-family: 'Times New Roman','serif'">Former saloon owner Joseph Gillek, 57, wasn&#8217;t a big fan of Prohibition, and like many other Angelenos he simply ignored the law. He&#8217;d spent the evening of February 25, 1928, drinking &#8212; most likely in one of the dozens of blind pigs operating in the city during that time. With the bootleg booze eroding his already dubious judgement, he compounded his unlawful behavior by getting behind the wheel of his car to drive himself home.</span>
 </p>
@@ -106,14 +106,14 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Joe Chavez was busted down on Bunker Hill. ”&#x2122;Twas late in the Decembertime (the holiday season, for the Love of Mary), and Joe, 50, hungry, hunkered down in his pad at 221 South Bunker Hill, went and thought, I”&#x2122;m going to go liberate a little something from a nearby market to ease my gnawing gut. &#8230; <a href="/jeanvaljeanofspam/" class="more-link">Continue reading<span class="screen-reader-text"> "Le Miserable"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://farm4.static.flickr.com/3158/3069206376_d84baa2486_o.gif" alt="221SB" height="433" width="492" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://farm4.static.flickr.com/3158/3069206376_d84baa2486_o.gif" alt="221SB" height="433" width="492" /></p>
 <p>Joe Chavez was busted down on Bunker Hill. ”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />Twas late in the Decembertime (the <i>holiday season</i>, for the Love of Mary), and Joe, 50, hungry, hunkered down in his pad at 221 South Bunker Hill, went and thought, <i>I”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m going to go liberate a little something from a nearby market to ease my gnawing gut.  What”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the worst that could happen?</i></p>
 <p>
-<img loading="lazy" src="https://farm4.static.flickr.com/3008/3069206420_5c190a1324_o.gif" alt="hungrymandinner" height="123" width="503" /></p>
+<img loading="lazy" src="http://farm4.static.flickr.com/3008/3069206420_5c190a1324_o.gif" alt="hungrymandinner" height="123" width="503" /></p>
 <p>December 29, 1954.  Joe exits 221, heads down to a small grocery at 108 South Broadway.  Unfortunately for Joe, somebody called in his little lift, a 484, as a 64 (that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a petty theft blossomed into an armed robbery to the KMA367).  So the coppers arrived a-blazing, but store owner Carl Johnson, 28, already had things handled.  Johnson, evidently an ex-footballer, hit Chavez–ham neatly tucked under one arm–with a flying tackle.  </p>
 <p>Joe rang in the New Year at City Jail, after a trip to Georgia Street Receiving; his tackle resulted in a broken nose.</p>
 <p>So what do we know of 221 South Bunker Hill?  That it appeared between the 1888 and 1894 Sanborn maps.  That it changed comparatively little between 1894 and 1955:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3181/3069206480_13182f260a_o.gif" alt="1894sbm" align="left" height="230" width="260" /><img loading="lazy" src="https://farm4.static.flickr.com/3165/3069206548_133ab8e16e_o.gif" alt="1955sbm" align="right" height="228" width="250" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3181/3069206480_13182f260a_o.gif" alt="1894sbm" align="left" height="230" width="260" /><img loading="lazy" src="http://farm4.static.flickr.com/3165/3069206548_133ab8e16e_o.gif" alt="1955sbm" align="right" height="228" width="250" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -123,13 +123,13 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>221 was photographed as having a wall in front in the mid-1950s:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3165/3068370567_c6e36d6e69_o.gif" alt="221wwall" height="417" width="468" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3165/3068370567_c6e36d6e69_o.gif" alt="221wwall" height="417" width="468" /></p>
 <p>Which it lost in favor of this lacework-laden thicket theme:</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3004/3068370423_e99f0fb7b4_o.gif" alt="tangle" align="middle" height="333" width="333" /></p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3199/3071219121_bc0f036fc9_o.gif" alt="GC221" align="left" height="309" width="314" />About which Bunker Hill photographer Arnold Hylen described as “a touch of old New Orleans along the sidewalk.”  He”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s right not only about that wrought iron, which lends a decided Royal Street flourish.  This is a shockingly New Orleans house in general.  Granted, the steep cross gables are more Gothic Revival than archetypal Crescent City, but this style of roof treatment is seen frequently in New Orleans.  The two-tiered porch with full-length windows are a Gulf Coast hallmark.  Doubly remarkable is that this house, with its gingerbread at the upper gallery, choice of board over shingle, and single light in the center gable–evocative of the Creole cottage–was constructed contemporary to New Orleans”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s residential blanketing via the shotgun house (the four-bay arrangement of this home mirroring the double shotgun, though the door placement lends and air of the famous New Orleans centerhall villa).  Granted, it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a little out of place <i>here</i>; those tall windows are intended to dispel mugginess, hardly a chief concern in the realm of Ask the Dust.  Nevertheless, this wasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t a celebratory tribute to quaint olde New Orleans–it was built by and for Victorians.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3004/3068370423_e99f0fb7b4_o.gif" alt="tangle" align="middle" height="333" width="333" /></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3199/3071219121_bc0f036fc9_o.gif" alt="GC221" align="left" height="309" width="314" />About which Bunker Hill photographer Arnold Hylen described as “a touch of old New Orleans along the sidewalk.”  He”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s right not only about that wrought iron, which lends a decided Royal Street flourish.  This is a shockingly New Orleans house in general.  Granted, the steep cross gables are more Gothic Revival than archetypal Crescent City, but this style of roof treatment is seen frequently in New Orleans.  The two-tiered porch with full-length windows are a Gulf Coast hallmark.  Doubly remarkable is that this house, with its gingerbread at the upper gallery, choice of board over shingle, and single light in the center gable–evocative of the Creole cottage–was constructed contemporary to New Orleans”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s residential blanketing via the shotgun house (the four-bay arrangement of this home mirroring the double shotgun, though the door placement lends and air of the famous New Orleans centerhall villa).  Granted, it”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a little out of place <i>here</i>; those tall windows are intended to dispel mugginess, hardly a chief concern in the realm of Ask the Dust.  Nevertheless, this wasn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t a celebratory tribute to quaint olde New Orleans–it was built by and for Victorians.</p>
 <p>Sad to think that as Disney was building his homage to all things bayou down in Anaheim, this little piece of oddball Angelenism was ground up for landfill.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3174/3071877048_5d527f2ab0_o.gif" alt="rotiron" align="right" height="255" width="300" /></p>
-<p><i>Color image by Walker Evans, <a href="https://www.metmuseum.org/works_of_art/collection_database/objectview.aspx?page=51&amp;sort=3&amp;sortdir=asc&amp;keyword=&amp;fp=51&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=190037903&amp;vT=1" title="WalkerLAPhotographer" target="_blank" rel="noopener">shot in October 1962</a> for the </i><i>Life magazine piece “<a href="https://images.google.com/images?&amp;hl=en&amp;safe=off&amp;q=%22doomed+architecture%22+source:life&amp;&amp;sa=N&amp;start=0&amp;ndsp=20" title="July63" target="_blank" rel="noopener">Doomed”¦It Must Be Saved</a>” published July 15, 1963.</i></p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3174/3071877048_5d527f2ab0_o.gif" alt="rotiron" align="right" height="255" width="300" /></p>
+<p><i>Color image by Walker Evans, <a href="http://www.metmuseum.org/works_of_art/collection_database/objectview.aspx?page=51&amp;sort=3&amp;sortdir=asc&amp;keyword=&amp;fp=51&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=190037903&amp;vT=1" title="WalkerLAPhotographer" target="_blank" rel="noopener">shot in October 1962</a> for the </i><i>Life magazine piece “<a href="http://images.google.com/images?&amp;hl=en&amp;safe=off&amp;q=%22doomed+architecture%22+source:life&amp;&amp;sa=N&amp;start=0&amp;ndsp=20" title="July63" target="_blank" rel="noopener">Doomed”¦It Must Be Saved</a>” published July 15, 1963.</i></p>
 <p><i>B/W image courtesy Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles </i></p>
 <p><i>Image at right, </i><i>courtesy Arnold Hylen Collection, California History Section, California State Library </i></p>
 <p>&nbsp;</p>
@@ -158,7 +158,7 @@
 
 					<description><![CDATA[&#160; December 2, 1923 133 South Bunker Hill   Move over Rin-Tin-Tin, there”&#x2122;s a new wonder dog in town, and his name is Pompey.   We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million ”“ and they know how to use them all.  With that &#8230; <a href="/pompeythehero/" class="more-link">Continue reading<span class="screen-reader-text"> "Bow, Wow, WOW!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="middle" width="420" src="https://farm4.static.flickr.com/3145/2925216714_a43a9860a4.jpg" alt="pompey headline" height="102" />
+<img loading="lazy" border="0" align="middle" width="420" src="http://farm4.static.flickr.com/3145/2925216714_a43a9860a4.jpg" alt="pompey headline" height="102" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -179,7 +179,7 @@ December 2, 1923
  <!--break-->
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-<img loading="lazy" border="0" align="left" width="229" src="https://farm4.static.flickr.com/3287/2925216696_eebc532a64.jpg" alt="pompey" height="500" />We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million ”“ and they know how to use them all. <span> </span>With that kind of super hero sniff power, it was no surprise when a German Shepherd named Pompey caught the aroma of gas fumes, desperation, and imminent death in the air. The surprise was that he was galvanized into action.
+<img loading="lazy" border="0" align="left" width="229" src="http://farm4.static.flickr.com/3287/2925216696_eebc532a64.jpg" alt="pompey" height="500" />We humans may be nasally challenged with our measly 5 million scent receptors, but German Shepherds have 225 million ”“ and they know how to use them all. <span> </span>With that kind of super hero sniff power, it was no surprise when a German Shepherd named Pompey caught the aroma of gas fumes, desperation, and imminent death in the air. The surprise was that he was galvanized into action.
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -209,7 +209,7 @@ Police were summoned and Stark was taken to the <st1:place w:st="on"><st1:placen
 &nbsp;
 </p>
 <p style="margin: 0pt" class="MsoNormal">
-Pompey vanished from the pages of the Los Angeles Times after his brief moment in the limelight, but his famed counterpart, Rin-Tin-Tin, was just beginning his film career in 1923.<img loading="lazy" border="0" align="right" width="330" src="https://farm4.static.flickr.com/3069/2924364067_e0750ee01b_o.jpg" alt="rintyradio" height="269" />
+Pompey vanished from the pages of the Los Angeles Times after his brief moment in the limelight, but his famed counterpart, Rin-Tin-Tin, was just beginning his film career in 1923.<img loading="lazy" border="0" align="right" width="330" src="http://farm4.static.flickr.com/3069/2924364067_e0750ee01b_o.jpg" alt="rintyradio" height="269" />
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 &nbsp;
@@ -274,13 +274,13 @@ His career lasted for over a decade and eventually earned him a star on the Holl
 When we last visited the Argyle, it was the a first rate Bunker Hill rooming house, artists' salon, and night spot besieged by troubled management and unpredictable closings.  This week, we turn to the Argyle's tenants, and their various encounters with local law enforcement.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3009/2737210719_e083cb4ee6.jpg" alt="urchins" align="left" height="500" width="384" />At first, the hotel attracted the sort of person who perhaps wished for a bit more intrigue and drama than life at the Argyle provided.  And being artistic types, they were perhaps prone to overactive imaginations.
+<img src="http://farm4.static.flickr.com/3009/2737210719_e083cb4ee6.jpg" alt="urchins" align="left" height="500" width="384" />At first, the hotel attracted the sort of person who perhaps wished for a bit more intrigue and drama than life at the Argyle provided.  And being artistic types, they were perhaps prone to overactive imaginations.
 </p>
 <p>
 On December 22, 1887, police were summoned to the Argyle at 2:30 in the morning, and greeted at the door by a hysterical landlady who claimed that the house was full of burglars, and &#34;one of them is standing in a guest's room with his throat cut!&#34;
 </p>]]></description>
 										<content:encoded><![CDATA[<p>When we last visited the Argyle, it was the a first rate Bunker Hill rooming house, artists&#8217; salon, and night spot besieged by troubled management and unpredictable closings.  This week, we turn to the Argyle&#8217;s tenants, and their various encounters with local law enforcement.</p>
-<p><img loading="lazy" src="https://farm4.static.flickr.com/3009/2737210719_e083cb4ee6.jpg" alt="urchins" align="left" height="500" width="384" />At first, the hotel attracted the sort of person who perhaps wished for a bit more intrigue and drama than life at the Argyle provided.  And being artistic types, they were perhaps prone to overactive imaginations.</p>
+<p><img loading="lazy" src="http://farm4.static.flickr.com/3009/2737210719_e083cb4ee6.jpg" alt="urchins" align="left" height="500" width="384" />At first, the hotel attracted the sort of person who perhaps wished for a bit more intrigue and drama than life at the Argyle provided.  And being artistic types, they were perhaps prone to overactive imaginations.</p>
 <p>On December 22, 1887, police were summoned to the Argyle at 2:30 in the morning, and greeted at the door by a hysterical landlady who claimed that the house was full of burglars, and &quot;one of them is standing in a guest&#8217;s room with his throat cut!&quot;</p>
 <p>A small army of police officer, reporters, and curious tenants rushed down the hall, storming into the room where the fiend had been sighted.  Behind the door, however, they found a startled-looking, 100-pound man mopping up a bloody nose.  And the kicker?  He lived there.</p>
 <p>Another early morning disturbance drew police on September 15, 1892.  When they arrived at the scene, they found another crowd gathered around a door, listening to the anguished moans of a woman.  After some heated debate, they decided to break down the door, and police were about to do just that when a man&#8217;s voice shouted, &quot;Don&#8217;t kick that door open.  She is alright.&quot;</p>
@@ -310,15 +310,15 @@ On December 22, 1887, police were summoned to the Argyle at 2:30 in the morning,
 
 					<description><![CDATA[&#160; Many an Angeleno has heard of the legendary Pacific Electric Railway, or Red Car system which transported passengers to locations well beyond the city limits. Those who have brushed up on their local history are probably familiar with The Los Angeles Railway (LARy), aka the Yellow Cars, whose routes journeyed within city line. However, &#8230; <a href="/secondcablerailway/" class="more-link">Continue reading<span class="screen-reader-text"> "Second Street Cable Railway"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
-<div style="text-align: center"><img loading="lazy" src="https://farm4.static.flickr.com/3263/2666228307_84588f0273.jpg?v=0" height="384" width="500" /></div>
+<div style="text-align: center"><img loading="lazy" src="http://farm4.static.flickr.com/3263/2666228307_84588f0273.jpg?v=0" height="384" width="500" /></div>
 <p>Many an Angeleno has heard of the legendary Pacific Electric Railway, or Red Car system which transported passengers to locations well beyond the city limits. Those who have brushed up on their local history are probably familiar with The Los Angeles Railway (LARy), aka the Yellow Cars, whose routes journeyed within city line. However, most are probably unaware that the City of Angels briefly sported a couple of good old fashioned cable car lines that ran right through Bunker Hill. The first cable line to maneuver the hills of Downtown ran along Second Street, delighted travelers, and lead to the westward expansion of the city. Despite its fantastic success, the Second Street Cable Railway survived for only a short period of time.<br /><!--break--><br />During the real estate boom of the 1880s, the area just west of Downtown was what the newspapers referred to as a “howling wilderness,” largely because the hilly terrain rendered navigation by horse drawn carriage virtually impossible. This slight obstacle did not discourage local land owners who sought to make the area attractive for development. By this time, the cable cars in San Francisco had been successfully operating for over a decade and some enterprising businessman began to consider this mode of transportation as a solution to Mother Nature&#8217;s challenges.</p>
-<div style="text-align: center"><img loading="lazy" src="https://farm4.static.flickr.com/3096/2666228453_82ef04c7b0.jpg?v=0" height="407" width="500" /></div>
+<div style="text-align: center"><img loading="lazy" src="http://farm4.static.flickr.com/3096/2666228453_82ef04c7b0.jpg?v=0" height="407" width="500" /></div>
 <p>Plans for two separate cable lines sprang up at the same time, but the Second Street Cable Railway Company was always a step ahead of the alternate line which would eventually run up Temple Street. Land owners with holdings west of the city provided much of the capital for the Second Street Line, along with business owners on Spring Street near Second, who hoped convenient  transportation would boost retail in the area. Some of the main backers and promoters of the railway company included Edward A. Hall, Henry Witmer, I.W. Lord and John Hollenbeck. Lord, who would later found the city of Lordsburg (now La Verne) broke ground on the project, and the first tracks for the new cable line were laid at the intersection of Second and Hill on the morning of April 27, 1885. Five days later the first advertisements promoting real estate near the proposed line began appearing in the local newspapers.</p>
-<p align="center"><img loading="lazy" src="https://farm4.static.flickr.com/3277/2667050970_c466f79d61.jpg?v=0" height="400" width="500" /> </p>
+<p align="center"><img loading="lazy" src="http://farm4.static.flickr.com/3277/2667050970_c466f79d61.jpg?v=0" height="400" width="500" /> </p>
 <p>Construction on the line continued at breakneck speed, which was no small task considering pieces of hillside were cut and removed at some parts of the line. The Second Street Cable Railroad was completed in the early fall and made its inaugural trip at 4:05pm on October 14, 1885. The line ran approximately 6,770 feet, or a mile and a quarter, up Second Street and through Bunker Hill from Spring to Belmont. A one way trip took between twelve and fourteen minutes and the line was open from 6am to 11pm. At its steepest, the cable cars ran over the hills of Los Angeles at a twenty seven percent grade between Hope Street and Bunker Hill Avenue. The total cost to construct the line was roughly $100,000.</p>
-<div style="text-align: center"><img loading="lazy" src="https://farm4.static.flickr.com/3026/2667050920_3cb887ca84.jpg?v=0" height="322" width="500" /></div>
+<div style="text-align: center"><img loading="lazy" src="http://farm4.static.flickr.com/3026/2667050920_3cb887ca84.jpg?v=0" height="322" width="500" /></div>
 <p>The Second Street Cable Railway was an immediate success and did indeed spark development on the land west of Bunker Hill. Investors originally expected the line to serve around six hundred people a day, but by the end of 1886, the cable cars were carrying more that three times that number. In January 1887, Edward Hall and Henry Witmer, President and Treasurer of the Second Street Cable Railway Company, decided to get out when the getting was good. They sold their company shares to James M. McLaughlin for $130,000 and he became the primary owner of the Second Street Cable Railway.  </p>
-<div style="text-align: center"><img loading="lazy" src="https://farm4.static.flickr.com/3202/2666228533_f08b46af4c.jpg?v=0" height="337" width="500" /></div>
+<div style="text-align: center"><img loading="lazy" src="http://farm4.static.flickr.com/3202/2666228533_f08b46af4c.jpg?v=0" height="337" width="500" /></div>
 <p>McLaughlin had ambitious plans to connect Downtown with the area that would eventually become Hollywood, by connecting the cable railway with a steam line called the Cahuenga Valley Railroad. The plans turned sour when the Cahuenga Valley Railroad was barred from operating within the city limits because of the noise and air pollution. McLaughlin&#8217;s attempts to get the Second Street Line extended soon failed. Add to this the end of the boom times and McLaughlin soon found himself and his company in the red. By the end of 1889, McLaughlin was virtually bankrupt and the line stopped running while legal matters were straightened out. That winter, torrential rains severely damaged portions of the line and by early 1890 McLaughlin had lost the company, and the first cable line of Los Angeles was permanently abandoned.       </p>
 <p><i>Photos courtesy of the Los Angeles Public Library Photo Collection and the USC Digital Archive</i></p>
 <p>&nbsp;</p>
@@ -344,40 +344,40 @@ On December 22, 1887, police were summoned to the Argyle at 2:30 in the morning,
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Many of the Bunker Hill mansions went away without much fanfare, their existence blighted by high rises and retained only in the faint memories of former residents. Others, like the Brousseau Mansion, held on long enough to be captured on canvas by the many artists who descended upon the Hill in its final years. The &#8230; <a href="/brousseau_mansion/" class="more-link">Continue reading<span class="screen-reader-text"> "Brousseau Mansion &#8211; 238 South Bunker Hill Avenue"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://memory.loc.gov/cgi-bin/displayPhoto.pl?path=/pnp/habshaer/ca/ca0200/ca0262/photos&amp;topImages=012019pr.jpg&amp;topLinks=012019pv.jpg,012019pu.tif&amp;title=1.%20%20Historic%20American%20Buildings%20Survey%20Jack%20E.%20Boucher,%20Photographer%20October%201960%20FRONT%20ELEVATION%20%20%20%20%20%3cbr%3eHABS%20CAL,19-LOSAN,23-1&amp;displayProfile=0" title="Brousseau Mansion - Library of Congress" target="_blank" rel="noopener"></p>
+										<content:encoded><![CDATA[<p><a href="http://memory.loc.gov/cgi-bin/displayPhoto.pl?path=/pnp/habshaer/ca/ca0200/ca0262/photos&amp;topImages=012019pr.jpg&amp;topLinks=012019pv.jpg,012019pu.tif&amp;title=1.%20%20Historic%20American%20Buildings%20Survey%20Jack%20E.%20Boucher,%20Photographer%20October%201960%20FRONT%20ELEVATION%20%20%20%20%20%3cbr%3eHABS%20CAL,19-LOSAN,23-1&amp;displayProfile=0" title="Brousseau Mansion - Library of Congress" target="_blank" rel="noopener"></p>
 <div style="text-align: center">
-<img loading="lazy" src="https://memory.loc.gov/pnp/habshaer/ca/ca0200/ca0262/photos/012019pv.jpg" alt="Brousseau Mansion" height="293" hspace="5" vspace="5" width="396" />
+<img loading="lazy" src="http://memory.loc.gov/pnp/habshaer/ca/ca0200/ca0262/photos/012019pv.jpg" alt="Brousseau Mansion" height="293" hspace="5" vspace="5" width="396" />
 </div>
 <p></a></p>
 <p>Many of the Bunker Hill mansions went away without much fanfare, their existence blighted by high rises and retained only in the faint memories of former residents. Others, like the Brousseau Mansion, held on long enough to be captured on canvas by the many artists who descended upon the Hill in its final years. The graceful beauty of the Victorian residence shines not only in paintings and photographs but also in the accomplishments of a couple of its most notable residents.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<a href="https://helios.library.ca.gov/soca/hylen/2001-0756.jpg" title="Brousseau Mansion - California State Library" target="_blank" rel="noopener"><img src="https://helios.library.ca.gov/soca/hylen/2001-0756.jpg" width="400" /></a>
+<a href="http://helios.library.ca.gov/soca/hylen/2001-0756.jpg" title="Brousseau Mansion - California State Library" target="_blank" rel="noopener"><img src="http://helios.library.ca.gov/soca/hylen/2001-0756.jpg" width="400" /></a>
 </div>
 <p>&nbsp;</p>
 <p>Located on South Bunker Hill Avenue, between Second &amp; Third Street, the house was one of the Hill&#8217;s earliest, built around 1878 by Judge Julius Brousseau. While many early residents of the Hill found themselves tangled up in scandals involving <a href="/node/86" title="Crocker Mansion">kidnapping</a>, <a href="/node/111" title="Brunson Mansion">adultery</a> and <a href="/node/98" title="Rose Mansion">suicide</a>, according to the LA Times, “no citizen of Los Angeles had a better reputation for integrity and good citizenship than Mr. Brousseau.” The family, including two sons and two daughters resided at the stately mansion until the death of Mrs. Brousseau, around 1901, followed by the Judge in 1903. The Brousseau boys would go on to try their hands at various vocations and daughter Mabel would become a fixture of the City as a respected music teacher. Kate Brousseau, the eldest of the Judge&#8217;s children would prove to be one of Bunker Hill&#8217;s most extraordinary residents.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm3.static.flickr.com/2324/2488953054_e3de5b247a.jpg?v=0" height="115" width="500" />
+<img loading="lazy" src="http://farm3.static.flickr.com/2324/2488953054_e3de5b247a.jpg?v=0" height="115" width="500" />
 </div>
 <div style="text-align: center">
 </div>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm3.static.flickr.com/2278/2488136381_d16765204a.jpg?v=0" height="100" width="500" />
+<img loading="lazy" src="http://farm3.static.flickr.com/2278/2488136381_d16765204a.jpg?v=0" height="100" width="500" />
 </div>
-<p>Kate Brousseau began her teaching career around the age of 20 and was at one time employed as a French instructor at the State Normal School, located where the Central Library now stands.  She also gave French lessons at the family home for 75 cents per visit. In the mid 1890s she began studies at the University of Paris where she was “the only woman student in a Greek class of sixty members.” Upon her return from France, Kate would frequently translate French literature which was then published in the Los Angeles Times.  She would go on to earn a PhD in psychology, serve with the French Army during WWI and assist the French Army with the rehabilitation of shell shocked soldiers after the war.  Kate publish numerous <a href="https://www.amazon.com/Mongolism-physical-characteristics-mongolian-imbeciles/dp/B0006AKA0E/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1210657935&amp;sr=8-1" title="Kate Brousseau at Amazon" target="_blank" rel="noopener">books</a> with subjects including race and education and became an internationally known psychologist, teaching the subject at Mills College from 1907-1928. Although she was born in Michigan and despite her many travels, Kate Brousseau still called Los Angeles home until her death in 1938.</p>
+<p>Kate Brousseau began her teaching career around the age of 20 and was at one time employed as a French instructor at the State Normal School, located where the Central Library now stands.  She also gave French lessons at the family home for 75 cents per visit. In the mid 1890s she began studies at the University of Paris where she was “the only woman student in a Greek class of sixty members.” Upon her return from France, Kate would frequently translate French literature which was then published in the Los Angeles Times.  She would go on to earn a PhD in psychology, serve with the French Army during WWI and assist the French Army with the rehabilitation of shell shocked soldiers after the war.  Kate publish numerous <a href="http://www.amazon.com/Mongolism-physical-characteristics-mongolian-imbeciles/dp/B0006AKA0E/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1210657935&amp;sr=8-1" title="Kate Brousseau at Amazon" target="_blank" rel="noopener">books</a> with subjects including race and education and became an internationally known psychologist, teaching the subject at Mills College from 1907-1928. Although she was born in Michigan and despite her many travels, Kate Brousseau still called Los Angeles home until her death in 1938.</p>
 <div align="center">
-<a href="https://helios.library.ca.gov/soca/hylen/2001-0757.jpg" title="Brousseau Mansion - California State Library" target="_blank" rel="noopener"><img src="https://helios.library.ca.gov/soca/hylen/2001-0757.jpg" width="300" /></a>
-</div>
-<div align="center">
+<a href="http://helios.library.ca.gov/soca/hylen/2001-0757.jpg" title="Brousseau Mansion - California State Library" target="_blank" rel="noopener"><img src="http://helios.library.ca.gov/soca/hylen/2001-0757.jpg" width="300" /></a>
 </div>
 <div align="center">
-<a href="https://helios.library.ca.gov/soca/hylen/2001-0758.jpg" title="Brousseau Mansion - California State Library" target="_blank" rel="noopener"><img src="https://helios.library.ca.gov/soca/hylen/2001-0758.jpg" width="300" /></a>
+</div>
+<div align="center">
+<a href="http://helios.library.ca.gov/soca/hylen/2001-0758.jpg" title="Brousseau Mansion - California State Library" target="_blank" rel="noopener"><img src="http://helios.library.ca.gov/soca/hylen/2001-0758.jpg" width="300" /></a>
 </div>
 <p>
 Soon after the Brousseau clan vacated 238 S. Bunker Hill, the residence became a boarding house like so many others on the Hill. A one time showpiece of the neighborhood, by 1939 the twenty-one room house was broken up into 13 units. Of the many occupants who came and went during the mansion&#8217;s half century as multi-housing, the most famous was probably “the funny old man with the birds.”</p>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2183/2488952942_2e36d24805.jpg?v=0" alt="Brousseau Mansion" width="300" /><i></i>
+<img src="http://farm3.static.flickr.com/2183/2488952942_2e36d24805.jpg?v=0" alt="Brousseau Mansion" width="300" /><i></i>
 </div>
 <div style="text-align: center">
 <i>From the Los Angeles Public Library Photo Collection</i>
@@ -385,7 +385,7 @@ Soon after the Brousseau clan vacated 238 S. Bunker Hill, the residence became a
 <p></p>
 <p>When the Community Redevelopment Agency began its scourge of Bunker Hill, many artists and photographers descended upon the neighborhood, desperate to “preserve” the buildings before they were gone.  Little did these artists know that a resident of 238 S Bunker Hill had been painting scenes of the neighborhood for years. His name was Marcel Cavalla, and by 1963 he had been a resident of the Brousseau Mansion for twenty three years. A retired pastry chef, Cavalla lived alone with his pet birds and painted to “pass the time,” using the finished products as wallpaper to keep him and the birds company. Before the house was demolished, Cavalla was “discovered” by a fellow artist and his work received a month long showing at a local art gallery. Suffering from cancer, Cavalla was able to live out his days at the Brousseau residence until his death in 1966. Leo Politi would include a portrait called “Marcel” in his 1964 tribute Bunker Hill, Los Angeles : reminiscences of bygone days.</p>
 <div align="center">
-<a href="https://www.weloftyou.com/blog" title="We Loft You" target="_blank" rel="noopener"><img loading="lazy" src="https://weloftyou.com/wp-content/uploads/2008/02/politis-painter-friend-sized.jpg" height="448" width="336" /></a>
+<a href="http://www.weloftyou.com/blog" title="We Loft You" target="_blank" rel="noopener"><img loading="lazy" src="http://weloftyou.com/wp-content/uploads/2008/02/politis-painter-friend-sized.jpg" height="448" width="336" /></a>
 </div>
 <p>
 By 1967, South Bunker Hill Avenue had been wiped off the map and the Brousseau Mansion along with it. </p>
@@ -412,7 +412,7 @@ By 1967, South Bunker Hill Avenue had been wiped off the map and the Brousseau M
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[  124 Bunker Hill Avenue December 6, 1922  &#160; Edna Brown, aka Edna Chaplin, aka Mabel Austin, seemed like such a nice girl. Sure, she”&#x2122;d been busted by Detective Sergeants Bartley and Allen for stealing $100 ($1,271.00 current USD) from O. Johnson”&#x2122;s apartment at 124 South Bunker Hill Avenue, but Edna did the right thing and &#8230; <a href="/badednabrown/" class="more-link">Continue reading<span class="screen-reader-text"> "Bad, Bad Edna Brown"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><o:p> </o:p> <img loading="lazy" border="0" width="262" src="https://farm4.static.flickr.com/3240/2431643724_3abe98ec28_o.jpg" alt="edna brown headline" height="212" /></p>
+										<content:encoded><![CDATA[<p><o:p> </o:p> <img loading="lazy" border="0" width="262" src="http://farm4.static.flickr.com/3240/2431643724_3abe98ec28_o.jpg" alt="edna brown headline" height="212" /></p>
 <p style="margin: 0pt" class="MsoNormal">
 <st1:street w:st="on"><st1:address w:st="on">124 Bunker Hill Avenue</st1:address></st1:street>
 </p>
@@ -470,7 +470,7 @@ Note to Guy Eddy, Esq., Deputy District Attorney Orme, and Judge Hinshaw ”“ 
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Location: 255 South Bunker Hill Avenue Date: August 13, 1933 The newlyweds kept a modest apartment here at the Alta Vista. Oh, it may have been something of a step down in the world for bride Harriet Fencel Easton Allen, 25, who had attended USC and UCLA and studied art for two years in Europe, &#8230; <a href="/mrsallen/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Allen Slain By Ex-Beau"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/2388293092/" title="Picture 1 by richardschave, on Flickr"><img loading="lazy" src="https://farm3.static.flickr.com/2360/2388293092_09e57851d0_o.png" alt="Picture 1" height="285" width="147" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/2388293092/" title="Picture 1 by richardschave, on Flickr"><img loading="lazy" src="http://farm3.static.flickr.com/2360/2388293092_09e57851d0_o.png" alt="Picture 1" height="285" width="147" /></a></p>
 <p>Location: 255 South Bunker Hill Avenue<br />
 Date: August 13, 1933</p>
 <p>The newlyweds kept a modest apartment here at the Alta Vista. Oh, it may have been something of a step down in the world for bride Harriet Fencel Easton Allen, 25, who had attended USC and UCLA and studied art for two years in Europe, and whose father John was former superintendent of the L.A. Athletic Club and manager of the Jonathan Club, but then again, it was convenient to husband Robert Allen&#8217;s cafe at 257 South Olive.</p>

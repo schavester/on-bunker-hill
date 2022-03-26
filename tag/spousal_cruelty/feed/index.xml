@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -47,7 +47,7 @@
 					<description><![CDATA[Location: 330 South Flower Street Date: January 26, 1907 Baby stealing? That, and spousal cruelty, are the charges leveled against labor organizer Edward W. Kent, arrested while in the act of packing to flee Los Angeles. His wife, residing at this address, says she has been confined to her bed for months, and a week &#8230; <a href="/kentcase/" class="more-link">Continue reading<span class="screen-reader-text"> "Mrs. Kent&#8217;s Complaint"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Location: 330 South Flower Street<br />
 Date: January 26, 1907</p>
-<p><img src="https://farm4.static.flickr.com/3292/2514399159_efd38e744f_o.png" /></p>
+<p><img src="http://farm4.static.flickr.com/3292/2514399159_efd38e744f_o.png" /></p>
 <p>Baby stealing? That, and spousal cruelty, are the charges leveled against labor organizer Edward W. Kent, arrested while in the act of packing to flee Los Angeles. His wife, residing at this address, says she has been confined to her bed for months, and a week ago Kent gave their son to a Mrs. F. Borgel, who came to Mrs. Kent&#8217;s bed and tore the babe from her arms. It was at this point that the mother filed charges. She claims that her husband, a member of the Musicians Union and one-time candidate for San Francisco Supervisor, had become unkind to her around the time she learned that his reputation in their former home, Chicago, was less than pristine. He had hit her, pulled her hair and ears, made fiendish faces and screamed that he hoped she would die until she checked into a sanitarium on Hill Street. It was at which point her son was taken. An investigation is being opened, and when Mrs. Kent is well enough to appear in court, charges may be pursued against her husband at her discretion. </p>
 ]]></content:encoded>
 					

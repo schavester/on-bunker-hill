@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	
 	>
 <channel>
@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		By: nathan		</title>
@@ -30,16 +30,16 @@
 		<guid isPermaLink="false">#comment-107</guid>
 
 					<description><![CDATA[&lt;p&gt;
-Looking north across the intersection of Sixth and Fig, 1957.  The &lt;a href=&quot;https://www.you-are-here.com/downtown/jonathan_club.html&quot; title=&quot;JC&quot; target=&quot;_blank&quot;&gt;Jonathan Club&lt;/a&gt; on the left, behind that, the &lt;a href=&quot;https://www.you-are-here.com/los_angeles/manulife.html&quot; title=&quot;carlysgone&quot; target=&quot;_blank&quot;&gt;Carlton&lt;/a&gt;.  The marquis at right, &lt;a href=&quot;https://www.flickr.com/photos/zilf/1269452481/&quot; title=&quot;theGates&quot; target=&quot;_blank&quot;&gt;the&lt;/a&gt; Gates &lt;a href=&quot;https://www.you-are-here.com/los_angeles/mutual_life.html&quot; title=&quot;nottheGates&quot; target=&quot;_blank&quot;&gt;Hotel&lt;/a&gt;.   
+Looking north across the intersection of Sixth and Fig, 1957.  The &lt;a href=&quot;http://www.you-are-here.com/downtown/jonathan_club.html&quot; title=&quot;JC&quot; target=&quot;_blank&quot;&gt;Jonathan Club&lt;/a&gt; on the left, behind that, the &lt;a href=&quot;http://www.you-are-here.com/los_angeles/manulife.html&quot; title=&quot;carlysgone&quot; target=&quot;_blank&quot;&gt;Carlton&lt;/a&gt;.  The marquis at right, &lt;a href=&quot;http://www.flickr.com/photos/zilf/1269452481/&quot; title=&quot;theGates&quot; target=&quot;_blank&quot;&gt;the&lt;/a&gt; Gates &lt;a href=&quot;http://www.you-are-here.com/los_angeles/mutual_life.html&quot; title=&quot;nottheGates&quot; target=&quot;_blank&quot;&gt;Hotel&lt;/a&gt;.   
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3323/3336628512_4e77014384_o.gif&quot; alt=&quot;lookupfig&quot; height=&quot;460&quot; width=&quot;575&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3323/3336628512_4e77014384_o.gif&quot; alt=&quot;lookupfig&quot; height=&quot;460&quot; width=&quot;575&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 But the reason we&#039;re here is &#039;cause of what&#039;s lurking in the background...
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3541/3335792845_f4ace03441_o.gif&quot; alt=&quot;monarchy&quot; height=&quot;351&quot; width=&quot;344&quot; /&gt;
+&lt;img src=&quot;http://farm4.static.flickr.com/3541/3335792845_f4ace03441_o.gif&quot; alt=&quot;monarchy&quot; height=&quot;351&quot; width=&quot;344&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 ...the black &#039;54 Packard coming at us is pretty cool too. 
@@ -52,16 +52,16 @@ But the reason we&#039;re here is &#039;cause of what&#039;s lurking in the back
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
-Looking north across the intersection of Sixth and Fig, 1957.  The <a href="https://www.you-are-here.com/downtown/jonathan_club.html" title="JC" target="_blank">Jonathan Club</a> on the left, behind that, the <a href="https://www.you-are-here.com/los_angeles/manulife.html" title="carlysgone" target="_blank">Carlton</a>.  The marquis at right, <a href="https://www.flickr.com/photos/zilf/1269452481/" title="theGates" target="_blank">the</a> Gates <a href="https://www.you-are-here.com/los_angeles/mutual_life.html" title="nottheGates" target="_blank">Hotel</a>.
+Looking north across the intersection of Sixth and Fig, 1957.  The <a href="http://www.you-are-here.com/downtown/jonathan_club.html" title="JC" target="_blank">Jonathan Club</a> on the left, behind that, the <a href="http://www.you-are-here.com/los_angeles/manulife.html" title="carlysgone" target="_blank">Carlton</a>.  The marquis at right, <a href="http://www.flickr.com/photos/zilf/1269452481/" title="theGates" target="_blank">the</a> Gates <a href="http://www.you-are-here.com/los_angeles/mutual_life.html" title="nottheGates" target="_blank">Hotel</a>.
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3323/3336628512_4e77014384_o.gif" alt="lookupfig" height="460" width="575" />
+<img src="http://farm4.static.flickr.com/3323/3336628512_4e77014384_o.gif" alt="lookupfig" height="460" width="575" />
 </p>
 <p>
 But the reason we&#8217;re here is &#8217;cause of what&#8217;s lurking in the background&#8230;
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3541/3335792845_f4ace03441_o.gif" alt="monarchy" height="351" width="344" />
+<img src="http://farm4.static.flickr.com/3541/3335792845_f4ace03441_o.gif" alt="monarchy" height="351" width="344" />
 </p>
 <p>
 &#8230;the black &#8217;54 Packard coming at us is pretty cool too.
@@ -87,14 +87,14 @@ But the reason we&#8217;re here is &#8217;cause of what&#8217;s lurking in the b
 Bless the United States Postal Service and their ability to bring me treats from eBay.  So that I may share one of those with you, the greater congregation of those interested in yet another image of the Monarch.  (Jeeps, maybe someday there may even be enough of y&#039;all to form a minyan.)  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;https://farm4.static.flickr.com/3405/3202071140_3220bcfb17_o.gif&quot; alt=&quot;monarchbook&quot; height=&quot;674&quot; width=&quot;234&quot; /&gt; 
+&lt;img src=&quot;http://farm4.static.flickr.com/3405/3202071140_3220bcfb17_o.gif&quot; alt=&quot;monarchbook&quot; height=&quot;674&quot; width=&quot;234&quot; /&gt; 
 &lt;/p&gt;
 ]]></description>
 			<content:encoded><![CDATA[<p>
 Bless the United States Postal Service and their ability to bring me treats from eBay.  So that I may share one of those with you, the greater congregation of those interested in yet another image of the Monarch.  (Jeeps, maybe someday there may even be enough of y&#8217;all to form a minyan.)
 </p>
 <p>
-<img src="https://farm4.static.flickr.com/3405/3202071140_3220bcfb17_o.gif" alt="monarchbook" height="674" width="234" /></p>
+<img src="http://farm4.static.flickr.com/3405/3202071140_3220bcfb17_o.gif" alt="monarchbook" height="674" width="234" /></p>
 ]]></content:encoded>
 		
 			</item>

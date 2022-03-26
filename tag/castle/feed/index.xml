@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -46,43 +46,43 @@
 
 					<description><![CDATA[Bunker Hill Avenue was probably the most picturesque street in the neighborhood of the same name. The avenue was much more narrow than the other streets and was lined with some of the most impressive mansions on the Hill. Compared to most of its neighbors, the house that stood at 339 South Bunker Hill was &#8230; <a href="/salt_box/" class="more-link">Continue reading<span class="screen-reader-text"> "The Salt Box &#8211; 339 South Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3242/2877300631_2c4e6ea062.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3242/2877300631_2c4e6ea062.jpg?v=0" width="400" />
 </div>
 <p>Bunker Hill Avenue was probably the most picturesque street in the neighborhood of the same name. The avenue was much more narrow than the other streets and was lined with some of the most impressive mansions on the Hill. Compared to most of its neighbors, the house that stood at 339 South Bunker Hill was farily modest and came to be affectionately known as the Salt Box. Despite being considerably less grand than the other Victorian beauties on the street, the Salt Box was saved from the wrecking ball and moved to a new location to stand as a tangible monument of the rapidly vanishing community. Unfortunately, the charming structure that stood for eighty years on its original location, only lasted a few months at its new home.</p>
 <p><!--break--></p>
-<p><img src="https://farm4.static.flickr.com/3055/2877299907_c9f4e11f69.jpg?v=0" width="300" /> <img src="https://farm4.static.flickr.com/3079/2877300419_0fb84966f8.jpg?v=0" width="300" /></p>
+<p><img src="http://farm4.static.flickr.com/3055/2877299907_c9f4e11f69.jpg?v=0" width="300" /> <img src="http://farm4.static.flickr.com/3079/2877300419_0fb84966f8.jpg?v=0" width="300" /></p>
 <div align="center">
 <i>1888 &amp; 1906 Sanborn Maps showing construction of homes, and finished products</i>
 </div>
 <p>
 The Salt Box was built on Lot 14, Block L of the Mott Tract, which was two doors down from a grand mansion that came to be known as the <a href="/castle">Castle.</a> The 1888 Sanborn Fire Insurance Maps shows the two buildings as being constructed, as well as the residence between them. Since Rueben M. Baker owned the lots, he was probably responsible for the construction of all three houses. Baker resided at the <a href="/castle">Castle</a> until 1894 and possibly rented out the Salt Box until selling it to Ada Frances Weyse and her husband Rudolph in 1892.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3080/2877300571_60072dff4c.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3080/2877300571_60072dff4c.jpg?v=0" width="400" />
 </div>
 <p>
 The Weyses also rented out the Salt Box, which appeared to have been converted into a muti-resident boarding house as early as 1891,with rooms constantly being advertised in the classifieds. Joseph L. Murphey and his wife, Augusta, purchased the home in 1902, but it is unclear if they lived in the house or merely took over landlord duties. </p>
 <div style="text-align: center">
-<img loading="lazy" src="https://farm4.static.flickr.com/3254/2878134596_c284865eff.jpg?v=0" height="400" width="327" />
+<img loading="lazy" src="http://farm4.static.flickr.com/3254/2878134596_c284865eff.jpg?v=0" height="400" width="327" />
 </div>
 <p>
 In 1900, the house at 330 S Bunker Hill was home to two households. By 1910, the Salt Box had been divided up into seven separate units which housed families as well as single tenants. In 1920 there were ten units and by 1939 the house had been further divided into thirteen separate residences. Those who called the Salt Box their home came from all walks of life and included painters, nurses, waiters, and of course pensioners who could afford rents that were as little as $9.75 per month.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3105/2878134678_e3b7c6c2ce.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3105/2878134678_e3b7c6c2ce.jpg?v=0" width="400" />
 </div>
 <p>
 Compared to the shenanigans taking place at other boarding houses on Bunker Hill, the Salt Box had a rather serene existence. With the exception of resident Annie Prendergast, who was hit by a car at the corner of 4th and Grand and killed, the residents of the Salt Box lived quiet lives, until the Community Redevelopment Agency (CRA) came knocking.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3196/2877300597_672589f4b3.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3196/2877300597_672589f4b3.jpg?v=0" width="400" />
 </div>
 <p>
 By 1968, all of the once proud Victorians of Bunker Hill Avenue had been demolished, except for the <a href="/castle">Castle</a> and the Salt Box. The two structures that had been constructed at the same time had been spared.  Once the CRA began pushing forward with their grand redevelopment plan in the mid-1950s, the writing was on the wall for the mansions in the neighborhood, and in an attempt to save a couple of the structures, the Salt Box was declared Historic Cultural Monument #5 in October in August 1962. Designation was soon bestowed upon the <a href="/castle">Castle</a> which became HCM #27 in May 1964. The rest of the decade was spent trying to figure out a way to spare the two structures from the wrecking ball.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3078/2877300499_a2eb9d8649.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3078/2877300499_a2eb9d8649.jpg?v=0" width="400" />
 </div>
 <p>
 At the end of 1968, the decision was finally reached to move the <a href="/castle">Castle</a> and Salt Box to Highland Park in an area called Heritage Square. The pair of structures were relocated to their new home in March of 1969 and awaited restoration. These grand plans for the faded beauties were never realized because in October of 1969, vandals torched both houses and eighty years of history were wiped out in a matter of minutes.</p>
 <div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3091/2880772719_a3ac505c6d.jpg?v=0" width="400" />
+<img src="http://farm4.static.flickr.com/3091/2880772719_a3ac505c6d.jpg?v=0" width="400" />
 </div>
 <p>
 <i>Photos courtesy of the Los Angeles Public Library Photo Collection.</i></p>
@@ -110,32 +110,32 @@ At the end of 1968, the decision was finally reached to move the <a href="/castl
 
 					<description><![CDATA[The most haunting image of old Bunker Hill&#8217;s final days depicts a fenced off Victorian mansion awaiting its doom with “progress” looming in the background in the form of the Downtown&#8217;s first skyscraper, the Union Bank Building. The residence, affectionately known for years as “the Castle” and located at 325 S. Bunker Hill Avenue, was &#8230; <a href="/castle/" class="more-link">Continue reading<span class="screen-reader-text"> "The Castle &#8211; 325 S. Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<div style="text-align: center">
-<img src="https://farm4.static.flickr.com/3257/2360238918_f4f46d5acc.jpg?v=0" alt="Photo Courtesy of the Los Angeles Public Library Photo Collection" hspace="5" vspace="5" width="400" />
+<img src="http://farm4.static.flickr.com/3257/2360238918_f4f46d5acc.jpg?v=0" alt="Photo Courtesy of the Los Angeles Public Library Photo Collection" hspace="5" vspace="5" width="400" />
 </div>
 <p>The most haunting image of old Bunker Hill&#8217;s final days depicts a fenced off Victorian mansion awaiting its doom with “progress” looming in the background in the form of the Downtown&#8217;s first skyscraper, the Union Bank Building. The residence, affectionately known for years as “the Castle” and located at 325 S. Bunker Hill Avenue, was one of two residences on the Hill to escape the wrecking ball, only to meet an even more tragic end.<br />
 </p>
 <p>Located on Lot 16, Block L of the Mott Tract, early owners of the property were tee-totaling Los Angeles pioneer Virginia Davis and her husband John W., who sold the land for $450 to G.D. Witherell in March of 1882.  It has long been believed that the Castle was built around this time, but an 1888 Sanborn Fire Insurance Map reveals the structure as being constructed. In 1887 the property changed hands again, so it probably was capitalist Reuben M. Baker who built the large Victorian structure that would be a mainstay on Bunker Hill for over 70 years.</p>
-<p><img src="https://farm4.static.flickr.com/3262/2360379900_71abe6405b.jpg?v=0" width="300" /><img src="https://farm3.static.flickr.com/2353/2359544361_99e5ec078b.jpg?v=0" width="300" /></p>
+<p><img src="http://farm4.static.flickr.com/3262/2360379900_71abe6405b.jpg?v=0" width="300" /><img src="http://farm3.static.flickr.com/2353/2359544361_99e5ec078b.jpg?v=0" width="300" /></p>
 <p>Designed in the Queen Anne style, the residence had 20 rooms, both a marble and a tile fireplace, and a three story staircase winding up the center of the house. Two of the mansion&#8217;s most recognizable features were the stained-glass front door and an overhang on the north side for carriages to pass through to the rear of the property. The curved Mansard roof on the tower and the triangular crown of a front balcony were removed after sustaining damage in the 1933 Long Beach earthquake. The original address of the home was actually 225 S. Bunker Hill Avenue until an ordinance, passed in December 1889, changed street numbering throughout the City, much to the irritation of many an Angeleno.</p>
 <p>In March of 1894, grading contractor Daniel F. Donegan purchased the property for $10,500 and moved in with his wife Helen and four children. Though the family lived there for less than ten years, the name Donegan became the one most associated with the house and it has long been believed that the clan were the ones who nicknamed the mansion “the Castle.” A piece of neighborhood lore involved Donegan attempting to clear a nearby rat infested property by offering local children 25 cents for each cat brought to him, to be used as four footed exterminators. Residents were soon irked when their feline pets began to disappear.  By 1902, the Donegans had moved, and new owner Colton Russell soon converted the mansion into a boarding house, a role the Castle would play for the next six decades.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2364/2359403983_2f0f0367d1_m.jpg" alt="The Castle in Better Days" width="300" />
+<img src="http://farm3.static.flickr.com/2364/2359403983_2f0f0367d1_m.jpg" alt="The Castle in Better Days" width="300" />
 </div>
 <p>During its 60-plus year tenure as a multi-unit residence, the Castle would play host to all walks of life of  the City of Angeles. Salesmen, doctors, waiters, elevator operators, miners, firemen, tailors, printers, hotel food checkers (well maybe just one of those), and many others called the Castle home at some point in their lives. When the WPA conducted a census of the area in 1939, 325 S. Bunker Hill Avenue was comprised of fifteen separate units, including a small guest house, built in 1927. The landlord&#8217;s family resided in  four rooms while the rest of the tenants occupied single rooms and shared six toilets. The majority of the occupants were single, white and over 65 years of age. Rent ranged from $10 to $15 a month and occupancy at the Castle was anywhere from six months to eight years. </p>
 <p>What the 1939 census failed to mention, however, was the Castle&#8217;s resident ghost.</p>
 <p>&nbsp;</p>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2165/2359561405_a656eda74a.jpg?v=0" width="300" />
+<img src="http://farm3.static.flickr.com/2165/2359561405_a656eda74a.jpg?v=0" width="300" />
 </div>
 <p>The spook who haunted the Castle could possibly have been a former resident who met their ultimate doom in the mansion. In 1914 Hazel Harding, a 28 year old former school teacher with a history of mental problems, lit herself on fire and jumped out a second story window. She survived the fall, but succumbed to her burns. In December 1928, 66 year Charles Merrifeld shot himself to death with a revolver in one of the rooms. Merrifeld, who committed suicide to escape the effects of poor health, had been the Castle&#8217;s landlord with his wife Bertha since 1919. The Widow Merrifeld would continue to oversee, what she advertised as, the Castle Rooms for an additional eight years following her husband&#8217;s death. According to residents interviewed for a 1965 Herald Examiner piece, for years the ghost contented himself with one type of action; “Everytime one of the sculptured wooden decorations falls off the wall, Mr. Spook catches it before it can shatter on the ground and deposits it neatly and safely on the front porch. So the crash doesn&#8217;t wake up the tenants.” Perhaps Mr. Merrifeld wasn&#8217;t quite ready to give up his duties as landlord.</p>
 <p>&nbsp;</p>
 <div style="text-align: center" align="center">
-<img src="https://farm3.static.flickr.com/2315/2359404089_bdd05f1e06_m.jpg" alt="The Castle &amp; Salt Box Prepare to Move" width="300" />
+<img src="http://farm3.static.flickr.com/2315/2359404089_bdd05f1e06_m.jpg" alt="The Castle &amp; Salt Box Prepare to Move" width="300" />
 </div>
 <p>In 1955, the Community Redevelopment Agency (CRA) announced its plans to overhaul Bunker Hill, and by 1968 the only residences of the bygone era that remained were the Castle and the Salt Box, located at 339 S. Bunker Hill. Both structures were set to be demolished on October 1st of that year, but were saved in the eleventh hour when the Recreation and Parks Commission voted to let the homes  reside on city owned land at Homer and Ave 43 in Highland Park. Additionally, the Department of Public Works agreed to move the structures to their new home which would become known as Heritage Square. For the Cultural Heritage Commission, the decision came after a six year battle to save the structures. Once moved, the CHC would then face the task of raising enough money to restore the age-worn buildings.</p>
 <div style="text-align: center">
-<img src="https://farm3.static.flickr.com/2290/2359417215_95ea02f2f1_m.jpg" alt="L.A. Times Headline" width="300" />
+<img src="http://farm3.static.flickr.com/2290/2359417215_95ea02f2f1_m.jpg" alt="L.A. Times Headline" width="300" />
 </div>
 <p>
 The Castle and Salt Box were relocated to their new home in March 1969 using $33,000 appropriated by the City Council and $10,000 from the CRA. Almost immediately the structures were invaded by vandals. On October 9, 1969 both houses were set on fire. Within minutes, the lone survivors of Bunker Hill&#8217;s Victorian era were gone forever.</p>

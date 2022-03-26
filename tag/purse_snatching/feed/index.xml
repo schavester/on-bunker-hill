@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -43,11 +43,11 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[  August 6, 1889 Mrs. C.W. Strong, described by the Los Angeles Times as an elderly lady, was walking from her home at 340 South Hill Street to view a cottage near Fort Street (now Broadway) and Bunker Hill Avenue when she was accosted by two men.  It was between 2 and 3 o”&#x2122;clock in &#8230; <a href="/pursepilfer/" class="more-link">Continue reading<span class="screen-reader-text"> "Plucky Dame Pursues Purse Pilferers"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span style="font-size: 11pt; font-family: Arial"> <img loading="lazy" border="0" width="258" src="https://farm3.static.flickr.com/2395/2377069435_8c36c4b6ec_o.jpg" alt="purse pilfer" height="184" /></span></p>
+										<content:encoded><![CDATA[<p><span style="font-size: 11pt; font-family: Arial"> <img loading="lazy" border="0" width="258" src="http://farm3.static.flickr.com/2395/2377069435_8c36c4b6ec_o.jpg" alt="purse pilfer" height="184" /></span></p>
 <p><span style="font-size: 11pt; font-family: Arial">August 6, 1889</span> <span style="font-size: 11pt; font-family: Arial"></p>
 <p></span><span style="font-size: 11pt; font-family: Arial">Mrs. C.W. Strong, described by the Los Angeles Times as an elderly lady, was walking from her home at 340 South Hill Street to view a cottage near Fort Street (now Broadway) and Bunker Hill Avenue when she was accosted by two men.<span>  </span>It was between 2 and 3 o”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />clock in the afternoon when a rough looking citizen of 30 or 35 and his teenaged companion passed Mrs. Strong. They walked a few steps ahead of the woman and then pretended that they had lost their way, one of them remarking that they would have to go down another street. They turned back and again passed Mrs. Strong. <span> </span>Once they were behind her one of the men grabbed her handbag and attempted to wrench it from her grasp. The aptly named Mrs. Strong was having none of it, and held on to her purse like grim death ”“ calling at the top of her voice for the police. <span></span>Unwilling to be denied their prize, the men wouldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t let go of the bag and finally tore it from her hands. Then they hightailed it south on <st1:street w:st="on"><st1:address w:st="on">Bunker Hill Avenue</st1:address></st1:street>.</span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"></span><span style="font-size: 11pt; font-family: Arial"></span><span style="font-size: 11pt; font-family: Arial"></span><span style="font-size: 11pt; font-family: Arial"></p>
 <p>Mrs. Strong may have been elderly, but she was a plucky dame, and she gave chase yelling “stop thief”! Apparently there were no men in the neighborhood at that time of the day, but a young girl heard the cries of help and she joined in the pursuit. The two women stayed on the heels of the miscreants down past the Normal School building (now the site of the Central Library), and into <st1:place w:st="on"><st1:placename w:st="on">Sixth</st1:placename> <st1:placename w:st="on">Street</st1:placename> <st1:placetype w:st="on">Park</st1:placetype></st1:place> (renamed <st1:street w:st="on"><st1:address w:st="on">Pershing Square</st1:address></st1:street>).<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><br />
-<img loading="lazy" border="0" width="500" src="https://farm4.static.flickr.com/3268/2381149544_a47b3325a9.jpg" alt="park" height="398" /><br />
+<img loading="lazy" border="0" width="500" src="http://farm4.static.flickr.com/3268/2381149544_a47b3325a9.jpg" alt="park" height="398" /><br />
 The thieves were sprinting out of the south end of the park just as Mrs. Strong got to the north side. She then spotted the park policeman, Officer Glidden. <span> </span>Breathlessly, she began to relate the story of the purse snatching when a young man named Munn, who had seen the men dashing through park, came up to find out what was going on. As soon as he heard Mrs. Strong”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s story, Munn volunteered to go with the officer after the men saying that he thought they could be captured. Instead of giving chase, Glidden informed Mrs. Strong that he really couldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t do a thing to help her unless she came to the station and swore out a complaint! Meanwhile the two daylight bandits had vanished into the city. <o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"></p>
 <p>Mrs. Strong went immediately to the police station to swear out a complaint. Chief Glass heard Mrs. Strong”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s statement and was annoyed by Glidden”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lack of action.<span>  </span>He dispatched Officers Sheets, Bowler, Bosqui and Loomis to hunt the thieves, but the crooks had a significant head start. The officers spent hours searching the neighborhood, but returned to the station empty handed.<o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p> </o:p></span><span style="font-size: 11pt; font-family: Arial"><o:p></o:p></span><span style="font-size: 11pt; font-family: Arial"></p>
 <p>Indignant over Officer Glidden”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s behavior, Mrs. Strong stopped in at the LA Times office, where she gave an account of the crime and related how she”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d been treated by the officer. She told reporters that if Glidden had done his duty she wouldn”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t have lost her handbag and the ten dollar gold piece it contained. Chief Glass said that the case would be thoroughly investigated.<o:p></o:p></span></p>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -45,7 +45,7 @@
 
 					<description><![CDATA[  Bunker Hill Avenue and Fourth Street February 26, 1889  &#160; When thirteen year old Lizzie Fryer failed to return to her home on Bunker Hill Avenue for supper, her parents began to fret. As the evening wore on, they became so concerned that they decided to search for her.  &#160; At first they thought &#8230; <a href="/scandalonbunkerhillave/" class="more-link">Continue reading<span class="screen-reader-text"> "Scandal on Bunker Hill Avenue"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<st1:street w:st="on"><st1:address w:st="on"> <img loading="lazy" border="0" width="265" src="https://farm3.static.flickr.com/2283/2431643728_0880b7c1ae_o.jpg" alt="scandal headline" height="184" /></st1:address></st1:street>
+<st1:street w:st="on"><st1:address w:st="on"> <img loading="lazy" border="0" width="265" src="http://farm3.static.flickr.com/2283/2431643728_0880b7c1ae_o.jpg" alt="scandal headline" height="184" /></st1:address></st1:street>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <st1:street w:st="on"><st1:address w:st="on">Bunker Hill Avenue</st1:address></st1:street> and <st1:street w:st="on"><st1:address w:st="on">Fourth Street</st1:address></st1:street>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/02/cropped-Bunker-Hill-Leo-Politi-sketches-castle-32x32.jpg</url>
@@ -47,7 +47,7 @@
 
 					<description><![CDATA[Lincoln Hotel January 1903 Based upon his Theory of Universal Gravitation, Sir Issac Newton conducted a “thought experiment” that he dubbed Newton”&#x2122;s Cannonball.  In his experiment, Newton demonstrated that in most cases what goes up, must come down &#8211; unless the missile is traveling fast enough to either leave Earth entirely and head for deep &#8230; <a href="/whatgoesup/" class="more-link">Continue reading<span class="screen-reader-text"> "What Goes Up&#8230;"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="margin: 0pt" class="MsoNormal">
-<span style="font-size: 10pt; font-family: Arial"><img loading="lazy" border="0" width="275" src="https://farm4.static.flickr.com/3045/2551517440_6dd5c09e6d_o.jpg" alt="jones headline" height="354" /></span>
+<span style="font-size: 10pt; font-family: Arial"><img loading="lazy" border="0" width="275" src="http://farm4.static.flickr.com/3045/2551517440_6dd5c09e6d_o.jpg" alt="jones headline" height="354" /></span>
 </p>
 <p style="margin: 0pt" class="MsoNormal">
 <span style="font-size: 10pt; font-family: Arial">Lincoln Hotel</span>
@@ -65,7 +65,7 @@
 <p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">The young men may have been drinking, or perhaps they were just too dumb to comprehend the consequences of blindly firing weapons above their heads into the pitch black sky. The initial burst of gunfire apparently did no harm, but the second round from Lauren Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s gun found its trajectory impeded, and any dreams J.F. Jones may have had for the future died with him when a stray bullet lodged in his brain.</span></p>
 <p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">Moments after the shooting, Schoonover came running out of the hotel to inform the young men that their carelessness had resulted in a death. Todd stayed put, but cohorts Hanna and <st1:place w:st="on"><st1:city w:st="on">Burton</st1:city></st1:place> slunk down <st1:street w:st="on"><st1:address w:st="on">Second Street</st1:address></st1:street> toward Broadway, emptying their guns of ammunition as they went. Hanna may as well have left a trail of breadcrumbs to the door of his workplace, the Sunset Telephone Company, because that”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s where the last of the discarded bullets was found. Detectives Flammer, Quinn, and Churchill quickly located Hanna, who soon confessed to the shooting. He was accused of involuntary manslaughter, and his bail was set at $2000 [$</span><span style="font-size: 10pt; font-family: Arial" lang="EN">47,981.55 USD 2008]</span><span style="font-size: 10pt; font-family: Arial">.</span></p>
 <p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">The cops did some digging into Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s life and uncovered a few unsavory details about him, which were then reported by the Los Angeles Times; “Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s case is not strengthened any, nor public sympathy increased to any great extent, by the discovery of the police that Hanna had recently deserted his wife and baby at Santa Ana, and was living at a hotel in this city with another woman”.</span></p>
-<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial"><img loading="lazy" border="0" align="left" width="260" src="https://farm4.static.flickr.com/3016/2550695951_efb451bb27_o.jpg" alt="Hanna acquitted" height="235" />Fortunately for the accused, he was “”¦something of a cousin to the renowned Senator Marcus”. The esteemed senator from <st1:place w:st="on"><st1:state w:st="on">Ohio</st1:state></st1:place> provided money for Lauren”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s defense fund. Hanna was represented at trial by Charles S. McKelvey, Esq., and the firm of Davis &amp; Rush.<span>  </span>Experts hired by the defense testified that a bullet fragment removed from Jones”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> brain at autopsy could have come from a .22 caliber pistol. Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s gun was a .32 caliber. </span></p>
+<p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial"><img loading="lazy" border="0" align="left" width="260" src="http://farm4.static.flickr.com/3016/2550695951_efb451bb27_o.jpg" alt="Hanna acquitted" height="235" />Fortunately for the accused, he was “”¦something of a cousin to the renowned Senator Marcus”. The esteemed senator from <st1:place w:st="on"><st1:state w:st="on">Ohio</st1:state></st1:place> provided money for Lauren”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s defense fund. Hanna was represented at trial by Charles S. McKelvey, Esq., and the firm of Davis &amp; Rush.<span>  </span>Experts hired by the defense testified that a bullet fragment removed from Jones”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> brain at autopsy could have come from a .22 caliber pistol. Hanna”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s gun was a .32 caliber. </span></p>
 <p><span style="font-size: 10pt; font-family: Arial">Were the Senator”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s money and power merely coincidental in winning an acquittal for Lauren? We”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll never know. In any case, Judge Smith felt that there was enough reasonable doubt to instruct the jury to acquit Lauren Hanna.</span></p>
 <p><span style="font-size: 10pt; font-family: Arial"></span><span style="font-size: 10pt; font-family: Arial">J.F. Jones would be buried in his hometown of <st1:place w:st="on"><st1:city w:st="on">Greenville</st1:city>, <st1:state w:st="on">Texas</st1:state></st1:place>.<o:p></o:p></span></p>
 <p>&nbsp;</p>
